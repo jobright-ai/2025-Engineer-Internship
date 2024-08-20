@@ -44,8 +44,7 @@ Only jobs posted in the last <span style="color: red; font-weight: bold; font-si
 <br>
 For a complete list, see the full spreadsheet below:
 </h4>
-<a href="https://intern-list.com/?selectedKey={selectKey}&utm_source=&utm_campaign=Engineering and Development">
-<a href="https://intern-list.com/?selectedKey=🛠%EF%B8%8F%20Engineering%20and%20Development&utm_source=&utm_campaign={utm_campaign_str}">
+<a href="https://intern-list.com/?selectedKey=🛠%EF%B8%8F%20Engineering%20and%20Development&utm_source=&utm_campaign=Engineering and Development">
     <img src="./static/img/airtable.png" alt="excel_icon", style="width: 40%; height: 40%;">
 </a>
 </div>
@@ -1512,6 +1511,4 @@ For a complete list, see the full spreadsheet below:
 | **[Flatiron Construction](http://www.flatironcorp.com)** | **[Field Engineer Intern](https://jobright.ai/jobs/info/66bbac5fcedd1778150f8fc2?utm_campaign=1048&utm_source=git)** | Alexandria, VA | On Site | Aug 13 |
 | **[PayPal](https://www.paypal.com/home)** | **[Disaster Recovery Project Mgnt Intern](https://jobright.ai/jobs/info/66bbaaf0ab8015ba1ee27d7d?utm_campaign=1048&utm_source=git)** | Austin, TX | Hybrid | Aug 13 |
 | **[M.C. Dean, Inc.](http://mcdean.com)** | **[Engineering Internship Program (VDC - Tyson's, VA)](https://jobright.ai/jobs/info/66bba8b21b3b8a137c42ff34?utm_campaign=1048&utm_source=git)** | Tysons Corner, VA | On Site | Aug 13 |
-| **[Thornton Tomasetti](http://www.thorntontomasetti.com)** | **[Engineer Intern (Summer 2025) - Forensics](https://jobright.ai/jobs/info/66bba8b21b3b8a137c430030?utm_campaign=1048&utm_source=git)** | Houston, TX | Hybrid | Aug 13 |
-| ↳ | **[Engineer Intern (Summer 2025) - Structural](https://jobright.ai/jobs/info/66bd389e2d89931d24c4fb1a?utm_campaign=1048&utm_source=git)** | Washington, DC | Hybrid | Aug 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
