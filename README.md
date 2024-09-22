@@ -57,16 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Refonte Learning](https://refontelearning.com)** | **[Data Science & AI Training & Internship](https://jobright.ai/jobs/info/66ef8aeb71509bdfd8ef0c83?utm_campaign=1048&utm_source=git)** | United States | Hybrid | Sep 21 |
+| **[National Congress of American Indians](http://www.ncai.org)** | **[Intern for the Senior Research Associate](https://jobright.ai/jobs/info/66ef7995b8dba887be1c1b23?utm_campaign=1048&utm_source=git)** | Washington, DC | On Site | Sep 21 |
+| **[Actalent](https://www.actalentservices.com)** | **[Entry Level Manufacturing Engineer](https://jobright.ai/jobs/info/66ef801286dcff5e5a52633a?utm_campaign=1048&utm_source=git)** | Troy, OH | On Site | Sep 21 |
+| **[Northrop Grumman Corporation](https://www.northropgrumman.com/)** | **[Intern Test & Evaluation](https://jobright.ai/jobs/info/66ef7c381e4397c86502f1b8?utm_campaign=1048&utm_source=git)** | Melbourne, FL | On Site | Sep 21 |
+| **[Lumentum](https://www.lumentum.com/en)** | **[Optical Scientist Intern](https://jobright.ai/jobs/info/66ef63e3430c9b77eff86f2f?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Sep 21 |
 | **[Watlow](http://www.watlow.com)** | **[Engineering Co-op, New Product Development](https://jobright.ai/jobs/info/66ef5e4094f2ad9877a28994?utm_campaign=1048&utm_source=git)** | St Louis, MO | On Site | Sep 21 |
+| ↳ | **[Computational Engineering Co-op](https://jobright.ai/jobs/info/66ef5e4094f2ad9877a28992?utm_campaign=1048&utm_source=git)** | St Louis, MO | On Site | Sep 21 |
 | ↳ | **[Manufacturing Engineering Co-op](https://jobright.ai/jobs/info/66ef5e4094f2ad9877a289a1?utm_campaign=1048&utm_source=git)** | Hannibal, MO | On Site | Sep 21 |
 | ↳ | **[Engineering Co-op, New Product Development](https://jobright.ai/jobs/info/66ef5e4094f2ad9877a2898b?utm_campaign=1048&utm_source=git)** | Hannibal, MO | On Site | Sep 21 |
 | ↳ | **[Manufacturing Engineering Co-op](https://jobright.ai/jobs/info/66ef5e4094f2ad9877a28998?utm_campaign=1048&utm_source=git)** | St Louis, MO | On Site | Sep 21 |
-| ↳ | **[Computational Engineering Co-op](https://jobright.ai/jobs/info/66ef5e4094f2ad9877a28992?utm_campaign=1048&utm_source=git)** | St Louis, MO | On Site | Sep 21 |
 | ↳ | **[2025 Technical Engineering Rotational Program - Engineer I](https://jobright.ai/jobs/info/66ef5e4094f2ad9877a2898c?utm_campaign=1048&utm_source=git)** | Hannibal, MO | On Site | Sep 21 |
 | **[Refonte Learning](https://refontelearning.com)** | **[AI & Data Engineering Training & Internship](https://jobright.ai/jobs/info/66ef53e3d546c7e599254425?utm_campaign=1048&utm_source=git)** | United States | Hybrid | Sep 21 |
+| **[GlobalFoundries](https://ritahazan.id/job/?Kw=spg188)** | **[Technology Development Process Integration Intern](https://jobright.ai/jobs/info/66db4c26d529bc90ff3a2214?utm_campaign=1048&utm_source=git)** | Essex Junction, VT | On Site | Sep 21 |
 | **[Survitec](http://survitecgroup.com/)** | **[Apprentice Engineer](https://jobright.ai/jobs/info/66ef616aa761df66fb6a5eeb?utm_campaign=1048&utm_source=git)** | Sharon Center, OH | On Site | Sep 21 |
 | **[Microsoft](https://www.microsoft.com)** | **[Security Research Internship Opportunities](https://jobright.ai/jobs/info/66ef2f6710e843caa38becb4?utm_campaign=1048&utm_source=git)** | United States | Remote | Sep 21 |
-| **[Greif](http://greif.com)** | **[Summer 2025 Engineering Intern (Manufacturing)](https://jobright.ai/jobs/info/66ef35859adcbe5ddc7c7f78?utm_campaign=1048&utm_source=git)** | Lockport, IL | On Site | Sep 21 |
 | **[Carrier](https://www.corporate.carrier.com)** | **[Air Management Systems Intern](https://jobright.ai/jobs/info/66ec61c3666d1fd6a4526b78?utm_campaign=1048&utm_source=git)** | East Syracuse, NY | On Site | Sep 21 |
 | **[FMC Corporation](http://www.fmc.com)** | **[Field Development Station Intern](https://jobright.ai/jobs/info/66ef2a82fddf87b7ff11a094?utm_campaign=1048&utm_source=git)** | Madera, CA | On Site | Sep 21 |
 | ↳ | **[Field Development Station Intern](https://jobright.ai/jobs/info/66ef1ddfd0b821144ef0dc24?utm_campaign=1048&utm_source=git)** | Rochelle, IL | On Site | Sep 21 |
@@ -85,7 +90,7 @@ For a complete list, click the following sortable link below:
 | **[Chemtalk](https://chemistrytalk.org)** | **[Chemistry Science Communication Writer](https://jobright.ai/jobs/info/66eee04762211eee9316b62a?utm_campaign=1048&utm_source=git)** | United States | Remote | Sep 21 |
 | **[TalentForge Solutions](https://www.linkedin.com/company/100742632)** | **[Manufacturing Engineering Intern 2025](https://jobright.ai/jobs/info/66eedabdc8a778f9142ba396?utm_campaign=1048&utm_source=git)** | Ohio, United States | Remote | Sep 21 |
 | **[Alpek Polyester USA](https://alpekpolyesterusacareers.com/)** | **[Engineering Co-Op](https://jobright.ai/jobs/info/66eee852429ada98d40cbf98?utm_campaign=1048&utm_source=git)** | Gaston, SC | On Site | Sep 21 |
-| **[Axcelis Technologies](http://www.axcelis.com)** | **[Engineering Co-op](https://jobright.ai/jobs/info/66eee6a61e845a9a0eace197?utm_campaign=1048&utm_source=git)** | Beverly, MA | On Site | Sep 21 |
+| **[Axcelis Technologies](http://www.axcelis.com)** | **[Engineering Co-op](https://jobright.ai/jobs/info/66eee6a61e845a9a0eace192?utm_campaign=1048&utm_source=git)** | Beverly, MA | On Site | Sep 21 |
 | **[FIRST RF Corporation](http://firstrf.com)** | **[RF Engineering Intern](https://jobright.ai/jobs/info/66eee3547ae88065ddf797c3?utm_campaign=1048&utm_source=git)** | Boulder, CO | On Site | Sep 21 |
 | **[DaVita](http://www.davita.com)** | **[Student Intern - PCT](https://jobright.ai/jobs/info/66eedfec0a1325932a99c672?utm_campaign=1048&utm_source=git)** | Sells, AZ | On Site | Sep 21 |
 | **[CONNECTMETA.AI](www.connectmeta.ai)** | **[Cyber Security Intern](https://jobright.ai/jobs/info/66eed324746b1025a1800b01?utm_campaign=1048&utm_source=git)** | United States | Hybrid | Sep 21 |
@@ -114,7 +119,9 @@ For a complete list, click the following sortable link below:
 | **[Foundation for Defense of Democracies](https://www.fdd.org/)** | **[Russia Program Research Internship](https://jobright.ai/jobs/info/66eeb45f76411306b2e56a09?utm_campaign=1048&utm_source=git)** | Washington, DC | On Site | Sep 21 |
 | **[Cretex Medical Component and Device Technologies](https://www.cretexmedical.com/cdt/)** | **[Tool Design Intern](https://jobright.ai/jobs/info/66eeb6bc31dc2f3da10bf1a7?utm_campaign=1048&utm_source=git)** | Brooklyn Park, MN | On Site | Sep 21 |
 | **[Medstaff Solutions Inc](https://www.linkedin.com/company/6120975)** | **[Travel Cath Lab Tech](https://jobright.ai/jobs/info/66eeb45f76411306b2e56a29?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | Sep 21 |
+| **[OHM Advisors](http://ohm-advisors.com)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/66b6a9030d4ca1927d062704?utm_campaign=1048&utm_source=git)** | Akron, OH | On Site | Sep 21 |
 | **[Prairie View A&M University](http://pvam.edu)** | **[Postdoctoral Researcher (Cannabis Sativa, Phenotyping and Genotyping)](https://jobright.ai/jobs/info/66eeb6bc31dc2f3da10bf25a?utm_campaign=1048&utm_source=git)** | Prairie View, TX | On Site | Sep 21 |
+| **[Appvion](http://www.appvion.com)** | **[Plant Process Engineer Co-op](https://jobright.ai/jobs/info/66d1fbde19d9ba68441ca026?utm_campaign=1048&utm_source=git)** | Appleton, WI | On Site | Sep 21 |
 | **[Crane NXT](https://www.cranenxt.com)** | **[Chemical Engineer Co-Op or Internship](https://jobright.ai/jobs/info/66d1e4e81d1ee335ccf4a932?utm_campaign=1048&utm_source=git)** | Alpharetta, GA | On Site | Sep 21 |
 | **[Keystone Cooperative](https://www.keystonecoop.com/)** | **[Intern - Crop Technician](https://jobright.ai/jobs/info/66d22aa4700fd5396cc1b218?utm_campaign=1048&utm_source=git)** | Clay City, IN | Hybrid | Sep 21 |
 | **[Sporting Kansas City](http://www.sportingkc.com)** | **[Turf & Field Operations Intern](https://jobright.ai/jobs/info/66d273b76be7de6b06afef9c?utm_campaign=1048&utm_source=git)** | Kansas City, KS | On Site | Sep 21 |
@@ -134,8 +141,8 @@ For a complete list, click the following sortable link below:
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Biotechnology Intern](https://jobright.ai/jobs/info/66d2769c7d049da82118fabd?utm_campaign=1048&utm_source=git)** | Johnston, IA | On Site | Sep 21 |
 | **[GeoStabilization International®](http://www.geostabilization.com)** | **[Geotechnical Engineer Internship](https://jobright.ai/jobs/info/66d227ee3d99b5c9d8862a39?utm_campaign=1048&utm_source=git)** | Westminster, CO | On Site | Sep 21 |
 | **[Appvion](http://www.appvion.com)** | **[R&D Co-op](https://jobright.ai/jobs/info/66b8d4e0b094eea7a971e7eb?utm_campaign=1048&utm_source=git)** | Appleton, WI | On Site | Sep 21 |
+| **[Johnson & Johnson](http://www.jnj.com)** | **[R&D Design & Development Co-op](https://jobright.ai/jobs/info/66b689cee106f3e7fd539f60?utm_campaign=1048&utm_source=git)** | Cincinnati, OH | On Site | Sep 21 |
 | **[Keystone Cooperative](https://www.keystonecoop.com/)** | **[Intern - Crop Technician](https://jobright.ai/jobs/info/66d22aa4700fd5396cc1b213?utm_campaign=1048&utm_source=git)** | New Holland, OH | Hybrid | Sep 21 |
-| ↳ | **[Intern - Crop Technician](https://jobright.ai/jobs/info/66d22aa4700fd5396cc1b20c?utm_campaign=1048&utm_source=git)** | Tipton, IN | Hybrid | Sep 21 |
 | **[GeoStabilization International®](http://www.geostabilization.com)** | **[Safety Field Intern](https://jobright.ai/jobs/info/66d227ee3d99b5c9d8862a38?utm_campaign=1048&utm_source=git)** | Westminster, CO | Hybrid | Sep 21 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[HVAC Mechanical Engineering Intern](https://jobright.ai/jobs/info/66e2cafcd4e4b71f77b32170?utm_campaign=1048&utm_source=git)** | Wichita, KS | On Site | Sep 21 |
 | **[Astranis](http://www.astranis.com)** | **[Thermal Associate Engineer](https://jobright.ai/jobs/info/66d21fc87d69e60ea597b30a?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Sep 21 |
@@ -146,15 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Molex](http://www.molex.com)** | **[Mechanical Engineering Co-Op](https://jobright.ai/jobs/info/66d1ecb5592c62ddf9e7ff89?utm_campaign=1048&utm_source=git)** | Rochester Hills, MI | On Site | Sep 21 |
 | **[National Oceanic and Atmospheric Administration](http://www.noaa.gov)** | **[NOAA Basic Officer Training Class: Inter-Service Transfer](https://jobright.ai/jobs/info/66eecaa0ee29b754088252c7?utm_campaign=1048&utm_source=git)** | Alexandria, VA | On Site | Sep 21 |
 | ↳ | **[NOAA Basic Officer Training Class: Inter-Service Transfer](https://jobright.ai/jobs/info/66eeb0d1d6ba40d16b1d919d?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Sep 21 |
+| ↳ | **[NOAA Basic Officer Training Class: Inter-Service Transfer](https://jobright.ai/jobs/info/66eeb0d1d6ba40d16b1d919f?utm_campaign=1048&utm_source=git)** | Yuma, AZ | On Site | Sep 21 |
 | ↳ | **[NOAA Basic Officer Training Class: Inter-Service Transfer](https://jobright.ai/jobs/info/66eeb0d1d6ba40d16b1d91a0?utm_campaign=1048&utm_source=git)** | Chesapeake, VA | On Site | Sep 21 |
 | ↳ | **[NOAA Basic Officer Training Class: Inter-Service Transfer](https://jobright.ai/jobs/info/66eeb0d1d6ba40d16b1d91a1?utm_campaign=1048&utm_source=git)** | Orange, CA | On Site | Sep 21 |
-| ↳ | **[NOAA Basic Officer Training Class: Inter-Service Transfer](https://jobright.ai/jobs/info/66eeb0d1d6ba40d16b1d919f?utm_campaign=1048&utm_source=git)** | Yuma, AZ | On Site | Sep 21 |
-| ↳ | **[NOAA Basic Officer Training Class: Inter-Service Transfer](https://jobright.ai/jobs/info/66eeb0d1d6ba40d16b1d91a4?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Sep 21 |
 | ↳ | **[NOAA Basic Officer Training Class: Inter-Service Transfer](https://jobright.ai/jobs/info/66eeb0d1d6ba40d16b1d91a5?utm_campaign=1048&utm_source=git)** | Jackson, MS | On Site | Sep 21 |
-| ↳ | **[NOAA Basic Officer Training Class: Inter-Service Transfer](https://jobright.ai/jobs/info/66eeb0d1d6ba40d16b1d91a7?utm_campaign=1048&utm_source=git)** | Midland, TX | On Site | Sep 21 |
-| ↳ | **[NOAA Basic Officer Training Class: Inter-Service Transfer](https://jobright.ai/jobs/info/66eeb0d1d6ba40d16b1d91a9?utm_campaign=1048&utm_source=git)** | Lincoln, NE | On Site | Sep 21 |
-| ↳ | **[NOAA Basic Officer Training Class: Inter-Service Transfer](https://jobright.ai/jobs/info/66eeb0d1d6ba40d16b1d91aa?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | On Site | Sep 21 |
-| ↳ | **[NOAA Basic Officer Training Class: Inter-Service Transfer](https://jobright.ai/jobs/info/66eeb0d1d6ba40d16b1d91ad?utm_campaign=1048&utm_source=git)** | Albany, NY | On Site | Sep 21 |
-| ↳ | **[NOAA Basic Officer Training Class: Inter-Service Transfer](https://jobright.ai/jobs/info/66eeb0d1d6ba40d16b1d91ae?utm_campaign=1048&utm_source=git)** | El Paso, TX | On Site | Sep 21 |
-| ↳ | **[NOAA Basic Officer Training Class: Inter-Service Transfer](https://jobright.ai/jobs/info/66eeb0d1d6ba40d16b1d91af?utm_campaign=1048&utm_source=git)** | Norfolk, VA | On Site | Sep 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
