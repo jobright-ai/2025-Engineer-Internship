@@ -74,11 +74,14 @@ For a complete list, click the following sortable link below:
 | **[Old Dominion Freight Line](http://www.odfl.com)** | **[Maintenance Tech Apprentice](https://jobright.ai/jobs/info/66f4cb830764ab22aa196a26?utm_campaign=1048&utm_source=git)** | Carlisle, PA | Hybrid | Sep 25 |
 | **[NextEra Energy](http://www.nexteraenergy.com)** | **[Project Development Intern](https://jobright.ai/jobs/info/66f4c2d28f295d60a286b843?utm_campaign=1048&utm_source=git)** | Juno Beach, FL | On Site | Sep 25 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Quality Engineering Co-Op](https://jobright.ai/jobs/info/66f4be0100f970769056068d?utm_campaign=1048&utm_source=git)** | Cornelia, GA | On Site | Sep 25 |
-| ↳ | **[Clinical Co-op Intern, EP Neuroscience](https://jobright.ai/jobs/info/66f4c1101c475b8faf7a81e6?utm_campaign=1048&utm_source=git)** | Titusville, NJ | On Site | Sep 25 |
+| **[Heartland Veterinary Partners](https://heartlandvetpartners.com/)** | **[Veterinary Tech Externship](https://jobright.ai/jobs/info/66f4d945338a412e9149186f?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Sep 25 |
+| **[Johnson & Johnson](http://www.jnj.com)** | **[Clinical Co-op Intern, EP Neuroscience](https://jobright.ai/jobs/info/66f4c1101c475b8faf7a81e6?utm_campaign=1048&utm_source=git)** | Titusville, NJ | On Site | Sep 25 |
 | **[Bauer Foundation Corp.](http://bauerfoundations.com)** | **[Field Engineer Intern](https://jobright.ai/jobs/info/66f4c3a697db4190eeeaf42e?utm_campaign=1048&utm_source=git)** | Odessa, FL | On Site | Sep 25 |
 | **[Keysight Technologies](https://www.keysight.com)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/66f4c8cc9addd2508018a7ed?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Sep 25 |
 | ↳ | **[Manufacturing Process Intern](https://jobright.ai/jobs/info/66f4c8cc9addd2508018a758?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Sep 25 |
-| **[myGwork](https://www.mygwork.com/en/)** | **[R&D Engineer Co-op](https://jobright.ai/jobs/info/66f4d69320cb5636b4790cfc?utm_campaign=1048&utm_source=git)** | United States | Remote | Sep 25 |
+| **[myGwork](https://www.mygwork.com/en/)** | **[Endoscopy R&D Systems Engineering Co-op](https://jobright.ai/jobs/info/66f4d945338a412e914918d0?utm_campaign=1048&utm_source=git)** | United States | Remote | Sep 25 |
+| ↳ | **[Endoscopy R&D Engineer Co-op](https://jobright.ai/jobs/info/66f4d945338a412e914918cf?utm_campaign=1048&utm_source=git)** | United States | Remote | Sep 25 |
+| ↳ | **[R&D Engineer Co-op](https://jobright.ai/jobs/info/66f4d69320cb5636b4790cfc?utm_campaign=1048&utm_source=git)** | United States | Remote | Sep 25 |
 | ↳ | **[Engineer Co-op: Spring/Summer 2025](https://jobright.ai/jobs/info/66f4d69320cb5636b4790d00?utm_campaign=1048&utm_source=git)** | United States | Remote | Sep 25 |
 | **[Nike](http://www.nike.com)** | **[Global Apparel Materials Undergraduate Internship](https://jobright.ai/jobs/info/66f4baf7ec10460415e29feb?utm_campaign=1048&utm_source=git)** | Beaverton, OR | On Site | Sep 25 |
 | **[Ardmore Roderick](http://www.ardmoreroderick.com/)** | **[Summer Illinois Tollway 2025 Internship](https://jobright.ai/jobs/info/66f4c3a697db4190eeeaf421?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Sep 25 |
@@ -96,8 +99,8 @@ For a complete list, click the following sortable link below:
 | **[New York City Comptroller](https://comptroller.nyc.gov)** | **[College Aide – Artificial Intelligence (AI)](https://jobright.ai/jobs/info/66f4c7cb10ba76120c181d96?utm_campaign=1048&utm_source=git)** | Manhattan, NY | On Site | Sep 25 |
 | **[Arcosa](https://www.arcosa.com/)** | **[Weld Engineer Intern](https://jobright.ai/jobs/info/66f4b8403acda2227bd68a8f?utm_campaign=1048&utm_source=git)** | Dallas, IA | On Site | Sep 25 |
 | **[Facebook Careers](https://www.metacareers.com/)** | **[Research Scientist Intern, Neuromotor Control (PhD)](https://jobright.ai/jobs/info/66f4b8403acda2227bd68ae7?utm_campaign=1048&utm_source=git)** | Redmond, WA | On Site | Sep 25 |
-| ↳ | **[Research Scientist Intern, Neuromotor Control (PhD)](https://jobright.ai/jobs/info/66f4b8403acda2227bd68bd3?utm_campaign=1048&utm_source=git)** | Burlingame, CA | On Site | Sep 25 |
 | ↳ | **[Research Scientist Intern, Flexible and Stretchable Electronics (PhD)](https://jobright.ai/jobs/info/66f4b8403acda2227bd68a90?utm_campaign=1048&utm_source=git)** | Redmond, WA | On Site | Sep 25 |
+| ↳ | **[Research Scientist Intern, Neuromotor Control (PhD)](https://jobright.ai/jobs/info/66f4b8403acda2227bd68bd3?utm_campaign=1048&utm_source=git)** | Burlingame, CA | On Site | Sep 25 |
 | **[ITS Logistics](http://its4logistics.com)** | **[IT Internships](https://jobright.ai/jobs/info/66f4c7cb10ba76120c181e71?utm_campaign=1048&utm_source=git)** | Reno, NV | On Site | Sep 25 |
 | **[LabCorp](https://www.labcorp.com/)** | **[Intern - Clinical Diagnostics Lab Assistant](https://jobright.ai/jobs/info/66f4baf7ec10460415e2a01f?utm_campaign=1048&utm_source=git)** | Spokane, WA | On Site | Sep 25 |
 | **[Panasonic Energy of North America](https://www.panasonicnv.com)** | **[Security and Risk Intern](https://jobright.ai/jobs/info/66f4b617a1003749c95c6521?utm_campaign=1048&utm_source=git)** | Sparks, NV | On Site | Sep 25 |
@@ -109,6 +112,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Engineering Intern](https://jobright.ai/jobs/info/66f4c1101c475b8faf7a8235?utm_campaign=1048&utm_source=git)** | Erving's Location, NH | On Site | Sep 25 |
 | **[Santee Cooper](http://www.santeecooper.com)** | **[Safety Specialist Intern](https://jobright.ai/jobs/info/66f4bdb8f62ca85e431e2cf1?utm_campaign=1048&utm_source=git)** | Moncks Corner, SC | On Site | Sep 25 |
 | **[York Space Systems](http://www.yorkspacesystems.com)** | **[Engineering Co-Op - Spring 2025](https://jobright.ai/jobs/info/66f4bdb8f62ca85e431e2d02?utm_campaign=1048&utm_source=git)** | Greenwood Village, CO | On Site | Sep 25 |
+| **[Hannibal Regional Hospital Inc](https://hospital.hannibalregional.org/)** | **[Maintenance Technician - Intern](https://jobright.ai/jobs/info/66f4d945338a412e9149195e?utm_campaign=1048&utm_source=git)** | Missouri, United States | On Site | Sep 25 |
 | **[Ohio Environmental Protection Agency](http://www.epa.state.oh.us)** | **[Paid College Internship - Capital Programs](https://jobright.ai/jobs/info/66f4bbad422176ea415091e5?utm_campaign=1048&utm_source=git)** | Garfield Heights, OH | On Site | Sep 25 |
 | **[CMTA](https://www.cmta.com)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/66f4bbad422176ea4150913c?utm_campaign=1048&utm_source=git)** | Lexington, KY | On Site | Sep 25 |
 | **[Donaldson Company](http://donaldson.com)** | **[Applications Engineering Intern](https://jobright.ai/jobs/info/66f4baf7ec10460415e29fdf?utm_campaign=1048&utm_source=git)** | Bloomington, MN | On Site | Sep 25 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Network Engineering Summer 2025 Internship](https://jobright.ai/jobs/info/66f4a1de62ca3ccfeb9fbb19?utm_campaign=1048&utm_source=git)** | Branchburg, NJ | Hybrid | Sep 25 |
 | ↳ | **[Network Engineering Internship](https://jobright.ai/jobs/info/66f4a58ec34c5a3251633789?utm_campaign=1048&utm_source=git)** | Richardson, TX | Hybrid | Sep 25 |
 | ↳ | **[Network Facilities Support Intern](https://jobright.ai/jobs/info/66f4a58ec34c5a32516337aa?utm_campaign=1048&utm_source=git)** | Houston, TX | Hybrid | Sep 25 |
-| **[The Aerospace Corporation](http://www.aerospace.org)** | **[Electromagnetic Effects Undergraduate Intern](https://jobright.ai/jobs/info/66f4bdb8f62ca85e431e2d63?utm_campaign=1048&utm_source=git)** | El Segundo, CA | On Site | Sep 25 |
-| **[WestRock](http://www.westrock.com)** | **[Engineering Intern/Co-op](https://jobright.ai/jobs/info/66f4a189e92e7c7879a9c38a?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Sep 25 |
-| **[NextEra Energy Resources](https://www.nexteraenergyresources.com/)** | **[PGD Chemistry Intern](https://jobright.ai/jobs/info/66d7982f7bb67e89056c305c?utm_campaign=1048&utm_source=git)** | Florida City, FL | On Site | Sep 25 |
-| **[Texas Commerce Bank National Association](http://www.ccrd.com)** | **[Construction Management Intern - Summer 2025](https://jobright.ai/jobs/info/66f4ad88483aad13e8889df8?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
