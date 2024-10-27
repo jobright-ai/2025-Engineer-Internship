@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Novelis](http://novelis.com)** | **[Data Science-Computer Vision Co-op](https://jobright.ai/jobs/info/671d8f85510c8f1808c01063?utm_campaign=1048&utm_source=git)** | Atlanta, GA | Hybrid | Oct 26 |
 | **[Joby Aviation](http://www.jobyaviation.com)** | **[Flight Test Engineer Intern](https://jobright.ai/jobs/info/671d7378ab93831aaeb14490?utm_campaign=1048&utm_source=git)** | Marina, CA | On Site | Oct 26 |
 | **[Jacobs](http://www.jacobs.com)** | **[Electrical Engineering Intern - Summer 2025](https://jobright.ai/jobs/info/671d654db6bee87da2c47838?utm_campaign=1048&utm_source=git)** | Cincinnati, OH | On Site | Oct 26 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Research & Development Intern](https://jobright.ai/jobs/info/671d7a8942218e97a9b945ec?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Oct 26 |
@@ -74,7 +75,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Global Reliability Intern](https://jobright.ai/jobs/info/671d3bc6f99db2623594a858?utm_campaign=1048&utm_source=git)** | Kennesaw, GA | On Site | Oct 26 |
 | ↳ | **[Energy Efficiency Data Analytics Co-Op](https://jobright.ai/jobs/info/671d3dc3336d1124d59fa971?utm_campaign=1048&utm_source=git)** | Kennesaw, GA | On Site | Oct 26 |
 | ↳ | **[Operations Research Co-op](https://jobright.ai/jobs/info/671d3bc6f99db2623594a85b?utm_campaign=1048&utm_source=git)** | Atlanta, GA | Hybrid | Oct 26 |
-| **[BD](https://www.bd.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/671d585c66470a2812c14e7a?utm_campaign=1048&utm_source=git)** | Columbus, NE | On Site | Oct 26 |
+| **[BD](https://www.bd.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/671d585c66470a2812c14e7b?utm_campaign=1048&utm_source=git)** | Columbus, NE | On Site | Oct 26 |
 | **[Carlisle Construction Materials](https://carlisleconstructionmaterials.com/)** | **[Computational Simulation Engineer - Intern](https://jobright.ai/jobs/info/671d3827ce07a4c811471fd6?utm_campaign=1048&utm_source=git)** | Carlisle, PA | On Site | Oct 26 |
 | ↳ | **[TPO Research & Innovation Intern](https://jobright.ai/jobs/info/671d57602fd46857a2f021cb?utm_campaign=1048&utm_source=git)** | Carlisle, PA | On Site | Oct 26 |
 | **[Micron Technology](http://www.micron.com)** | **[EHS Intern - Environmental Engineer](https://jobright.ai/jobs/info/671d3bc6f99db2623594a868?utm_campaign=1048&utm_source=git)** | Syracuse, NY | On Site | Oct 26 |
@@ -113,7 +114,9 @@ For a complete list, click the following sortable link below:
 | **[Martin Marietta](http://martinmarietta.com)** | **[Summer Intern - Safety](https://jobright.ai/jobs/info/6700a473caa049ead760f633?utm_campaign=1048&utm_source=git)** | Lakewood, CO | On Site | Oct 26 |
 | **[Olsson](https://www.olsson.com)** | **[Structural Engineering Internship - Facilities](https://jobright.ai/jobs/info/66c7910c742578246340c922?utm_campaign=1048&utm_source=git)** | Plano, TX | On Site | Oct 26 |
 | **[SonyAI](https://ai.sony/)** | **[Reinforcement Learning Research Intern for Game AI](https://jobright.ai/jobs/info/66ac461f495288b4a21cfb7c?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Remote | Oct 26 |
+| **[Congo Brands](https://www.congobrands.com)** | **[Quality Lab Internship (Onsite, Louisville, KY)](https://jobright.ai/jobs/info/66c7313eae26d9ef39f55543?utm_campaign=1048&utm_source=git)** | Louisville, KY | On Site | Oct 26 |
 | **[Shield AI](http://www.shield.ai)** | **[Integration and Test Engineering Intern - 2025 Summer Intern](https://jobright.ai/jobs/info/67006a34b8e7f755a57ec056?utm_campaign=1048&utm_source=git)** | Washington, DC | On Site | Oct 26 |
+| **[Emerson](http://www.emerson.com)** | **[Lifecycle Service Co-Op](https://jobright.ai/jobs/info/671d94f70bb71216c6385500?utm_campaign=1048&utm_source=git)** | Marshalltown, IA | On Site | Oct 26 |
 | **[S&B](https://www.sbec.com)** | **[Intern, Naval Architect - New Orleans, LA](https://jobright.ai/jobs/info/66e473d1528094fdb03c0aae?utm_campaign=1048&utm_source=git)** | New Orleans, LA | Hybrid | Oct 26 |
 | **[GE Aerospace](https://www.geaerospace.com)** | **[GE Aerospace Manufacturing Engineering and Supply Chain Operations- Supply Chain Co-op Fall 2025](https://jobright.ai/jobs/info/66c718b06f785142f72d4818?utm_campaign=1048&utm_source=git)** | Hooksett, NH | On Site | Oct 26 |
 | **[Shield AI](http://www.shield.ai)** | **[RF Engineering Intern - 2025 Summer Intern](https://jobright.ai/jobs/info/6700e677e58f4a16a96e932b?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | Oct 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Midmark Corporation](http://www.midmark.com/)** | **[Mechanical Engineering Co-op - Fall 2025](https://jobright.ai/jobs/info/66c88e9b3377ac937bd96174?utm_campaign=1048&utm_source=git)** | Versailles, OH | On Site | Oct 26 |
 | **[Holcim](https://www.holcim.com/)** | **[Engineer Intern (Summer 2025)](https://jobright.ai/jobs/info/66c799e1e2c383e4a4622d18?utm_campaign=1048&utm_source=git)** | Ada, OK | Hybrid | Oct 26 |
 | ↳ | **[Health and Safety Intern (Summer 2025)](https://jobright.ai/jobs/info/66c7a68ecd3147420dc2c6ce?utm_campaign=1048&utm_source=git)** | Middleton, MA | Hybrid | Oct 26 |
-| **[Southwest Florida Water Management District](http://www.watermatters.org)** | **[Fleet Services Student Intern (9044)](https://jobright.ai/jobs/info/671cc9146627754d97069a3e?utm_campaign=1048&utm_source=git)** | Brooksville, FL | Hybrid | Oct 26 |
-| **[RTX](https://www.rtx.com)** | **[Summer 2025, Intern: Corporate Flight](https://jobright.ai/jobs/info/6700b5969cb8070f13894e0b?utm_campaign=1048&utm_source=git)** | East Granby, CT | Hybrid | Oct 26 |
-| **[Kiewit](http://www.kiewit.com)** | **[Civil/Transmission Line Engineer Intern - Kiewit Power Engineering (Summer 2025)](https://jobright.ai/jobs/info/66ffd21c44c1483f26d09b9d?utm_campaign=1048&utm_source=git)** | Columbus, OH | On Site | Oct 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
