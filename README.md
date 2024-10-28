@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[D.R. Horton](https://www.drhorton.com/affiliates---pacific-ridge)** | **[Summer 2025 Construction Intern](https://jobright.ai/jobs/info/671f07924795cf719f3943ac?utm_campaign=1048&utm_source=git)** | Montgomery, AL | On Site | Oct 27 |
+| **[Amazon](https://amazon.com)** | **[Amazon Robotics - Human Factors and Ergonomics Research Scientist Co-op - 2025](https://jobright.ai/jobs/info/671f04a588fe9c65b973485b?utm_campaign=1048&utm_source=git)** | North Reading, MA | On Site | Oct 27 |
+| ↳ | **[Amazon Robotics - Human Factors and Ergonomics Research Scientist Co-op - 2025](https://jobright.ai/jobs/info/671efcf9b899ac295b0020d2?utm_campaign=1048&utm_source=git)** | North Reading, Massachusetts, USA | On Site | Oct 27 |
 | **[Entegris](http://www.entegris.com)** | **[Materials Quality Engineering Co-op](https://jobright.ai/jobs/info/671eb29ee9f57bf36c72365f?utm_campaign=1048&utm_source=git)** | Chaska, MN | On Site | Oct 27 |
 | **[Peter Basso Associates](http://www.peterbassoassociates.com/)** | **[Electrical Co-Op
 Winter 2025](https://jobright.ai/jobs/info/671ebf8f21447146c4552e3b?utm_campaign=1048&utm_source=git)** | Troy, MI | On Site | Oct 27 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Specialized Construction Intern - DEN Airport](https://jobright.ai/jobs/info/671eb7bdc59488dbcafef734?utm_campaign=1048&utm_source=git)** | Guernsey, WY | On Site | Oct 27 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Research & Development Intern](https://jobright.ai/jobs/info/671eb05037014b0f2d05cb4c?utm_campaign=1048&utm_source=git)** | Rockford, IL | On Site | Oct 27 |
 | **[MACOM](https://www.macom.com/)** | **[Semiconductor FAB Industrial Engineering Intern](https://jobright.ai/jobs/info/671ea19775a6b045958285da?utm_campaign=1048&utm_source=git)** | Lowell, MA | On Site | Oct 27 |
+| **[Sutter Health](http://www.sutterhealth.org)** | **[Apprentice Engineer](https://jobright.ai/jobs/info/671f00bd48b3e60b9bf03d01?utm_campaign=1048&utm_source=git)** | Berkeley, CA | On Site | Oct 27 |
 | **[Carlisle Construction Materials](https://carlisleconstructionmaterials.com/)** | **[Electrical Engineer Intern](https://jobright.ai/jobs/info/671ea89d7891283e9df68acc?utm_campaign=1048&utm_source=git)** | Carlisle, PA | On Site | Oct 27 |
 | **[Nidec Minster Corporation](https://www.minster.com)** | **[Manufacturing Student Intern: Machining](https://jobright.ai/jobs/info/671ea89d7891283e9df68ad1?utm_campaign=1048&utm_source=git)** | Minster, OH | On Site | Oct 27 |
 | **[FAMU-FSU College of Engineering](http://www.eng.famu.fsu.edu)** | **[Postdoctoral Fellowship in Active Colloids and Microrheology at the National High Magnetic Field Laboratory and FAMU-FSU Engineering](https://jobright.ai/jobs/info/671e9e7f4bf1bac246fa0dd5?utm_campaign=1048&utm_source=git)** | Tallahassee, FL | On Site | Oct 27 |
@@ -70,7 +74,6 @@ Winter 2025](https://jobright.ai/jobs/info/671ebf8f21447146c4552e3b?utm_campaign
 | **[Northrop Grumman](https://www.northropgrumman.com/)** | **[2025 Acoustics and Sonar Engineer Intern - Annapolis MD](https://jobright.ai/jobs/info/671e8abddaa672769d68a662?utm_campaign=1048&utm_source=git)** | Annapolis, MD | On Site | Oct 27 |
 | **[Page Southerland Page, Inc.](http://pagethink.com)** | **[Tradewell Fellowship](https://jobright.ai/jobs/info/671e99c1ddd00f2cbcb1a2d3?utm_campaign=1048&utm_source=git)** | Charleston, SC | On Site | Oct 27 |
 | **[Formlabs](http://www.formlabs.com)** | **[Hardware Systems Engineering Intern (Winter/Spring 2025)](https://jobright.ai/jobs/info/671e85b60b0f27d96ff0a64a?utm_campaign=1048&utm_source=git)** | Somerville, MA | On Site | Oct 27 |
-| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Contracted Student Interns](https://jobright.ai/jobs/info/671e85b60b0f27d96ff0a61f?utm_campaign=1048&utm_source=git)** | Worcester, MA | Hybrid | Oct 27 |
 | **[BioSpace](http://www.biospace.com/)** | **[2025 BioCMC (Chemistry, Manufacturing, and Control) Cell Culture Development Intern](https://jobright.ai/jobs/info/671e8114ce242eb9ed3d59cf?utm_campaign=1048&utm_source=git)** | South San Francisco, CA | On Site | Oct 27 |
 | ↳ | **[2025 BioCMC (Chemistry, Manufacturing, and Control) Drug Substance Intern](https://jobright.ai/jobs/info/671e71a91447aca00fc8e33d?utm_campaign=1048&utm_source=git)** | South San Francisco, CA | On Site | Oct 27 |
 | ↳ | **[Grad Intern - Inflammation Research](https://jobright.ai/jobs/info/671e71a91447aca00fc8e33c?utm_campaign=1048&utm_source=git)** | South San Francisco, CA | On Site | Oct 27 |
@@ -134,9 +137,9 @@ Winter 2025](https://jobright.ai/jobs/info/671ebf8f21447146c4552e3b?utm_campaign
 | ↳ | **[Internship and Early Career Opportunities at Benesch](https://jobright.ai/jobs/info/66c8d6223a5a455307ca639e?utm_campaign=1048&utm_source=git)** | Brighton, MI | Hybrid | Oct 27 |
 | ↳ | **[Internship and Early Career Opportunities at Benesch](https://jobright.ai/jobs/info/66c8e0d3e63226122f79ddb9?utm_campaign=1048&utm_source=git)** | Kansas City, KS | Hybrid | Oct 27 |
 | ↳ | **[Internship and Early Career Opportunities at Benesch](https://jobright.ai/jobs/info/66c8d6223a5a455307ca63a1?utm_campaign=1048&utm_source=git)** | Jacksonville, FL | Hybrid | Oct 27 |
+| ↳ | **[Corporate Safety Intern](https://jobright.ai/jobs/info/66e52b99ea8d04a526a0fa20?utm_campaign=1048&utm_source=git)** | Kansas City, KS | Hybrid | Oct 27 |
 | ↳ | **[Corporate Safety Intern](https://jobright.ai/jobs/info/66e52bcaea8d04a526a100f1?utm_campaign=1048&utm_source=git)** | Lenexa, KS | Hybrid | Oct 27 |
 | ↳ | **[Internship and Early Career Opportunities at Benesch](https://jobright.ai/jobs/info/66c8e0d3e63226122f79ddbf?utm_campaign=1048&utm_source=git)** | Baltimore, MD | Hybrid | Oct 27 |
-| ↳ | **[Corporate Safety Intern](https://jobright.ai/jobs/info/66e52b99ea8d04a526a0fa20?utm_campaign=1048&utm_source=git)** | Kansas City, KS | Hybrid | Oct 27 |
 | ↳ | **[Internship and Early Career Opportunities at Benesch](https://jobright.ai/jobs/info/66c8ec03a22afd22e8f62f35?utm_campaign=1048&utm_source=git)** | Miami, FL | Hybrid | Oct 27 |
 | ↳ | **[Internship and Early Career Opportunities at Benesch](https://jobright.ai/jobs/info/66c8ec03a22afd22e8f62f3a?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Oct 27 |
 | ↳ | **[Internship and Early Career Opportunities at Benesch](https://jobright.ai/jobs/info/66c8d6223a5a455307ca639d?utm_campaign=1048&utm_source=git)** | Manhattan, KS | Hybrid | Oct 27 |
@@ -155,7 +158,4 @@ Winter 2025](https://jobright.ai/jobs/info/671ebf8f21447146c4552e3b?utm_campaign
 | **[Holcim](https://www.holcim.com/)** | **[Health and Safety Intern (Summer 2025)](https://jobright.ai/jobs/info/66c776b73fd63aeebbef3318?utm_campaign=1048&utm_source=git)** | Holly Hill, SC | Hybrid | Oct 27 |
 | **[Benesch](https://www.benesch.com)** | **[Internship and Early Career Opportunities at Benesch](https://jobright.ai/jobs/info/66c8e0d3e63226122f79ddb8?utm_campaign=1048&utm_source=git)** | Grand Island, NE | Hybrid | Oct 27 |
 | ↳ | **[Internship and Early Career Opportunities at Benesch](https://jobright.ai/jobs/info/66c8ec03a22afd22e8f62f31?utm_campaign=1048&utm_source=git)** | Cincinnati, OH | Hybrid | Oct 27 |
-| ↳ | **[Corporate Safety Intern](https://jobright.ai/jobs/info/66e52bcaea8d04a526a100f2?utm_campaign=1048&utm_source=git)** | Manhattan, KS | Hybrid | Oct 27 |
-| ↳ | **[Internship and Early Career Opportunities at Benesch](https://jobright.ai/jobs/info/66c8ec03a22afd22e8f62f30?utm_campaign=1048&utm_source=git)** | Neenah, WI | Hybrid | Oct 27 |
-| ↳ | **[Internship and Early Career Opportunities at Benesch](https://jobright.ai/jobs/info/66c8e0d3e63226122f79ddba?utm_campaign=1048&utm_source=git)** | East Lansing, MI | Hybrid | Oct 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
