@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mendocino Forest Products Company, LLC](http://mfp.com)** | **[Grader Apprentice](https://jobright.ai/jobs/info/673955250440fc359a3abca3?utm_campaign=1048&utm_source=git)** | Scotia, CA | On Site | Nov 16 |
 | **[Nutrien](https://www.nutrien.com/)** | **[INTERNSHIP - N. OHIO DIVISION](https://jobright.ai/jobs/info/6739354692d68cf044c8b5df?utm_campaign=1048&utm_source=git)** | Findlay, OH | On Site | Nov 16 |
 | ↳ | **[Intern - Retail Field, Agronomy - Central Indiana 1](https://jobright.ai/jobs/info/673922fa6561472b62ed93a5?utm_campaign=1048&utm_source=git)** | Indianapolis, IN | On Site | Nov 16 |
 | **[Peter Basso Associates](http://www.peterbassoassociates.com/)** | **[Electrical Co-Op
@@ -141,6 +142,7 @@ Winter 2025](https://jobright.ai/jobs/info/67392df811ed5e03c5ef6bab?utm_campaign
 | **[Burgess & Niple](http://burgessniple.com)** | **[Civil Engineer Co-op, Transportation](https://jobright.ai/jobs/info/671c1bdd27e38f20215218b1?utm_campaign=1048&utm_source=git)** | Mentor, OH | On Site | Nov 16 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/67388b21a5d698dfd1faa1a1?utm_campaign=1048&utm_source=git)** | Richmond, VA | On Site | Nov 16 |
 | **[STV](http://www.stvinc.com/)** | **[Summer 2025 - Mechanical Engineering Intern](https://jobright.ai/jobs/info/673881422f5e3d68b6d5aa33?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Nov 16 |
+| **[The Hershey Company](http://thehersheycompany.com)** | **[Future Opportunities Packaging Systems Engineering Intern/Co-Op (Spring 2025)](https://jobright.ai/jobs/info/66e4c7162b09dbf250812569?utm_campaign=1048&utm_source=git)** | Hershey, PA | On Site | Nov 16 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Design Quality Engineering Spring Co-Op](https://jobright.ai/jobs/info/6738893cd0e70ee410134013?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | Nov 16 |
 | **[Draper](https://www.draper.com)** | **[ASIC Design Intern](https://jobright.ai/jobs/info/67388b21a5d698dfd1faa0a0?utm_campaign=1048&utm_source=git)** | Cambridge, MA | Hybrid | Nov 16 |
 | **[Page Southerland Page, Inc.](http://pagethink.com)** | **[Tradewell Fellowship](https://jobright.ai/jobs/info/671c8b86ba890a3c7975d86d?utm_campaign=1048&utm_source=git)** | Washington, DC | On Site | Nov 16 |
@@ -156,6 +158,4 @@ Winter 2025](https://jobright.ai/jobs/info/67392df811ed5e03c5ef6bab?utm_campaign
 | **[Milliken & Company](http://www.milliken.com/en-us/)** | **[Pine Mountain Process Improvement - Intern](https://jobright.ai/jobs/info/671c2972fb1fe9f2c7463099?utm_campaign=1048&utm_source=git)** | Pine Mountain, GA | On Site | Nov 16 |
 | **[Page Southerland Page, Inc.](http://pagethink.com)** | **[Tradewell Fellowship](https://jobright.ai/jobs/info/671c8b31ba890a3c7975ce74?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Nov 16 |
 | **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2025 Internship - Quinnipiac University](https://jobright.ai/jobs/info/6738851616ef5bae9cbe31e2?utm_campaign=1048&utm_source=git)** | Wallingford, CT | On Site | Nov 16 |
-| **[Urenco USA](https://urencousa.com)** | **[2025 Summer Internship - Maintenance](https://jobright.ai/jobs/info/6700b5969cb8070f13894ead?utm_campaign=1048&utm_source=git)** | Eunice, NM | On Site | Nov 16 |
-| **[Johnson & Johnson](http://www.jnj.com)** | **[Electrical Engineering Co-op- Fall 2025](https://jobright.ai/jobs/info/671be9c0daa342a6ba9d128d?utm_campaign=1048&utm_source=git)** | Cincinnati, OH | On Site | Nov 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
