@@ -57,9 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SAM](https://www.sam.biz)** | **[DOD SkillBridge Internship (Authorized SkillBridge Organization - Military Personnel Only)](https://jobright.ai/jobs/info/674d2bbfc6f5472f527155b6?utm_campaign=1048&utm_source=git)** | Merriam, KS | Hybrid | Dec 01 |
+| **[OHLA USA](https://www.ohla-usa.com)** | **[Field Engineer Internship - Summer 2025](https://jobright.ai/jobs/info/674d1be653413169b084245d?utm_campaign=1048&utm_source=git)** | West Palm Beach, FL | On Site | Dec 01 |
+| **[Ohio Department of Transportation](http://www.epa.state.oh.us)** | **[PAID ODOT College Internship- Information Technology, PN 20060612](https://jobright.ai/jobs/info/674d0505e3ece7692359249b?utm_campaign=1048&utm_source=git)** | Hamilton County, OH | On Site | Dec 01 |
+| **[Stevens Towing Company](https://www.stevens-towing.com)** | **[Safety Technician Intern](https://jobright.ai/jobs/info/674d06ac483648bb2375ff57?utm_campaign=1048&utm_source=git)** | Yonges Island, SC | On Site | Dec 01 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/674cf56387af5a36fc0df915?utm_campaign=1048&utm_source=git)** | Towson, MD | On Site | Dec 01 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/674ce84da08c86d745ab8278?utm_campaign=1048&utm_source=git)** | Mount Laurel, NJ | On Site | Dec 01 |
 | **[Joseph J. Albanese](http://www.jjalbanese.com)** | **[Construction Project Engineer Internship](https://jobright.ai/jobs/info/674ce84da08c86d745ab82a5?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Dec 01 |
+| **[Peter Basso Associates](http://www.peterbassoassociates.com/)** | **[Electrical Co-Op
+Summer 2025](https://jobright.ai/jobs/info/674d289646f17f0e94992b07?utm_campaign=1048&utm_source=git)** | Troy, MI | On Site | Dec 01 |
 | **[Clean Harbors](http://www.cleanharbors.com)** | **[Environmental Field Chemist Internship](https://jobright.ai/jobs/info/674cdd7e2df62702d5311d5b?utm_campaign=1048&utm_source=git)** | Tucker, GA | On Site | Dec 01 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Intern - Retail Field, Agronomy - Central Indiana 1](https://jobright.ai/jobs/info/674ce5a66a0f5e69a0125294?utm_campaign=1048&utm_source=git)** | Indianapolis, IN | On Site | Dec 01 |
 | ↳ | **[INTERNSHIP - SW IN/KY; EASTERN KY](https://jobright.ai/jobs/info/674ce5a66a0f5e69a0125295?utm_campaign=1048&utm_source=git)** | Clay, KY | On Site | Dec 01 |
@@ -95,6 +101,7 @@ For a complete list, click the following sortable link below:
 | **[Kiewit](http://www.kiewit.com)** | **[Summer 2025 Field Engineer Intern - Bridge & Marine District](https://jobright.ai/jobs/info/66be8865b234d0c586d3494a?utm_campaign=1048&utm_source=git)** | Portland, OR | On Site | Dec 01 |
 | **[Rinker Design Associates, LLC](http://rdacivil.com)** | **[Transportation Engineering Internship - Summer](https://jobright.ai/jobs/info/674c4b58480444577e05f67f?utm_campaign=1048&utm_source=git)** | Manassas, VA | On Site | Dec 01 |
 | **[Dyno Nobel](http://www.dynonobel.com)** | **[Electrical Engineer Intern (Summer 2025)](https://jobright.ai/jobs/info/66f6e97c0644adac68bdd7be?utm_campaign=1048&utm_source=git)** | Carthage, MO | On Site | Dec 01 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/co-op Refining Construction Management (Spring 2025)](https://jobright.ai/jobs/info/672f3e91df8a0ce73080ece9?utm_campaign=1048&utm_source=git)** | Detroit, MI | On Site | Dec 01 |
 | **[American Structurepoint](http://structurepoint.com)** | **[Road Engineering Internship-Austin](https://jobright.ai/jobs/info/66be99752fcffab11b9ac939?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Dec 01 |
 | **[REGENT](https://www.regentcraft.com)** | **[Propulsion Engineering Intern](https://jobright.ai/jobs/info/6712d348e1ff8c1976cf4093?utm_campaign=1048&utm_source=git)** | North Kingstown, RI | On Site | Dec 01 |
 | **[Americold Logistics, LLC.](http://americold.com)** | **[Automated Distribution Operations Intern- Plainville](https://jobright.ai/jobs/info/674c4e8a1daa78bdb9dacb19?utm_campaign=1048&utm_source=git)** | Plainville, CT | On Site | Dec 01 |
@@ -114,6 +121,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2025 Field Engineer Intern - Central District](https://jobright.ai/jobs/info/672f47604e9c0c337d492a42?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Dec 01 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/co-op Refining Construction Management (Spring 2025)](https://jobright.ai/jobs/info/672f420a3074c7003a39299a?utm_campaign=1048&utm_source=git)** | Canton, OH | On Site | Dec 01 |
 | **[HDR](http://www.hdrinc.com)** | **[Roadway Engineering Intern - Summer 2025](https://jobright.ai/jobs/info/66f7167d53924c5339729c60?utm_campaign=1048&utm_source=git)** | Jacksonville, FL | On Site | Dec 01 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/co-op Refining Construction Management (Spring 2025)](https://jobright.ai/jobs/info/672f420a3074c7003a3929a2?utm_campaign=1048&utm_source=git)** | Robinson, IL | On Site | Dec 01 |
 | **[TIC - The Industrial Company](https://www.ticus.com)** | **[Field/Office Engineer Intern - TIC Industrial 1 (Summer 2025)](https://jobright.ai/jobs/info/672f5f9d29ae9737649dec01?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Dec 01 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Inside Plant Engineer](https://jobright.ai/jobs/info/66dbfb35f278f728fdd2e6c4?utm_campaign=1048&utm_source=git)** | St Louis, MO | Hybrid | Dec 01 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Research & Development Leadership Development Program (RDLDP)- 2025 Summer Internship](https://jobright.ai/jobs/info/66bd43db3446fd3f6a8937fd?utm_campaign=1048&utm_source=git)** | Raynham, MA | On Site | Dec 01 |
@@ -126,6 +134,7 @@ For a complete list, click the following sortable link below:
 Summer 2025](https://jobright.ai/jobs/info/674c90f5fc4620226a9c8a2d?utm_campaign=1048&utm_source=git)** | Troy, MI | On Site | Dec 01 |
 | **[Daikin Applied Americas](https://www.daikinapplied.com)** | **[Quality Engineering - Intern](https://jobright.ai/jobs/info/66f6dbaf97e664f28ccf09aa?utm_campaign=1048&utm_source=git)** | Staunton, VA | On Site | Dec 01 |
 | **[Kiewit](http://www.kiewit.com)** | **[Summer 2025 Field Engineer Intern - Central District](https://jobright.ai/jobs/info/672f508c69e72324a687dfcc?utm_campaign=1048&utm_source=git)** | Franklin, TN | On Site | Dec 01 |
+| **[TIC - The Industrial Company](https://www.ticus.com)** | **[Field/Office Engineer Intern - TIC Industrial 1 (Summer 2025)](https://jobright.ai/jobs/info/672f47604e9c0c337d492b5c?utm_campaign=1048&utm_source=git)** | Lenexa, KS | On Site | Dec 01 |
 | **[American Structurepoint](http://structurepoint.com)** | **[Investigative Engineering Internship-Chicago](https://jobright.ai/jobs/info/66be790ef0405070b6d6ad5d?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Dec 01 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Electrical Engineering Intern - Transmission & Distribution, Distribution Modernization (St. Louis/ Akron)](https://jobright.ai/jobs/info/66f71a500281fc729f696054?utm_campaign=1048&utm_source=git)** | St Louis, MO | On Site | Dec 01 |
 | **[American Structurepoint](http://structurepoint.com)** | **[Staff Engineer - Road - Cleveland, OH](https://jobright.ai/jobs/info/66be790ef0405070b6d6ad8b?utm_campaign=1048&utm_source=git)** | Greater Cleveland | On Site | Dec 01 |
@@ -150,12 +159,4 @@ Summer 2025](https://jobright.ai/jobs/info/674c90f5fc4620226a9c8a2d?utm_campaign
 | **[Kiewit](http://www.kiewit.com)** | **[Safety Internship - Summer 2025](https://jobright.ai/jobs/info/66d90d083f9a9804662cd7b0?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Dec 01 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/co-op Refining Construction Management (Spring 2025)](https://jobright.ai/jobs/info/672f47327528c799e11cbbf6?utm_campaign=1048&utm_source=git)** | Findlay, OH | On Site | Dec 01 |
 | **[Netflix](https://www.netflix.com)** | **[Machine Learning Engineer Intern, Summer 2025](https://jobright.ai/jobs/info/672bec56242df16051d7b3de?utm_campaign=1048&utm_source=git)** | Los Gatos, CA | On Site | Dec 01 |
-| **[Lam Research](http://www.lamresearch.com)** | **[Process Engineering Intern](https://jobright.ai/jobs/info/66f8aa85cc5013b71111806e?utm_campaign=1048&utm_source=git)** | Tualatin, OR | Hybrid | Dec 01 |
-| **[Netflix](https://www.netflix.com)** | **[Data Engineering Intern, Summer 2025](https://jobright.ai/jobs/info/6736cc1b38c68a7e4f346ff0?utm_campaign=1048&utm_source=git)** | Los Gatos, CA | On Site | Dec 01 |
-| **[Nutrien](https://www.nutrien.com/)** | **[Intern - Retail Field, Agronomy - Western IL Division](https://jobright.ai/jobs/info/674c46d4ad7a3d84e5deba01?utm_campaign=1048&utm_source=git)** | New Boston, IL | On Site | Dec 01 |
-| **[Landmark Construction Company, Inc.](https://www.landmark-sc.com)** | **[Landmark Construction Leadership Internship 2025](https://jobright.ai/jobs/info/674c35cc66d98e5334133d58?utm_campaign=1048&utm_source=git)** | Charleston, SC | On Site | Dec 01 |
-| **[Liebherr Group](http://www.liebherr.com)** | **[Product Validation Engineer Intern (Fall 2025)](https://jobright.ai/jobs/info/674c2cbb678418e321287001?utm_campaign=1048&utm_source=git)** | Newport News, VA | On Site | Dec 01 |
-| **[Dow](https://www.dowchemical.com)** | **[2024-2025 Campus Internship - Research & Development (PhD)](https://jobright.ai/jobs/info/67483e0fdc40b01b2bd17940?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Dec 01 |
-| **[Haleon](http://www.haleon.com/)** | **[Op Ex Industrial Engineer Intern](https://jobright.ai/jobs/info/674c2a37a2f8de55b018c71b?utm_campaign=1048&utm_source=git)** | St Louis, MO | On Site | Nov 30 |
-| **[Dewberry](http://www.dewberry.com/)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/674c2bec2cfe3800f1cc80f0?utm_campaign=1048&utm_source=git)** | Rancho Cordova, CA | On Site | Nov 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
