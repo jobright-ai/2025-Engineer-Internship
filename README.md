@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Syska Hennessy Group](http://www.syska.com)** | **[ICT Designer I](https://jobright.ai/jobs/info/675659fe3aefdfa4e73a32d9?utm_campaign=1048&utm_source=git)** | Boston, MA | Hybrid | Dec 08 |
+| ↳ | **[Electrical Engineering I](https://jobright.ai/jobs/info/675659fe3aefdfa4e73a32b6?utm_campaign=1048&utm_source=git)** | Atlanta, GA | Hybrid | Dec 08 |
+| ↳ | **[Electrical Engineer I](https://jobright.ai/jobs/info/675659fe3aefdfa4e73a32d1?utm_campaign=1048&utm_source=git)** | New York, United States | Hybrid | Dec 08 |
+| ↳ | **[ICT Designer I](https://jobright.ai/jobs/info/675659fe3aefdfa4e73a32fb?utm_campaign=1048&utm_source=git)** | New York, United States | Hybrid | Dec 08 |
+| ↳ | **[Mechanical Engineer I](https://jobright.ai/jobs/info/675663f9030b36561291aff2?utm_campaign=1048&utm_source=git)** | New York, United States | Hybrid | Dec 08 |
+| ↳ | **[Electrical Engineering I](https://jobright.ai/jobs/info/675659fe3aefdfa4e73a32c9?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Dec 08 |
+| ↳ | **[Mechanical Engineer I](https://jobright.ai/jobs/info/675659fe3aefdfa4e73a32dc?utm_campaign=1048&utm_source=git)** | Charlotte, NC | Hybrid | Dec 08 |
+| ↳ | **[ICT Designer I](https://jobright.ai/jobs/info/675663f9030b36561291b0ce?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Dec 08 |
+| ↳ | **[Plumbing Engineer I](https://jobright.ai/jobs/info/675659fe3aefdfa4e73a32e3?utm_campaign=1048&utm_source=git)** | New York, NY | Hybrid | Dec 08 |
+| ↳ | **[ICT Designer I](https://jobright.ai/jobs/info/675659fe3aefdfa4e73a32cc?utm_campaign=1048&utm_source=git)** | Washington, DC | Hybrid | Dec 08 |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Climbing Arborist Internship (Spring/Summer 2025)/ Wickliffe, Ohio](https://jobright.ai/jobs/info/67565245f67cc5326438a6f2?utm_campaign=1048&utm_source=git)** | Wickliffe, OH | On Site | Dec 08 |
+| ↳ | **[Climbing Arborist Internship (Spring/Summer 2025) / North Royalton, Ohio](https://jobright.ai/jobs/info/67565245f67cc5326438a6f3?utm_campaign=1048&utm_source=git)** | North Royalton, OH | On Site | Dec 08 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Engineering Field Support](https://jobright.ai/jobs/info/675637eb0b06a32b55a1d4c2?utm_campaign=1048&utm_source=git)** | Poway California | On Site | Dec 08 |
 | ↳ | **[Intern - Engineering Field Support](https://jobright.ai/jobs/info/675637eb0b06a32b55a1d4c8?utm_campaign=1048&utm_source=git)** | Poway California | On Site | Dec 08 |
 | ↳ | **[Intern - Engineering Field Support](https://jobright.ai/jobs/info/67562e93eef6981e960efc8d?utm_campaign=1048&utm_source=git)** | Poway, CA | On Site | Dec 08 |
@@ -85,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[Stevens Towing Company](https://www.stevens-towing.com)** | **[Safety Technician Intern](https://jobright.ai/jobs/info/6755935c87924a6e3eeec580?utm_campaign=1048&utm_source=git)** | Yonges Island, SC | On Site | Dec 08 |
 | **[SmithGroup](https://www.smithgroup.com/)** | **[Lighting Design Intern](https://jobright.ai/jobs/info/675596d0ffb8760d0d044eaf?utm_campaign=1048&utm_source=git)** | Detroit, MI | Hybrid | Dec 08 |
 | **[Nikkiso Clean Energy & Industrial Gases](https://www.NikkisoCEIG.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/671af956278119cd14d26890?utm_campaign=1048&utm_source=git)** | Murrieta, CA | On Site | Dec 08 |
+| **[S&B](https://www.sbec.com)** | **[Intern, Naval Architect - New Orleans, LA](https://jobright.ai/jobs/info/6756597c6b8c2c02bf298e26?utm_campaign=1048&utm_source=git)** | New Orleans, LA | On Site | Dec 08 |
 | **[Charter Dura-Bar](https://www.charterdura-bar.com/)** | **[Industrial Engineer Intern (Summer 2025)](https://jobright.ai/jobs/info/66e4adb947949d821b75fa06?utm_campaign=1048&utm_source=git)** | Woodstock, IL | On Site | Dec 08 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Guidance, Navigation, and Control Engineer - Intern (Winter 2025)](https://jobright.ai/jobs/info/6749547e6b02eb4a41c531ea?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Dec 08 |
 | **[Benesch](https://www.benesch.com)** | **[Internship and Early Career Opportunities at Benesch](https://jobright.ai/jobs/info/66c8e0d3e63226122f79ddc4?utm_campaign=1048&utm_source=git)** | Augusta, GA | Hybrid | Dec 08 |
@@ -135,7 +148,7 @@ Winter 2025](https://jobright.ai/jobs/info/67559fb998bab43956cf4fa0?utm_campaign
 | ↳ | **[CNO Developer - All Levels](https://jobright.ai/jobs/info/67555ac4bd4797960a8c58ab?utm_campaign=1048&utm_source=git)** | Annapolis Junction, MD | On Site | Dec 07 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Engineering Co-op](https://jobright.ai/jobs/info/67554632fe792b0028f63a01?utm_campaign=1048&utm_source=git)** | Greenville, NC | On Site | Dec 07 |
 | **[Hexcel Corporation](http://hexcel.com)** | **[Cybersecurity Intern](https://jobright.ai/jobs/info/67554632fe792b0028f63a0e?utm_campaign=1048&utm_source=git)** | SLC Metro Area | On Site | Dec 07 |
-| **[Interclypse](https://interclypse.com/)** | **[Reverse Engineer - All Levels](https://jobright.ai/jobs/info/675556d3f907fa3fbad13765?utm_campaign=1048&utm_source=git)** | Annapolis Junction, MD | On Site | Dec 07 |
+| **[Interclypse](https://interclypse.com/)** | **[Reverse Engineer - All Levels](https://jobright.ai/jobs/info/675556d3f907fa3fbad1376a?utm_campaign=1048&utm_source=git)** | Annapolis Junction, MD | On Site | Dec 07 |
 | ↳ | **[Exploit Developer - All Levels](https://jobright.ai/jobs/info/675556d3f907fa3fbad1376b?utm_campaign=1048&utm_source=git)** | Reston, VA | On Site | Dec 07 |
 | ↳ | **[Cloud Administrator - All Levels](https://jobright.ai/jobs/info/675556d3f907fa3fbad1376e?utm_campaign=1048&utm_source=git)** | Reston, VA | On Site | Dec 07 |
 | ↳ | **[Systems Engineer](https://jobright.ai/jobs/info/675556d3f907fa3fbad13773?utm_campaign=1048&utm_source=git)** | Annapolis Junction, MD | On Site | Dec 07 |
@@ -145,17 +158,4 @@ Winter 2025](https://jobright.ai/jobs/info/67559fb998bab43956cf4fa0?utm_campaign
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Ergonomics/Safety Intern](https://jobright.ai/jobs/info/675545c6619d245da33e3234?utm_campaign=1048&utm_source=git)** | Chillicothe, OH | On Site | Dec 07 |
 | ↳ | **[Material Planning/Material Handling/MSS Intern](https://jobright.ai/jobs/info/67553235b0e67779ecf8f98c?utm_campaign=1048&utm_source=git)** | Chillicothe, OH | On Site | Dec 07 |
 | ↳ | **[Reliability Intern](https://jobright.ai/jobs/info/675530aac4e98872f225ef9e?utm_campaign=1048&utm_source=git)** | Chillicothe, OH | On Site | Dec 07 |
-| ↳ | **[Design Engineer Intern](https://jobright.ai/jobs/info/67553235b0e67779ecf8f989?utm_campaign=1048&utm_source=git)** | Chillicothe, OH | On Site | Dec 07 |
-| ↳ | **[Quality Intern](https://jobright.ai/jobs/info/67553235b0e67779ecf8f983?utm_campaign=1048&utm_source=git)** | Chillicothe, OH | On Site | Dec 07 |
-| ↳ | **[Manufacturing Engineer Intern](https://jobright.ai/jobs/info/67553235b0e67779ecf8f986?utm_campaign=1048&utm_source=git)** | Chillicothe, OH | On Site | Dec 07 |
-| ↳ | **[Data Engineering Intern](https://jobright.ai/jobs/info/67553235b0e67779ecf8f985?utm_campaign=1048&utm_source=git)** | Chillicothe, OH | On Site | Dec 07 |
-| **[Meta](https://www.metacareers.com/)** | **[Research Scientist Intern, PyTorch Core (PhD)](https://jobright.ai/jobs/info/6755621db6857963daee7f79?utm_campaign=1048&utm_source=git)** | Menlo Park, CA | On Site | Dec 07 |
-| **[Renesas Electronics](https://www.renesas.com)** | **[Analog Design Intern](https://jobright.ai/jobs/info/675232c86ef56a79e3b5b633?utm_campaign=1048&utm_source=git)** | Palm Bay, FL | On Site | Dec 07 |
-| **[HANWHA ADVANCED MATERIALS AMERICA, LLC](http://hanwhaus.com)** | **[[Spring 2025] Production Engineering Intern](https://jobright.ai/jobs/info/67551c7c51b6c65065783d23?utm_campaign=1048&utm_source=git)** | Georgetown, TX | On Site | Dec 07 |
-| **[Green Mountain Power](https://greenmountainpower.com/)** | **[Apprentice through 1st Class Lineworker in Sunderland](https://jobright.ai/jobs/info/6755178d993d1c5537e7f148?utm_campaign=1048&utm_source=git)** | Sunderland, VT | On Site | Dec 07 |
-| **[Memorial Hermann Health System](https://www.memorialhermann.org/foundation)** | **[Spring 2025 Fellowship Program-Special Procedures Tech for Cath Lab](https://jobright.ai/jobs/info/67551445d19e928dffd3e3e1?utm_campaign=1048&utm_source=git)** | Pearland, TX | On Site | Dec 07 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Research & Development Co-op](https://jobright.ai/jobs/info/6754f29628e30a3d84bbf697?utm_campaign=1048&utm_source=git)** | Hillsboro, OR | On Site | Dec 07 |
-| **[US Army Corps of Engineers](https://www.usace.army.mil/)** | **[STUDENT TRAINEE (ENGINEERING AND ARCHITECTURE)](https://jobright.ai/jobs/info/6754fa13677bbba1e1d1c42e?utm_campaign=1048&utm_source=git)** | West Point, NY | On Site | Dec 07 |
-| **[Northrop Grumman](https://www.northropgrumman.com/)** | **[2025 Environmental Health and Safety Intern – Baltimore MD - R10177830](https://jobright.ai/jobs/info/6754f29628e30a3d84bbf68c?utm_campaign=1048&utm_source=git)** | Linthicum, MD | On Site | Dec 07 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Refining Electrical Engineering Intern/Co-op Spring 2025](https://jobright.ai/jobs/info/67245327fa4bf50ada642d9c?utm_campaign=1048&utm_source=git)** | Canton, OH | On Site | Dec 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
