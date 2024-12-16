@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Monterey Bay Aquarium](http://www.montereybayaquarium.org)** | **[Sea Otter Research Intern (March - September 2025)](https://jobright.ai/jobs/info/675f9d4d357f591ac534ac0a?utm_campaign=1048&utm_source=git)** | Monterey, CA | On Site | Dec 15 |
+| **[SAM](https://www.sam.biz)** | **[DOD SkillBridge Internship (Authorized SkillBridge Organization - Military Personnel Only)](https://jobright.ai/jobs/info/675f9b0873dc338eeadf69f5?utm_campaign=1048&utm_source=git)** | Merriam, KS | Hybrid | Dec 15 |
+| **[ATA Engineering](http://www.ata-e.com/)** | **[ATA Engineering, Inc. is hiring: Technical Editor Intern in San Diego](https://jobright.ai/jobs/info/675f9f97d988d041554bb717?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Dec 15 |
+| **[Weyerhaeuser](http://www.weyerhaeuser.com)** | **[Electrical Intern - Millport, AL](https://jobright.ai/jobs/info/675f9b0873dc338eeadf6a03?utm_campaign=1048&utm_source=git)** | Millport, AL | On Site | Dec 15 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Intern - Retail Field, Agronomy - Western IL Division](https://jobright.ai/jobs/info/675f6966615d444f67843022?utm_campaign=1048&utm_source=git)** | New Boston, IL | On Site | Dec 15 |
 | **[Hilcorp](http://www.hilcorp.com)** | **[I-2539 - Engineering Co-Op Student](https://jobright.ai/jobs/info/675f604585b715961c52cc7c?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Dec 15 |
 | **[Sterling Construction, Inc.](https://www.sterlingconstruct.com)** | **[Internship- Survey](https://jobright.ai/jobs/info/675f604585b715961c52cd95?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT | On Site | Dec 15 |
@@ -79,11 +83,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Transportation Engineering Internship](https://jobright.ai/jobs/info/675efaf94adf11706e58ce33?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | Dec 15 |
 | ↳ | **[Transportation Engineering Internship](https://jobright.ai/jobs/info/675efaf94adf11706e58ce34?utm_campaign=1048&utm_source=git)** | Miramar Beach, FL | On Site | Dec 15 |
 | ↳ | **[Water / Wastewater Engineering Internship](https://jobright.ai/jobs/info/675efaf94adf11706e58ce37?utm_campaign=1048&utm_source=git)** | Peachtree Corners, GA | On Site | Dec 15 |
-| ↳ | **[Bridge Engineering Internship](https://jobright.ai/jobs/info/675efaf94adf11706e58ce3b?utm_campaign=1048&utm_source=git)** | Nashville, TN | On Site | Dec 15 |
 | ↳ | **[Civil Engineering Internship](https://jobright.ai/jobs/info/675efaf94adf11706e58ce39?utm_campaign=1048&utm_source=git)** | Miamisburg, OH | On Site | Dec 15 |
 | ↳ | **[Water / Wastewater Engineering Internship](https://jobright.ai/jobs/info/675efaf94adf11706e58ce3a?utm_campaign=1048&utm_source=git)** | Dothan, AL | On Site | Dec 15 |
+| ↳ | **[Bridge Engineering Internship](https://jobright.ai/jobs/info/675efaf94adf11706e58ce3b?utm_campaign=1048&utm_source=git)** | Nashville, TN | On Site | Dec 15 |
 | ↳ | **[Civil Engineering Internship](https://jobright.ai/jobs/info/675efaf94adf11706e58ce3c?utm_campaign=1048&utm_source=git)** | Knoxville, TN | On Site | Dec 15 |
-| **[Honeywell](http://www.honeywell.com)** | **[Intern PhD Physics - AMO or Silicon Photonics](https://jobright.ai/jobs/info/675ed41ee5f33f93cbf33b23?utm_campaign=1048&utm_source=git)** | Arizona, United States | On Site | Dec 15 |
 | **[Stevens Towing Company](https://www.stevens-towing.com)** | **[Safety Technician Intern](https://jobright.ai/jobs/info/675ed927297987c1d4b472ee?utm_campaign=1048&utm_source=git)** | Yonges Island, SC | On Site | Dec 15 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Engineering Co-op (May - December 2025)](https://jobright.ai/jobs/info/66fcc2869d7d3e68080e2841?utm_campaign=1048&utm_source=git)** | Green Bay, WI | On Site | Dec 15 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Efficient AI](https://jobright.ai/jobs/info/6724eac52cc59c4dfb69f1f2?utm_campaign=1048&utm_source=git)** | Redmond, WA | Hybrid | Dec 15 |
@@ -97,6 +100,7 @@ For a complete list, click the following sortable link below:
 | **[HellermannTyton North America](https://www.hellermanntyton.us/?utm_source=linkedin&utm_medium=social&utm_campaign=aboutHT&utm_content=mainpage)** | **[Intern - Manufacturing Industrial Engineer](https://jobright.ai/jobs/info/67251b779a1c0ae6dd201f45?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | On Site | Dec 15 |
 | **[Constellation](https://www.constellationenergy.com/)** | **[Nuclear Technical Intern - North East](https://jobright.ai/jobs/info/6726170744383f2b1ff51cb8?utm_campaign=1048&utm_source=git)** | Oswego, NY | On Site | Dec 15 |
 | **[Shell](https://www.shell.com)** | **[Shell Assessed Internship Program 2025 - United States](https://jobright.ai/jobs/info/672602a28faf63b894bcc531?utm_campaign=1048&utm_source=git)** | Deer Park, TX | Hybrid | Dec 15 |
+| **[Catalent Pharma Solutions](https://www.catalent.com)** | **[Intern - EHS&S](https://jobright.ai/jobs/info/6752ce95784e09a183d5e5a6?utm_campaign=1048&utm_source=git)** | Madison, WI | On Site | Dec 15 |
 | **[Benesch](https://www.benesch.com)** | **[Civil Internship](https://jobright.ai/jobs/info/66d120eda4302bc8673538c4?utm_campaign=1048&utm_source=git)** | Topeka, KS | Hybrid | Dec 15 |
 | **[Ecolab](http://www.ecolab.com)** | **[Supply Chain Intern - Engineering and Business Majors](https://jobright.ai/jobs/info/67568962e0cf50903a82eb08?utm_campaign=1048&utm_source=git)** | McDonough, GA | On Site | Dec 15 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/66d0b394a852b522219c6d5e?utm_campaign=1048&utm_source=git)** | Eden Prairie, MN | On Site | Dec 15 |
@@ -149,13 +153,9 @@ Winter 2025](https://jobright.ai/jobs/info/675ec74dd67d89faa6752a19?utm_campaign
 | ↳ | **[Mechanical Engineering Intern - Summer 2025](https://jobright.ai/jobs/info/675b6ab664d0fc509240dbe1?utm_campaign=1048&utm_source=git)** | Indianapolis, IN | On Site | Dec 14 |
 | **[Meta](https://www.metacareers.com/)** | **[Software Engineer Intern, Machine Learning (PhD)](https://jobright.ai/jobs/info/675e5709402c8972306de89c?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Dec 14 |
 | **[Coca-Cola Beverages Florida](https://cokeflorida.com)** | **[2025 Summer Intern - Environmental Health, Safety and Sustainability (EHSS)](https://jobright.ai/jobs/info/675e6ad5677e5fd6e6cbb772?utm_campaign=1048&utm_source=git)** | Tampa, FL | Hybrid | Dec 14 |
+| **[Trane Technologies](https://www.tranetechnologies.com)** | **[2025 AME Intern](https://jobright.ai/jobs/info/675f9f1b2a8e48a36bb8063a?utm_campaign=1048&utm_source=git)** | Columbia, SC | On Site | Dec 14 |
 | **[ICU Medical](https://www.icumed.com/products/specialty/renal-systems/clearguard-hd)** | **[Intern - Electro Mechanical Engineer](https://jobright.ai/jobs/info/675e38537d8bd7e3271fe512?utm_campaign=1048&utm_source=git)** | Lake Forest, IL | On Site | Dec 14 |
+| **[Guidehouse](https://guidehouse.com)** | **[Intern - Energy Providers, North - Campus 2025](https://jobright.ai/jobs/info/672541cfb4d777ee0ab6a691?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | Dec 14 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Service Technician Trainee (Fall 2024)](https://jobright.ai/jobs/info/675e43bded58857ff8b79068?utm_campaign=1048&utm_source=git)** | Raleigh, NC | On Site | Dec 14 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship (2025) / Downers Grove, IL](https://jobright.ai/jobs/info/675e4ea5b2054b91f4cf63ca?utm_campaign=1048&utm_source=git)** | Willowbrook, IL | On Site | Dec 14 |
-| ↳ | **[Arborist Trainee Internship (2025) / Naperville, IL](https://jobright.ai/jobs/info/675e3c9b4fa9a0ed242234e5?utm_campaign=1048&utm_source=git)** | Naperville, IL | On Site | Dec 14 |
-| ↳ | **[Arborist Trainee Internship (2025) / West Chicago, IL](https://jobright.ai/jobs/info/675e3c9b4fa9a0ed242234e7?utm_campaign=1048&utm_source=git)** | West Chicago, IL | On Site | Dec 14 |
-| ↳ | **[Arborist Trainee Internship (2025) / East Dundee, IL](https://jobright.ai/jobs/info/675e540d68ca5a33f4de9c10?utm_campaign=1048&utm_source=git)** | Dundee, IL | On Site | Dec 14 |
-| **[Northrop Grumman](https://www.northropgrumman.com/)** | **[2025 Global Supply Chain Intern - Sierra Vista AZ or Clearfield UT - R10176455](https://jobright.ai/jobs/info/675e91be5d27afee345a16bd?utm_campaign=1048&utm_source=git)** | Sierra Vista, AZ | On Site | Dec 14 |
-| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship (2025) / Burr Ridge, IL](https://jobright.ai/jobs/info/675e446f2673f196596fb7d0?utm_campaign=1048&utm_source=git)** | Willowbrook, IL | On Site | Dec 14 |
-| **[Kiewit](http://www.kiewit.com)** | **[Equipment/Mechanical Engineer Intern - Kiewit Mining Group 2025](https://jobright.ai/jobs/info/66edfc1bedbc0445a4340332?utm_campaign=1048&utm_source=git)** | Tok, AK | On Site | Dec 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
