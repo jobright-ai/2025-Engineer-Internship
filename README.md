@@ -57,32 +57,32 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[GE HealthCare](http://www.gehealthcare.com)** | **[MILITARY DoD SKILLBRIDGE Field Engineer (Sacramento & Bay Area, CA)](https://jobright.ai/jobs/info/677115674da8acb543ae30b3?utm_campaign=1048&utm_source=git)** | Kansas, United States | On Site | Dec 29 |
+| **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern, Salvy Lab](https://jobright.ai/jobs/info/6771373b836a26407773aa2c?utm_campaign=1048&utm_source=git)** | California, United States | On Site | Dec 29 |
+| **[Weeks Marine, Inc.](http://www.weeksmarine.com)** | **[Weeks Marine Construction - Field Engineer Intern](https://jobright.ai/jobs/info/66e1d801d1ca7ab8e7380b31?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Dec 29 |
+| **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[2025 ASIC RTL Engineer Intern, Annapurna Labs](https://jobright.ai/jobs/info/66ff529f646299eebce345d9?utm_campaign=1048&utm_source=git)** | Cupertino, CA | On Site | Dec 29 |
+| **[Thornton Tomasetti](http://www.thorntontomasetti.com)** | **[Engineer (Summer 2025) - Structural](https://jobright.ai/jobs/info/66c7e2d8cd1bd6ee81db2e00?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Dec 29 |
+| **[L3Harris Technologies](https://www.l3harris.com/)** | **[Intern D, Systems Eng (Phoenix, AZ)](https://jobright.ai/jobs/info/66c7b73eae43499602fa0a7e?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | Dec 29 |
+| **[Peter Basso Associates](http://www.peterbassoassociates.com/)** | **[Electrical Co-Op
+Summer 2025](https://jobright.ai/jobs/info/67712098827d7defa6849c59?utm_campaign=1048&utm_source=git)** | Troy, MI | On Site | Dec 29 |
+| **[GE HealthCare](http://www.gehealthcare.com)** | **[MILITARY DoD SKILLBRIDGE Field Engineer](https://jobright.ai/jobs/info/67711f4dcea173a07c9c530d?utm_campaign=1048&utm_source=git)** | Iowa, United States | On Site | Dec 29 |
+| ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer (Sacramento & Bay Area, CA)](https://jobright.ai/jobs/info/677115674da8acb543ae30b3?utm_campaign=1048&utm_source=git)** | Kansas, United States | On Site | Dec 29 |
 | ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer (Sacramento & Bay Area, CA)](https://jobright.ai/jobs/info/677115674da8acb543ae30b4?utm_campaign=1048&utm_source=git)** | Delaware, United States | On Site | Dec 29 |
-| ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer](https://jobright.ai/jobs/info/677107899051681cfc606b4c?utm_campaign=1048&utm_source=git)** | Massachusetts, United States | On Site | Dec 29 |
 | ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer (Sacramento & Bay Area, CA)](https://jobright.ai/jobs/info/677107899051681cfc606b4d?utm_campaign=1048&utm_source=git)** | Massachusetts, United States | On Site | Dec 29 |
+| ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer](https://jobright.ai/jobs/info/677107899051681cfc606b4c?utm_campaign=1048&utm_source=git)** | Massachusetts, United States | On Site | Dec 29 |
 | ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer](https://jobright.ai/jobs/info/67711286f4e194a4cb16074e?utm_campaign=1048&utm_source=git)** | Delaware, United States | On Site | Dec 29 |
 | ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer](https://jobright.ai/jobs/info/67711286f4e194a4cb16074f?utm_campaign=1048&utm_source=git)** | Kansas, United States | On Site | Dec 29 |
 | ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer](https://jobright.ai/jobs/info/67711286f4e194a4cb160750?utm_campaign=1048&utm_source=git)** | Connecticut, United States | On Site | Dec 29 |
-| ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer](https://jobright.ai/jobs/info/67711286f4e194a4cb160754?utm_campaign=1048&utm_source=git)** | Louisiana, United States | On Site | Dec 29 |
 | ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer (Sacramento & Bay Area, CA)](https://jobright.ai/jobs/info/67711286f4e194a4cb160751?utm_campaign=1048&utm_source=git)** | Louisiana, United States | On Site | Dec 29 |
+| ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer](https://jobright.ai/jobs/info/67711286f4e194a4cb160754?utm_campaign=1048&utm_source=git)** | Louisiana, United States | On Site | Dec 29 |
 | **[Fives Intralogistics ](https://www.fivesgroup.com/smart-automation-solutions)** | **[Manufacturing Engineering Internship](https://jobright.ai/jobs/info/6770f96b7c79a1359f5285ad?utm_campaign=1048&utm_source=git)** | Cleveland, OH | On Site | Dec 28 |
 | **[FM](https://www.fmglobal.com)** | **[FM Research Doctorate Internship Structures and Geohazards Summer 2025-NISAR data](https://jobright.ai/jobs/info/6770e2e15d72ca21653332b8?utm_campaign=1048&utm_source=git)** | Norwood, MA | On Site | Dec 28 |
 | **[Herzog](https://www.herzog.com/)** | **[Safety Intern](https://jobright.ai/jobs/info/6770d9a5a2290b97ea68bddd?utm_campaign=1048&utm_source=git)** | Las Vegas, NV | On Site | Dec 28 |
 | **[PacifiCorp](https://www.pacificorp.com/)** | **[Student Engineer, Salt Lake City, UT #113026](https://jobright.ai/jobs/info/6770ca8dd41ac5782fa82768?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT | On Site | Dec 28 |
 | **[ZOLL Medical Corporation](https://www.lifevest.zoll.com)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/6770b932754a41996808bb29?utm_campaign=1048&utm_source=git)** | Chelmsford, MA | On Site | Dec 28 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[MILITARY DoD SKILLBRIDGE Field Engineer](https://jobright.ai/jobs/info/6770b37a830e0d7b1fa1291c?utm_campaign=1048&utm_source=git)** | Washington, DC | On Site | Dec 28 |
-| ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer](https://jobright.ai/jobs/info/6770b0a7aff68581737fd4e2?utm_campaign=1048&utm_source=git)** | West Virginia, United States | On Site | Dec 28 |
 | ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer (Sacramento & Bay Area, CA)](https://jobright.ai/jobs/info/6770b0a7aff68581737fd4e4?utm_campaign=1048&utm_source=git)** | Colorado, United States | On Site | Dec 28 |
-| ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer](https://jobright.ai/jobs/info/6770b0a7aff68581737fd4e5?utm_campaign=1048&utm_source=git)** | Arkansas, United States | On Site | Dec 28 |
-| ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer (Sacramento & Bay Area, CA)](https://jobright.ai/jobs/info/6770b0a7aff68581737fd4e8?utm_campaign=1048&utm_source=git)** | Alabama, United States | On Site | Dec 28 |
-| ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer](https://jobright.ai/jobs/info/6770b0a7aff68581737fd4e9?utm_campaign=1048&utm_source=git)** | California, United States | On Site | Dec 28 |
-| ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer (Sacramento & Bay Area, CA)](https://jobright.ai/jobs/info/6770b0a7aff68581737fd4eb?utm_campaign=1048&utm_source=git)** | Tennessee, United States | On Site | Dec 28 |
 | **[Weyerhaeuser](http://www.weyerhaeuser.com)** | **[Electrical Intern - Millport, AL](https://jobright.ai/jobs/info/6770b0ef4357d73ae5b27c22?utm_campaign=1048&utm_source=git)** | Millport, AL | On Site | Dec 28 |
-| **[GE HealthCare](http://www.gehealthcare.com)** | **[MILITARY DoD SKILLBRIDGE Field Engineer](https://jobright.ai/jobs/info/6770b0a7aff68581737fd4f4?utm_campaign=1048&utm_source=git)** | Wisconsin, United States | On Site | Dec 28 |
-| ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer (Sacramento & Bay Area, CA)](https://jobright.ai/jobs/info/6770b0a7aff68581737fd4f5?utm_campaign=1048&utm_source=git)** | District of Columbia, United States | On Site | Dec 28 |
-| ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer (Sacramento & Bay Area, CA)](https://jobright.ai/jobs/info/6770b0a7aff68581737fd4f6?utm_campaign=1048&utm_source=git)** | Alaska, United States | On Site | Dec 28 |
-| ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer (Sacramento & Bay Area, CA)](https://jobright.ai/jobs/info/6770b0a7aff68581737fd4f7?utm_campaign=1048&utm_source=git)** | Rhode Island, United States | On Site | Dec 28 |
+| **[GE HealthCare](http://www.gehealthcare.com)** | **[MILITARY DoD SKILLBRIDGE Field Engineer (Sacramento & Bay Area, CA)](https://jobright.ai/jobs/info/6770b0a7aff68581737fd4f6?utm_campaign=1048&utm_source=git)** | Alaska, United States | On Site | Dec 28 |
 | ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer (Sacramento & Bay Area, CA)](https://jobright.ai/jobs/info/6770b0a7aff68581737fd4f8?utm_campaign=1048&utm_source=git)** | Arizona, United States | On Site | Dec 28 |
 | **[Stevens Towing Company](https://www.stevens-towing.com)** | **[Safety Technician Intern](https://jobright.ai/jobs/info/6770976b9eb103db8ca87d9e?utm_campaign=1048&utm_source=git)** | Yonges Island, SC | On Site | Dec 28 |
 | **[PwC](http://pwc.com)** | **[Digital Assurance & Transparency (DAT) Intern - Summer 2026 - Destination CPA](https://jobright.ai/jobs/info/67707effb92e57bd3e4e144c?utm_campaign=1048&utm_source=git)** | California, United States | On Site | Dec 28 |
@@ -93,10 +93,8 @@ Summer 2025](https://jobright.ai/jobs/info/6770b677673ec966e2ab71cc?utm_campaign
 | ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer (Sacramento & Bay Area, CA)](https://jobright.ai/jobs/info/677072146690b1ace3dde1e2?utm_campaign=1048&utm_source=git)** | Colorado, United States | On Site | Dec 28 |
 | ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer](https://jobright.ai/jobs/info/677072146690b1ace3dde1e3?utm_campaign=1048&utm_source=git)** | Ohio, United States | On Site | Dec 28 |
 | ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer](https://jobright.ai/jobs/info/677072146690b1ace3dde1e5?utm_campaign=1048&utm_source=git)** | Connecticut, United States | On Site | Dec 28 |
-| ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer](https://jobright.ai/jobs/info/67706a3f790f063ddb88bd33?utm_campaign=1048&utm_source=git)** | Washington, DC | On Site | Dec 28 |
-| ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer (Sacramento & Bay Area, CA)](https://jobright.ai/jobs/info/67706a3f790f063ddb88bd35?utm_campaign=1048&utm_source=git)** | Arizona, United States | On Site | Dec 28 |
+| ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer](https://jobright.ai/jobs/info/67706a3f790f063ddb88bd34?utm_campaign=1048&utm_source=git)** | West Virginia, United States | On Site | Dec 28 |
 | ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer (Sacramento & Bay Area, CA)](https://jobright.ai/jobs/info/67706a3f790f063ddb88bd3a?utm_campaign=1048&utm_source=git)** | California, United States | On Site | Dec 28 |
-| ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer (Sacramento & Bay Area, CA)](https://jobright.ai/jobs/info/67705de8a642c4aa2f505c20?utm_campaign=1048&utm_source=git)** | Delaware, United States | On Site | Dec 28 |
 | ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer](https://jobright.ai/jobs/info/67705de8a642c4aa2f505c24?utm_campaign=1048&utm_source=git)** | New York, United States | On Site | Dec 28 |
 | **[Nidec Minster Corporation](https://www.minster.com)** | **[Manufacturing Student Intern: Machining](https://jobright.ai/jobs/info/6770654842be77737bdad8a2?utm_campaign=1048&utm_source=git)** | Minster, OH | On Site | Dec 28 |
 | ↳ | **[Manufacturing Student Intern: Electrical](https://jobright.ai/jobs/info/6770654842be77737bdad8a3?utm_campaign=1048&utm_source=git)** | Minster, OH | On Site | Dec 28 |
@@ -114,10 +112,8 @@ Summer 2025](https://jobright.ai/jobs/info/6770b677673ec966e2ab71cc?utm_campaign
 | ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer (Sacramento & Bay Area, CA)](https://jobright.ai/jobs/info/67701397684f8210af8ecef1?utm_campaign=1048&utm_source=git)** | Mississippi, United States | On Site | Dec 28 |
 | ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer (Sacramento & Bay Area, CA)](https://jobright.ai/jobs/info/677008d78f058e227f4da078?utm_campaign=1048&utm_source=git)** | Florida, United States | On Site | Dec 28 |
 | ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer](https://jobright.ai/jobs/info/677008d78f058e227f4da079?utm_campaign=1048&utm_source=git)** | Rhode Island, United States | On Site | Dec 28 |
-| ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer](https://jobright.ai/jobs/info/677008d78f058e227f4da07a?utm_campaign=1048&utm_source=git)** | West Virginia, United States | On Site | Dec 28 |
 | ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer](https://jobright.ai/jobs/info/67700b6355f6c9255255af7e?utm_campaign=1048&utm_source=git)** | Tennessee, United States | On Site | Dec 28 |
-| ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer](https://jobright.ai/jobs/info/67700b6355f6c9255255af81?utm_campaign=1048&utm_source=git)** | Wisconsin, United States | On Site | Dec 28 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Infrastructure Automation Intern](https://jobright.ai/jobs/info/6770191bcef28bb69be2f41c?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | On Site | Dec 28 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Infrastructure Automation Intern](https://jobright.ai/jobs/info/67702663bf28bc54ab592961?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | On Site | Dec 28 |
 | ↳ | **[AI-ML Research Sr. Intern](https://jobright.ai/jobs/info/676fff61876552945f775886?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA | On Site | Dec 28 |
 | ↳ | **[Artificial Intelligence Internship](https://jobright.ai/jobs/info/676fff61876552945f77588b?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | On Site | Dec 28 |
 | ↳ | **[PPI Specialist Intern](https://jobright.ai/jobs/info/676fff61876552945f77588a?utm_campaign=1048&utm_source=git)** | Marietta, OH | On Site | Dec 28 |
@@ -127,7 +123,7 @@ Summer 2025](https://jobright.ai/jobs/info/6770b677673ec966e2ab71cc?utm_campaign
 | ↳ | **[Pharmaceutical Sciences Intern](https://jobright.ai/jobs/info/676ff9984161680172b2e2b3?utm_campaign=1048&utm_source=git)** | Middleton, WI | On Site | Dec 28 |
 | ↳ | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/676ff9984161680172b2e2b7?utm_campaign=1048&utm_source=git)** | Pleasanton, CA | On Site | Dec 28 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[CAD Operator / Intern](https://jobright.ai/jobs/info/676fe667151f3522c9f32f67?utm_campaign=1048&utm_source=git)** | Woodstock, GA | On Site | Dec 28 |
-| **[State of South Dakota](https://dss.sd.gov)** | **[Engineer I (Assistant Geotechnical Engineer) with Scholarship](https://jobright.ai/jobs/info/67636b37f6bef962d99fce77?utm_campaign=1048&utm_source=git)** | Pierre, SD | On Site | Dec 28 |
+| **[State of South Dakota](https://doh.sd.gov/)** | **[Engineer I (Assistant Geotechnical Engineer) with Scholarship](https://jobright.ai/jobs/info/67636b37f6bef962d99fce77?utm_campaign=1048&utm_source=git)** | Pierre, SD | On Site | Dec 28 |
 | **[Olsson](https://www.olsson.com)** | **[Civil Engineering Internship - Traffic/Technology](https://jobright.ai/jobs/info/6753b6f658049e9a02de07a0?utm_campaign=1048&utm_source=git)** | Oklahoma City, OK | On Site | Dec 28 |
 | **[Toyota Research Institute](http://www.tri.global)** | **[Robotics Intern - Large Behavior Models, Multimodal Sensing](https://jobright.ai/jobs/info/675aa954d12d100d8f4e3de4?utm_campaign=1048&utm_source=git)** | Cambridge, MA | On Site | Dec 28 |
 | **[Generac](https://www.generac.com/)** | **[Mechanical Engineering Intern - Portable Product Design](https://jobright.ai/jobs/info/66e8c841eecf11e9c6d31275?utm_campaign=1048&utm_source=git)** | Jefferson, WI | On Site | Dec 28 |
@@ -141,12 +137,15 @@ Summer 2025](https://jobright.ai/jobs/info/676ffed0209bca9ba90b2bd3?utm_campaign
 | ↳ | **[Software Development Engineer 2025, AI/ML](https://jobright.ai/jobs/info/6737be6c162e47cec4a328fa?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Dec 28 |
 | **[American Water](http://amwater.com)** | **[Water Quality Intern](https://jobright.ai/jobs/info/6739cab04dc42e40a334780c?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | Hybrid | Dec 28 |
 | **[John Deere](https://www.deere.com)** | **[Part Time Student - Paint Manufacturing Engineering - Moline, IL](https://jobright.ai/jobs/info/6753a1ccf9f7affa28bd4d54?utm_campaign=1048&utm_source=git)** | Moline, IL | Hybrid | Dec 28 |
+| **[B&G Foods Inc.](http://bgfoods.com)** | **[Food Safety and Quality Intern](https://jobright.ai/jobs/info/67455c2c874cd97a766fd00e?utm_campaign=1048&utm_source=git)** | Ankeny, IA | On Site | Dec 28 |
 | **[HDR](http://www.hdrinc.com)** | **[Civil/Structural Engineering Intern](https://jobright.ai/jobs/info/66c7961414e8b425b0ba5327?utm_campaign=1048&utm_source=git)** | Ann Arbor, MI | On Site | Dec 28 |
 | **[Waymo](https://waymo.com/)** | **[2025 Summer Intern, PhD, ML Planner Optimization](https://jobright.ai/jobs/info/6753e8d919fdcd69803c7ee7?utm_campaign=1048&utm_source=git)** | Mountain View, CA | On Site | Dec 28 |
 | **[Nutrien](https://www.nutrien.com/)** | **[INTERNSHIP - COLONIAL DIVISION](https://jobright.ai/jobs/info/676fd32e153471808e203ff1?utm_campaign=1048&utm_source=git)** | Holtwood, PA | On Site | Dec 28 |
 | **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Postdoctoral Fellow-MSH-13400-337](https://jobright.ai/jobs/info/674dcd04404277eb65e92403?utm_campaign=1048&utm_source=git)** | United States | Remote | Dec 28 |
 | ↳ | **[CT Technologist-Mount Sinai Morningside- Sat 8am-12am](https://jobright.ai/jobs/info/674e79dde6a5b665f02e088b?utm_campaign=1048&utm_source=git)** | United States | Remote | Dec 28 |
-| ↳ | **[Postdoctoral Fellow-MSH-30030-262](https://jobright.ai/jobs/info/6756b605c3ec8d7ac7bb33ec?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Dec 28 |
+| **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Construction Management](https://jobright.ai/jobs/info/676a25a6ed320ca21043b9e2?utm_campaign=1048&utm_source=git)** | Clayton, NC | On Site | Dec 28 |
+| **[D.R. Horton](https://www.drhorton.com/affiliates---pacific-ridge)** | **[Summer 2025 Construction Intern](https://jobright.ai/jobs/info/66fc829d15b733b6c41f3106?utm_campaign=1048&utm_source=git)** | Pensacola, FL | On Site | Dec 28 |
+| **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Postdoctoral Fellow-MSH-30030-262](https://jobright.ai/jobs/info/6756b605c3ec8d7ac7bb33ec?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Dec 28 |
 | **[LinkedIn](https://www.linkedin.com/)** | **[AI PhD - Reinforcement Learning - Internship Summer 25](https://jobright.ai/jobs/info/67290768d27a09bed3a5cf2f?utm_campaign=1048&utm_source=git)** | Mountain View, CA | Hybrid | Dec 28 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[MILITARY DoD SKILLBRIDGE Field Engineer (Sacramento & Bay Area, CA)](https://jobright.ai/jobs/info/676fd637560dd082960bd371?utm_campaign=1048&utm_source=git)** | New Hampshire, United States | On Site | Dec 28 |
 | ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer](https://jobright.ai/jobs/info/676fc4a13e4e05e66027a334?utm_campaign=1048&utm_source=git)** | Louisiana, United States | On Site | Dec 28 |
@@ -159,4 +158,6 @@ Summer 2025](https://jobright.ai/jobs/info/676ffed0209bca9ba90b2bd3?utm_campaign
 | **[DRW](http://drw.com/)** | **[AI Researcher Intern](https://jobright.ai/jobs/info/674aa71b3403c15b1dddcd59?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Dec 27 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Research & Development Intern](https://jobright.ai/jobs/info/676fb64fdee21b84108cb607?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Dec 27 |
 | **[Messer Construction Co.](http://www.messer.com)** | **[Project Engineer Co-op - Knoxville, TN](https://jobright.ai/jobs/info/676fa76d387eaf298ede9e4d?utm_campaign=1048&utm_source=git)** | Knoxville, TN | On Site | Dec 27 |
+| **[Sartorius](http://sartorius.com)** | **[Alt Host Bioprocessing Intern - Onsite, Marlborough, MA](https://jobright.ai/jobs/info/6752258b9fe047370417c2e4?utm_campaign=1048&utm_source=git)** | Marlborough, MA | Hybrid | Dec 27 |
+| **[Anduril Industries](https://www.anduril.com)** | **[GNC PhD Intern (Summer 2025)](https://jobright.ai/jobs/info/674ad3b304adec1ed511153b?utm_campaign=1048&utm_source=git)** | Costa Mesa, CA | On Site | Dec 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
