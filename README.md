@@ -57,9 +57,39 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Pepper Construction Group](http://www.pepperconstruction.com)** | **[Safety Intern - Summer 2025](https://jobright.ai/jobs/info/6773b76ee1e744fed4f0993f?utm_campaign=1048&utm_source=git)** | Indianapolis, IN | On Site | Dec 31 |
+| **[The Whiting-Turner Contracting Company](http://www.whiting-turner.com/)** | **[Construction Intern](https://jobright.ai/jobs/info/6773e36500ef40898ce8dd5b?utm_campaign=1048&utm_source=git)** | Newport News, VA | On Site | Dec 31 |
+| **[TikTok](https://www.tiktok.com)** | **[Research Scientist Intern (TikTok Core Recommendation) - 2024 Off-Cycle (PhD)](https://jobright.ai/jobs/info/673d7b2e6a6ca08f7169326b?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Dec 31 |
+| ↳ | **[Software Engineer Intern (Monetization Technology-Web Ads and Open-Loop E-Commerce) - 2024 Start (BS/MS)](https://jobright.ai/jobs/info/6773e0abe5c0d4a701049caf?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Dec 31 |
+| ↳ | **[Machine Learning Engineer Intern (E-Commerce Supply Chain & Logistics - CV/Multimodal) - 2025 Summer/Fall (MS)](https://jobright.ai/jobs/info/6773e0abe5c0d4a701049c99?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Dec 31 |
+| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Geotechnical Engineering Intern (Houston)](https://jobright.ai/jobs/info/66fe1bfea662c6b70bec37fa?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Dec 31 |
+| **[MaineHealth](https://mainehealth.org/)** | **[Intern- MHMG Quality & Safety](https://jobright.ai/jobs/info/6773d39617389810bd609c9c?utm_campaign=1048&utm_source=git)** | Westbrook, ME | On Site | Dec 31 |
+| **[Camping World](http://www.campingworld.com/)** | **[Information Technology Security Intern](https://jobright.ai/jobs/info/6773ce10548188f16953f76c?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Dec 31 |
+| **[Geo-Technology Associates, Inc. (GTA)](http://gtaeng.com)** | **[Summer Internship - Engineering Technician](https://jobright.ai/jobs/info/675738f8eb06b7418afcc1ec?utm_campaign=1048&utm_source=git)** | Greensboro, NC | On Site | Dec 31 |
+| ↳ | **[Summer Internship - Engineering Technician](https://jobright.ai/jobs/info/67572cb5a673b4d28a5cb0c6?utm_campaign=1048&utm_source=git)** | Charlotte, NC | On Site | Dec 31 |
+| **[dsm-firmenich](https://www.dsm-firmenich.com)** | **[Summer 2025 Internship - Product Lifecycle Management - Princeton, NJ](https://jobright.ai/jobs/info/671c134ae30ab2148149d6af?utm_campaign=1048&utm_source=git)** | Princeton, NJ | On Site | Dec 31 |
+| **[ByteDance](http://bytedance.com)** | **[Research Scientist Intern in Foundation Models for Science (ByteDance Research) - 2025 Summer/Fall (PhD)](https://jobright.ai/jobs/info/673ab7b609de5b3919371b00?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Dec 31 |
+| ↳ | **[Video Analysis and Quality Algorithm Intern 2023 Summer/Fall (MS)](https://jobright.ai/jobs/info/673a136268c4e0405969569d?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Dec 31 |
+| **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Survey Intern](https://jobright.ai/jobs/info/66c95cad38c41a74751b4ad7?utm_campaign=1048&utm_source=git)** | Fresno, CA | On Site | Dec 31 |
+| ↳ | **[Survey Office Intern](https://jobright.ai/jobs/info/6769263140484fa2605d75a3?utm_campaign=1048&utm_source=git)** | Westminster, CO | On Site | Dec 31 |
+| **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Engineering](https://jobright.ai/jobs/info/6773c8b5bbf518c5c8b7899d?utm_campaign=1048&utm_source=git)** | Gila Bend, AZ | Hybrid | Dec 31 |
+| **[Amazon](https://amazon.com)** | **[2025 Research Science Internship - Robotics - United States, PhD Student Science Recruiting](https://jobright.ai/jobs/info/6773df7bb2eca80dd71fb538?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Dec 31 |
+| **[Brasfield & Gorrie, LLC](https://linktr.ee/brasfieldgorrie)** | **[Field Apprentice Intern 2024](https://jobright.ai/jobs/info/6773c041f3989d4fcfe2df5a?utm_campaign=1048&utm_source=git)** | Florida, United States | On Site | Dec 31 |
+| **[GE HealthCare](http://www.gehealthcare.com)** | **[MILITARY DoD SKILLBRIDGE Field Engineer](https://jobright.ai/jobs/info/6773dc68bee903dd727b6c3b?utm_campaign=1048&utm_source=git)** | Pennsylvania, United States | On Site | Dec 31 |
+| ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer](https://jobright.ai/jobs/info/6773dc68bee903dd727b6c3c?utm_campaign=1048&utm_source=git)** | Tennessee, United States | On Site | Dec 31 |
+| ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer](https://jobright.ai/jobs/info/6773dc68bee903dd727b6c3d?utm_campaign=1048&utm_source=git)** | Nevada, United States | On Site | Dec 31 |
+| **[Haley & Aldrich](http://www.haleyaldrich.com)** | **[Environmental Engineering Intern](https://jobright.ai/jobs/info/6773c041f3989d4fcfe2df40?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | Dec 31 |
+| **[GE HealthCare](http://www.gehealthcare.com)** | **[MILITARY DoD SKILLBRIDGE Field Engineer (Sacramento & Bay Area, CA)](https://jobright.ai/jobs/info/6773f26e4dd78d4b72558c00?utm_campaign=1048&utm_source=git)** | Maryland, United States | On Site | Dec 31 |
+| ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer](https://jobright.ai/jobs/info/6773f26e4dd78d4b72558c01?utm_campaign=1048&utm_source=git)** | New Mexico, United States | On Site | Dec 31 |
+| ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer](https://jobright.ai/jobs/info/6773e2af2fa35b146bbadc10?utm_campaign=1048&utm_source=git)** | Oklahoma, United States | On Site | Dec 31 |
+| ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer](https://jobright.ai/jobs/info/6773e2af2fa35b146bbadc11?utm_campaign=1048&utm_source=git)** | Rhode Island, United States | On Site | Dec 31 |
+| ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer](https://jobright.ai/jobs/info/6773e2af2fa35b146bbadc13?utm_campaign=1048&utm_source=git)** | New Jersey, United States | On Site | Dec 31 |
 | **[Klein Tools](https://www.kleintools.com/)** | **[Manufacturing Engineer Intern](https://jobright.ai/jobs/info/6773a91b77e6d1e3543a8bb8?utm_campaign=1048&utm_source=git)** | Mansfield, TX | On Site | Dec 30 |
 | ↳ | **[Testing and Applications Engineer Intern](https://jobright.ai/jobs/info/6773a91b77e6d1e3543a8bb9?utm_campaign=1048&utm_source=git)** | Mansfield, TX | On Site | Dec 30 |
+| **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Structural Engineering Internship](https://jobright.ai/jobs/info/6773bec7884157e57f160057?utm_campaign=1048&utm_source=git)** | Fallon, NV | On Site | Dec 30 |
+| **[ENGEO](http://engeo.com)** | **[Geotechnical Engineering Intern](https://jobright.ai/jobs/info/6773ce55d746501088226a2b?utm_campaign=1048&utm_source=git)** | Santa Clarita, CA | On Site | Dec 30 |
+| ↳ | **[Geotechnical Engineering Intern](https://jobright.ai/jobs/info/6773ce55d746501088226a21?utm_campaign=1048&utm_source=git)** | San Ramon, CA | On Site | Dec 30 |
+| ↳ | **[Geotechnical Engineering Intern](https://jobright.ai/jobs/info/6773ce55d746501088226aa9?utm_campaign=1048&utm_source=git)** | Lathrop, CA | On Site | Dec 30 |
+| ↳ | **[Geotechnical Engineering Intern](https://jobright.ai/jobs/info/6773ce55d746501088226aaa?utm_campaign=1048&utm_source=git)** | Costa Mesa, CA | On Site | Dec 30 |
 | **[PwC](http://pwc.com)** | **[Digital Assurance & Transparency (DAT) Intern - Summer 2026 - Destination CPA](https://jobright.ai/jobs/info/677378c287ca9609c06f84de?utm_campaign=1048&utm_source=git)** | California, United States | On Site | Dec 30 |
 | **[TikTok](https://www.tiktok.com)** | **[(General Hire) Cybersecurity Engineering Intern (Security & Privacy, USDS)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67736871e4724de277ac9e80?utm_campaign=1048&utm_source=git)** | New York, United States | Hybrid | Dec 30 |
 | **[US Army Corps of Engineers](https://www.usace.army.mil/)** | **[STUDENT TRAINEE (ENGINEERING)](https://jobright.ai/jobs/info/6773735975633b376229ec2e?utm_campaign=1048&utm_source=git)** | Portland, OR | On Site | Dec 30 |
@@ -84,8 +114,8 @@ For a complete list, click the following sortable link below:
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[MILITARY DoD SKILLBRIDGE Field Engineer (Sacramento & Bay Area, CA)](https://jobright.ai/jobs/info/67735f489126a4748031374d?utm_campaign=1048&utm_source=git)** | Tennessee, United States | On Site | Dec 30 |
 | ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer](https://jobright.ai/jobs/info/67735f489126a4748031374f?utm_campaign=1048&utm_source=git)** | Colorado, United States | On Site | Dec 30 |
 | **[Cintas](https://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/677354ee65455f6594fc4e43?utm_campaign=1048&utm_source=git)** | Greenville, WI | On Site | Dec 30 |
-| **[GE HealthCare](http://www.gehealthcare.com)** | **[MILITARY DoD SKILLBRIDGE Field Engineer](https://jobright.ai/jobs/info/67735f489126a47480313750?utm_campaign=1048&utm_source=git)** | Georgia, United States | On Site | Dec 30 |
-| ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer (Sacramento & Bay Area, CA)](https://jobright.ai/jobs/info/67735f489126a47480313751?utm_campaign=1048&utm_source=git)** | Colorado, United States | On Site | Dec 30 |
+| **[GE HealthCare](http://www.gehealthcare.com)** | **[MILITARY DoD SKILLBRIDGE Field Engineer (Sacramento & Bay Area, CA)](https://jobright.ai/jobs/info/67735f489126a47480313751?utm_campaign=1048&utm_source=git)** | Colorado, United States | On Site | Dec 30 |
+| ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer](https://jobright.ai/jobs/info/67735f489126a47480313750?utm_campaign=1048&utm_source=git)** | Georgia, United States | On Site | Dec 30 |
 | ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer (Sacramento & Bay Area, CA)](https://jobright.ai/jobs/info/67735f489126a47480313753?utm_campaign=1048&utm_source=git)** | Alabama, United States | On Site | Dec 30 |
 | ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer (Sacramento & Bay Area, CA)](https://jobright.ai/jobs/info/67737d92a91c87855590e29c?utm_campaign=1048&utm_source=git)** | Alaska, United States | On Site | Dec 30 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Transportation Planning Intern- Summer 2025](https://jobright.ai/jobs/info/6773536bd68f4492d2a31acc?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | Dec 30 |
@@ -127,34 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Redwood Materials](https://www.redwoodmaterials.com)** | **[Virtual Design & Construction Coordinator Intern (Summer 2025)](https://jobright.ai/jobs/info/673f7ce5ad8e66ebe78ad90a?utm_campaign=1048&utm_source=git)** | McCarran, Nevada, United States | On Site | Dec 30 |
 | **[Carnegie Mellon University](https://www.cmu.edu)** | **[POST-DOCTORAL FELLOWSHIP IN SIMULATION-BASED INFERENCE](https://jobright.ai/jobs/info/6773453513299cf522cc3ced?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | On Site | Dec 30 |
 | **[Lucid Motors](http://lucidmotors.com)** | **[Intern, Paint Controls Engineering, Summer 2025](https://jobright.ai/jobs/info/670f3d4f23355b0d1e0cbf93?utm_campaign=1048&utm_source=git)** | Casa Grande, AZ | On Site | Dec 30 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Transit Planning Intern](https://jobright.ai/jobs/info/6773453513299cf522cc3cd2?utm_campaign=1048&utm_source=git)** | Baltimore, MD | On Site | Dec 30 |
-| **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Site Design Engineering Intern](https://jobright.ai/jobs/info/67734fb279f991294821a625?utm_campaign=1048&utm_source=git)** | Minnetonka, MN | On Site | Dec 30 |
-| **[Stevens Towing Company](https://www.stevens-towing.com)** | **[Safety Technician Intern](https://jobright.ai/jobs/info/67733df00405d082ab59bdbe?utm_campaign=1048&utm_source=git)** | Yonges Island, SC | On Site | Dec 30 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/67734dda5d4789873e7ace22?utm_campaign=1048&utm_source=git)** | Plymouth Meeting, PA | On Site | Dec 30 |
-| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/67734dda5d4789873e7ace23?utm_campaign=1048&utm_source=git)** | Camp Hill, PA | On Site | Dec 30 |
-| **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Water Resources Intern - Renewables](https://jobright.ai/jobs/info/67733df00405d082ab59bd71?utm_campaign=1048&utm_source=git)** | Sartell, MN | On Site | Dec 30 |
-| ↳ | **[Water Resources Intern - Renewables](https://jobright.ai/jobs/info/67733df00405d082ab59bde9?utm_campaign=1048&utm_source=git)** | Westminster, CO | On Site | Dec 30 |
-| ↳ | **[Site Design Engineering Intern](https://jobright.ai/jobs/info/67733df00405d082ab59bdc1?utm_campaign=1048&utm_source=git)** | Westminster, CO | On Site | Dec 30 |
-| ↳ | **[Electrical Engineering Co-op](https://jobright.ai/jobs/info/67733df00405d082ab59bd68?utm_campaign=1048&utm_source=git)** | Plano, TX | On Site | Dec 30 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/67733031748cb5b3c00b90e8?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Dec 30 |
-| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/67733031748cb5b3c00b90e9?utm_campaign=1048&utm_source=git)** | Ashburn, VA | On Site | Dec 30 |
-| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/67733aa34575b9871cc90ac4?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | Dec 30 |
-| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/67733031748cb5b3c00b903b?utm_campaign=1048&utm_source=git)** | Daytona Beach, FL | On Site | Dec 30 |
-| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/67733031748cb5b3c00b90ea?utm_campaign=1048&utm_source=git)** | Baltimore, MD | On Site | Dec 30 |
-| ↳ | **[Land Planning Intern](https://jobright.ai/jobs/info/67733031748cb5b3c00b9048?utm_campaign=1048&utm_source=git)** | Virginia Beach, VA | On Site | Dec 30 |
-| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/67733031748cb5b3c00b90ef?utm_campaign=1048&utm_source=git)** | Reston, VA | On Site | Dec 30 |
-| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/67733031748cb5b3c00b90f4?utm_campaign=1048&utm_source=git)** | Panama City Beach, FL | On Site | Dec 30 |
-| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/67733031748cb5b3c00b903c?utm_campaign=1048&utm_source=git)** | Towson, MD | On Site | Dec 30 |
-| ↳ | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/67733031748cb5b3c00b9022?utm_campaign=1048&utm_source=git)** | White Plains, NY | On Site | Dec 30 |
-| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/67733031748cb5b3c00b90f7?utm_campaign=1048&utm_source=git)** | Virginia Beach, VA | On Site | Dec 30 |
-| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/67733031748cb5b3c00b90f6?utm_campaign=1048&utm_source=git)** | Ocala, FL | On Site | Dec 30 |
-| ↳ | **[Environmental Science Intern](https://jobright.ai/jobs/info/67733031748cb5b3c00b900a?utm_campaign=1048&utm_source=git)** | Virginia Beach, VA | On Site | Dec 30 |
-| ↳ | **[Aviation Planning Intern](https://jobright.ai/jobs/info/67733031748cb5b3c00b901f?utm_campaign=1048&utm_source=git)** | Reston, VA | On Site | Dec 30 |
-| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/67733031748cb5b3c00b9103?utm_campaign=1048&utm_source=git)** | Jacksonville, FL | On Site | Dec 30 |
-| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/67733031748cb5b3c00b9106?utm_campaign=1048&utm_source=git)** | Tallahassee, FL | On Site | Dec 30 |
-| ↳ | **[Environmental Science Intern](https://jobright.ai/jobs/info/67733031748cb5b3c00b902b?utm_campaign=1048&utm_source=git)** | Richmond, VA | On Site | Dec 30 |
-| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/67733aa34575b9871cc90acc?utm_campaign=1048&utm_source=git)** | White Plains, NY | On Site | Dec 30 |
-| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/67733aa34575b9871cc90adc?utm_campaign=1048&utm_source=git)** | Gainesville, FL | On Site | Dec 30 |
-| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/67733031748cb5b3c00b910c?utm_campaign=1048&utm_source=git)** | Richmond, VA | On Site | Dec 30 |
-| **[Boll & Branch](https://www.bollandbranch.com)** | **[Sustainbility Intern](https://jobright.ai/jobs/info/6764aef3b120d3617b65080d?utm_campaign=1048&utm_source=git)** | Summit, NJ | Hybrid | Dec 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
