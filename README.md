@@ -57,10 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SRS Distribution Inc.](http://www.srsdistribution.com)** | **[HLSG Branch Intern](https://jobright.ai/jobs/info/67fc7e1f243da32aaf615b03?utm_campaign=1048&utm_source=git)** | Riverhead, New York | On Site | Apr 13 |
+| **[Digital Realty](http://www.digitalrealty.com)** | **[Data Governance & Architecture Intern](https://jobright.ai/jobs/info/67fc6b5d2ecce82dc4096f23?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | Apr 13 |
+| ↳ | **[AI Engineering Intern](https://jobright.ai/jobs/info/67fc6b5d2ecce82dc4096f21?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | Apr 13 |
+| **[Skyworks LLC](http://skyworksllc.com)** | **[RF Test - Summer/Fall Co-Op](https://jobright.ai/jobs/info/67fc615dd64bb410b51f697f?utm_campaign=1048&utm_source=git)** | Woburn, MA | On Site | Apr 13 |
 | **[Intel Corporation](http://www.intel.com)** | **[Supply Chain -  Intern, Graduate](https://jobright.ai/jobs/info/67fc526cdda748e2c495bad1?utm_campaign=1048&utm_source=git)** | Hillsboro, OR | Hybrid | Apr 13 |
 | **[Page](http://pagethink.com)** | **[College Intern - Architecture - Summer 2025](https://jobright.ai/jobs/info/67fc4f269dfed07215acbfc1?utm_campaign=1048&utm_source=git)** | Albany, NY | On Site | Apr 13 |
 | **[Austal USA](http://austalusa.com/)** | **[AI Data Science Intern](https://jobright.ai/jobs/info/67fc4729f2b0938493e28395?utm_campaign=1048&utm_source=git)** | Charlottesville, IN | On Site | Apr 13 |
 | **[University of Central Florida](https://www.ucf.edu)** | **[PhD position in device research and engineering](https://jobright.ai/jobs/info/67fc3be3e462e1de6e5b9505?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | Apr 13 |
+| **[Peter Basso Associates](http://www.peterbassoassociates.com/)** | **[Electrical Co-Op
+Summer 2025](https://jobright.ai/jobs/info/67fc7bbfd77a0391bf82d153?utm_campaign=1048&utm_source=git)** | Troy, MI | On Site | Apr 13 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/67fc3208d0a3b2723839f012?utm_campaign=1048&utm_source=git)** | High Ridge, MO | Hybrid | Apr 13 |
 | **[J.F. Shea Co., Inc.](https://www.jfshea.com)** | **[Intern, Warranty](https://jobright.ai/jobs/info/67fc3208d0a3b2723839efeb?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Apr 13 |
 | ↳ | **[Residential Construction Intern](https://jobright.ai/jobs/info/67fc3208d0a3b2723839efdd?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | Apr 13 |
@@ -75,31 +81,31 @@ For a complete list, click the following sortable link below:
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Mechanical Engineering Summer Intern](https://jobright.ai/jobs/info/67fc06c1eb3618082b3bdbec?utm_campaign=1048&utm_source=git)** | New Freedom, PA | On Site | Apr 13 |
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Public Works Maintenance Trainee](https://jobright.ai/jobs/info/67fbf8ea51d99a53eaf22a98?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Apr 13 |
 | **[BioSpace](http://www.biospace.com/)** | **[Operations Apprenticeship - Device Assembly and Packaging](https://jobright.ai/jobs/info/67fbe3fb6dfa4985bb020855?utm_campaign=1048&utm_source=git)** | Durham, NC | On Site | Apr 13 |
-| **[Nutrien](https://www.nutrien.com/)** | **[INTERNSHIP - S. OH DIVISION](https://jobright.ai/jobs/info/67fbdb90761bb3aded76f195?utm_campaign=1048&utm_source=git)** | Washington Court House, OH | On Site | Apr 13 |
-| ↳ | **[Intern - Retail Field, Agronomy - Central Indiana 1](https://jobright.ai/jobs/info/67fbdb90761bb3aded76f196?utm_campaign=1048&utm_source=git)** | Indianapolis, IN | On Site | Apr 13 |
+| **[Nutrien](https://www.nutrien.com/)** | **[Intern - Retail Field, Agronomy - Central Indiana 1](https://jobright.ai/jobs/info/67fbdb90761bb3aded76f196?utm_campaign=1048&utm_source=git)** | Indianapolis, IN | On Site | Apr 13 |
+| ↳ | **[INTERNSHIP - S. OH DIVISION](https://jobright.ai/jobs/info/67fbdb90761bb3aded76f195?utm_campaign=1048&utm_source=git)** | Washington Court House, OH | On Site | Apr 13 |
 | **[AutoZone](http://www.autozone.com/)** | **[Asociado de Ventas Tiempo Parcial (16 y 17 Años de Edad)](https://jobright.ai/jobs/info/6756e626cf31f03587d3166a?utm_campaign=1048&utm_source=git)** | Gonzales, CA | On Site | Apr 13 |
-| ↳ | **[Asociado de Ventas Tiempo Parcial (16 y 17 Años de Edad)](https://jobright.ai/jobs/info/6756e626cf31f03587d3165b?utm_campaign=1048&utm_source=git)** | Vista, CA | On Site | Apr 13 |
 | ↳ | **[Asociado de Ventas Tiempo Parcial (16 y 17 Años de Edad)](https://jobright.ai/jobs/info/6756eb84028c6efa6d779038?utm_campaign=1048&utm_source=git)** | Riverside, CA | On Site | Apr 13 |
-| ↳ | **[Asociado de Ventas Tiempo Parcial (16 y 17 Años de Edad)](https://jobright.ai/jobs/info/6756e626cf31f03587d31654?utm_campaign=1048&utm_source=git)** | Citrus Heights, CA | On Site | Apr 13 |
 | ↳ | **[Asociado de Ventas Tiempo Parcial (16 y 17 Años de Edad)](https://jobright.ai/jobs/info/6756e626cf31f03587d31656?utm_campaign=1048&utm_source=git)** | Downey, CA | On Site | Apr 13 |
+| ↳ | **[Asociado de Ventas Tiempo Parcial (16 y 17 Años de Edad)](https://jobright.ai/jobs/info/6756e626cf31f03587d31654?utm_campaign=1048&utm_source=git)** | Citrus Heights, CA | On Site | Apr 13 |
+| ↳ | **[Asociado de Ventas Tiempo Parcial (16 y 17 Años de Edad)](https://jobright.ai/jobs/info/6756e626cf31f03587d31652?utm_campaign=1048&utm_source=git)** | Vista, CA | On Site | Apr 13 |
 | ↳ | **[Asociado de Ventas Tiempo Parcial (16 y 17 Años de Edad)](https://jobright.ai/jobs/info/6756e626cf31f03587d3163e?utm_campaign=1048&utm_source=git)** | Apple Valley, CA | On Site | Apr 13 |
-| ↳ | **[Asociado de Ventas Tiempo Parcial (16 y 17 Años de Edad)](https://jobright.ai/jobs/info/6756e626cf31f03587d3166d?utm_campaign=1048&utm_source=git)** | Bakersfield, CA | On Site | Apr 13 |
-| ↳ | **[Asociado de Ventas Tiempo Parcial (16 y 17 Años de Edad)](https://jobright.ai/jobs/info/6756e626cf31f03587d31649?utm_campaign=1048&utm_source=git)** | Vacaville, CA | On Site | Apr 13 |
 | ↳ | **[Asociado de Ventas Tiempo Parcial (16 y 17 Años de Edad)](https://jobright.ai/jobs/info/6756e626cf31f03587d3163a?utm_campaign=1048&utm_source=git)** | Alhambra, CA | On Site | Apr 13 |
 | ↳ | **[Asociado de Ventas Tiempo Parcial (16 y 17 Años de Edad)](https://jobright.ai/jobs/info/6756e626cf31f03587d3163f?utm_campaign=1048&utm_source=git)** | Schenectady, NY | On Site | Apr 13 |
+| ↳ | **[Asociado de Ventas Tiempo Parcial (16 y 17 Años de Edad)](https://jobright.ai/jobs/info/6756e626cf31f03587d3166d?utm_campaign=1048&utm_source=git)** | Bakersfield, CA | On Site | Apr 13 |
 | ↳ | **[Asociado de Ventas Tiempo Parcial (16 y 17 Años de Edad)](https://jobright.ai/jobs/info/6756e626cf31f03587d3164b?utm_campaign=1048&utm_source=git)** | Vancouver, WA | On Site | Apr 13 |
-| ↳ | **[Asociado de Ventas Tiempo Parcial (16 y 17 Años de Edad)](https://jobright.ai/jobs/info/6756e626cf31f03587d31645?utm_campaign=1048&utm_source=git)** | West Covina, CA | On Site | Apr 13 |
+| ↳ | **[Asociado de Ventas Tiempo Parcial (16 y 17 Años de Edad)](https://jobright.ai/jobs/info/6756e626cf31f03587d31649?utm_campaign=1048&utm_source=git)** | Vacaville, CA | On Site | Apr 13 |
 | ↳ | **[Asociado de Ventas Tiempo Parcial (16 y 17 Años de Edad)](https://jobright.ai/jobs/info/6756e626cf31f03587d31628?utm_campaign=1048&utm_source=git)** | Littleton, CO | On Site | Apr 13 |
 | ↳ | **[Asociado de Ventas Tiempo Parcial (16 y 17 Años de Edad)](https://jobright.ai/jobs/info/6756e9aae2617cfaa49476a7?utm_campaign=1048&utm_source=git)** | Brooklyn, NY | On Site | Apr 13 |
 | ↳ | **[Asociado de Ventas Tiempo Parcial (16 y 17 Años de Edad)](https://jobright.ai/jobs/info/6756e626cf31f03587d3161a?utm_campaign=1048&utm_source=git)** | Jersey City, NJ | On Site | Apr 13 |
+| ↳ | **[Asociado de Ventas Tiempo Parcial (16 y 17 Años de Edad)](https://jobright.ai/jobs/info/6756e626cf31f03587d31645?utm_campaign=1048&utm_source=git)** | West Covina, CA | On Site | Apr 13 |
 | ↳ | **[Asociado de Ventas Tiempo Parcial (16 y 17 Años de Edad)](https://jobright.ai/jobs/info/6756e626cf31f03587d31642?utm_campaign=1048&utm_source=git)** | Earlimart, CA | On Site | Apr 13 |
-| ↳ | **[Asociado de Ventas Tiempo Parcial (16 y 17 Años de Edad)](https://jobright.ai/jobs/info/6756e626cf31f03587d3164c?utm_campaign=1048&utm_source=git)** | El Monte, CA | On Site | Apr 13 |
 | ↳ | **[Asociado de Ventas Tiempo Parcial (16 y 17 Años de Edad)](https://jobright.ai/jobs/info/6756e626cf31f03587d31650?utm_campaign=1048&utm_source=git)** | Syracuse, NY | On Site | Apr 13 |
-| ↳ | **[Asociado de Ventas Tiempo Parcial (16 y 17 Años de Edad)](https://jobright.ai/jobs/info/6756e626cf31f03587d31655?utm_campaign=1048&utm_source=git)** | Waterford, CA | On Site | Apr 13 |
-| ↳ | **[Asociado de Ventas Tiempo Parcial (16 y 17 Años de Edad)](https://jobright.ai/jobs/info/6756e626cf31f03587d3163d?utm_campaign=1048&utm_source=git)** | Port Angeles, WA | On Site | Apr 13 |
-| ↳ | **[Asociado de Ventas Tiempo Parcial (16 y 17 Años de Edad)](https://jobright.ai/jobs/info/6756e626cf31f03587d31667?utm_campaign=1048&utm_source=git)** | Pueblo, CO | On Site | Apr 13 |
-| ↳ | **[Asociado de Ventas Tiempo Parcial (16 y 17 Años de Edad)](https://jobright.ai/jobs/info/6756e626cf31f03587d3164e?utm_campaign=1048&utm_source=git)** | Stockton, CA | On Site | Apr 13 |
+| ↳ | **[Asociado de Ventas Tiempo Parcial (16 y 17 Años de Edad)](https://jobright.ai/jobs/info/6756e626cf31f03587d3164c?utm_campaign=1048&utm_source=git)** | El Monte, CA | On Site | Apr 13 |
 | ↳ | **[Asociado de Ventas Tiempo Parcial (16 y 17 Años de Edad)](https://jobright.ai/jobs/info/6756e626cf31f03587d3162a?utm_campaign=1048&utm_source=git)** | Le Roy, NY | On Site | Apr 13 |
+| ↳ | **[Asociado de Ventas Tiempo Parcial (16 y 17 Años de Edad)](https://jobright.ai/jobs/info/6756e626cf31f03587d3163d?utm_campaign=1048&utm_source=git)** | Port Angeles, WA | On Site | Apr 13 |
+| ↳ | **[Asociado de Ventas Tiempo Parcial (16 y 17 Años de Edad)](https://jobright.ai/jobs/info/6756e626cf31f03587d3164e?utm_campaign=1048&utm_source=git)** | Stockton, CA | On Site | Apr 13 |
+| ↳ | **[Asociado de Ventas Tiempo Parcial (16 y 17 Años de Edad)](https://jobright.ai/jobs/info/6756e626cf31f03587d31655?utm_campaign=1048&utm_source=git)** | Waterford, CA | On Site | Apr 13 |
+| ↳ | **[Asociado de Ventas Tiempo Parcial (16 y 17 Años de Edad)](https://jobright.ai/jobs/info/6756e626cf31f03587d31667?utm_campaign=1048&utm_source=git)** | Pueblo, CO | On Site | Apr 13 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Electrical Engineering Intern - Summer 2025](https://jobright.ai/jobs/info/6774f323468e0db160beb388?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | Apr 13 |
 | ↳ | **[Fire and Life Safety Engineering Intern - Summer 2024](https://jobright.ai/jobs/info/66eb19dcd06a8a1e26266d26?utm_campaign=1048&utm_source=git)** | Houston, TX | Hybrid | Apr 13 |
 | **[Kimball Midwest](https://www.kimballmidwest.com)** | **[Data Engineer Intern](https://jobright.ai/jobs/info/67a658323b2c0ac1f0feac8f?utm_campaign=1048&utm_source=git)** | Columbus, OH | On Site | Apr 13 |
@@ -117,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Structural Intern 2025](https://jobright.ai/jobs/info/67af3ba65420f71d3ba42c42?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | Apr 13 |
 | **[Millennium Space Systems, A Boeing Company](http://www.millennium-space.com/)** | **[Summer 2025 Internship - Power Peer Engineering](https://jobright.ai/jobs/info/67a69ee09d9cd9a5c93fbb48?utm_campaign=1048&utm_source=git)** | El Segundo, CA | On Site | Apr 13 |
 | **[B&G Foods Inc.](http://bgfoods.com)** | **[Intern](https://jobright.ai/jobs/info/67eb094fa63135c40b8a7682?utm_campaign=1048&utm_source=git)** | Cincinnati, OH | On Site | Apr 13 |
-| **[BWX Technologies, Inc.](http://www.bwxt.com/)** | **[Welding & Machining Intern](https://jobright.ai/jobs/info/67fbbf0a8aaeec0e8d968128?utm_campaign=1048&utm_source=git)** | Barberton, OH | On Site | Apr 13 |
-| ↳ | **[Intern -- Engineering -- Nuclear Criticality Safety (Summer 2025)](https://jobright.ai/jobs/info/67fbbf0a8aaeec0e8d96811c?utm_campaign=1048&utm_source=git)** | Erwin, TN | On Site | Apr 13 |
+| **[BWX Technologies, Inc.](http://www.bwxt.com/)** | **[Intern -- Engineering -- Nuclear Criticality Safety (Summer 2025)](https://jobright.ai/jobs/info/67fbbf0a8aaeec0e8d96811c?utm_campaign=1048&utm_source=git)** | Erwin, TN | On Site | Apr 13 |
+| ↳ | **[Welding & Machining Intern](https://jobright.ai/jobs/info/67fbbf0a8aaeec0e8d968128?utm_campaign=1048&utm_source=git)** | Barberton, OH | On Site | Apr 13 |
 | **[Starlight Homes](https://www.starlighthomes.com)** | **[Construction Internship Program](https://jobright.ai/jobs/info/66f5c83d14ac24db9510252c?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | Apr 13 |
 | **[Amazon](https://amazon.com)** | **[2025 Operations Research Science Internship - United States, PhD Student Science Recruiting](https://jobright.ai/jobs/info/66ff91262372f96d599aa36f?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Apr 13 |
 | **[Siemens](https://www.siemens.com/)** | **[AI Agents for Active Cybersecurity Defense (Research Intern)](https://jobright.ai/jobs/info/67fbbb1eb0f86257581c197f?utm_campaign=1048&utm_source=git)** | Princeton, NJ | On Site | Apr 13 |
@@ -144,17 +150,12 @@ For a complete list, click the following sortable link below:
 | **[Woolpert](http://www.woolpert.com)** | **[Transportation Engineer Intern](https://jobright.ai/jobs/info/67c211af60f550c421fbd05f?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Apr 13 |
 | **[HRL Laboratories, LLC](http://www.hrl.com/)** | **[Mixed-Signal IC Design Undergrad Intern](https://jobright.ai/jobs/info/67a49bd9844f4a3c6c49346b?utm_campaign=1048&utm_source=git)** | Calabasas, CA | On Site | Apr 13 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Refining Electrical Engineering Intern/Co-op Fall 2025](https://jobright.ai/jobs/info/672f4c8ef81d06d5c46b844a?utm_campaign=1048&utm_source=git)** | Martinez, CA | On Site | Apr 13 |
+| ↳ | **[Intern/co-op Refining Construction Management (Summer 2025)](https://jobright.ai/jobs/info/673e5c2239e036a02447d2b6?utm_campaign=1048&utm_source=git)** | Findlay, OH | On Site | Apr 13 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[CAD Intern](https://jobright.ai/jobs/info/67f71c946f62acad0f5a211e?utm_campaign=1048&utm_source=git)** | Kansas City, MO | On Site | Apr 13 |
 | **[Xometry](https://www.xometry.com)** | **[Supplier Quality Engineering Intern](https://jobright.ai/jobs/info/67ee363c5cccb00a1e09640b?utm_campaign=1048&utm_source=git)** | Gaithersburg, MD | On Site | Apr 13 |
 | ↳ | **[Design For Manufacturing (DFM) Intern](https://jobright.ai/jobs/info/6781bb4d92f50d7b903d00cc?utm_campaign=1048&utm_source=git)** | Lexington, KY | Hybrid | Apr 13 |
 | **[Walker Consultants](http://walkerconsultants.com/)** | **[Structural Engineering Internship - Summer 2025](https://jobright.ai/jobs/info/66f2de101f7e23e3970d00b8?utm_campaign=1048&utm_source=git)** | Minneapolis, MN | On Site | Apr 13 |
-| **[Precision Castparts](http://precast.com)** | **[Facilites Engineering Co-Op (Fall 2025)](https://jobright.ai/jobs/info/67fb92058960ad1d26f69694?utm_campaign=1048&utm_source=git)** | Mentor, OH | On Site | Apr 13 |
-| ↳ | **[Fall 2025 Engineering Co-Op openings](https://jobright.ai/jobs/info/67fb92058960ad1d26f69634?utm_campaign=1048&utm_source=git)** | Toronto, OH | On Site | Apr 13 |
-| ↳ | **[CO-OP- Process and Product Engineering- Dunkirk- Fall 2025](https://jobright.ai/jobs/info/67fb92058960ad1d26f6967b?utm_campaign=1048&utm_source=git)** | Dunkirk, NY | On Site | Apr 13 |
-| ↳ | **[Quality Engineering Co-Op - Fall 2025](https://jobright.ai/jobs/info/67fb92058960ad1d26f6964e?utm_campaign=1048&utm_source=git)** | Mentor, OH | On Site | Apr 13 |
-| ↳ | **[EHS Internship (Co-Op)](https://jobright.ai/jobs/info/67fb92058960ad1d26f69652?utm_campaign=1048&utm_source=git)** | New London County, CT | On Site | Apr 13 |
-| ↳ | **[Spring 2026 Engineering Student Co-Op openings](https://jobright.ai/jobs/info/67fb92058960ad1d26f6961b?utm_campaign=1048&utm_source=git)** | Toronto, OH | On Site | Apr 13 |
+| **[Precision Castparts](http://precast.com)** | **[Spring 2026 Engineering Student Co-Op openings](https://jobright.ai/jobs/info/67fb92058960ad1d26f6961b?utm_campaign=1048&utm_source=git)** | Toronto, OH | On Site | Apr 13 |
 | ↳ | **[Engineering Co-Op](https://jobright.ai/jobs/info/67fb92058960ad1d26f69693?utm_campaign=1048&utm_source=git)** | Northfield, NH | On Site | Apr 13 |
-| ↳ | **[Fall 2025 Environment, Health, and Safety (EHS) internship/Co-Op](https://jobright.ai/jobs/info/67fb92058960ad1d26f69692?utm_campaign=1048&utm_source=git)** | Toronto, OH | On Site | Apr 13 |
-| ↳ | **[Quality Engineering Co-op](https://jobright.ai/jobs/info/67fb92058960ad1d26f6966a?utm_campaign=1048&utm_source=git)** | Gardena, CA | Hybrid | Apr 13 |
+| ↳ | **[Facilites Engineering Co-Op (Fall 2025)](https://jobright.ai/jobs/info/67fb92058960ad1d26f69694?utm_campaign=1048&utm_source=git)** | Mentor, OH | On Site | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
