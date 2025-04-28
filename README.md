@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Avangrid](https://www.avangrid.com/aboutus/avangridfoundation)** | **[Substation Technical Apprentice](https://jobright.ai/jobs/info/680ecb3a09df025fdb3689e5?utm_campaign=1048&utm_source=git)** | Portland, ME | On Site | Apr 27 |
+| **[American Electric Power](http://aep.com)** | **[Power Tech/Station Electrician Intern](https://jobright.ai/jobs/info/680ec707516d4431e6b57a9b?utm_campaign=1048&utm_source=git)** | Tulsa, OK | On Site | Apr 27 |
+| **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[CAE Engineer Intern](https://jobright.ai/jobs/info/680eaca2d7f8ad700128cf01?utm_campaign=1048&utm_source=git)** | Superior, MI | Hybrid | Apr 27 |
+| **[ONEOK](http://www.oneok.com)** | **[Instrumentation & Electrical Intern](https://jobright.ai/jobs/info/680e95d29df499fe238d5f67?utm_campaign=1048&utm_source=git)** | El Dorado, KS | On Site | Apr 27 |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Service Technician Trainee (Summer 2025)](https://jobright.ai/jobs/info/680e8c5da4e9b8c87080e5dc?utm_campaign=1048&utm_source=git)** | Columbus, OH | On Site | Apr 27 |
 | **[SAM](https://www.sam.biz)** | **[DOD SkillBridge Internship (Authorized SkillBridge Organization - Military Personnel Only)](https://jobright.ai/jobs/info/680e7d1c1c3a071c5294d35a?utm_campaign=1048&utm_source=git)** | Gainesville, VA | Hybrid | Apr 27 |
 | **[Shinkei](https://www.shinkei.systems)** | **[Mechanical Engineering Intern / Associate Engineer](https://jobright.ai/jobs/info/680e76b8b9958a7d410d89c0?utm_campaign=1048&utm_source=git)** | Los Angeles, CA, US | On Site | Apr 27 |
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Watershed and Development Research Intern](https://jobright.ai/jobs/info/680e6de116f701f5ef6b22c2?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Apr 27 |
@@ -91,13 +96,13 @@ Summer 2025](https://jobright.ai/jobs/info/680e07ea8108b870de063538?utm_campaign
 | **[Shannon & Wilson](http://shannonwilson.com)** | **[Geotechnical Intern](https://jobright.ai/jobs/info/680dac914db6a52a7483489b?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Apr 26 |
 | **[Gibraltar Industries](http://www.gibraltar1.com)** | **[Engineering Intern - Metal Roofing](https://jobright.ai/jobs/info/680daaada827947b7f01f5c5?utm_campaign=1048&utm_source=git)** | Cincinnati, OH | On Site | Apr 26 |
 | **[J.F. Shea Co., Inc.](https://www.jfshea.com)** | **[Intern - Construction Management](https://jobright.ai/jobs/info/680da756eb3965713a898036?utm_campaign=1048&utm_source=git)** | Bonney Lake, WA | On Site | Apr 26 |
-| **[Holtec International](https://holtecinternational.com/)** | **[2025 Summer Intern - Design Engineering](https://jobright.ai/jobs/info/680da756eb3965713a898017?utm_campaign=1048&utm_source=git)** | Covert Township, MI | On Site | Apr 26 |
-| ↳ | **[2025 Summer Intern - Systems and Programs Engineering](https://jobright.ai/jobs/info/680da756eb3965713a898001?utm_campaign=1048&utm_source=git)** | Covert Township, MI | On Site | Apr 26 |
+| **[Holtec International](https://holtecinternational.com/)** | **[2025 Summer Intern - Systems and Programs Engineering](https://jobright.ai/jobs/info/680da756eb3965713a898001?utm_campaign=1048&utm_source=git)** | Covert Township, MI | On Site | Apr 26 |
+| ↳ | **[2025 Summer Intern - Design Engineering](https://jobright.ai/jobs/info/680da756eb3965713a898017?utm_campaign=1048&utm_source=git)** | Covert Township, MI | On Site | Apr 26 |
 | **[Blockchain Council](https://www.blockchain-council.org/)** | **[AI Intern (Paid)..](https://jobright.ai/jobs/info/680da756eb3965713a897f94?utm_campaign=1048&utm_source=git)** | LA Metro Area | Remote | Apr 26 |
 | **[Qcells USA Corp.](https://us.qcells.com)** | **[Engineering Center Intern](https://jobright.ai/jobs/info/680d963df3d5f0789dc8f7ba?utm_campaign=1048&utm_source=git)** | Teaneck, NJ | Hybrid | Apr 26 |
 | ↳ | **[Engineering Center Intern](https://jobright.ai/jobs/info/680d963df3d5f0789dc8f7b9?utm_campaign=1048&utm_source=git)** | Irvine, CA | Hybrid | Apr 26 |
-| **[Holtec International](https://holtecinternational.com/)** | **[2025 Summer Intern - Safety](https://jobright.ai/jobs/info/680d939964bf7f89579d6d04?utm_campaign=1048&utm_source=git)** | Covert Township, MI | On Site | Apr 26 |
-| ↳ | **[2025 Summer Intern - Operations](https://jobright.ai/jobs/info/680d939964bf7f89579d6d02?utm_campaign=1048&utm_source=git)** | Covert Township, MI | On Site | Apr 26 |
+| **[Holtec International](https://holtecinternational.com/)** | **[2025 Summer Intern - Operations](https://jobright.ai/jobs/info/680d939964bf7f89579d6d02?utm_campaign=1048&utm_source=git)** | Covert Township, MI | On Site | Apr 26 |
+| ↳ | **[2025 Summer Intern - Safety](https://jobright.ai/jobs/info/680d939964bf7f89579d6d04?utm_campaign=1048&utm_source=git)** | Covert Township, MI | On Site | Apr 26 |
 | **[CBRE](https://www.cbre.com)** | **[Building Maintenance Tech Apprentice - Data Center in Quincy WA](https://jobright.ai/jobs/info/680d92c8cdc409f92a37b6f8?utm_campaign=1048&utm_source=git)** | Quincy, WA | On Site | Apr 26 |
 | **[SHI Cryogenics Group](https://www.shicryogenics.com)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/680d8bcf4242fc1c5313c6fe?utm_campaign=1048&utm_source=git)** | Allentown, PA | On Site | Apr 26 |
 | **[EM Structural](https://www.emstructural.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/680d8bcf4242fc1c5313c70e?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Apr 26 |
@@ -128,8 +133,8 @@ Summer 2025](https://jobright.ai/jobs/info/680d5735e2887d08fbe36e61?utm_campaign
 | **[Nutrien](https://www.nutrien.com/)** | **[INTERNSHIP - SW IN/KY; EASTERN KY](https://jobright.ai/jobs/info/680cfc2452f2724a460d3d8f?utm_campaign=1048&utm_source=git)** | Clay, KY | On Site | Apr 26 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[Dassault Systemes Graduate Development Program- Technical Sales ( Bellevue, Washington)](https://jobright.ai/jobs/info/67fb46e322f25b167430d150?utm_campaign=1048&utm_source=git)** | Bellevue, WA | Hybrid | Apr 26 |
 | **[First Student](http://www.firststudentinc.com)** | **[DOD SkillBridge Internship – Fleet Mechanic](https://jobright.ai/jobs/info/680da3a5bea965eab3715d8e?utm_campaign=1048&utm_source=git)** | St Paul, MN | On Site | Apr 26 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/680da3a5bea965eab3715d98?utm_campaign=1048&utm_source=git)** | Cincinnati, OH | On Site | Apr 26 |
 | ↳ | **[DOD SkillBridge Internship – Fleet Mechanic](https://jobright.ai/jobs/info/680da3a5bea965eab3715d99?utm_campaign=1048&utm_source=git)** | Kansas City, MO | On Site | Apr 26 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/680da3a5bea965eab3715d98?utm_campaign=1048&utm_source=git)** | Cincinnati, OH | On Site | Apr 26 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[KABC-TV (ABC7) Broadcast Technology/IT Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/680cf0a364c90818eb60fe37?utm_campaign=1048&utm_source=git)** | Glendale, CA | On Site | Apr 26 |
 | **[CCC Intelligent Solutions](http://www.cccis.com)** | **[AIOps Intern](https://jobright.ai/jobs/info/67f073faefa10967408903ea?utm_campaign=1048&utm_source=git)** | Chicago, IL | Remote | Apr 26 |
 | **[Cosm](https://www.cosm.com)** | **[Astrophysics Intern](https://jobright.ai/jobs/info/67f07b5ec2d841b76fca2166?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT | On Site | Apr 26 |
@@ -146,17 +151,12 @@ Summer 2025](https://jobright.ai/jobs/info/680d5735e2887d08fbe36e61?utm_campaign
 | **[Siemens](https://www.siemens.com/)** | **[Passenger Engineering Internship- Rail Infrastructure](https://jobright.ai/jobs/info/680cdf1cb45ed639bef1375f?utm_campaign=1048&utm_source=git)** | Louisville, KY | On Site | Apr 26 |
 | **[Monolithic Power Systems, Inc.](http://www.monolithicpower.com)** | **[Applications Engineer Intern](https://jobright.ai/jobs/info/680cdf1cb45ed639bef137ad?utm_campaign=1048&utm_source=git)** | San Jose, CA | Hybrid | Apr 26 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Controls Engineer Intern](https://jobright.ai/jobs/info/680cdf1cb45ed639bef1375e?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Apr 26 |
-| **[BW Design Group](http://www.bwdesigngroup.com)** | **[Engineering Internship (Summer 2025)](https://jobright.ai/jobs/info/680cdd8769609bcbb8cc2d9c?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Apr 26 |
+| **[BW Design Group](http://www.bwdesigngroup.com)** | **[Engineering Internship (Summer 2025)](https://jobright.ai/jobs/info/680cdd8769609bcbb8cc2d99?utm_campaign=1048&utm_source=git)** | St Louis, MO | On Site | Apr 26 |
+| ↳ | **[Engineering Internship (Summer 2025)](https://jobright.ai/jobs/info/680cdd8769609bcbb8cc2d9c?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Apr 26 |
 | ↳ | **[Engineering Internship (Summer 2025)](https://jobright.ai/jobs/info/680cdd8769609bcbb8cc2d94?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Apr 26 |
-| ↳ | **[Engineering Internship (Summer 2025)](https://jobright.ai/jobs/info/680cdd8769609bcbb8cc2d9b?utm_campaign=1048&utm_source=git)** | Sacramento, CA | On Site | Apr 26 |
-| ↳ | **[Engineering Internship (Summer 2025)](https://jobright.ai/jobs/info/680cdd8769609bcbb8cc2d9a?utm_campaign=1048&utm_source=git)** | Oak Brook, IL | On Site | Apr 26 |
-| ↳ | **[Engineering Internship (Summer 2025)](https://jobright.ai/jobs/info/680cdd8769609bcbb8cc2d98?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Apr 26 |
-| ↳ | **[Engineering Internship (Summer 2025)](https://jobright.ai/jobs/info/680cdd8769609bcbb8cc2d96?utm_campaign=1048&utm_source=git)** | Carrollton, TX | On Site | Apr 26 |
 | ↳ | **[Engineering Internship (Summer 2025)](https://jobright.ai/jobs/info/680cdd8769609bcbb8cc2d92?utm_campaign=1048&utm_source=git)** | Fort Worth, TX | On Site | Apr 26 |
+| ↳ | **[Engineering Internship (Summer 2025)](https://jobright.ai/jobs/info/680cdd8769609bcbb8cc2d9b?utm_campaign=1048&utm_source=git)** | Sacramento, CA | On Site | Apr 26 |
+| ↳ | **[Engineering Internship (Summer 2025)](https://jobright.ai/jobs/info/680cdd8769609bcbb8cc2d96?utm_campaign=1048&utm_source=git)** | Carrollton, TX | On Site | Apr 26 |
+| ↳ | **[Engineering Internship (Summer 2025)](https://jobright.ai/jobs/info/680cdd8769609bcbb8cc2d9a?utm_campaign=1048&utm_source=git)** | Oak Brook, IL | On Site | Apr 26 |
 | ↳ | **[Engineering Internship (Summer 2025)](https://jobright.ai/jobs/info/680cdd8769609bcbb8cc2d97?utm_campaign=1048&utm_source=git)** | Greenville, SC | On Site | Apr 26 |
-| ↳ | **[Engineering Internship (Summer 2025)](https://jobright.ai/jobs/info/680cdd8769609bcbb8cc2d99?utm_campaign=1048&utm_source=git)** | St Louis, MO | On Site | Apr 26 |
-| **[Holtec International](https://holtecinternational.com/)** | **[2025 Summer Intern - Chemistry](https://jobright.ai/jobs/info/680cdbd169609bcbb8cc2324?utm_campaign=1048&utm_source=git)** | Covert Township, MI | On Site | Apr 26 |
-| **[CertiK](https://www.certik.com/)** | **[Security Research Internship](https://jobright.ai/jobs/info/680cdbd169609bcbb8cc2475?utm_campaign=1048&utm_source=git)** | NYC Metro Area | Remote | Apr 26 |
-| **[BW Design Group](http://www.bwdesigngroup.com)** | **[Engineering Internship (Summer 2025)](https://jobright.ai/jobs/info/680cdbd169609bcbb8cc2319?utm_campaign=1048&utm_source=git)** | Kansas City, KS | On Site | Apr 26 |
-| **[Blue Bird Corporation](http://blue-bird.com/)** | **[Intern, Manufacturing Engineering](https://jobright.ai/jobs/info/67f07ec505baf2fad4a6e794?utm_campaign=1048&utm_source=git)** | Fort Valley, GA | On Site | Apr 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
