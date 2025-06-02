@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nouria](http://nouriaenergy.com)** | **[Intern Electrical Apprentice](https://jobright.ai/jobs/info/683d0be17a8a90d7ed5c1a5b?utm_campaign=1048&utm_source=git)** | Worcester, MA | On Site | Jun 01 |
+| **[Tenaska](http://www.tenaska.com/)** | **[Intern Plant - Gateway](https://jobright.ai/jobs/info/683d090ea0c9dcea46e946dc?utm_campaign=1048&utm_source=git)** | Long Branch, TX | On Site | Jun 01 |
+| **[Tallgrass](https://tallgrass.com/)** | **[Intern-Field Tech](https://jobright.ai/jobs/info/683cfda76bbac50cc9c8e3f2?utm_campaign=1048&utm_source=git)** | Colby, KS | On Site | Jun 01 |
+| **[Woolpert](http://www.woolpert.com)** | **[Survey Technician Intern](https://jobright.ai/jobs/info/683cfa8c00e15d0c005d9fe9?utm_campaign=1048&utm_source=git)** | Denver Metropolitan Area | On Site | Jun 01 |
+| **[Kiewit](http://www.kiewit.com)** | **[Diesel Technician Intern](https://jobright.ai/jobs/info/683cf8790e2f5be54dd81c37?utm_campaign=1048&utm_source=git)** | Gillette, WY | On Site | Jun 01 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[MILITARY DoD SKILLBRIDGE Field Engineer (West Region)](https://jobright.ai/jobs/info/683cea6829bdc4f7947e285e?utm_campaign=1048&utm_source=git)** | South Dakota, United States | On Site | Jun 01 |
 | ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer (West Region)](https://jobright.ai/jobs/info/683ce7ab62c93d4300206d46?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | Jun 01 |
 | ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer (West Region)](https://jobright.ai/jobs/info/683ce20c4406b7d8df176303?utm_campaign=1048&utm_source=git)** | Minden, NV | On Site | Jun 01 |
@@ -76,11 +81,11 @@ Fall 2025](https://jobright.ai/jobs/info/683cdc2763977aa55d153dbf?utm_campaign=1
 | **[Blue Origin](http://www.blueorigin.com)** | **[Spring 2026 Fluid Systems Engineering Intern - Undergraduate](https://jobright.ai/jobs/info/683c63fae5356d6bec230db5?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Jun 01 |
 | ↳ | **[Spring 2026 Electrical Systems Engineering Internship - Undergraduate](https://jobright.ai/jobs/info/683c63fae5356d6bec230dc0?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Jun 01 |
 | **[Kiewit](http://www.kiewit.com)** | **[Heavy Equipment Mechanic Intern - Mining](https://jobright.ai/jobs/info/682f0b85823b795eb9962289?utm_campaign=1048&utm_source=git)** | Soda Springs, ID | On Site | Jun 01 |
-| **[Blue Origin](http://www.blueorigin.com)** | **[Spring 2026 Test Engineering Intern - Undergraduate](https://jobright.ai/jobs/info/683c5929e61d19ae26c5c93f?utm_campaign=1048&utm_source=git)** | Merritt Island, FL | On Site | Jun 01 |
+| **[Blue Origin](http://www.blueorigin.com)** | **[Spring 2026 Fluid Systems Engineering Intern - Graduate](https://jobright.ai/jobs/info/683c5929e61d19ae26c5c55f?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Jun 01 |
+| ↳ | **[Spring 2026 Test Engineering Intern - Undergraduate](https://jobright.ai/jobs/info/683c5929e61d19ae26c5c93f?utm_campaign=1048&utm_source=git)** | Merritt Island, FL | On Site | Jun 01 |
 | ↳ | **[Spring 2026 Electrical Systems Engineering Intern - Graduate](https://jobright.ai/jobs/info/683c5929e61d19ae26c5c52b?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Jun 01 |
 | ↳ | **[Spring 2026 Test Engineering Intern - Undergraduate](https://jobright.ai/jobs/info/683c5929e61d19ae26c5c535?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | Jun 01 |
 | ↳ | **[Spring 2026 Structural & Mechanical Systems Engineering Intern - Graduate](https://jobright.ai/jobs/info/683c5929e61d19ae26c5c529?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Jun 01 |
-| ↳ | **[Spring 2026 Fluid Systems Engineering Intern - Graduate](https://jobright.ai/jobs/info/683c5929e61d19ae26c5c55f?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Jun 01 |
 | ↳ | **[Spring 2026 Test Engineering Intern - Undergraduate](https://jobright.ai/jobs/info/683c5929e61d19ae26c5c93d?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Jun 01 |
 | ↳ | **[Spring 2026 Avionics Software Internship - Graduate Student](https://jobright.ai/jobs/info/683c5929e61d19ae26c5c52c?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Jun 01 |
 | ↳ | **[Spring 2026 Test Engineering Intern - Undergraduate](https://jobright.ai/jobs/info/683c5929e61d19ae26c5c93e?utm_campaign=1048&utm_source=git)** | Van Horn, TX | On Site | Jun 01 |
@@ -94,22 +99,23 @@ Fall 2025](https://jobright.ai/jobs/info/683cdc2763977aa55d153dbf?utm_campaign=1
 | **[Nabholz Corporation](http://www.nabholz.com)** | **[Intern](https://jobright.ai/jobs/info/683c318b9bbf7959b70ddfa3?utm_campaign=1048&utm_source=git)** | Lenexa, KS | On Site | Jun 01 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Heavy Equipment Technician (Mechanic) Apprentice](https://jobright.ai/jobs/info/683c2ca85e50764cad96d9f2?utm_campaign=1048&utm_source=git)** | Wenatchee, WA | On Site | Jun 01 |
 | **[ByteDance](http://bytedance.com)** | **[Student Researcher (Doubao (Seed) - Machine Learning System) - 2025 Start (PhD)](https://jobright.ai/jobs/info/67bdf5c5bfbe0710df5d9640?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jun 01 |
-| **[Adobe](http://www.adobe.com)** | **[2025 Intern - Research Scientist/Engineer](https://jobright.ai/jobs/info/6740520bcdcc3dc7aa8bfb6a?utm_campaign=1048&utm_source=git)** | College Park, MD | On Site | Jun 01 |
-| ↳ | **[2025 Intern - Research Scientist/Engineer](https://jobright.ai/jobs/info/6741c34584621ccade46faf9?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Jun 01 |
-| **[Blue Origin](http://www.blueorigin.com)** | **[Aerospace Systems Engineer I – Early Career 2025 University Grad](https://jobright.ai/jobs/info/67e705b74cf80329a5882833?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Jun 01 |
-| ↳ | **[Guidance, Navigation & Control Engineer I - Early Career 2025 University Grad](https://jobright.ai/jobs/info/67e70e6ee256c7955b4b8926?utm_campaign=1048&utm_source=git)** | Merritt Island, FL | On Site | Jun 01 |
+| **[Adobe](http://www.adobe.com)** | **[2025 Intern - Research Scientist/Engineer](https://jobright.ai/jobs/info/6741c34584621ccade46faf9?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Jun 01 |
+| ↳ | **[2025 Intern - Research Scientist/Engineer](https://jobright.ai/jobs/info/6740520bcdcc3dc7aa8bfb6a?utm_campaign=1048&utm_source=git)** | College Park, MD | On Site | Jun 01 |
+| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Summer Internship - Entry Level Project Engineer Track (Multiple Locations)](https://jobright.ai/jobs/info/683d1ce0c9d6ca502489c497?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Jun 01 |
+| **[Blue Origin](http://www.blueorigin.com)** | **[Guidance, Navigation & Control Engineer I - Early Career 2025 University Grad](https://jobright.ai/jobs/info/67e70e6ee256c7955b4b8926?utm_campaign=1048&utm_source=git)** | Merritt Island, FL | On Site | Jun 01 |
+| ↳ | **[Aerospace Systems Engineer I – Early Career 2025 University Grad](https://jobright.ai/jobs/info/67e705b74cf80329a5882833?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Jun 01 |
 | **[Endo Pharmaceuticals](https://www.endo.com/our-companies/endo-pharmaceuticals)** | **[Co-op, Package Engineering (Jan 2026-June 2026)](https://jobright.ai/jobs/info/683c2122cb7ab70527ef9500?utm_campaign=1048&utm_source=git)** | Rochester, NY | On Site | Jun 01 |
 | **[Kansas State University](http://www.k-state.edu/)** | **[Laboratory Client Serv Assist - Veterinary Sample Processing Specialist - Accessioning](https://jobright.ai/jobs/info/683c1c1fc6e73a8f93c2af0b?utm_campaign=1048&utm_source=git)** | Manhattan, KS | On Site | Jun 01 |
 | **[Blue Origin](http://www.blueorigin.com)** | **[Spring 2026 Test Engineering Intern - Undergraduate](https://jobright.ai/jobs/info/683c06db74c686282ab4e060?utm_campaign=1048&utm_source=git)** | Space Coast, FL | On Site | Jun 01 |
 | ↳ | **[Spring 2026 Test Engineering Intern - Undergraduate](https://jobright.ai/jobs/info/683c06db74c686282ab4e05e?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | Jun 01 |
 | ↳ | **[Spring 2026 Test Engineering Intern - Undergraduate](https://jobright.ai/jobs/info/683c06db74c686282ab4e05f?utm_campaign=1048&utm_source=git)** | Van Horn, TX | On Site | Jun 01 |
+| ↳ | **[Spring 2026 Structural & Mechanical Systems Engineering Intern - Graduate](https://jobright.ai/jobs/info/683c069574c686282ab4d636?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Jun 01 |
 | ↳ | **[Spring 2026 Electrical Systems Engineering Intern - Graduate](https://jobright.ai/jobs/info/683c069574c686282ab4d62b?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Jun 01 |
 | ↳ | **[Spring 2026 Avionics Software Engineering Intern - Undergraduate](https://jobright.ai/jobs/info/683c069574c686282ab4d64b?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Jun 01 |
-| ↳ | **[Spring 2026 Fluid Systems Engineering Intern - Graduate](https://jobright.ai/jobs/info/683c069574c686282ab4d641?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Jun 01 |
-| ↳ | **[Spring 2026 Test Engineering Intern - Undergraduate](https://jobright.ai/jobs/info/683c069574c686282ab4d637?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Jun 01 |
 | ↳ | **[Spring 2026 Avionics Software Internship - Graduate Student](https://jobright.ai/jobs/info/683c069574c686282ab4d631?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Jun 01 |
+| ↳ | **[Spring 2026 Test Engineering Intern - Undergraduate](https://jobright.ai/jobs/info/683c069574c686282ab4d637?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Jun 01 |
+| ↳ | **[Spring 2026 Fluid Systems Engineering Intern - Graduate](https://jobright.ai/jobs/info/683c069574c686282ab4d641?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Jun 01 |
 | ↳ | **[Spring 2026 Electrical Systems Engineering Internship - Undergraduate](https://jobright.ai/jobs/info/683c069574c686282ab4d651?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Jun 01 |
-| ↳ | **[Spring 2026 Structural & Mechanical Systems Engineering Intern - Graduate](https://jobright.ai/jobs/info/683c069574c686282ab4d636?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Jun 01 |
 | ↳ | **[Spring 2026 Fluid Systems Engineering Intern - Undergraduate](https://jobright.ai/jobs/info/683c069574c686282ab4d633?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Jun 01 |
 | **[MBTA](http://mbta.com)** | **[Wayfinding Intern](https://jobright.ai/jobs/info/683c02588acf89d955a770d0?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | Jun 01 |
 | **[Utah Transit Authority](http://www.rideuta.com/)** | **[Diesel Technician Intern](https://jobright.ai/jobs/info/683bfba859f71e8bac6e7943?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT | On Site | Jun 01 |
@@ -119,6 +125,7 @@ Fall 2025](https://jobright.ai/jobs/info/683cdc2763977aa55d153dbf?utm_campaign=1
 | **[Syska Hennessy Group](http://www.syska.com)** | **[Plumbing Engineer I](https://jobright.ai/jobs/info/683bb572e01b95114a0c267f?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | Hybrid | May 31 |
 | ↳ | **[Electrical Engineering Summer Intern](https://jobright.ai/jobs/info/683bb33b32f69eed76285597?utm_campaign=1048&utm_source=git)** | Tampa, FL | Hybrid | May 31 |
 | **[Stevens Towing Company](https://www.stevens-towing.com)** | **[Safety Technician Intern](https://jobright.ai/jobs/info/683baf582aaf1ece8a4af7d6?utm_campaign=1048&utm_source=git)** | Yonges Island, SC | On Site | May 31 |
+| **[ByteDance](http://bytedance.com)** | **[Research Scientist Intern (Traffic Infrastructure Global Engineering) - 2025 Summer/Fall (PhD)](https://jobright.ai/jobs/info/67e77211fb2bebb18e7f0066?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | May 31 |
 | **[EHDD](http://ehdd.com)** | **[EHDD Internship program](https://jobright.ai/jobs/info/683c48c15254f4441c40ba9f?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | May 31 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Field Engineer (SkillBridge Intern) - 22344](https://jobright.ai/jobs/info/683b97e8448c6bd6d9d2c0c3?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | May 31 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[MILITARY DoD SKILLBRIDGE Field Engineer (West Region)](https://jobright.ai/jobs/info/683b8d0aafe6b68be1a20361?utm_campaign=1048&utm_source=git)** | North Dakota, United States | On Site | May 31 |
@@ -151,11 +158,4 @@ Fall 2025](https://jobright.ai/jobs/info/683cdc2763977aa55d153dbf?utm_campaign=1
 | **[ProBio](https://probiocdmo.com/)** | **[CGT Process Development Intern](https://jobright.ai/jobs/info/6801838802b160cc8f01f182?utm_campaign=1048&utm_source=git)** | Pennington, NJ | On Site | May 31 |
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Quality Assurance Support - Intern](https://jobright.ai/jobs/info/681e634c058dd308649388d4?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | May 31 |
 | **[Atwell, LLC](https://www.atwell-group.com)** | **[Drafting Intern - Oil & Gas](https://jobright.ai/jobs/info/681e7cb6f361a20cfa398625?utm_campaign=1048&utm_source=git)** | Dallas, TX | Hybrid | May 31 |
-| **[Sentara Health](https://www.sentara.com/)** | **[EP Lab Cardiovascular Technologist Student](https://jobright.ai/jobs/info/68297e38a12bf87e534a67bd?utm_campaign=1048&utm_source=git)** | Norfolk, VA | On Site | May 31 |
-| **[Precision For Medicine](https://www.precisionformedicine.com)** | **[Quality Assurance Support - Intern](https://jobright.ai/jobs/info/681e42b44a7b2a0016b5304f?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | May 31 |
-| **[Nokia](http://www.nokia.com)** | **[Hardware Development Co-Op](https://jobright.ai/jobs/info/681e3ba47d3443434e74048a?utm_campaign=1048&utm_source=git)** | New Providence, NJ | On Site | May 31 |
-| **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Detailer Internship](https://jobright.ai/jobs/info/683aea24b663b399e55d205f?utm_campaign=1048&utm_source=git)** | Butler, IN | On Site | May 31 |
-| **[Woolpert](http://www.woolpert.com)** | **[Survey Technician Intern](https://jobright.ai/jobs/info/681e6bc8ce8d927129d23a48?utm_campaign=1048&utm_source=git)** | Hillsboro, OR | On Site | May 31 |
-| **[BKF Engineers](http://www.bkf.com)** | **[2025 Summer Civil Engineer Assistant](https://jobright.ai/jobs/info/67abf999357c3540940c0e74?utm_campaign=1048&utm_source=git)** | Pleasanton, CA | On Site | May 31 |
-| **[Teck Resources Limited](http://www.teck.com/)** | **[Mine Engineer Intern](https://jobright.ai/jobs/info/6810000d4335f46a0c551317?utm_campaign=1048&utm_source=git)** | Red Dog Mine, AK | On Site | May 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
