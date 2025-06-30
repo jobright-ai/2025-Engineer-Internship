@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Canadian Solar Inc.](https://www.canadiansolar.com)** | **[Equipment Intern](https://jobright.ai/jobs/info/686205f2e6f6a6e22ef08453?utm_campaign=1048&utm_source=git)** | Mesquite, TX | On Site | Jun 29 |
+| **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Internship, Structural Engineering (Fall 2025)](https://jobright.ai/jobs/info/6861f95326cca544acadeed0?utm_campaign=1048&utm_source=git)** | Waltham, MA | On Site | Jun 29 |
+| ↳ | **[Internship/Co-op, Fire Protection (LA)](https://jobright.ai/jobs/info/6861f95326cca544acadeecf?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Jun 29 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[MILITARY DoD SKILLBRIDGE Field Engineer (West Region)](https://jobright.ai/jobs/info/6861ccf6dc610387e2d96d7b?utm_campaign=1048&utm_source=git)** | New Mexico, United States | On Site | Jun 29 |
 | **[The University of Texas Medical Branch](http://www.utmb.edu/)** | **[Postdoctoral Fellow, Anesthesiology](https://jobright.ai/jobs/info/6861cbb8f352c3abdccc1691?utm_campaign=1048&utm_source=git)** | Galveston, TX | On Site | Jun 29 |
-| **[Peter Basso Associates](http://www.peterbassoassociates.com/)** | **[Electrical Co-Op
-Fall 2025](https://jobright.ai/jobs/info/6861cbb8f352c3abdccc16fa?utm_campaign=1048&utm_source=git)** | Troy, MI | On Site | Jun 29 |
 | **[OHLA USA](https://www.ohla-usa.com)** | **[2025 Field Engineer Intern](https://jobright.ai/jobs/info/68619010f95e4f07aa7dfb10?utm_campaign=1048&utm_source=git)** | California, United States | On Site | Jun 29 |
 | **[WestRock Company](http://www.westrock.com)** | **[Engineering Intern/Co-op Mills (Fall 2025)](https://jobright.ai/jobs/info/68618f37bc155b769dacbef0?utm_campaign=1048&utm_source=git)** | Florence County, SC | On Site | Jun 29 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Union Apprentice Engineer- Local 30](https://jobright.ai/jobs/info/68618988398087ddd8ab4b2b?utm_campaign=1048&utm_source=git)** | White Plains, NY | On Site | Jun 29 |
@@ -80,8 +81,9 @@ Fall 2025](https://jobright.ai/jobs/info/6861cbb8f352c3abdccc16fa?utm_campaign=1
 | **[CertiK](https://www.certik.com/)** | **[Blockchain Security Expert Intern - AI Track](https://jobright.ai/jobs/info/68288d020add149fa6d39170?utm_campaign=1048&utm_source=git)** | New York, NY | Remote | Jun 29 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[Technical Services - TDP/Trainee](https://jobright.ai/jobs/info/682967c24f9cb34a9ba1aa40?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | Jun 29 |
 | **[Hyundai AutoEver America](https://www.autoeveramerica.com)** | **[20212 – MES System Analyst I (Internship)](https://jobright.ai/jobs/info/67eec9450aec65a27e6092e6?utm_campaign=1048&utm_source=git)** | West Point, GA | On Site | Jun 29 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Refining Chemical Engineering Intern/Co-op Fall 2025](https://jobright.ai/jobs/info/673f18f84f599018c37c6ae4?utm_campaign=1048&utm_source=git)** | Catlettsburg, KY | On Site | Jun 29 |
-| ↳ | **[Intern/Co-op - Logistics and Storage Mechanical/Civil/Electrical Engineer (Fall 2025)](https://jobright.ai/jobs/info/673c7b06aece071fdc3ac8c3?utm_campaign=1048&utm_source=git)** | Wood River, IL | On Site | Jun 29 |
+| **[Weir Minerals](https://www.global.weir)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/6827815fce27bf672bf12aac?utm_campaign=1048&utm_source=git)** | St Louis, MO | On Site | Jun 29 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Logistics and Storage Mechanical/Civil/Electrical Engineer (Fall 2025)](https://jobright.ai/jobs/info/673c7b06aece071fdc3ac8c3?utm_campaign=1048&utm_source=git)** | Wood River, IL | On Site | Jun 29 |
+| ↳ | **[Refining Chemical Engineering Intern/Co-op Fall 2025](https://jobright.ai/jobs/info/673f18f84f599018c37c6ae4?utm_campaign=1048&utm_source=git)** | Catlettsburg, KY | On Site | Jun 29 |
 | **[Gorbel](https://www.gorbel.com/)** | **[Mechanical Engineering Co-Op](https://jobright.ai/jobs/info/684546c427e961ae145cc098?utm_campaign=1048&utm_source=git)** | Victor, NY | On Site | Jun 29 |
 | **[GE Aerospace](https://www.geaerospace.com)** | **[Military DoD SkillBridge Internship - Electronic Analyzer & Tester](https://jobright.ai/jobs/info/67981ace96799a370da1b5d6?utm_campaign=1048&utm_source=git)** | Grand Rapids, MI | On Site | Jun 29 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Refining Mechanical Engineer Intern/co-op Fall 2025](https://jobright.ai/jobs/info/6735d9a205c9048b78b9fdfe?utm_campaign=1048&utm_source=git)** | Catlettsburg, KY | On Site | Jun 29 |
@@ -90,6 +92,8 @@ Fall 2025](https://jobright.ai/jobs/info/6861cbb8f352c3abdccc16fa?utm_campaign=1
 | ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer (West Region)](https://jobright.ai/jobs/info/68611e4a0dedcf01001db874?utm_campaign=1048&utm_source=git)** | South Dakota, United States | On Site | Jun 29 |
 | **[Vertiv](https://www.Vertiv.com)** | **[HVAC Cooling Customer Engineer Internship, Westerville](https://jobright.ai/jobs/info/6844200becaec9a96ec6ad85?utm_campaign=1048&utm_source=git)** | Westerville, OH | On Site | Jun 29 |
 | **[Medpace](http://www.medpace.com)** | **[Network Engineer Intern- Fall 2025](https://jobright.ai/jobs/info/67f053f19bc6ac468daac6f8?utm_campaign=1048&utm_source=git)** | Cincinnati, OH | Hybrid | Jun 29 |
+| **[Peter Basso Associates](http://www.peterbassoassociates.com/)** | **[Electrical Co-Op
+Fall 2025](https://jobright.ai/jobs/info/686116541f7ce0c641b57d1a?utm_campaign=1048&utm_source=git)** | Troy, MI | On Site | Jun 29 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[Industrial Engineer Summer Intern](https://jobright.ai/jobs/info/683d7dcbf4c13335d68bdce2?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT | On Site | Jun 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Machine Learning Engineer Intern (Creative AI) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67eecb5e0300c0e253e6f3c0?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jun 29 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Mechanical Engineering Intern - Fall 2025](https://jobright.ai/jobs/info/6859e26de37bf4b3ef1e4817?utm_campaign=1048&utm_source=git)** | Tempe, AZ | Hybrid | Jun 29 |
@@ -107,15 +111,17 @@ Fall 2025](https://jobright.ai/jobs/info/6861cbb8f352c3abdccc16fa?utm_campaign=1
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Mechanical Engineering (HVAC) Intern - Fall 2025](https://jobright.ai/jobs/info/6860cf8fbab2fceb0573b8d9?utm_campaign=1048&utm_source=git)** | Hamilton, NJ | Hybrid | Jun 28 |
 | **[Western University of Health Sciences](http://www.westernu.edu/)** | **[Student Dissector/Prosector](https://jobright.ai/jobs/info/6860b36a471120b4cc56591c?utm_campaign=1048&utm_source=git)** | Pomona, CA | On Site | Jun 28 |
 | **[Infinity Systems Engineering](http://infinity.aero/)** | **[Active-Duty Military Internship (Active-Duty Military Only)](https://jobright.ai/jobs/info/6860b36a471120b4cc56598a?utm_campaign=1048&utm_source=git)** | Colorado Springs, CO | On Site | Jun 28 |
+| **[NPower](http://www.npower.org/)** | **[Junior Network Administrator - Training & Job Placement](https://jobright.ai/jobs/info/686205169448c588502e0ae1?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Jun 28 |
+| ↳ | **[Junior Network Administrator - Training & Job Placement](https://jobright.ai/jobs/info/6861fe61b8120079f9a95d43?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Jun 28 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Mechanical Engineering (HVAC) Intern - Fall 2025](https://jobright.ai/jobs/info/686095ed058241260abddbb9?utm_campaign=1048&utm_source=git)** | Hamilton Township, NJ | On Site | Jun 28 |
 | **[Terex Corporation](http://www.terex.com)** | **[Shop Service Intern](https://jobright.ai/jobs/info/68608974adc1abb565c16bb4?utm_campaign=1048&utm_source=git)** | Fort Worth, TX | Hybrid | Jun 28 |
-| **[GE HealthCare](http://www.gehealthcare.com)** | **[MILITARY DoD SKILLBRIDGE Field Engineer (Northeast Region)](https://jobright.ai/jobs/info/6860763e233f62ffba1742ec?utm_campaign=1048&utm_source=git)** | Erie, PA | On Site | Jun 28 |
-| ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer (West Region)](https://jobright.ai/jobs/info/6860763e233f62ffba1742e5?utm_campaign=1048&utm_source=git)** | Anchorage, AK | On Site | Jun 28 |
+| **[GE HealthCare](http://www.gehealthcare.com)** | **[MILITARY DoD SKILLBRIDGE Field Engineer (West Region)](https://jobright.ai/jobs/info/6860763e233f62ffba1742e5?utm_campaign=1048&utm_source=git)** | Anchorage, AK | On Site | Jun 28 |
+| ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer (Northeast Region)](https://jobright.ai/jobs/info/6860763e233f62ffba1742ec?utm_campaign=1048&utm_source=git)** | Erie, PA | On Site | Jun 28 |
 | ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer (West Region)](https://jobright.ai/jobs/info/686073a1fb068977793bbca7?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Jun 28 |
 | **[Park Industries](https://www.parkindustries.com/)** | **[Future Consideration Application - Park Industries](https://jobright.ai/jobs/info/68606ee41c7f09befeea7f2a?utm_campaign=1048&utm_source=git)** | St Cloud, MN | On Site | Jun 28 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Structural Intern - 2025](https://jobright.ai/jobs/info/682ab9f5d37c869596eaba7d?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Jun 28 |
-| **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Middle East Research Fall 2025 Internship](https://jobright.ai/jobs/info/686055ce7b54c4a9614e679e?utm_campaign=1048&utm_source=git)** | Washington, DC | On Site | Jun 28 |
-| ↳ | **[Russia Program Research Fall 2025 Internship](https://jobright.ai/jobs/info/686055ce7b54c4a9614e6786?utm_campaign=1048&utm_source=git)** | Washington, DC | On Site | Jun 28 |
+| **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Russia Program Research Fall 2025 Internship](https://jobright.ai/jobs/info/686055ce7b54c4a9614e6786?utm_campaign=1048&utm_source=git)** | Washington, DC | On Site | Jun 28 |
+| ↳ | **[Middle East Research Fall 2025 Internship](https://jobright.ai/jobs/info/686055ce7b54c4a9614e679e?utm_campaign=1048&utm_source=git)** | Washington, DC | On Site | Jun 28 |
 | ↳ | **[Cyber & Technology Innovation Research Fall 2025 Internship](https://jobright.ai/jobs/info/686055ce7b54c4a9614e6775?utm_campaign=1048&utm_source=git)** | Washington, DC | On Site | Jun 28 |
 | **[Olin](http://www.olin.com/)** | **[Chemical Engineer Co-Op - Fall 2025](https://jobright.ai/jobs/info/68268c8d7b6bb22c70b99894?utm_campaign=1048&utm_source=git)** | Freeport, TX | On Site | Jun 28 |
 | **[Omni Design Technologies, Inc.](http://www.omnidesigntech.com/)** | **[IC Characterization/Test Engineer Intern](https://jobright.ai/jobs/info/686050d435e6ade49150a096?utm_campaign=1048&utm_source=git)** | Milpitas, CA | On Site | Jun 28 |
@@ -152,10 +158,4 @@ Fall 2025](https://jobright.ai/jobs/info/6861cbb8f352c3abdccc16fa?utm_campaign=1
 | **[Zachry Group](http://www.zachrygroup.com/)** | **[Nuclear Engineer I Civil/Structural - Intern](https://jobright.ai/jobs/info/67eda3c8893aa408234fb8fb?utm_campaign=1048&utm_source=git)** | Stonington, CT | On Site | Jun 28 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Civil Engineering Co-Op](https://jobright.ai/jobs/info/682633073cbc771f5420daf2?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | Jun 28 |
 | **[Element Materials Technology](https://www.element.com)** | **[Magnetic Particle Inspector (MPI)](https://jobright.ai/jobs/info/6843447e0cf5aeb76600c00f?utm_campaign=1048&utm_source=git)** | Middleburg Heights, OH | On Site | Jun 28 |
-| **[GE HealthCare](http://www.gehealthcare.com)** | **[MILITARY DoD SKILLBRIDGE Field Engineer (West Region)](https://jobright.ai/jobs/info/685fcfd313cf9ee3ef57510d?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Jun 28 |
-| ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer (West Region)](https://jobright.ai/jobs/info/685fcfd313cf9ee3ef57510e?utm_campaign=1048&utm_source=git)** | Idaho, United States | On Site | Jun 28 |
-| ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer (Northeast Region)](https://jobright.ai/jobs/info/685fcfd313cf9ee3ef575106?utm_campaign=1048&utm_source=git)** | Auburn, ME | On Site | Jun 28 |
-| ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer (West Region)](https://jobright.ai/jobs/info/685fcfd313cf9ee3ef575105?utm_campaign=1048&utm_source=git)** | Montana, United States | On Site | Jun 28 |
-| ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer (West Region)](https://jobright.ai/jobs/info/685fcfd313cf9ee3ef575112?utm_campaign=1048&utm_source=git)** | North Dakota, United States | On Site | Jun 28 |
-| ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer (West Region)](https://jobright.ai/jobs/info/685fcfd313cf9ee3ef575110?utm_campaign=1048&utm_source=git)** | Shawnee, OK | On Site | Jun 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
