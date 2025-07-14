@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Freudenberg Group](http://www.freudenberg.com)** | **[Intern](https://jobright.ai/jobs/info/68746bf75cebcd1dd51b9328?utm_campaign=1048&utm_source=git)** | Morristown, IN | On Site | Jul 13 |
+| **[Sartorius](http://sartorius.com)** | **[Research Intern - Raman Spectroscopy - onsite](https://jobright.ai/jobs/info/68746b605cebcd1dd51b92df?utm_campaign=1048&utm_source=git)** | Marlborough, MA | On Site | Jul 13 |
 | **[Medical City Healthcare](https://medicalcityhealthcare.com/)** | **[Rad Tech Extern](https://jobright.ai/jobs/info/68745b8c299cbc74b874d2b2?utm_campaign=1048&utm_source=git)** | Weatherford, TX | On Site | Jul 13 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[MILITARY DoD SKILLBRIDGE Field Engineer (Northeast Region)](https://jobright.ai/jobs/info/68744e3b299cbc74b874d0a7?utm_campaign=1048&utm_source=git)** | Vermont, United States | On Site | Jul 13 |
 | ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer (Northeast Region)](https://jobright.ai/jobs/info/68744e265cebcd1dd51b8d85?utm_campaign=1048&utm_source=git)** | Norwalk, CT | On Site | Jul 13 |
@@ -68,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Engineering Intern](https://jobright.ai/jobs/info/6874042501889204ff8f5eb8?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Jul 13 |
 | ↳ | **[Engineering Intern](https://jobright.ai/jobs/info/687404164001e95011b1b8bf?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Jul 13 |
 | **[Sanofi](https://www.sanofi.com)** | **[Winter-Spring 2026 Co-Op-Intern - HSE](https://jobright.ai/jobs/info/6873fe824001e95011b1b87a?utm_campaign=1048&utm_source=git)** | Swiftwater, PA | On Site | Jul 13 |
+| **[New York eHealth Collaborative](http://nyehealth.org/)** | **[Information Security Intern](https://jobright.ai/jobs/info/6871f6c2a5ae807a59d03f81?utm_campaign=1048&utm_source=git)** | Albany, New York Metropolitan Area | Hybrid | Jul 13 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[MILITARY DoD SKILLBRIDGE Field Engineer (West Region)](https://jobright.ai/jobs/info/6873ed194001e95011b1b609?utm_campaign=1048&utm_source=git)** | Shawnee, OK | On Site | Jul 13 |
 | **[University of South Dakota](http://www.usd.edu/)** | **[Data Science & Engineering PhD](https://jobright.ai/jobs/info/6873ec134001e95011b1b566?utm_campaign=1048&utm_source=git)** | Vermillion, SD | On Site | Jul 13 |
 | **[S. W. Cole Engineering, Inc.](https://www.swcole.com/our-services/geoenvironmental-services/)** | **[Drilling Apprentice-Somersworth](https://jobright.ai/jobs/info/6873e8ed01889204ff8f5c2c?utm_campaign=1048&utm_source=git)** | Somersworth, NH | On Site | Jul 13 |
@@ -84,6 +87,7 @@ For a complete list, click the following sortable link below:
 | **[BKF Engineers](http://www.bkf.com)** | **[2025 Summer Civil Engineer Assistant](https://jobright.ai/jobs/info/67abf999357c3540940c0e74?utm_campaign=1048&utm_source=git)** | Pleasanton, CA | On Site | Jul 13 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Quality Engineering Intern](https://jobright.ai/jobs/info/687395a14001e95011b17958?utm_campaign=1048&utm_source=git)** | Reno, NV | On Site | Jul 13 |
 | **[BioSpace](http://www.biospace.com/)** | **[Postdoctoral Scientist – Discovery Oncology](https://jobright.ai/jobs/info/6873b92b4001e95011b194ca?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Jul 13 |
+| **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern (Academic Credit) - Bottini Lab - Department of Medicine - Per Diem (On-site)](https://jobright.ai/jobs/info/686627502f49bf26a3cbc4f3?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Jul 13 |
 | **[VEG ER for Pets](https://veterinaryemergencygroup.com)** | **[Veterinary Technician Student Externship - Greenville, SC](https://jobright.ai/jobs/info/686c63f735584b65427be133?utm_campaign=1048&utm_source=git)** | Greenville, South Carolina, United States | On Site | Jul 13 |
 | **[Audubon Companies](http://www.auduboncompanies.com)** | **[Civil/Structural Engineering Intern](https://jobright.ai/jobs/info/6873747627d5e6163cae6326?utm_campaign=1048&utm_source=git)** | Metairie, LA | On Site | Jul 13 |
 | ↳ | **[Civil/Structural Engineering Intern](https://jobright.ai/jobs/info/687372c501889204ff8f4ff0?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Jul 13 |
@@ -91,9 +95,7 @@ For a complete list, click the following sortable link below:
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Student Engineer - Portland, Oregon #113859](https://jobright.ai/jobs/info/68735130a5ae807a59d096d9?utm_campaign=1048&utm_source=git)** | Portland, OR | On Site | Jul 12 |
 | **[Nestlé](https://www.nestle.com)** | **[Operations Project Engineer Co-Op](https://jobright.ai/jobs/info/6851ac4253be07c6d4abdc8f?utm_campaign=1048&utm_source=git)** | Morton, IL | On Site | Jul 12 |
 | **[County of Los Angeles](https://lacounty.gov/)** | **[CIVIL ENGINEERING STUDENT](https://jobright.ai/jobs/info/6873704701889204ff8f4fb0?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Jul 12 |
-| **[GE HealthCare](http://www.gehealthcare.com)** | **[MILITARY DoD SKILLBRIDGE Field Engineer (West Region)](https://jobright.ai/jobs/info/687368404001e95011b148b3?utm_campaign=1048&utm_source=git)** | New Mexico, United States | On Site | Jul 12 |
-| ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer (Northeast Region)](https://jobright.ai/jobs/info/68735fd727d5e6163cae5d15?utm_campaign=1048&utm_source=git)** | Terre Haute, IN | On Site | Jul 12 |
-| ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer (West Region)](https://jobright.ai/jobs/info/68733e34a5ae807a59d08e02?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Jul 12 |
+| **[GE HealthCare](http://www.gehealthcare.com)** | **[MILITARY DoD SKILLBRIDGE Field Engineer (West Region)](https://jobright.ai/jobs/info/68733e34a5ae807a59d08e02?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Jul 12 |
 | ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer (Northeast Region)](https://jobright.ai/jobs/info/6873f6044001e95011b1b6d7?utm_campaign=1048&utm_source=git)** | Glen Allen, VA | On Site | Jul 12 |
 | **[VEG ER for Pets](https://veterinaryemergencygroup.com)** | **[Veterinary Technician Student Externship - Denver Tech Center, CO](https://jobright.ai/jobs/info/686c62f135584b654272babd?utm_campaign=1048&utm_source=git)** | Denver, Colorado, United States | On Site | Jul 12 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[MILITARY DoD SKILLBRIDGE Field Engineer (West Region)](https://jobright.ai/jobs/info/687382ed4001e95011b1691a?utm_campaign=1048&utm_source=git)** | California, United States | On Site | Jul 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ByteDance](http://bytedance.com)** | **[Student Researcher (Doubao (Seed) - Foundation Model - Vision and Language) - 2025 Start (PhD)](https://jobright.ai/jobs/info/6855f995b0e8b59b0e9db45a?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Jul 12 |
 | ↳ | **[Software Engineer Intern (Doubao (Seed) - Machine Learning System) - 2025 Summer (MS)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8d9a?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jul 12 |
 | ↳ | **[Student Researcher (Doubao (Seed) - Music Foundation Model) - 2025 Start (PhD)](https://jobright.ai/jobs/info/685639617d54b6be490d8771?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jul 12 |
-| ↳ | **[Student Researcher (Doubao (Seed) - Foundation Model - Vision and Language) - 2025 Start (PhD)](https://jobright.ai/jobs/info/685639617d54b6be490d875a?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jul 12 |
-| ↳ | **[Student Researcher (Doubao (Seed) - Machine Learning System) - 2025 Start (PhD)](https://jobright.ai/jobs/info/6855f995b0e8b59b0e9db44c?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jul 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
