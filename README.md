@@ -57,7 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MSA - The Safety Company](https://www.msasafety.com/global)** | **[Industrial Engineering Co-Op/Intern Summer 2026](https://jobright.ai/jobs/info/68767340ae2f413e4a5afc5b?utm_campaign=1048&utm_source=git)** | Cranberry Twp, Pennsylvania | On Site | Jul 15 |
+| **[HNTB](http://www.hntb.com/)** | **[Toll Technology Intern - Fall 2025 and Spring 2026](https://jobright.ai/jobs/info/687671a6299cbc74b875d228?utm_campaign=1048&utm_source=git)** | Ocoee, FL (FTE Turnpike Headquarters) | On Site | Jul 15 |
+| **[Office of the County Engineer](http://www.eng.hctx.net)** | **[Office of the County Engineer Internship Program (OCEIP) - Fall Intern](https://jobright.ai/jobs/info/68767159299cbc74b875d1f8?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Jul 15 |
+| **[Argonne National Laboratory](http://www.anl.gov/)** | **[Research Aide - ESI - Flores, Brittany - 7.14.25](https://jobright.ai/jobs/info/68766537299cbc74b875cda6?utm_campaign=1048&utm_source=git)** | Lemont, IL USA | On Site | Jul 15 |
+| **[Republic Services](http://www.republicservices.com)** | **[Tech Trainee-1](https://jobright.ai/jobs/info/687664afae2f413e4a5af586?utm_campaign=1048&utm_source=git)** | Bridgeton, MO, USA | On Site | Jul 15 |
+| **[Airgas](http://airgas.com/)** | **[VIE - Modelling & Simulation Engineer(M/F/D)](https://jobright.ai/jobs/info/687664035cebcd1dd51c8a40?utm_campaign=1048&utm_source=git)** | Houston, TX (HO) | On Site | Jul 15 |
+| **[Batchelor & Kimball, Inc.](https://www.bkimechanical.com/)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/68765ec4ae2f413e4a5af3a4?utm_campaign=1048&utm_source=git)** | Conyers, Georgia, United States | On Site | Jul 15 |
+| **[Smithfield Foods](http://smithfieldfoods.com)** | **[Research Intern](https://jobright.ai/jobs/info/68765b13299cbc74b875c9b4?utm_campaign=1048&utm_source=git)** | Algona, IA | On Site | Jul 15 |
 | **[Curtiss-Wright Corporation](https://curtisswright.com/home/default.aspx)** | **[Manufacturing Engineer Co-Op](https://jobright.ai/jobs/info/68764eb8299cbc74b875c3ce?utm_campaign=1048&utm_source=git)** | US-PA-Aston (ESCO) | On Site | Jul 15 |
+| **[GE HealthCare](http://www.gehealthcare.com)** | **[MILITARY DoD SKILLBRIDGE Field Engineer (Northeast Region)](https://jobright.ai/jobs/info/68766409ae2f413e4a5af539?utm_campaign=1048&utm_source=git)** | Auburn, ME | On Site | Jul 15 |
+| ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer (Northeast Region)](https://jobright.ai/jobs/info/68766559ae2f413e4a5af615?utm_campaign=1048&utm_source=git)** | Vermont, United States | On Site | Jul 15 |
+| **[Wallace Design Collective](https://wallace.design/)** | **[Civil Intern Engineer](https://jobright.ai/jobs/info/664e2b6bfd06ab529d525d00?utm_campaign=1048&utm_source=git)** | Tulsa, OK | On Site | Jul 15 |
+| **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Internship - Circuit Protection Design Engineer](https://jobright.ai/jobs/info/68766748299cbc74b875ceca?utm_campaign=1048&utm_source=git)** | Golden, CO | Hybrid | Jul 15 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[MILITARY DoD SKILLBRIDGE Field Engineer (West Region)](https://jobright.ai/jobs/info/68764d84299cbc74b875c2c2?utm_campaign=1048&utm_source=git)** | Detroit, MI | On Site | Jul 15 |
 | ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer (Northeast Region)](https://jobright.ai/jobs/info/68764cf2ae2f413e4a5aeaab?utm_campaign=1048&utm_source=git)** | Norwalk, CT | On Site | Jul 15 |
 | ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer (Northeast Region)](https://jobright.ai/jobs/info/6876581d299cbc74b875c856?utm_campaign=1048&utm_source=git)** | Terre Haute, IN | On Site | Jul 15 |
@@ -72,8 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Curtiss-Wright Corporation](https://curtisswright.com/home/default.aspx)** | **[Co-op Intern (Engineering)](https://jobright.ai/jobs/info/68763dd5ae2f413e4a5ae37d?utm_campaign=1048&utm_source=git)** | Grand Prairie, TX | On Site | Jul 14 |
 | **[University of Virginia](https://lvg.virginia.edu)** | **[Postdoctoral Research Associate](https://jobright.ai/jobs/info/687656edae2f413e4a5af053?utm_campaign=1048&utm_source=git)** | Charlottesville, VA | On Site | Jul 14 |
 | ↳ | **[Research Associate in Astronomy](https://jobright.ai/jobs/info/68762b915cebcd1dd51c7037?utm_campaign=1048&utm_source=git)** | Charlottesville, VA | On Site | Jul 14 |
-| **[GE HealthCare](http://www.gehealthcare.com)** | **[MILITARY DoD SKILLBRIDGE Field Engineer (Northeast Region)](https://jobright.ai/jobs/info/6876332e5cebcd1dd51c742e?utm_campaign=1048&utm_source=git)** | Vermont, United States | On Site | Jul 14 |
-| **[University of Virginia](https://lvg.virginia.edu)** | **[Research Associate, Cope Lab](https://jobright.ai/jobs/info/687607fcae2f413e4a5ac615?utm_campaign=1048&utm_source=git)** | Charlottesville, VA | On Site | Jul 14 |
+| ↳ | **[Research Associate, Cope Lab](https://jobright.ai/jobs/info/687607fcae2f413e4a5ac615?utm_campaign=1048&utm_source=git)** | Charlottesville, VA | On Site | Jul 14 |
 | ↳ | **[Postdoctoral Research Associate - Scientific Machine Learning on Graphs](https://jobright.ai/jobs/info/68763574ae2f413e4a5adeae?utm_campaign=1048&utm_source=git)** | Charlottesville, VA | On Site | Jul 14 |
 | ↳ | **[Post Doc Research Associate](https://jobright.ai/jobs/info/68761b325cebcd1dd51c6a05?utm_campaign=1048&utm_source=git)** | Charlottesville, VA | On Site | Jul 14 |
 | ↳ | **[Postdoc Research Associate, Genome Sciences](https://jobright.ai/jobs/info/687609d6299cbc74b875a36b?utm_campaign=1048&utm_source=git)** | Charlottesville, VA | On Site | Jul 14 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[STO Building Group](https://stobuildinggroup.com)** | **[Intern – Estimating](https://jobright.ai/jobs/info/6864b4080123eb491ffbfe14?utm_campaign=1048&utm_source=git)** | Sandy, UT | On Site | Jul 14 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[NoSQL Team Intern](https://jobright.ai/jobs/info/68759c12ae2f413e4a5a8617?utm_campaign=1048&utm_source=git)** | Beverly Hills, CA | Remote | Jul 14 |
 | **[Hillcrest HealthCare System](http://www.hillcrest.com)** | **[Student Cardiovascular Specialist / X-Ray Tech](https://jobright.ai/jobs/info/68759a7f299cbc74b87563e8?utm_campaign=1048&utm_source=git)** | Tulsa, OK | On Site | Jul 14 |
-| **[Globus Medical](http://www.globusmedical.com)** | **[Electro-Mechanical Engineering Intern](https://jobright.ai/jobs/info/6875cf3bae2f413e4a5a9e5f?utm_campaign=1048&utm_source=git)** | Methuen, MA | On Site | Jul 14 |
-| **[GE HealthCare](http://www.gehealthcare.com)** | **[MILITARY DoD SKILLBRIDGE Field Engineer (West Region)](https://jobright.ai/jobs/info/687599325cebcd1dd51c2024?utm_campaign=1048&utm_source=git)** | Minden, NV | On Site | Jul 14 |
-| **[Akuna Capital](https://akunacapital.com)** | **[Hardware Engineer Intern, Summer 2026](https://jobright.ai/jobs/info/6875987bae2f413e4a5a8564?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Jul 14 |
-| **[Jacobs](http://www.jacobs.com)** | **[Ecosystems Design Intern – Fall 2025](https://jobright.ai/jobs/info/6875ba6c5cebcd1dd51c306c?utm_campaign=1048&utm_source=git)** | Bellevue, WA | On Site | Jul 14 |
-| ↳ | **[Ecosystems Design Intern – Fall 2025](https://jobright.ai/jobs/info/6875c8fcae2f413e4a5a9bd2?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Jul 14 |
-| **[EAC Consulting, Inc.](http://eacconsult.com)** | **[CEI Inspector Engineering Intern](https://jobright.ai/jobs/info/6875c36f5cebcd1dd51c33c0?utm_campaign=1048&utm_source=git)** | West Palm Beach, FL | On Site | Jul 14 |
-| **[The University of Georgia](http://www.ai.uga.edu)** | **[Student Laboratory Assistant - Zock 1](https://jobright.ai/jobs/info/68759666299cbc74b875627c?utm_campaign=1048&utm_source=git)** | Athens, GA | On Site | Jul 14 |
-| **[IBM](http://www.ibm.com)** | **[P-TECH at IBM High School Co-op](https://jobright.ai/jobs/info/68759592299cbc74b8756229?utm_campaign=1048&utm_source=git)** | Rochester, MN | Remote | Jul 14 |
-| **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[AI Intern](https://jobright.ai/jobs/info/68759587ae2f413e4a5a846c?utm_campaign=1048&utm_source=git)** | Raleigh, NC | On Site | Jul 14 |
-| **[Globus Medical](http://www.globusmedical.com)** | **[Project Engineer Co-Op](https://jobright.ai/jobs/info/6875aef3299cbc74b8756f5a?utm_campaign=1048&utm_source=git)** | King of Prussia, PA | On Site | Jul 14 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Thermal Design Engineer, Energy Engineering (Fall 2025)](https://jobright.ai/jobs/info/68758f81299cbc74b875606d?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Jul 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
