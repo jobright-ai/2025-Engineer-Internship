@@ -57,13 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Civil Engineering](https://jobright.ai/jobs/info/687601d2299cbc74b8759c68?utm_campaign=1048&utm_source=git)** | Mesa, AZ | Hybrid | Jul 14 |
+| **[GE HealthCare](http://www.gehealthcare.com)** | **[MILITARY DoD SKILLBRIDGE Field Engineer (West Region)](https://jobright.ai/jobs/info/6875f8c95cebcd1dd51c5291?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | Jul 14 |
 | **[Honeywell](http://www.honeywell.com)** | **[Co-Op - Business Process Mgmt Analyst](https://jobright.ai/jobs/info/6875d8305cebcd1dd51c3fcb?utm_campaign=1048&utm_source=git)** | Mason, OH, United States | On Site | Jul 14 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Automation Engineer, Energy Engineering (Fall 2025)](https://jobright.ai/jobs/info/6875cb5e299cbc74b8757ab0?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Jul 14 |
 | **[Oak Ridge National Laboratory](http://www.ornl.gov/)** | **[Postdoctoral Research Associate - Molten Salt Characterization](https://jobright.ai/jobs/info/6875c3b1ae2f413e4a5a99ff?utm_campaign=1048&utm_source=git)** | Oak Ridge, TN | Hybrid | Jul 14 |
 | **[Stellant Systems, Inc.](https://stellantsystems.com/company)** | **[Engineering Intern](https://jobright.ai/jobs/info/6875c2465cebcd1dd51c334e?utm_campaign=1048&utm_source=git)** | US-NY-Melville | On Site | Jul 14 |
 | **[Washington University in St. Louis](https://wustl.edu/)** | **[Postdoctoral Research Associate - Pathology & Immunology](https://jobright.ai/jobs/info/6875c1f2ae2f413e4a5a995f?utm_campaign=1048&utm_source=git)** | St Louis, MO | On Site | Jul 14 |
+| **[Astranis Space Technologies](http://www.astranis.com)** | **[Product Lifecycle Management Analyst (Fall 2025)New](https://jobright.ai/jobs/info/687601bc5cebcd1dd51c581b?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Jul 14 |
 | **[Linamar Corporation](http://www.linamar.com/)** | **[Student Intern - Engineering](https://jobright.ai/jobs/info/6875bebd5cebcd1dd51c3210?utm_campaign=1048&utm_source=git)** | Wilson, NC | On Site | Jul 14 |
 | **[Tucson Electric Power](https://www.tep.com/)** | **[Student Intern, Automation Engineer](https://jobright.ai/jobs/info/6875be7e5cebcd1dd51c31f9?utm_campaign=1048&utm_source=git)** | Tucson, AZ | On Site | Jul 14 |
+| **[Meijer](https://www.meijer.com/)** | **[Asset Protection Store Detective Intern](https://jobright.ai/jobs/info/6875f40a299cbc74b875918c?utm_campaign=1048&utm_source=git)** | Normal, IL | On Site | Jul 14 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Magnetic Resonance Imaging Technologist Trainee - Per Diem - Garden City](https://jobright.ai/jobs/info/6875bdb3299cbc74b875747e?utm_campaign=1048&utm_source=git)** | Garden City, NY | On Site | Jul 14 |
 | **[Curtiss-Wright Corporation](https://curtisswright.com/home/default.aspx)** | **[Co-op Intern (Engineering)](https://jobright.ai/jobs/info/6875bb2e5cebcd1dd51c30bd?utm_campaign=1048&utm_source=git)** | US-TX-Grand Prairie (ST-160) | On Site | Jul 14 |
 | **[Optiver](http://www.optiver.com)** | **[FPGA Engineer Intern (Summer 2026 - Austin)](https://jobright.ai/jobs/info/6875b736ae2f413e4a5a9517?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Jul 14 |
@@ -73,6 +77,7 @@ For a complete list, click the following sortable link below:
 | **[BILL](http://www.bill.com)** | **[2026 Campus Recruiting: Machine Learning Engineer Intern](https://jobright.ai/jobs/info/6875b2f0299cbc74b87570d2?utm_campaign=1048&utm_source=git)** | Draper, UT | On Site | Jul 14 |
 | **[Linamar Corporation](http://www.linamar.com/)** | **[Student Intern - Quality](https://jobright.ai/jobs/info/6875b04a299cbc74b8756fb1?utm_campaign=1048&utm_source=git)** | Wilson, NC | On Site | Jul 14 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Service Technician Trainee (Summer 2025)](https://jobright.ai/jobs/info/6875e5de5cebcd1dd51c45a7?utm_campaign=1048&utm_source=git)** | Bellevue, WA | On Site | Jul 14 |
+| **[PPL Corporation](https://www.pplweb.com/)** | **[Electrical Engineer Co-op - Fall 2025](https://jobright.ai/jobs/info/6875ee35ae2f413e4a5ab2a8?utm_campaign=1048&utm_source=git)** | Louisville, KY | On Site | Jul 14 |
 | **[Texas A&M University](http://www.tamu.edu)** | **[Postdoctoral Research Associate – Neurodegeneration Li lab](https://jobright.ai/jobs/info/6875ae30ae2f413e4a5a914d?utm_campaign=1048&utm_source=git)** | College Station, TX | On Site | Jul 14 |
 | **[Boston University](http://today.bu.edu)** | **[Postdoctoral Associate, Mechanical Engineering, College of Engineering](https://jobright.ai/jobs/info/6875dffe5cebcd1dd51c4317?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | Jul 14 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[Roadway Engineering Co-Op - Fall 2025](https://jobright.ai/jobs/info/6875ad985cebcd1dd51c2bf7?utm_campaign=1048&utm_source=git)** | Indianapolis, IN | On Site | Jul 14 |
@@ -129,8 +134,8 @@ For a complete list, click the following sortable link below:
 | **[Globus Medical](http://www.globusmedical.com)** | **[Electro-Mechanical Engineering Intern](https://jobright.ai/jobs/info/6875cf3bae2f413e4a5a9e5f?utm_campaign=1048&utm_source=git)** | Methuen, MA | On Site | Jul 14 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[MILITARY DoD SKILLBRIDGE Field Engineer (West Region)](https://jobright.ai/jobs/info/687599325cebcd1dd51c2024?utm_campaign=1048&utm_source=git)** | Minden, NV | On Site | Jul 14 |
 | **[Akuna Capital](https://akunacapital.com)** | **[Hardware Engineer Intern, Summer 2026](https://jobright.ai/jobs/info/6875987bae2f413e4a5a8564?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Jul 14 |
-| **[Jacobs](http://www.jacobs.com)** | **[Ecosystems Design Intern – Fall 2025](https://jobright.ai/jobs/info/6875c8fcae2f413e4a5a9bd2?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Jul 14 |
-| ↳ | **[Ecosystems Design Intern – Fall 2025](https://jobright.ai/jobs/info/6875ba6c5cebcd1dd51c306c?utm_campaign=1048&utm_source=git)** | Bellevue, WA | On Site | Jul 14 |
+| **[Jacobs](http://www.jacobs.com)** | **[Ecosystems Design Intern – Fall 2025](https://jobright.ai/jobs/info/6875ba6c5cebcd1dd51c306c?utm_campaign=1048&utm_source=git)** | Bellevue, WA | On Site | Jul 14 |
+| ↳ | **[Ecosystems Design Intern – Fall 2025](https://jobright.ai/jobs/info/6875c8fcae2f413e4a5a9bd2?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Jul 14 |
 | **[EAC Consulting, Inc.](http://eacconsult.com)** | **[CEI Inspector Engineering Intern](https://jobright.ai/jobs/info/6875c36f5cebcd1dd51c33c0?utm_campaign=1048&utm_source=git)** | West Palm Beach, FL | On Site | Jul 14 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Student Laboratory Assistant - Zock 1](https://jobright.ai/jobs/info/68759666299cbc74b875627c?utm_campaign=1048&utm_source=git)** | Athens, GA | On Site | Jul 14 |
 | **[IBM](http://www.ibm.com)** | **[P-TECH at IBM High School Co-op](https://jobright.ai/jobs/info/68759592299cbc74b8756229?utm_campaign=1048&utm_source=git)** | Rochester, MN | Remote | Jul 14 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Amazon Robotics - Data Scientist Co-op - 2025, Science Tooling And Research (STAR)](https://jobright.ai/jobs/info/687584465cebcd1dd51c17d5?utm_campaign=1048&utm_source=git)** | Raynham, Massachusetts, USA | On Site | Jul 14 |
 | **[II-VI Aerospace & Defense](https://www.iiviad.com)** | **[Engineering Co-op](https://jobright.ai/jobs/info/687583d15cebcd1dd51c175f?utm_campaign=1048&utm_source=git)** | 2710 Commerce Way, Philadelphia, PA, 19154, US | On Site | Jul 14 |
 | **[Amazon](https://amazon.com)** | **[Amazon Robotics - Data Scientist Co-op - 2025, Science Tooling And Research (STAR)](https://jobright.ai/jobs/info/687583965cebcd1dd51c172b?utm_campaign=1048&utm_source=git)** | Boston, Massachusetts, USA | On Site | Jul 14 |
-| **[Coherent Corp.](https://www.coherent.com/)** | **[Engineering Co-op](https://jobright.ai/jobs/info/6875838aae2f413e4a5a7c9e?utm_campaign=1048&utm_source=git)** | 2710 Commerce Way, Philadelphia, PA, 19154, US | On Site | Jul 14 |
-| **[Mark III Construction, Inc.](http://mark-three.com)** | **[Field Engineer Intern](https://jobright.ai/jobs/info/687580cd299cbc74b875594a?utm_campaign=1048&utm_source=git)** | Hesperia, CA | On Site | Jul 14 |
-| **[The University of Georgia](http://www.ai.uga.edu)** | **[Undergraduate Researcher in Soil Science](https://jobright.ai/jobs/info/68759d7c5cebcd1dd51c21bb?utm_campaign=1048&utm_source=git)** | Athens, GA | On Site | Jul 14 |
-| ↳ | **[Research Professional Weather Network](https://jobright.ai/jobs/info/68759f0d5cebcd1dd51c2251?utm_campaign=1048&utm_source=git)** | Athens, GA | On Site | Jul 14 |
-| **[Cirque Corporation](http://www.cirque.com)** | **[Patent Intern](https://jobright.ai/jobs/info/68757fd2299cbc74b87558d2?utm_campaign=1048&utm_source=git)** | Sandy, UT | Hybrid | Jul 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
