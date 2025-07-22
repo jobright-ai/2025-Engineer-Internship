@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship - Research & Development (PhD)](https://jobright.ai/jobs/info/687ed652764c3d7411c4696e?utm_campaign=1048&utm_source=git)** | United States | Remote | Jul 22 |
+| **[Jobright.ai](https://jobright.ai)** | **[Integration Engineer I (Internship) (Remote)](https://jobright.ai/jobs/info/687f59822097a271a899cab4?utm_campaign=1048&utm_source=git)** | United States | Remote | Jul 22 |
+| **[Rivian](http://www.rivian.com)** | **[UIUC Research Park Intern - EPC, Propulsion Drives Controls](https://jobright.ai/jobs/info/687f50599f72804245702f6e?utm_campaign=1048&utm_source=git)** | Champaign, IL | On Site | Jul 22 |
+| ↳ | **[UIUC Research Park Intern - Validation](https://jobright.ai/jobs/info/687f4cb42097a271a899c78c?utm_campaign=1048&utm_source=git)** | Champaign, IL | On Site | Jul 22 |
+| **[United Rentals](http://www.unitedrentals.com)** | **[Intern Diesel Mechanic (Paid)](https://jobright.ai/jobs/info/687f43ec2097a271a899c3a4?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Jul 22 |
+| **[Jobright.ai](https://jobright.ai)** | **[Assessment Engineering Intern (Internship) (Remote)](https://jobright.ai/jobs/info/687f43219f72804245702a04?utm_campaign=1048&utm_source=git)** | United States | Remote | Jul 22 |
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Engineering Intern](https://jobright.ai/jobs/info/687f3e80764c3d7411c4a684?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Jul 22 |
 | ↳ | **[Engineering Intern](https://jobright.ai/jobs/info/687f3d91764c3d7411c4a5c4?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Jul 22 |
 | ↳ | **[Engineering Intern](https://jobright.ai/jobs/info/687f3cd02097a271a899be6a?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Jul 22 |
@@ -65,6 +71,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Project Geologist or Environmental Scientist](https://jobright.ai/jobs/info/687f3ae02097a271a899bd4d?utm_campaign=1048&utm_source=git)** | Monrovia, CA | On Site | Jul 22 |
 | **[Jobright.ai](https://jobright.ai)** | **[Integration Engineer I - Internship - (Remote)](https://jobright.ai/jobs/info/687f30ce764c3d7411c4a0e7?utm_campaign=1048&utm_source=git)** | United States | Remote | Jul 21 |
 | **[Genentech](http://gene.com)** | **[2025 Fall Intern - gCS BRAID, Generative Models for Multimodal Data](https://jobright.ai/jobs/info/687f2ee8764c3d7411c4a068?utm_campaign=1048&utm_source=git)** | South San Francisco, CA | On Site | Jul 21 |
+| **[City of Philadelphia](http://www.phila.gov/)** | **[Engineering Intern](https://jobright.ai/jobs/info/687f56f22097a271a899ca7b?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Jul 21 |
+| **[Stantec](http://www.stantec.com)** | **[Project Geologist or Environmental Scientist](https://jobright.ai/jobs/info/687f52842097a271a899c954?utm_campaign=1048&utm_source=git)** | Paramount, CA | On Site | Jul 21 |
+| ↳ | **[Project Geologist or Environmental Scientist](https://jobright.ai/jobs/info/687f473f2097a271a899c584?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Jul 21 |
 | **[Jobright.ai](https://jobright.ai)** | **[Software Engineer, Developer Productivity (Internship)](https://jobright.ai/jobs/info/687f200d9f72804245701513?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Jul 21 |
 | ↳ | **[Technology & Innovation Intern - Internship - (Remote)](https://jobright.ai/jobs/info/687f1f339f7280424570149f?utm_campaign=1048&utm_source=git)** | United States | Remote | Jul 21 |
 | **[Northwestern University](https://www.northwestern.edu)** | **[Postdoctoral Scholar in Cardiovascular Inflammation](https://jobright.ai/jobs/info/687f15399f72804245700e8f?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Jul 21 |
@@ -78,10 +87,10 @@ For a complete list, click the following sortable link below:
 | **[Western Washington University](http://wwu.edu)** | **[Energy Management Fellow](https://jobright.ai/jobs/info/687efde22097a271a899971a?utm_campaign=1048&utm_source=git)** | Bellingham, WA | On Site | Jul 21 |
 | **[WGI](https://wginc.com/)** | **[Civil Intern - Summer 2025](https://jobright.ai/jobs/info/687f26582097a271a899b335?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Jul 21 |
 | **[Aircapture](https://www.aircapture.com)** | **[Data Engineering Intern (Fall)](https://jobright.ai/jobs/info/687ef5efdb19f31cf0d6e611?utm_campaign=1048&utm_source=git)** | Berkeley, CA | On Site | Jul 21 |
-| **[VEG ER for Pets](https://veterinaryemergencygroup.com)** | **[Veterinary Technician Student Externship - Jacksonville, FL](https://jobright.ai/jobs/info/686c658a35584b654281cf3f?utm_campaign=1048&utm_source=git)** | Jacksonville, Florida, United States | On Site | Jul 21 |
+| **[VEG ER for Pets](https://veterinaryemergencygroup.com)** | **[Veterinary Technician Student Externship - Georgetown, DC](https://jobright.ai/jobs/info/686c657335584b654281614b?utm_campaign=1048&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jul 21 |
+| ↳ | **[Veterinary Technician Student Externship - Jacksonville, FL](https://jobright.ai/jobs/info/686c658a35584b654281cf3f?utm_campaign=1048&utm_source=git)** | Jacksonville, Florida, United States | On Site | Jul 21 |
 | ↳ | **[Veterinary Technician Student Externship - Edgewater, CO](https://jobright.ai/jobs/info/686c649535584b65427e334d?utm_campaign=1048&utm_source=git)** | Edgewater, Colorado, United States | On Site | Jul 21 |
 | ↳ | **[Veterinary Technician Student Externship - San Ramon, CA](https://jobright.ai/jobs/info/686c636835584b654276137b?utm_campaign=1048&utm_source=git)** | San Ramon, California, United States | On Site | Jul 21 |
-| ↳ | **[Veterinary Technician Student Externship - Georgetown, DC](https://jobright.ai/jobs/info/686c657335584b654281614b?utm_campaign=1048&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jul 21 |
 | **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Intern, EHS](https://jobright.ai/jobs/info/687ef0addb19f31cf0d6e47a?utm_campaign=1048&utm_source=git)** | Columbus, OH | On Site | Jul 21 |
 | **[Mead & Hunt](https://meadhunt.com/)** | **[Airport Civil Engineering Intern](https://jobright.ai/jobs/info/687eed4bdb19f31cf0d6e330?utm_campaign=1048&utm_source=git)** | Rapid City, SD | On Site | Jul 21 |
 | ↳ | **[Airport Civil Engineering Intern](https://jobright.ai/jobs/info/687eeb412097a271a8998e56?utm_campaign=1048&utm_source=git)** | Rapid City, South Dakota | On Site | Jul 21 |
@@ -93,7 +102,7 @@ For a complete list, click the following sortable link below:
 | **[Truveta](https://www.truveta.com)** | **[ML PhD Intern - LLMs & Generative AI](https://jobright.ai/jobs/info/687f085b764c3d7411c484ff?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Jul 21 |
 | **[Jobright.ai](https://jobright.ai)** | **[Data Engineer I (Internship)](https://jobright.ai/jobs/info/687f0cb2764c3d7411c4872d?utm_campaign=1048&utm_source=git)** | Ashburn, VA | On Site | Jul 21 |
 | **[University of Denver](http://www.du.edu/)** | **[Postdoctoral Researcher, van Engelenburg Laboratory](https://jobright.ai/jobs/info/6876f6685cebcd1dd51cdf0f?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Jul 21 |
-| **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[HSC Post Doctoral Rsch Assoc](https://jobright.ai/jobs/info/687efb7ddb19f31cf0d6e8c6?utm_campaign=1048&utm_source=git)** | Lubbock, TX | On Site | Jul 21 |
+| **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[HSC Post Doctoral Rsch Assoc](https://jobright.ai/jobs/info/687efd042097a271a8999683?utm_campaign=1048&utm_source=git)** | Lubbock, TX | On Site | Jul 21 |
 | **[Messer Construction Co.](http://www.messer.com)** | **[Project Engineer Co-Op - Dayton, OH](https://jobright.ai/jobs/info/687ef9e92097a271a8999508?utm_campaign=1048&utm_source=git)** | Dayton, OH | On Site | Jul 21 |
 | **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship - Research & Development (PhD)](https://jobright.ai/jobs/info/687edd26764c3d7411c46c90?utm_campaign=1048&utm_source=git)** | Collegeville, PA | On Site | Jul 21 |
 | **[Messer Construction Co.](http://www.messer.com)** | **[Project Engineer Co-Op - Lexington, KY](https://jobright.ai/jobs/info/687ef9d7db19f31cf0d6e81b?utm_campaign=1048&utm_source=git)** | Lexington, KY | On Site | Jul 21 |
@@ -111,8 +120,7 @@ For a complete list, click the following sortable link below:
 | **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship - Research & Development (BS/MS)](https://jobright.ai/jobs/info/687ed809db19f31cf0d6d7e8?utm_campaign=1048&utm_source=git)** | Collegeville, PA | On Site | Jul 21 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[VDC Intern - 2nd or 3rd Term](https://jobright.ai/jobs/info/687ed7522097a271a89983ea?utm_campaign=1048&utm_source=git)** | Tysons Corner, VA | On Site | Jul 21 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Planning Intern - Aviation](https://jobright.ai/jobs/info/687ef7c7764c3d7411c47a14?utm_campaign=1048&utm_source=git)** | Lehi, UT | On Site | Jul 21 |
-| **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship - Research & Development (PhD)](https://jobright.ai/jobs/info/687ed652764c3d7411c4696e?utm_campaign=1048&utm_source=git)** | United States | Remote | Jul 21 |
-| ↳ | **[2025-2026 Campus Internship - Research & Development (BS/MS)](https://jobright.ai/jobs/info/687ed5882097a271a8998327?utm_campaign=1048&utm_source=git)** | Midland, MI | On Site | Jul 21 |
+| **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship - Research & Development (BS/MS)](https://jobright.ai/jobs/info/687ed5882097a271a8998327?utm_campaign=1048&utm_source=git)** | Midland, MI | On Site | Jul 21 |
 | ↳ | **[2025-2026 Campus Internship - Digital Innovation – Cross-functional (Ph.D)](https://jobright.ai/jobs/info/687ed4ad764c3d7411c468a6?utm_campaign=1048&utm_source=git)** | Midland, MI | On Site | Jul 21 |
 | ↳ | **[2025-2026 Campus Internship - Digital Innovation – Cross-functional (Ph.D)](https://jobright.ai/jobs/info/687ed3fadb19f31cf0d6d62e?utm_campaign=1048&utm_source=git)** | Collegeville, PA | On Site | Jul 21 |
 | ↳ | **[2025-2026 Campus Internship - Research & Development (BS/MS)](https://jobright.ai/jobs/info/687ed349764c3d7411c467f8?utm_campaign=1048&utm_source=git)** | Freeport, TX | On Site | Jul 21 |
@@ -125,9 +133,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025-2026 Campus Internship - Digital Innovation – Cross-functional (Ph.D)](https://jobright.ai/jobs/info/687ecd9a2097a271a8997fca?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Jul 21 |
 | ↳ | **[2025-2026 Campus Internship - Research & Development (PhD)](https://jobright.ai/jobs/info/687ecd83db19f31cf0d6d345?utm_campaign=1048&utm_source=git)** | Deer Park, TX | On Site | Jul 21 |
 | **[Roche](http://www.roche.com)** | **[2025 Fall Intern - gCS BRAID, Generative Models for Multimodal Data](https://jobright.ai/jobs/info/687ecca8db19f31cf0d6d2bb?utm_campaign=1048&utm_source=git)** | South San Francisco | On Site | Jul 21 |
-| **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship - Research & Development (BS/MS)](https://jobright.ai/jobs/info/687f00c9db19f31cf0d6ebd0?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Jul 21 |
+| **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship - Research & Development (AS/BS)](https://jobright.ai/jobs/info/687f00a42097a271a899989e?utm_campaign=1048&utm_source=git)** | Midland, MI | On Site | Jul 21 |
 | ↳ | **[2025-2026 Campus Internship - Research & Development (BS/MS)](https://jobright.ai/jobs/info/687f000a2097a271a8999856?utm_campaign=1048&utm_source=git)** | Carrollton, KY | On Site | Jul 21 |
-| ↳ | **[2025-2026 Campus Internship - Research & Development (AS/BS)](https://jobright.ai/jobs/info/687f00a42097a271a899989e?utm_campaign=1048&utm_source=git)** | Midland, MI | On Site | Jul 21 |
+| ↳ | **[2025-2026 Campus Internship - Research & Development (BS/MS)](https://jobright.ai/jobs/info/687f00c9db19f31cf0d6ebd0?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Jul 21 |
 | ↳ | **[2025-2026 Campus Internship - Research & Development (PhD)](https://jobright.ai/jobs/info/687ef85d2097a271a8999441?utm_campaign=1048&utm_source=git)** | South Charleston, WV | On Site | Jul 21 |
 | **[IBM](http://www.ibm.com)** | **[Mainframe System Verification Tester Apprentice](https://jobright.ai/jobs/info/687ef9ba2097a271a89994ee?utm_campaign=1048&utm_source=git)** | Poughkeepsie, NY | On Site | Jul 21 |
 | **[ERMCO-ECI](http://ermco-eci.com)** | **[Continuous Improvement Engineer – Intern/Co-Op](https://jobright.ai/jobs/info/687ef938db19f31cf0d6e7d4?utm_campaign=1048&utm_source=git)** | Athens, GA | On Site | Jul 21 |
@@ -135,8 +143,8 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Safety Intern - 2nd or 3rd Term](https://jobright.ai/jobs/info/687ef225db19f31cf0d6e512?utm_campaign=1048&utm_source=git)** | Tysons Corner, VA | On Site | Jul 21 |
 | **[HNTB](http://www.hntb.com/)** | **[Returning Intern Engineer - Summer 2026 (Southeast Division) (For Current/Previous HNTB Interns ONLY)](https://jobright.ai/jobs/info/68798924ed63844c9449c644?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | Jul 21 |
 | **[Aircapture](https://www.aircapture.com)** | **[Data Engineering Intern](https://jobright.ai/jobs/info/687ec210db19f31cf0d6ce06?utm_campaign=1048&utm_source=git)** | Berkeley, CA | On Site | Jul 21 |
-| **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship - Research & Development (AS/BS)](https://jobright.ai/jobs/info/687ec1c5db19f31cf0d6cddf?utm_campaign=1048&utm_source=git)** | Freeport (TX, USA) | On Site | Jul 21 |
-| ↳ | **[2025-2026 Campus Internship - Research & Development (PhD)](https://jobright.ai/jobs/info/687ec1c5db19f31cf0d6cdde?utm_campaign=1048&utm_source=git)** | Houston (TX, USA) | On Site | Jul 21 |
+| **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship - Research & Development (PhD)](https://jobright.ai/jobs/info/687ec1c5db19f31cf0d6cdde?utm_campaign=1048&utm_source=git)** | Houston (TX, USA) | On Site | Jul 21 |
+| ↳ | **[2025-2026 Campus Internship - Research & Development (AS/BS)](https://jobright.ai/jobs/info/687ec1c5db19f31cf0d6cddf?utm_campaign=1048&utm_source=git)** | Freeport (TX, USA) | On Site | Jul 21 |
 | ↳ | **[2025-2026 Campus Internship - Research & Development (BS/MS)](https://jobright.ai/jobs/info/687ec190db19f31cf0d6cda4?utm_campaign=1048&utm_source=git)** | Houston (TX, USA) | On Site | Jul 21 |
 | ↳ | **[2025-2026 Campus Internship - Research & Development (BS/MS)](https://jobright.ai/jobs/info/687ec16e2097a271a8997a1b?utm_campaign=1048&utm_source=git)** | Freeport (TX, USA) | On Site | Jul 21 |
 | ↳ | **[2025-2026 Campus Internship - Research & Development (BS/MS)](https://jobright.ai/jobs/info/687ec163db19f31cf0d6cd77?utm_campaign=1048&utm_source=git)** | Collegeville (PA, USA) | On Site | Jul 21 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025-2026 Campus Internship - Research & Development (PhD)](https://jobright.ai/jobs/info/687ec0d72097a271a899795f?utm_campaign=1048&utm_source=git)** | Carrollton (KY, USA) | On Site | Jul 21 |
 | ↳ | **[2025-2026 Campus Internship - Research & Development (BS/MS)](https://jobright.ai/jobs/info/687ec0c22097a271a8997949?utm_campaign=1048&utm_source=git)** | Carrollton (KY, USA) | On Site | Jul 21 |
 | ↳ | **[2025-2026 Campus Internship - Research & Development (PhD)](https://jobright.ai/jobs/info/687ec0b8db19f31cf0d6ccbd?utm_campaign=1048&utm_source=git)** | Midland (MI, USA) | On Site | Jul 21 |
-| ↳ | **[2025-2026 Campus Internship - Digital Innovation – Cross-functional (Ph.D)](https://jobright.ai/jobs/info/687ec0952097a271a8997917?utm_campaign=1048&utm_source=git)** | Houston (TX, USA) | Hybrid | Jul 21 |
-| ↳ | **[2025-2026 Campus Internship - Research & Development (AS/BS)](https://jobright.ai/jobs/info/687ec090764c3d7411c45f97?utm_campaign=1048&utm_source=git)** | Midland (MI, USA) | On Site | Jul 21 |
-| ↳ | **[2025-2026 Campus Internship - Research & Development (BS/MS)](https://jobright.ai/jobs/info/687ec090764c3d7411c45f98?utm_campaign=1048&utm_source=git)** | Auburn (MI, USA) | On Site | Jul 21 |
-| ↳ | **[2025-2026 Campus Internship - Digital Innovation – Cross-functional (Ph.D)](https://jobright.ai/jobs/info/687ec06b764c3d7411c45f70?utm_campaign=1048&utm_source=git)** | Midland (MI, USA) | Hybrid | Jul 21 |
-| ↳ | **[2025-2026 Campus Internship - Research & Development (PhD)](https://jobright.ai/jobs/info/687ec05f764c3d7411c45f64?utm_campaign=1048&utm_source=git)** | Deer Park (TX, USA) | On Site | Jul 21 |
-| ↳ | **[2025-2026 Campus Internship - Research & Development (AS/BS)](https://jobright.ai/jobs/info/687ec052764c3d7411c45f57?utm_campaign=1048&utm_source=git)** | Collegeville (PA, USA) | On Site | Jul 21 |
-| ↳ | **[2025-2026 Campus Internship - Research & Development (PhD)](https://jobright.ai/jobs/info/687ec050db19f31cf0d6cc6b?utm_campaign=1048&utm_source=git)** | Collegeville (PA, USA) | On Site | Jul 21 |
-| ↳ | **[2025-2026 Campus Internship - Digital Innovation – Cross-functional (Ph.D)](https://jobright.ai/jobs/info/687ec04c764c3d7411c45f51?utm_campaign=1048&utm_source=git)** | Virtual Office-United States (USA) | Hybrid | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
