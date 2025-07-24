@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PhDFinder](Phdfinder.com)** | **[[Expired] Postdoctoral Positions in Catalysis and Reaction Engineering at Louisiana Tech University](https://jobright.ai/jobs/info/6881e54b41fbda106ee6e7e8?utm_campaign=1048&utm_source=git)** | Lincoln University, PA | On Site | Jul 23 |
 | **[Dow](https://www.dowchemical.com)** | **[2025-2026 US Operations Intern/Co-op – FALL POSTING](https://jobright.ai/jobs/info/6881c53d41fbda106ee6ce53?utm_campaign=1048&utm_source=git)** | Midland, MI | On Site | Jul 23 |
 | ↳ | **[2025-2026 US Operations Intern/Co-op – FALL POSTING](https://jobright.ai/jobs/info/6881c50141fbda106ee6ce3c?utm_campaign=1048&utm_source=git)** | Victoria, TX | On Site | Jul 23 |
 | ↳ | **[2025-2026 US Operations Intern/Co-op – FALL POSTING](https://jobright.ai/jobs/info/6881c490ee15177ae9716fa1?utm_campaign=1048&utm_source=git)** | Marietta, GA | On Site | Jul 23 |
@@ -67,10 +68,16 @@ For a complete list, click the following sortable link below:
 | **[Dow](https://www.dowchemical.com)** | **[2025-2026 US Operations Intern/Co-op – FALL POSTING](https://jobright.ai/jobs/info/6881c30aee15177ae9716f0f?utm_campaign=1048&utm_source=git)** | Deer Park, TX | On Site | Jul 23 |
 | ↳ | **[2025-2026 US Operations Intern/Co-op – FALL POSTING](https://jobright.ai/jobs/info/6881c23241fbda106ee6cd13?utm_campaign=1048&utm_source=git)** | La Porte, TX | On Site | Jul 23 |
 | ↳ | **[2025-2026 US Operations Intern/Co-op – FALL POSTING](https://jobright.ai/jobs/info/6881c1b4ee15177ae9716e98?utm_campaign=1048&utm_source=git)** | Greensburg, LA | On Site | Jul 23 |
-| **[Jobright.ai](https://jobright.ai)** | **[Data Engineering Intern (Internship)](https://jobright.ai/jobs/info/6881bf2f41fbda106ee6c982?utm_campaign=1048&utm_source=git)** | Berkeley, CA | On Site | Jul 23 |
+| **[Jobright.ai](https://jobright.ai)** | **[Contract AI Engineer (Internship) (Remote)](https://jobright.ai/jobs/info/6881e0ea41fbda106ee6e3f5?utm_campaign=1048&utm_source=git)** | United States | Remote | Jul 23 |
+| ↳ | **[Data Engineering Intern (Internship)](https://jobright.ai/jobs/info/6881bf2f41fbda106ee6c982?utm_campaign=1048&utm_source=git)** | Berkeley, CA | On Site | Jul 23 |
 | **[Dow](https://www.dowchemical.com)** | **[2025-2026 US Operations Intern/Co-op – FALL POSTING](https://jobright.ai/jobs/info/6881bdf61321092fa0060ba9?utm_campaign=1048&utm_source=git)** | Freeport, TX | On Site | Jul 23 |
+| **[Jobright.ai](https://jobright.ai)** | **[Research Internship – Deep Learning & LLM-Based Solutions for Industrial Applications](https://jobright.ai/jobs/info/6881df98ee15177ae97184f3?utm_campaign=1048&utm_source=git)** | Santa Clara County, CA | On Site | Jul 23 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Research Internship – Deep Learning & LLM-Based Solutions for Industrial Applications](https://jobright.ai/jobs/info/6879533c2097a271a89768be?utm_campaign=1048&utm_source=git)** | Santa Clara, California, United States | On Site | Jul 23 |
+| **[Dow](https://www.dowchemical.com)** | **[2025-2026 US Operations Intern/Co-op – FALL POSTING](https://jobright.ai/jobs/info/6881e4101321092fa0062820?utm_campaign=1048&utm_source=git)** | South Charleston, WV | On Site | Jul 23 |
+| ↳ | **[2025-2026 US Operations Intern/Co-op – FALL POSTING](https://jobright.ai/jobs/info/6881dfc81321092fa0062569?utm_campaign=1048&utm_source=git)** | Oyster Creek, TX | On Site | Jul 23 |
+| ↳ | **[2025-2026 US Operations Intern/Co-op – FALL POSTING](https://jobright.ai/jobs/info/6881e08aee15177ae9718593?utm_campaign=1048&utm_source=git)** | Seadrift, TX | On Site | Jul 23 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Incident Response, Information Security – Fall 2025](https://jobright.ai/jobs/info/687bdbc3764c3d7411c35bd4?utm_campaign=1048&utm_source=git)** | Culver City, CA | On Site | Jul 23 |
+| **[University of Louisville](http://louisville.edu/research/offices/technology-transfer/)** | **[Postdoctoral Researcher](https://jobright.ai/jobs/info/6881e37941fbda106ee6e57b?utm_campaign=1048&utm_source=git)** | Louisville, KY | On Site | Jul 23 |
 | **[WGI](https://wginc.com/)** | **[Intern - Civil Fall 2025](https://jobright.ai/jobs/info/6881acbc16ea5743a373b424?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Jul 23 |
 | **[Aircapture](https://www.aircapture.com)** | **[Data Engineering Intern](https://jobright.ai/jobs/info/687ec210db19f31cf0d6ce06?utm_campaign=1048&utm_source=git)** | Berkeley, CA | On Site | Jul 23 |
 | **[Moss & Associates (Construction)](https://mosscm.com/)** | **[Solar Internship Fall 2025](https://jobright.ai/jobs/info/6881a6f029ad6b2744ae3de0?utm_campaign=1048&utm_source=git)** | Arkansas, United States | On Site | Jul 23 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Jobright.ai](https://jobright.ai)** | **[Data Engineering - Data Quality & Governance (Internship)](https://jobright.ai/jobs/info/6881770d29ad6b2744ae25f5?utm_campaign=1048&utm_source=git)** | SLC Metro Area | On Site | Jul 23 |
 | **[CMTA, Inc.](https://www.cmta.com)** | **[Solar Engineer Intern/Co-op Spring 2026 - Energy Solutions - CMTA](https://jobright.ai/jobs/info/688176eff4f06100f3a27241?utm_campaign=1048&utm_source=git)** | Fairfax, VA | On Site | Jul 23 |
 | ↳ | **[Mechanical Engineer Intern/Co-op Summer 2026 - Energy Solutions - CMTA](https://jobright.ai/jobs/info/688176ce16ea5743a373949d?utm_campaign=1048&utm_source=git)** | Prospect, KY | On Site | Jul 23 |
-| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[BFT - Research Student](https://jobright.ai/jobs/info/688175cef4f06100f3a271b5?utm_campaign=1048&utm_source=git)** | Somerville, MA | On Site | Jul 23 |
-| **[CMTA, Inc.](https://www.cmta.com)** | **[Mechanical Engineer Intern/Co-op Spring 2026 - Energy Solutions - CMTA](https://jobright.ai/jobs/info/68817532f4f06100f3a2716a?utm_campaign=1048&utm_source=git)** | Golden, CO | On Site | Jul 23 |
-| ↳ | **[Mechanical Engineer Intern/Co-op Summer 2026 - Energy Solutions - CMTA](https://jobright.ai/jobs/info/6881730629ad6b2744ae23f5?utm_campaign=1048&utm_source=git)** | Baltimore, MD | On Site | Jul 23 |
-| **[HNTB](http://www.hntb.com/)** | **[Returning Strategic Technology Intern - Summer 2026 (Southeast Division) (For Current/Previous Interns ONLY)](https://jobright.ai/jobs/info/6881717829ad6b2744ae2319?utm_campaign=1048&utm_source=git)** | Clearwater, FL | On Site | Jul 23 |
-| **[City of Seattle](http://www.seattle.gov/)** | **[Parks Planning Intern - AI & GIS Software](https://jobright.ai/jobs/info/68817147f4f06100f3a26fb2?utm_campaign=1048&utm_source=git)** | Seattle, WA | Hybrid | Jul 23 |
-| **[HNTB](http://www.hntb.com/)** | **[Returning Strategic Technology Intern - Summer 2026 (Southeast Division) (For Current/Previous Interns ONLY)](https://jobright.ai/jobs/info/688170f629ad6b2744ae22da?utm_campaign=1048&utm_source=git)** | Kissimmee, FL | On Site | Jul 23 |
-| ↳ | **[Returning Strategic Technology Intern - Summer 2026 (Southeast Division) (For Current/Previous Interns ONLY)](https://jobright.ai/jobs/info/688170ed29ad6b2744ae22d7?utm_campaign=1048&utm_source=git)** | Fort Lauderdale, FL | On Site | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
