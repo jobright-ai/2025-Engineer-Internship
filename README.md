@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Flexware Innovation](http://www.flexwareinnovation.com/)** | **[2025 Trailblazer Summer Internship Program](https://jobright.ai/jobs/info/688352ebb54cac0f1e73777a?utm_campaign=1048&utm_source=git)** | Fishers, IN | On Site | Jul 25 |
 | **[Physics World](https://physicsworld.com/)** | **[Computing Undergraduate Student Intern - Fall 2025](https://jobright.ai/jobs/info/68834d5e6fcd973d15ae0eef?utm_campaign=1048&utm_source=git)** | Livermore, CA | On Site | Jul 25 |
 | **[Foley Family Wines & Spirits](https://www.foleyfoodandwinesociety.com/)** | **[Harvest Forklift Op - Four Graces - $500 Sign- On](https://jobright.ai/jobs/info/687ede53db19f31cf0d6da39?utm_campaign=1048&utm_source=git)** | Dundee, OR | On Site | Jul 25 |
 | **[Stantec](http://www.stantec.com)** | **[Mechanical Designer](https://jobright.ai/jobs/info/68834a21b54cac0f1e7375e3?utm_campaign=1048&utm_source=git)** | Lynnwood, WA | On Site | Jul 25 |
@@ -98,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[Panasonic North America](https://www.na.panasonic.com/)** | **[IT Automation Intern (Fall 2025)](https://jobright.ai/jobs/info/6882f8f46fcd973d15addb2d?utm_campaign=1048&utm_source=git)** | United States | Remote | Jul 24 |
 | **[Traylor Bros., Inc.](http://traylor.com)** | **[Spring 2026 Engineer Intern/Co-op - Underground Construction & Tunneling](https://jobright.ai/jobs/info/6882f7a96fcd973d15adda0d?utm_campaign=1048&utm_source=git)** | United States | On Site | Jul 24 |
 | ↳ | **[Spring 2026 Engineer Intern/Co-op - Underground Construction & Tunneling](https://jobright.ai/jobs/info/6882f7656fcd973d15add9d5?utm_campaign=1048&utm_source=git)** | Ellicott City, MD | On Site | Jul 24 |
-| **[ASM Global](https://asmglobal.com/)** | **[Production Tech Intern](https://jobright.ai/jobs/info/68831bc06fcd973d15adf4ad?utm_campaign=1048&utm_source=git)** | El Paso, TX | On Site | Jul 24 |
 | **[Ohio Gratings, Inc.](http://www.ohiogratings.com/)** | **[Mfg Engineering Co-op](https://jobright.ai/jobs/info/6882f26d6fcd973d15add48e?utm_campaign=1048&utm_source=git)** | Canton, OH | On Site | Jul 24 |
 | **[Amtrak](https://amtrakstations.com/)** | **[PASSENGER ENGINEER TRAINEE - 90258820 - Boston, MA](https://jobright.ai/jobs/info/6882f21a835a903aa07f1a9e?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | Jul 24 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2025 Fall Engineering Co-Op (Moline, IL)](https://jobright.ai/jobs/info/6882f219b54cac0f1e733ab0?utm_campaign=1048&utm_source=git)** | Moline, IL | On Site | Jul 24 |
@@ -115,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[Florida Power & Light](https://www.fpl.com/)** | **[College Engineering Student - FIU Program](https://jobright.ai/jobs/info/687850a2ae2f413e4a5c172d?utm_campaign=1048&utm_source=git)** | Miami, FL | On Site | Jul 24 |
 | **[Jobright.ai](https://jobright.ai)** | **[Contract AI Engineer (Internship) (Remote)](https://jobright.ai/jobs/info/6882dbf86fcd973d15adcd3e?utm_campaign=1048&utm_source=git)** | United States | Remote | Jul 24 |
 | **[Emory University](http://www.emory.edu)** | **[Post Doctoral Fellow](https://jobright.ai/jobs/info/6882daab835a903aa07f1320?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Jul 24 |
-| **[City of Cincinnati](http://www.cincinnati-oh.gov)** | **[CO-OP/INTERN 4 -TRANSPORTATION DESIGN (TRANSPORTATION AND ENGINEERING)](https://jobright.ai/jobs/info/6882fb16835a903aa07f22ca?utm_campaign=1048&utm_source=git)** | Cincinnati, OH | On Site | Jul 24 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[AI/ML Internship - Fall 2025 (Engineering Intern 4)](https://jobright.ai/jobs/info/6882d872b54cac0f1e7332d1?utm_campaign=1048&utm_source=git)** | Albuquerque, NM | On Site | Jul 24 |
 | **[UC Irvine](http://uci.edu)** | **[Postdoctoral Scholar – BME /Tissue Engineering](https://jobright.ai/jobs/info/6882d7bcb54cac0f1e733280?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Jul 24 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Propulsion Manufacturing Intern (Fall 2025)](https://jobright.ai/jobs/info/6882d6f3835a903aa07f11e5?utm_campaign=1048&utm_source=git)** | San Francisco | On Site | Jul 24 |
@@ -146,6 +143,7 @@ For a complete list, click the following sortable link below:
 | **[Peter Basso Associates](http://www.peterbassoassociates.com/)** | **[Electrical Co-Op Fall 2025](https://jobright.ai/jobs/info/6882c3c36fcd973d15adc333?utm_campaign=1048&utm_source=git)** | Troy, MI | On Site | Jul 24 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Test Stand Engineering and Analysis Co-op - Fall 2025](https://jobright.ai/jobs/info/6882c268835a903aa07f093c?utm_campaign=1048&utm_source=git)** | Mentor, OH | On Site | Jul 24 |
 | **[UPMC](https://www.upmc.com/)** | **[Imaging Services Student Tech](https://jobright.ai/jobs/info/6882c108835a903aa07f08ca?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | On Site | Jul 24 |
+| **[Jobright.ai](https://jobright.ai)** | **[Machine Learning Engineer (PhD Intern) (Internship) (Remote)](https://jobright.ai/jobs/info/6882c0e8b54cac0f1e7328e3?utm_campaign=1048&utm_source=git)** | United States | Remote | Jul 24 |
 | **[CU Online](https://online.cu.edu/)** | **[Postdoctoral Associate](https://jobright.ai/jobs/info/6882fc64b54cac0f1e734344?utm_campaign=1048&utm_source=git)** | Boulder, CO | On Site | Jul 24 |
 | **[Call & Nicholas](https://www.cnitucson.com)** | **[Fall 2026 Geotechnical Engineering Intern](https://jobright.ai/jobs/info/6882ffb06fcd973d15ade0c3?utm_campaign=1048&utm_source=git)** | Tucson, AZ | On Site | Jul 24 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern- Computational Pathology and AI](https://jobright.ai/jobs/info/6882f75a6fcd973d15add9c9?utm_campaign=1048&utm_source=git)** | Rochester, MN | On Site | Jul 24 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Ohio Gratings, Inc.](http://www.ohiogratings.com/)** | **[Mfg Engineering Co-op](https://jobright.ai/jobs/info/6882b3a9b54cac0f1e732313?utm_campaign=1048&utm_source=git)** | Canton, OH | On Site | Jul 24 |
 | **[The Morning Star Company](https://www.morningstarco.com)** | **[Internship - Safety & Compliance Technician](https://jobright.ai/jobs/info/6882b0476fcd973d15adbab6?utm_campaign=1048&utm_source=git)** | Los Banos, CA | On Site | Jul 24 |
 | **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Fall Civil/Structural Engineering Intern/Co-op](https://jobright.ai/jobs/info/6882b011b54cac0f1e7320b1?utm_campaign=1048&utm_source=git)** | Englewood, CO | On Site | Jul 24 |
+| **[Washington State University—College of Arts and Sciences](https://cas.wsu.edu/)** | **[Research Intern- Codling Moth Pathogens](https://jobright.ai/jobs/info/6882abb2835a903aa07efe87?utm_campaign=1048&utm_source=git)** | Wenatchee, WA | On Site | Jul 24 |
+| **[Manulife](http://www.manulife.com/)** | **[Intern Test USA](https://jobright.ai/jobs/info/6882ab7c835a903aa07efe2d?utm_campaign=1048&utm_source=git)** | Boston, Massachusetts | Hybrid | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
