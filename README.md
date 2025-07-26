@@ -57,8 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Broadcast Management Group, Inc.](https://www.broadcastmgmt.com)** | **[Broadcast Engineer Intern](https://jobright.ai/jobs/info/688549384174df41e0f96781?utm_campaign=1048&utm_source=git)** | Washington, DC | On Site | Jul 26 |
+| **[Delaware Electric Cooperative, Inc.](https://www.delaware.coop/)** | **[2026 Internship](https://jobright.ai/jobs/info/688548affbbf032d0006c4e0?utm_campaign=1048&utm_source=git)** | Greenwood, DE | On Site | Jul 26 |
+| **[Jobright.ai](https://jobright.ai)** | **[Software Engineer (Internship)](https://jobright.ai/jobs/info/688544234174df41e0f9671c?utm_campaign=1048&utm_source=git)** | Florham Park, NJ | On Site | Jul 26 |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Project SURE STEM Scholar - SPC - req9193](https://jobright.ai/jobs/info/688540e94174df41e0f966df?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Jul 26 |
+| **[Medlaunch Concepts](medlaunchlp.com)** | **[2025 Fall - AWS Cybersecurity Internship](https://jobright.ai/jobs/info/688539e54174df41e0f96653?utm_campaign=1048&utm_source=git)** | Clearwater, FL | Remote | Jul 26 |
+| **[City of Philadelphia](http://www.phila.gov/)** | **[Engineering Intern](https://jobright.ai/jobs/info/68852c4db651c92cb78ab6a2?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Jul 26 |
 | **[GE Aerospace](https://www.geaerospace.com)** | **[Digital Technology Co-op – US – Spring 2026](https://jobright.ai/jobs/info/6882e0e3835a903aa07f14f0?utm_campaign=1048&utm_source=git)** | Cincinnati, OH | On Site | Jul 26 |
 | **[Crown Equipment Corporation](http://www.crown.com)** | **[Student Co-op or Intern - Service Technician](https://jobright.ai/jobs/info/6885250cfbbf032d0006c205?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Jul 26 |
+| **[City of Philadelphia](http://www.phila.gov/)** | **[Engineering Intern](https://jobright.ai/jobs/info/68851f95fbbf032d0006c10d?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Jul 26 |
 | **[Jobright.ai](https://jobright.ai)** | **[Machine Learning Engineer Intern (Internship)](https://jobright.ai/jobs/info/68851a594174df41e0f961d9?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jul 26 |
 | **[Swietelsky AG](https://www.swietelsky.at)** | **[Werkstudent/in - Kalkulation und Angebotsbearbeitung](https://jobright.ai/jobs/info/68851a4a4174df41e0f961d4?utm_campaign=1048&utm_source=git)** | United States | Remote | Jul 26 |
 | **[Jobright.ai](https://jobright.ai)** | **[Data Engineer Intern (Internship) (Remote)](https://jobright.ai/jobs/info/68851a294174df41e0f961c8?utm_campaign=1048&utm_source=git)** | United States | Remote | Jul 26 |
@@ -69,6 +76,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026 Simulation Process Data Management Intern (BS/MS)](https://jobright.ai/jobs/info/682f771532e75c74aa069d74?utm_campaign=1048&utm_source=git)** | Canonsburg, PA | Hybrid | Jul 26 |
 | **[SAP](https://www.sap.com)** | **[SAP Ariba iXp Intern - AI Machine Learning](https://jobright.ai/jobs/info/684f89f220521b60706b872f?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | Hybrid | Jul 26 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Ocean Stewardship Program in Cambodia](https://jobright.ai/jobs/info/68125ac8a6e41049a106c5c0?utm_campaign=1048&utm_source=git)** | New Haven, CT | On Site | Jul 26 |
+| ↳ | **[Volunteer: AI Placement in India](https://jobright.ai/jobs/info/68125ac8a6e41049a106c5c3?utm_campaign=1048&utm_source=git)** | Princeton, NJ | On Site | Jul 26 |
 | **[Amazon](https://amazon.com)** | **[ASIC Physical Design Engineer, Annapurna Labs](https://jobright.ai/jobs/info/67d897667c89e3940a25c6a1?utm_campaign=1048&utm_source=git)** | Cupertino, CA | On Site | Jul 26 |
 | **[Kodiak](http://www.kodiak.ai)** | **[Winter 2026 Intern, Controls](https://jobright.ai/jobs/info/687af480764c3d7411c30360?utm_campaign=1048&utm_source=git)** | Mountain View, CA | On Site | Jul 26 |
 | **[Lely](https://www.lely.com/jp/)** | **[Stage: Techniek (melk)robots](https://jobright.ai/jobs/info/6884c5fbb651c92cb78aa484?utm_campaign=1048&utm_source=git)** | Nederland, TX | On Site | Jul 26 |
@@ -87,6 +95,8 @@ For a complete list, click the following sortable link below:
 | **[Jobright.ai](https://jobright.ai)** | **[Intern Conversion: Design Engineer, Electrical, Internship](https://jobright.ai/jobs/info/6884ad1dfbbf032d0006ad57?utm_campaign=1048&utm_source=git)** | Portage, MI | Hybrid | Jul 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Machine Learning Engineer Intern (Training Pre-processing) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6843a9dce23410728835fe7e?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jul 26 |
 | ↳ | **[Machine Learning Engineer Intern (Commerce Ads) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/687b9a11ed63844c944a9dcc?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jul 26 |
+| **[CareerVillage.org](https://careervillage.org/)** | **[Volunteer: Aircraft Mechanic](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36d4?utm_campaign=1048&utm_source=git)** | United States | Remote | Jul 26 |
+| ↳ | **[Volunteer: Veterinary Technologist](https://jobright.ai/jobs/info/67c03f3de73bcd4f4e86704c?utm_campaign=1048&utm_source=git)** | United States | Remote | Jul 26 |
 | **[PPL Corporation](https://www.pplweb.com/)** | **[PA Engineer Co-op Level III Fall/Winter 2025-2026 (September start)](https://jobright.ai/jobs/info/6812c7d9f2f7937afb1af531?utm_campaign=1048&utm_source=git)** | Allentown, PA | Hybrid | Jul 26 |
 | **[Stacy Witbeck](http://stacywitbeck.com)** | **[INTERNSHIP: Transit Communications Systems](https://jobright.ai/jobs/info/6884a85cb651c92cb78aa125?utm_campaign=1048&utm_source=git)** | Littleton, CO | On Site | Jul 26 |
 | **[Sanofi](https://www.sanofi.com)** | **[Winter-Spring 2026 Co-Op - GMU CMC Purification Process Development](https://jobright.ai/jobs/info/68682b4435584b65427b50f1?utm_campaign=1048&utm_source=git)** | Waltham, MA | On Site | Jul 26 |
@@ -101,8 +111,6 @@ For a complete list, click the following sortable link below:
 | **[PhDFinder](Phdfinder.com)** | **[Fully Funded Postdoc in RNA Systems & Synthetic Genomics at KIT](https://jobright.ai/jobs/info/688487a5b651c92cb78a9bcb?utm_campaign=1048&utm_source=git)** | Rochester Institute of Technology, NY | On Site | Jul 26 |
 | ↳ | **[Postdoctoral Position in Power Engineering at Georgia Southern University](https://jobright.ai/jobs/info/688482effbbf032d0006a367?utm_campaign=1048&utm_source=git)** | Greater Macon | On Site | Jul 26 |
 | **[City of Scottsdale](http://www.scottsdaleaz.gov/)** | **[Intern - WQ Laboratory](https://jobright.ai/jobs/info/688482ebfbbf032d0006a362?utm_campaign=1048&utm_source=git)** | Scottsdale, AZ | On Site | Jul 26 |
-| **[City of Philadelphia](http://www.phila.gov/)** | **[Engineering Intern](https://jobright.ai/jobs/info/68847c5fb651c92cb78a90eb?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Jul 25 |
-| ↳ | **[Engineering Intern](https://jobright.ai/jobs/info/68847bb0b651c92cb78a908d?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Jul 25 |
 | **[Kodiak](http://www.kodiak.ai)** | **[Winter 2026 Intern, Motion Planning](https://jobright.ai/jobs/info/687acf57764c3d7411c2f8dd?utm_campaign=1048&utm_source=git)** | Mountain View, CA | On Site | Jul 25 |
 | **[Jobright.ai](https://jobright.ai)** | **[Forward Deployed Engineer - Internship](https://jobright.ai/jobs/info/68847a3afbbf032d00069b9f?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area | On Site | Jul 25 |
 | **[ByteDance](http://bytedance.com)** | **[Student Researcher [Seed – Multimodal Interaction & World Model - Unified Model] – 2026 Start (PhD)](https://jobright.ai/jobs/info/6884751fb651c92cb78a8ac6?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jul 25 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hatch](https://www.hatch.co/)** | **[Sleep Curious: Hatch's Fall Internship Program](https://jobright.ai/jobs/info/688426ce835a903aa07fa5c3?utm_campaign=1048&utm_source=git)** | Redwood City, California, United States | On Site | Jul 25 |
 | **[Ajinomoto Foods North America, Inc.](https://ajinomotofoods.com)** | **[Data Acquisition / Computer Science Intern](https://jobright.ai/jobs/info/688426ccb54cac0f1e73c4ee?utm_campaign=1048&utm_source=git)** | Portland, Oregon | On Site | Jul 25 |
 | **[Fix-It 24/7](https://fixmyhome.com/)** | **[Plumbing Apprentice](https://jobright.ai/jobs/info/688426896fcd973d15ae5d36?utm_campaign=1048&utm_source=git)** | Golden, CO | On Site | Jul 25 |
-| **[Faurecia](https://www.forvia.com)** | **[Year-Round Health, Safety, and Environmental Intern](https://jobright.ai/jobs/info/6884252eb54cac0f1e73c315?utm_campaign=1048&utm_source=git)** | North Columbus, IN | On Site | Jul 25 |
-| **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Civil Engineer Intern - Energy & Industrial (Summer 2026)](https://jobright.ai/jobs/info/688424c0835a903aa07fa3cf?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Jul 25 |
-| **[UC Irvine](http://uci.edu)** | **[Postdoctoral Scholars – Biomedical Engineering / Other](https://jobright.ai/jobs/info/688421ceb54cac0f1e73c25c?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Jul 25 |
-| **[Analytical Mechanics Associates](https://www.ama-inc.com)** | **[Disaster Response Coordination System Intern](https://jobright.ai/jobs/info/688420f8835a903aa07fa31c?utm_campaign=1048&utm_source=git)** | Hampton, VA | On Site | Jul 25 |
-| **[Auburn University](https://www.auburn.edu/)** | **[Engineering Student Worker - Boeing Contract](https://jobright.ai/jobs/info/68843ce3fbbf032d00066387?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | Jul 25 |
-| **[Virginia Tech](http://www.vt.edu)** | **[Postdoctoral Associate](https://jobright.ai/jobs/info/6884421fb651c92cb78a5a47?utm_campaign=1048&utm_source=git)** | Roanoke, VA | On Site | Jul 25 |
-| **[Alameda County Water District](https://acwd.org/)** | **[Water Production Intern](https://jobright.ai/jobs/info/6884437dfbbf032d000667a9?utm_campaign=1048&utm_source=git)** | Fremont, CA | On Site | Jul 25 |
-| **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[PhD Intern - Hardware Design and Compiler Tools](https://jobright.ai/jobs/info/68841e02b54cac0f1e73c1ad?utm_campaign=1048&utm_source=git)** | Richland, WA | Hybrid | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
