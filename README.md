@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jordan & Skala Engineers](http://jordanskala.com)** | **[Mechanical Engineering Co-op](https://jobright.ai/jobs/info/6885bf9e4174df41e0f98d43?utm_campaign=1048&utm_source=git)** | United States | Remote | Jul 26 |
+| **[Jobright.ai](https://jobright.ai)** | **[Hardware Support & Test Intern - Internship](https://jobright.ai/jobs/info/6885ae044174df41e0f98343?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area | On Site | Jul 26 |
+| ↳ | **[Artificial Intelligence Engineer - Internship](https://jobright.ai/jobs/info/6885adda4174df41e0f9833a?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | Jul 26 |
+| ↳ | **[Postdoctoral Scientist, Internship](https://jobright.ai/jobs/info/6885ab98b651c92cb78ad4b2?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Jul 26 |
+| ↳ | **[Validation Engineer - Internship](https://jobright.ai/jobs/info/6885ab6a4174df41e0f98300?utm_campaign=1048&utm_source=git)** | Aliso Viejo, CA | On Site | Jul 26 |
+| ↳ | **[Maintenance and Test Technician - Internship](https://jobright.ai/jobs/info/6885ab5cb651c92cb78ad4a5?utm_campaign=1048&utm_source=git)** | Esparto, CA | On Site | Jul 26 |
+| **[Eight Sleep](http://eightsleep.com)** | **[Hardware Support & Test Intern](https://jobright.ai/jobs/info/688586f2fbbf032d0006cb07?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Jul 26 |
+| **[Jobright.ai](https://jobright.ai)** | **[IC Characterization/Test Engineer Intern - Internship](https://jobright.ai/jobs/info/6885a7834174df41e0f97fa2?utm_campaign=1048&utm_source=git)** | Milpitas, CA | On Site | Jul 26 |
 | **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Ecological/Permaculture Gardener/Intern](https://jobright.ai/jobs/info/68859b6f4174df41e0f975c9?utm_campaign=1048&utm_source=git)** | Oregon, United States | On Site | Jul 26 |
 | **[Omni Design Technologies, Inc.](http://www.omnidesigntech.com/)** | **[IC Characterization/Test Engineer Intern](https://jobright.ai/jobs/info/688553d6fbbf032d0006c57d?utm_campaign=1048&utm_source=git)** | Milpitas, CA | On Site | Jul 26 |
 | **[Jobright.ai](https://jobright.ai)** | **[Winter 2026 Intern, Motion Planning - Internship](https://jobright.ai/jobs/info/688598774174df41e0f973f3?utm_campaign=1048&utm_source=git)** | Mountain View, CA | On Site | Jul 26 |
@@ -64,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[The University of Texas Medical Branch](http://www.utmb.edu/)** | **[Postdoctoral Researcher](https://jobright.ai/jobs/info/68858b7cb651c92cb78abf29?utm_campaign=1048&utm_source=git)** | Galveston, TX | On Site | Jul 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Machine Learning Engineer Intern (Training Pre-processing) - 2025 Summer (PhD)](https://jobright.ai/jobs/info/6812da848f83a9f479658c56?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jul 26 |
 | **[Jobright.ai](https://jobright.ai)** | **[Machine Learning Engineer Intern - Internship](https://jobright.ai/jobs/info/68858837b651c92cb78abecd?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jul 26 |
-| **[Eight Sleep](http://eightsleep.com)** | **[Hardware Support & Test Intern](https://jobright.ai/jobs/info/688586f2fbbf032d0006cb07?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Jul 26 |
 | **[Syska Hennessy Group](http://www.syska.com)** | **[Electrical Engineer I](https://jobright.ai/jobs/info/688586dafbbf032d0006cafb?utm_campaign=1048&utm_source=git)** | Dallas, TX | Hybrid | Jul 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Machine Learning Engineer Intern (Commerce Ads) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/687b9a11ed63844c944a9dcc?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jul 26 |
 | **[Jobright.ai](https://jobright.ai)** | **[Simulation Process Data Management Intern - Internship](https://jobright.ai/jobs/info/68857e9d4174df41e0f96c58?utm_campaign=1048&utm_source=git)** | Canonsburg, PA | Hybrid | Jul 26 |
@@ -83,11 +90,9 @@ For a complete list, click the following sortable link below:
 | **[Delaware Electric Cooperative, Inc.](https://www.delaware.coop/)** | **[2026 Internship](https://jobright.ai/jobs/info/688548affbbf032d0006c4e0?utm_campaign=1048&utm_source=git)** | Greenwood, DE | On Site | Jul 26 |
 | **[Early Morning Software, Inc.](http://www.emslab.com)** | **[PRISM Systems Analyst Intern](https://jobright.ai/jobs/info/68856764b651c92cb78abab9?utm_campaign=1048&utm_source=git)** | Baltimore, MD | On Site | Jul 26 |
 | **[Jobright.ai](https://jobright.ai)** | **[Software Engineer (Internship)](https://jobright.ai/jobs/info/688544234174df41e0f9671c?utm_campaign=1048&utm_source=git)** | Florham Park, NJ | On Site | Jul 26 |
-| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Project SURE STEM Scholar - SPC - req9193](https://jobright.ai/jobs/info/688540e94174df41e0f966df?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Jul 26 |
 | **[Medlaunch Concepts](medlaunchlp.com)** | **[2025 Fall - AWS Cybersecurity Internship](https://jobright.ai/jobs/info/688539e54174df41e0f96653?utm_campaign=1048&utm_source=git)** | Clearwater, FL | Remote | Jul 26 |
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Engineering Intern](https://jobright.ai/jobs/info/68852c4db651c92cb78ab6a2?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Jul 26 |
 | **[GE Aerospace](https://www.geaerospace.com)** | **[Digital Technology Co-op – US – Spring 2026](https://jobright.ai/jobs/info/6882e0e3835a903aa07f14f0?utm_campaign=1048&utm_source=git)** | Cincinnati, OH | On Site | Jul 26 |
-| **[Conexant](http://www.conexant.com/)** | **[Part Time Student - Manufacturing Engineer - Davenport, IA](https://jobright.ai/jobs/info/68859076b651c92cb78ac22f?utm_campaign=1048&utm_source=git)** | Davenport, IA | Hybrid | Jul 26 |
 | **[Crown Equipment Corporation](http://www.crown.com)** | **[Student Co-op or Intern - Service Technician](https://jobright.ai/jobs/info/6885250cfbbf032d0006c205?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Jul 26 |
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Engineering Intern](https://jobright.ai/jobs/info/68851f95fbbf032d0006c10d?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Jul 26 |
 | **[Jobright.ai](https://jobright.ai)** | **[Machine Learning Engineer Intern (Internship)](https://jobright.ai/jobs/info/68851a594174df41e0f961d9?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jul 26 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Management Administrator - Internship](https://jobright.ai/jobs/info/6884556ffbbf032d00067a32?utm_campaign=1048&utm_source=git)** | Poway, CA | Hybrid | Jul 25 |
 | ↳ | **[Artificial Intelligence Engineer - Internship](https://jobright.ai/jobs/info/68845306fbbf032d000678c3?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | Jul 25 |
 | ↳ | **[AI Systems Analyst, Internship](https://jobright.ai/jobs/info/688451dfb651c92cb78a6bdb?utm_campaign=1048&utm_source=git)** | Homewood, IL | On Site | Jul 25 |
-| **[TikTok](https://www.tiktok.com)** | **[Research Scientist Intern- (Trust and Safety - CV/NLP/Multimodal LLM) - 2026 Start(PhD)](https://jobright.ai/jobs/info/68844d654174df41e0f913af?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jul 25 |
-| **[University of New Hampshire](https://www.unh.edu)** | **[Postdoctoral Research Associate](https://jobright.ai/jobs/info/68844b19b651c92cb78a61c4?utm_campaign=1048&utm_source=git)** | Durham, NH | On Site | Jul 25 |
-| **[Jobright.ai](https://jobright.ai)** | **[WFH_Internet Safety Evaluator - English (US), Internship, (Remote)](https://jobright.ai/jobs/info/688447f84174df41e0f90d21?utm_campaign=1048&utm_source=git)** | United States | Remote | Jul 25 |
-| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Paid Intern - HQF Space Management](https://jobright.ai/jobs/info/6885a00e4174df41e0f976e1?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT | On Site | Jul 25 |
-| **[Whittier College](http://www.whittier.edu)** | **[Undergraduate Research Fellow](https://jobright.ai/jobs/info/68844757fbbf032d00066a99?utm_campaign=1048&utm_source=git)** | Whittier, CA | On Site | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
