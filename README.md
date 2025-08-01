@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arlington County Government](https://www.arlingtonva.us)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/688c48313a30793eb9641c67?utm_campaign=1048&utm_source=git)** | 2100 Clarendon Blvd, Arlington, VA, 22201, US | On Site | Jul 31 |
+| **[Southern New Hampshire University](http://www.snhu.edu)** | **[Student - SETA Electrical and Robotics Engineering Lab Assistance](https://jobright.ai/jobs/info/688c47fd3a30793eb9641c2b?utm_campaign=1048&utm_source=git)** | On-Site (New Hampshire) | On Site | Jul 31 |
+| **[Botany and Plant Pathology Department at Purdue University](https://ag.purdue.edu/btny/Pages/default.aspx)** | **[Postdoctoral Research Associate](https://jobright.ai/jobs/info/688c46cb906ac06e1d1d2987?utm_campaign=1048&utm_source=git)** | West Lafayette, IN | On Site | Jul 31 |
+| **[IMC Trading](https://www.imc.com/us/imc-investments/)** | **[Machine Learning Research Intern](https://jobright.ai/jobs/info/686453c011203e0689d675c8?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Jul 31 |
+| **[Universal Business Council](https://www.universalbusinesscouncil.org/)** | **[Intern AI (wfh)](https://jobright.ai/jobs/info/688c455c3a30793eb9641b33?utm_campaign=1048&utm_source=git)** | NYC Metro Area | Remote | Jul 31 |
+| **[Interstates](http://interstates.com)** | **[Manufacturing Apprentice Electrician](https://jobright.ai/jobs/info/688c453f906ac06e1d1d28f9?utm_campaign=1048&utm_source=git)** | Topeka, KS | On Site | Jul 31 |
+| **[EagleView](http://www.eagleview.com)** | **[Software Development Engineer, Intern - CV/ML](https://jobright.ai/jobs/info/688c1300906ac06e1d1d07f9?utm_campaign=1048&utm_source=git)** | Remote US, United States | Remote | Jul 31 |
+| **[Coop](http://www.coop.ch/)** | **[Systemgastronomiefachfrau:mann / -praktiker:in](https://jobright.ai/jobs/info/688c404c906ac06e1d1d2515?utm_campaign=1048&utm_source=git)** | Interlaken, CA | On Site | Jul 31 |
 | **[RK&K](https://www.rkk.com/)** | **[College Intern - Transportation](https://jobright.ai/jobs/info/688c37f51808534a89cb9767?utm_campaign=1048&utm_source=git)** | Charleston, SC | On Site | Jul 31 |
 | **[Carnegie Mellon University](https://www.cmu.edu)** | **[Postdoctoral Fellow - Robotics Institute](https://jobright.ai/jobs/info/688c37c1906ac06e1d1d1d48?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | On Site | Jul 31 |
 | **[UNSW](https://www.unsw.edu.au/)** | **[Postdoctoral Researcher (Computational Immunology and Translational AI)](https://jobright.ai/jobs/info/688c3784906ac06e1d1d1d1c?utm_campaign=1048&utm_source=git)** | New York, United States | On Site | Jul 31 |
@@ -76,6 +84,8 @@ For a complete list, click the following sortable link below:
 | **[RS&H](http://www.rsandh.com/)** | **[Civil Engineering Intern (Highway) - Spring 2026](https://jobright.ai/jobs/info/688c260a1808534a89cb8c3c?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | Jul 31 |
 | **[CPL](https://cplteam.com/locations)** | **[Intern](https://jobright.ai/jobs/info/688c25ed1808534a89cb8c2a?utm_campaign=1048&utm_source=git)** | Latham, NY | On Site | Jul 31 |
 | **[UNSW](https://www.unsw.edu.au/)** | **[Postdoctoral Researcher (Computational Immunology and Translational AI)](https://jobright.ai/jobs/info/688c256a1808534a89cb8be3?utm_campaign=1048&utm_source=git)** | Princeton, CA | On Site | Jul 31 |
+| ↳ | **[Postdoctoral Researcher (Computational Immunology and Translational AI)](https://jobright.ai/jobs/info/688c46533a30793eb9641b7f?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Jul 31 |
+| ↳ | **[Postdoctoral Researcher (Computational Immunology and Translational AI)](https://jobright.ai/jobs/info/688c507b906ac06e1d1d30ba?utm_campaign=1048&utm_source=git)** | Los Angeles County, CA | On Site | Jul 31 |
 | **[BMW Group](http://www.bmwgroup.com)** | **[Azubi zum Kfz-Mechatroniker für PKW- oder System- und Hochvolttechnik (w/m/x) in der Niederlassung](https://jobright.ai/jobs/info/688c24d3906ac06e1d1d1149?utm_campaign=1048&utm_source=git)** | Hanover, MD | On Site | Jul 31 |
 | **[CPL](https://cplteam.com/locations)** | **[Intern](https://jobright.ai/jobs/info/688c2475906ac06e1d1d10e8?utm_campaign=1048&utm_source=git)** | Richmond, VA | On Site | Jul 31 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/688c24331808534a89cb8b22?utm_campaign=1048&utm_source=git)** | Woodstock, GA | On Site | Jul 31 |
@@ -84,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[CPL](https://cplteam.com/locations)** | **[Intern](https://jobright.ai/jobs/info/688c23921808534a89cb8ae3?utm_campaign=1048&utm_source=git)** | Poughkeepsie, NY | On Site | Jul 31 |
 | **[Amentum](https://www.amentum.com/)** | **[Fall Lunar Node 2 Graduate Intern](https://jobright.ai/jobs/info/688c238a1808534a89cb8ade?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | Jul 31 |
 | **[CPL](https://cplteam.com/locations)** | **[Intern](https://jobright.ai/jobs/info/688c23493a30793eb9640384?utm_campaign=1048&utm_source=git)** | Vestal, NY | On Site | Jul 31 |
-| **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Intern Conversion - Electrical Engineering](https://jobright.ai/jobs/info/688c23313a30793eb964037c?utm_campaign=1048&utm_source=git)** | Redmond, WA | On Site | Jul 31 |
 | **[JSR Micro, Inc.](https://www.jsrmicro.com)** | **[R&D Intern](https://jobright.ai/jobs/info/688c22583a30793eb9640315?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA | On Site | Jul 31 |
 | **[GrayMatter Robotics](https://www.graymatter-robotics.com)** | **[Robotics Engineering Intern: Software](https://jobright.ai/jobs/info/688c218f906ac06e1d1d0fad?utm_campaign=1048&utm_source=git)** | Gardena, CA | On Site | Jul 31 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Software Dev AI/ML Co-op (22882) at Nokia](https://jobright.ai/jobs/info/688bff7a3a30793eb963f38b?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 31 |
@@ -102,7 +111,6 @@ For a complete list, click the following sortable link below:
 | **[City of Cincinnati](http://www.cincinnati-oh.gov)** | **[COLLEGE CO-OP (WASTEWATER TREATMENT) (ENGINEERING & SCADA)](https://jobright.ai/jobs/info/688c18a1906ac06e1d1d0ac4?utm_campaign=1048&utm_source=git)** | Cincinnati, OH | On Site | Jul 31 |
 | **[JIO ROBOTICS](www.jiorobotics.com)** | **[Robotic- AI Engineer with Teaching Assistance Internship ONISITE](https://jobright.ai/jobs/info/688c186e1808534a89cb8520?utm_campaign=1048&utm_source=git)** | Columbia, MD | On Site | Jul 31 |
 | **[Fisher Associates PE, LS, LA, DPC](http://fisherassoc.com)** | **[Civil Engineer Intern](https://jobright.ai/jobs/info/688c18341808534a89cb850a?utm_campaign=1048&utm_source=git)** | Ithaca, NY | On Site | Jul 31 |
-| **[American Electric Power](http://aep.com)** | **[Lineman Intern](https://jobright.ai/jobs/info/688c181c3a30793eb963fdcd?utm_campaign=1048&utm_source=git)** | Chickasha, OK | On Site | Jul 31 |
 | **[City of Cincinnati](http://www.cincinnati-oh.gov)** | **[COLLEGE CO-OP (CSD) (SAFETY)](https://jobright.ai/jobs/info/688c18173a30793eb963fdcc?utm_campaign=1048&utm_source=git)** | Cincinnati, OH | On Site | Jul 31 |
 | **[Fisher Associates PE, LS, LA, DPC](http://fisherassoc.com)** | **[Civil Engineer Intern](https://jobright.ai/jobs/info/688c1812906ac06e1d1d0a88?utm_campaign=1048&utm_source=git)** | Canonsburg, PA | On Site | Jul 31 |
 | ↳ | **[Civil Engineer Intern](https://jobright.ai/jobs/info/688c18023a30793eb963fdc4?utm_campaign=1048&utm_source=git)** | Binghamton, NY | On Site | Jul 31 |
@@ -114,10 +122,9 @@ For a complete list, click the following sortable link below:
 | **[CPL](https://cplteam.com/locations)** | **[Intern](https://jobright.ai/jobs/info/688c1374906ac06e1d1d08bd?utm_campaign=1048&utm_source=git)** | Charlotte, NC | On Site | Jul 31 |
 | **[Fisher Associates PE, LS, LA, DPC](http://fisherassoc.com)** | **[Civil Engineer Intern](https://jobright.ai/jobs/info/688c30bf3a30793eb9640a7b?utm_campaign=1048&utm_source=git)** | Albany, NY | On Site | Jul 31 |
 | ↳ | **[Civil Engineer Intern](https://jobright.ai/jobs/info/688c133c906ac06e1d1d0860?utm_campaign=1048&utm_source=git)** | Syracuse, NY | On Site | Jul 31 |
-| ↳ | **[Civil Engineer Intern](https://jobright.ai/jobs/info/688c13161808534a89cb8351?utm_campaign=1048&utm_source=git)** | Rochester, NY | On Site | Jul 31 |
 | ↳ | **[Civil Engineer Intern](https://jobright.ai/jobs/info/688c13161808534a89cb8350?utm_campaign=1048&utm_source=git)** | Buffalo, NY | On Site | Jul 31 |
-| **[EagleView](http://www.eagleview.com)** | **[Software Development Engineer, Intern - CV/ML](https://jobright.ai/jobs/info/688c1300906ac06e1d1d07f9?utm_campaign=1048&utm_source=git)** | Remote US, United States | Remote | Jul 31 |
-| **[Fisher Associates PE, LS, LA, DPC](http://fisherassoc.com)** | **[Civil Engineer Intern](https://jobright.ai/jobs/info/688c129e906ac06e1d1d0757?utm_campaign=1048&utm_source=git)** | Albany, NY | On Site | Jul 31 |
+| ↳ | **[Civil Engineer Intern](https://jobright.ai/jobs/info/688c13161808534a89cb8351?utm_campaign=1048&utm_source=git)** | Rochester, NY | On Site | Jul 31 |
+| ↳ | **[Civil Engineer Intern](https://jobright.ai/jobs/info/688c129e906ac06e1d1d0757?utm_campaign=1048&utm_source=git)** | Albany, NY | On Site | Jul 31 |
 | ↳ | **[Civil Engineer Intern](https://jobright.ai/jobs/info/688c1290906ac06e1d1d073e?utm_campaign=1048&utm_source=git)** | Ithaca, NY | On Site | Jul 31 |
 | ↳ | **[Civil Engineer Intern](https://jobright.ai/jobs/info/688c126d1808534a89cb823a?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Jul 31 |
 | **[GrayMatter Robotics](https://www.graymatter-robotics.com)** | **[Robotics Application Engineering Intern- Government Projects](https://jobright.ai/jobs/info/688c12233a30793eb963fa46?utm_campaign=1048&utm_source=git)** | Gardena, CA | On Site | Jul 31 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Paid Intern - Immunology](https://jobright.ai/jobs/info/688c231b1808534a89cb8abc?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | Jul 31 |
 | **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Engineering Associate, Electrical](https://jobright.ai/jobs/info/688bfd4e1808534a89cb7a2b?utm_campaign=1048&utm_source=git)** | Lake Mary, FL | On Site | Jul 31 |
 | **[Brazos River Authority](http://www.brazos.org)** | **[Wastewater Treatment Intern](https://jobright.ai/jobs/info/688bfd183a30793eb963f2a1?utm_campaign=1048&utm_source=git)** | Sugar Land, TX | On Site | Jul 31 |
-| **[Gresham Smith](http://www.greshamsmith.com)** | **[Transportation Student Intern - Transportation Market](https://jobright.ai/jobs/info/688bfd06906ac06e1d1cff78?utm_campaign=1048&utm_source=git)** | Louisville, KY | On Site | Jul 31 |
-| **[RTX](http://www.raytheon.com)** | **[Chemistry Lab Intern (Onsite)](https://jobright.ai/jobs/info/688bfcb11808534a89cb79bb?utm_campaign=1048&utm_source=git)** | A01: Rockford - Aerospace 4747 Harrison Avenue, Rockford, IL, 61125 USA | On Site | Jul 31 |
-| **[LJA](https://www.lja.com/)** | **[Intern - Public Works](https://jobright.ai/jobs/info/688c1fb81808534a89cb89d9?utm_campaign=1048&utm_source=git)** | Griffin, GA | On Site | Jul 31 |
-| **[Cintas](https://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/688bfa36906ac06e1d1cfdf9?utm_campaign=1048&utm_source=git)** | Schaumburg, IL | On Site | Jul 31 |
-| **[LJA](https://www.lja.com/)** | **[Intern - Transportation (Program Management)](https://jobright.ai/jobs/info/688bf9fe906ac06e1d1cfdd7?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Jul 31 |
-| **[Mayo Clinic Healthcare](https://mayoclinichealthcare.co.uk)** | **[Paid Intern - Immunology](https://jobright.ai/jobs/info/688c37983a30793eb9640f9e?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | Jul 31 |
-| **[Folia Materials](http://www.foliamaterials.com)** | **[Engineering/Packaging Intern](https://jobright.ai/jobs/info/688c35e73a30793eb9640e9c?utm_campaign=1048&utm_source=git)** | Bedford, MA | On Site | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
