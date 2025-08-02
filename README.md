@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Endress+Hauser Group](https://ro.endress.com)** | **[2025 Fall Information Technology Co-Op](https://jobright.ai/jobs/info/6871540806ad7073463c486f?utm_campaign=1048&utm_source=git)** | Pearland, TX | On Site | Aug 02 |
+| **[Contoro Robotics](https://www.contoro.com)** | **[Software Engineer Intern, Cloud Platform and Analytics](https://jobright.ai/jobs/info/688d673227f9022553c0b40b?utm_campaign=1048&utm_source=git)** | Austin, TX | Hybrid | Aug 02 |
+| **[Endress+Hauser Group](https://ro.endress.com)** | **[2025 Fall Engineering Co-Op (Undergraduate)](https://jobright.ai/jobs/info/6874ea30ae2f413e4a5a1b2b?utm_campaign=1048&utm_source=git)** | Chalfont, PA | On Site | Aug 02 |
+| ↳ | **[2025 Fall Engineering Co-Op](https://jobright.ai/jobs/info/687151df06ad7073463c478f?utm_campaign=1048&utm_source=git)** | Greenwood, IN | On Site | Aug 02 |
+| **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Handshake AI Research Intern, Winter 2025 at Handshake](https://jobright.ai/jobs/info/688e0621cdbd821a3664047c?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Aug 02 |
+| **[Endress+Hauser Group](https://ro.endress.com)** | **[2025 Fall Engineering Co-Op](https://jobright.ai/jobs/info/68715005a5ae807a59cfeecd?utm_campaign=1048&utm_source=git)** | Pearland, TX | On Site | Aug 02 |
+| **[ASM](https://www.asm.com)** | **[Mechanical Structural Analyst Intern (Fall 2025)](https://jobright.ai/jobs/info/6880ff0816ea5743a3734c8a?utm_campaign=1048&utm_source=git)** | US > Arizona > Phoenix | On Site | Aug 02 |
+| **[Tangify](https://www.tangify.co)** | **[Legal Tech Intern](https://jobright.ai/jobs/info/688e008ee5cead4afd45b6e7?utm_campaign=1048&utm_source=git)** | United States | Remote | Aug 02 |
 | **[Greater Des Moines Habitat for Humanity](https://gdmhabitat.org)** | **[Construction Intern](https://jobright.ai/jobs/info/688df90f6a4aac5783cd7f57?utm_campaign=1048&utm_source=git)** | Des Moines, IA | On Site | Aug 02 |
 | **[Amazon](https://amazon.com)** | **[2026 Applied Science Internship - United States - Master's Student Science Recruiting](https://jobright.ai/jobs/info/688df843cdbd821a366402fa?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Aug 02 |
 | **[Nidec Minster Corporation](https://www.minster.com)** | **[Co-Op/Intern Engineering - Mechanical](https://jobright.ai/jobs/info/688df5cacdbd821a36640227?utm_campaign=1048&utm_source=git)** | Minster, OH | On Site | Aug 02 |
@@ -109,10 +117,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Winter, Spring 2026 Co-op-Intern- Structural Biology and Biophysics](https://jobright.ai/jobs/info/687170eb06ad7073463c5177?utm_campaign=1048&utm_source=git)** | Cambridge, MA | On Site | Aug 02 |
 | ↳ | **[Winter-Spring 2026 Co-op -- Biologics Drug Product Process Development](https://jobright.ai/jobs/info/6871835aa5ae807a59d0016a?utm_campaign=1048&utm_source=git)** | Framingham, MA | On Site | Aug 02 |
 | ↳ | **[Winter-Spring 2026 Co-op-Intern - Checkpoint Immunology](https://jobright.ai/jobs/info/6871754da5ae807a59cffafc?utm_campaign=1048&utm_source=git)** | Cambridge, MA | On Site | Aug 02 |
+| **[Fred Hutch](http://www.fredhutch.org/)** | **[Post-Doctoral Research Fellow - Cancer Genetics](https://jobright.ai/jobs/info/68859b64b651c92cb78ac6b3?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Aug 02 |
 | **[Eurofins BioPharma Product Testing North America](https://www.eurofinsus.com/bpt)** | **[Undergraduate Intern, BioPharma Biosafety](https://jobright.ai/jobs/info/688dd326cdbd821a3663fde2?utm_campaign=1048&utm_source=git)** | Lancaster, PA | On Site | Aug 02 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Project SURE STEM Scholar - SPC - req9193](https://jobright.ai/jobs/info/688dd2106a4aac5783cd7a79?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Aug 02 |
-| **[ABB](https://global.abb/group/en)** | **[Duales Studium Sustainable Science and Technology (m/w/d) 2025](https://jobright.ai/jobs/info/688dd111e5cead4afd45afdc?utm_campaign=1048&utm_source=git)** | Location, WV | On Site | Aug 02 |
-| ↳ | **[Werkstudent (m/w/d) im Bereich Qualität im Prüfffeld](https://jobright.ai/jobs/info/688dd0ae6a4aac5783cd7a0a?utm_campaign=1048&utm_source=git)** | Location, WV | On Site | Aug 02 |
+| **[ABB](https://global.abb/group/en)** | **[Werkstudent (m/w/d) im Bereich Qualität im Prüfffeld](https://jobright.ai/jobs/info/688dd0ae6a4aac5783cd7a0a?utm_campaign=1048&utm_source=git)** | Location, WV | On Site | Aug 02 |
 | ↳ | **[Werkstudent (m/w/d) im Bereich Elektrotechnik / Automatisierungstechnik](https://jobright.ai/jobs/info/688dcfd1e5cead4afd45af2f?utm_campaign=1048&utm_source=git)** | Location, WV | On Site | Aug 02 |
 | ↳ | **[Ausbildung Elektroniker Betriebstechnik (m/w/d) 2025](https://jobright.ai/jobs/info/688dcf72e5cead4afd45aee2?utm_campaign=1048&utm_source=git)** | Location, WV | On Site | Aug 02 |
 | ↳ | **[Werkstudent (m/w/d) im Vertrieb Niederspannung](https://jobright.ai/jobs/info/688dcd806a4aac5783cd7908?utm_campaign=1048&utm_source=git)** | Location, WV | Hybrid | Aug 02 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Duales Studium Elektro- und Informationstech. – Ener- u Umwelttech (m//w/d) 2026](https://jobright.ai/jobs/info/688dc36be5cead4afd45a735?utm_campaign=1048&utm_source=git)** | Location, WV | On Site | Aug 02 |
 | ↳ | **[Quality Intern](https://jobright.ai/jobs/info/688dc35ae5cead4afd45a725?utm_campaign=1048&utm_source=git)** | Location, WV | On Site | Aug 02 |
 | ↳ | **[Duales Studium Integrated Engineering (m/w/d) 2026](https://jobright.ai/jobs/info/688dc34a6a4aac5783cd7236?utm_campaign=1048&utm_source=git)** | Location, WV | On Site | Aug 02 |
-| ↳ | **[Ausbildung Mechatroniker (m/w/d) 2025](https://jobright.ai/jobs/info/688dc2facdbd821a3663f2c3?utm_campaign=1048&utm_source=git)** | Location, WV | On Site | Aug 02 |
-| ↳ | **[Werkstudent (m/w/d) in der Entwicklung von Schaltanlagen](https://jobright.ai/jobs/info/688dc2f76a4aac5783cd71fa?utm_campaign=1048&utm_source=git)** | Location, WV | Hybrid | Aug 02 |
-| ↳ | **[Internship - R&D Test Engineer](https://jobright.ai/jobs/info/688dc2d6cdbd821a3663f2a7?utm_campaign=1048&utm_source=git)** | Location, WV | On Site | Aug 02 |
-| ↳ | **[Duales Studium Elektro- und Informationstechnik – Automation (m/w/d) 2025](https://jobright.ai/jobs/info/688dc2d0cdbd821a3663f2a1?utm_campaign=1048&utm_source=git)** | Location, WV | On Site | Aug 02 |
-| ↳ | **[Werkstudent (m/w/d) – KI-gestützte Datenanalyse & Support](https://jobright.ai/jobs/info/688dc2b56a4aac5783cd71cf?utm_campaign=1048&utm_source=git)** | Location, WV | On Site | Aug 02 |
-| ↳ | **[Duales Studium Sustainable Science and Technology (m/w/d) 2025](https://jobright.ai/jobs/info/688dc2ab6a4aac5783cd71c5?utm_campaign=1048&utm_source=git)** | Location, WV | On Site | Aug 02 |
-| ↳ | **[Ausbildung Mechatroniker/in (m/w/d) 2026](https://jobright.ai/jobs/info/688dc1db6a4aac5783cd711d?utm_campaign=1048&utm_source=git)** | Location, WV | On Site | Aug 02 |
-| ↳ | **[Werkstudent (m/w/d) in der kaufmännischen Abwicklung](https://jobright.ai/jobs/info/688dc1986a4aac5783cd70d9?utm_campaign=1048&utm_source=git)** | Location, WV | Hybrid | Aug 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
