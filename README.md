@@ -57,6 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PhDFinder](Phdfinder.com)** | **[[Expired] Postdoctoral Research Position in Neural Dynamics of Visual Cognition](https://jobright.ai/jobs/info/688e6bdee5cead4afd45cb8d?utm_campaign=1048&utm_source=git)** | Sewanee, TN | On Site | Aug 02 |
+| **[AICO Management Group, Inc.](https://aicomg.org)** | **[Post Doc EM/RF/MMIC Researcher](https://jobright.ai/jobs/info/688e6b5dcdbd821a366418e2?utm_campaign=1048&utm_source=git)** | Chino, CA | Remote | Aug 02 |
+| **[Geisinger](https://www.geisinger.org)** | **[Intern Undergraduate Health Physics - Per Diem](https://jobright.ai/jobs/info/688e635bcdbd821a366417c8?utm_campaign=1048&utm_source=git)** | Danville, PA | On Site | Aug 02 |
+| **[PhDFinder](Phdfinder.com)** | **[[Expired] PhD Position in Aptamer Technology for mRNA Vaccine Delivery](https://jobright.ai/jobs/info/688e604ee5cead4afd45ca2c?utm_campaign=1048&utm_source=git)** | Greater Sioux Falls Area | On Site | Aug 02 |
+| ↳ | **[[Expired] Postdoctoral Researcher in Cancer Biology at Rutgers Cancer Institute](https://jobright.ai/jobs/info/688e6001cdbd821a3664177b?utm_campaign=1048&utm_source=git)** | Sewanee, TN | On Site | Aug 02 |
+| ↳ | **[[Expired] Postdoctoral and PhD Research Opportunities in AI-Driven Geophysics at UC Irvine](https://jobright.ai/jobs/info/688e5fa9cdbd821a3664175c?utm_campaign=1048&utm_source=git)** | Sewanee, TN | On Site | Aug 02 |
+| **[Metropolitan Transportation Authority](http://mta.info)** | **[Database Administration, Emerging Talent Intern](https://jobright.ai/jobs/info/6880510d2097a271a89a2d2c?utm_campaign=1048&utm_source=git)** | Brooklyn, NY | On Site | Aug 02 |
+| **[PhDFinder](Phdfinder.com)** | **[[Expired] PhD Position in Battery Aging and Degradation Research at the University of Agder](https://jobright.ai/jobs/info/688e6c11e5cead4afd45cb9d?utm_campaign=1048&utm_source=git)** | Sewanee, TN | On Site | Aug 02 |
+| ↳ | **[[Expired] PhD Position in Ultrafast Magnetization Dynamics Using Laser-Generated Extreme Ultraviolet Radiation](https://jobright.ai/jobs/info/688e6af26a4aac5783cd952a?utm_campaign=1048&utm_source=git)** | Sewanee, TN | On Site | Aug 02 |
+| ↳ | **[[Expired] Postdoctoral Research Opportunity in Quantum Circuit Interfacing](https://jobright.ai/jobs/info/688e6bc0e5cead4afd45cb81?utm_campaign=1048&utm_source=git)** | Sewanee, TN | On Site | Aug 02 |
+| ↳ | **[[Expired] Postdoctoral Opportunity in Network Intelligence and Quantum Computing at Khalifa University](https://jobright.ai/jobs/info/688e6beee5cead4afd45cb92?utm_campaign=1048&utm_source=git)** | Sewanee, TN | On Site | Aug 02 |
+| ↳ | **[[Expired] PhD Position on the Study of a Metalloenzyme for Biomass Valorization and Biotechnology](https://jobright.ai/jobs/info/688e6c0ce5cead4afd45cb9b?utm_campaign=1048&utm_source=git)** | Greater Sioux Falls Area | On Site | Aug 02 |
+| **[Swietelsky AG](https://www.swietelsky.at)** | **[Werkstudent/in - Kalkulation und Angebotsbearbeitung](https://jobright.ai/jobs/info/688e621de5cead4afd45ca59?utm_campaign=1048&utm_source=git)** | United States | Remote | Aug 02 |
 | **[Trending Society](https://trendingsociety.com)** | **[AI Solutions & Automation Intern](https://jobright.ai/jobs/info/688e3f69cdbd821a36641089?utm_campaign=1048&utm_source=git)** | New York, NY | Remote | Aug 02 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Database Management Intern](https://jobright.ai/jobs/info/6884301d6fcd973d15ae623f?utm_campaign=1048&utm_source=git)** | New York, NY | Hybrid | Aug 02 |
 | **[NYS Office of Information Technology Services](https://its.ny.gov/)** | **[Student Assistant Internship (Data Center Services), Ref# 9120](https://jobright.ai/jobs/info/6887ddc1fbbf032d000770a7?utm_campaign=1048&utm_source=git)** | New York, NY | Hybrid | Aug 02 |
@@ -125,6 +138,7 @@ For a complete list, click the following sortable link below:
 | **[Sanofi](https://www.sanofi.com)** | **[Winter, Spring 2026 Co-op-Intern – Immunology Checkpoint Cluster](https://jobright.ai/jobs/info/687393864001e95011b17893?utm_campaign=1048&utm_source=git)** | Cambridge, MA | On Site | Aug 02 |
 | **[ByteDance](http://bytedance.com)** | **[Machine Learning Engineer Intern (Search-TikTok Recommendation) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/685639617d54b6be490d8736?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Aug 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Machine Learning Scientist Intern (TikTok-Recommendation) - 2026 Start (PhD)](https://jobright.ai/jobs/info/687892335cebcd1dd51dbd19?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Aug 02 |
+| **[TEAM, Inc.](https://www.teaminc.com)** | **[NDT Assistant/ Apprentice](https://jobright.ai/jobs/info/6760bd337ad883ffa056a462?utm_campaign=1048&utm_source=git)** | Cincinnati, OH | On Site | Aug 02 |
 | **[Sanofi](https://www.sanofi.com)** | **[Winter-Spring 2026 Co-op-Intern- CMC Biologics Drug Product Development and Manufacturing](https://jobright.ai/jobs/info/68773da7ae2f413e4a5b8dbb?utm_campaign=1048&utm_source=git)** | Framingham, MA | On Site | Aug 02 |
 | ↳ | **[Winter-Spring 2026 Co-op-Intern - RND TA - protein sciences](https://jobright.ai/jobs/info/6874c3ceae2f413e4a5a01fa?utm_campaign=1048&utm_source=git)** | Cambridge, MA | On Site | Aug 02 |
 | ↳ | **[Winter, Spring 2026 Co-op-Intern- Structural Biology and Biophysics](https://jobright.ai/jobs/info/687170eb06ad7073463c5177?utm_campaign=1048&utm_source=git)** | Cambridge, MA | On Site | Aug 02 |
@@ -143,18 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Ausbildung Verfahrensmechaniker/in für Beschichtungstechnik 2025](https://jobright.ai/jobs/info/688dcbd2cdbd821a3663fa36?utm_campaign=1048&utm_source=git)** | Location, WV | On Site | Aug 02 |
 | ↳ | **[Duales Studium Elektro- und Informationstechnik – Automation (m/w/d) 2025](https://jobright.ai/jobs/info/688dcbc1cdbd821a3663fa32?utm_campaign=1048&utm_source=git)** | Location, WV | On Site | Aug 02 |
 | ↳ | **[Duales Studium Elektro- und Informationstechnik (m/w/d) 2025](https://jobright.ai/jobs/info/688dcad3cdbd821a3663f9df?utm_campaign=1048&utm_source=git)** | Location, WV | On Site | Aug 02 |
-| ↳ | **[Production Engineering Intern](https://jobright.ai/jobs/info/688dca83cdbd821a3663f9c4?utm_campaign=1048&utm_source=git)** | Location, WV | On Site | Aug 02 |
-| ↳ | **[Ausbildung Mechatroniker (m/w/d) 2025](https://jobright.ai/jobs/info/688dca7ecdbd821a3663f9c3?utm_campaign=1048&utm_source=git)** | Location, WV | On Site | Aug 02 |
-| ↳ | **[Ausbildung Elektroniker/-in für Betriebstechnik (m/w/d) 2026](https://jobright.ai/jobs/info/688dca62cdbd821a3663f9b9?utm_campaign=1048&utm_source=git)** | Location, WV | On Site | Aug 02 |
-| ↳ | **[Ausbildung Elektroniker für Automatisierungstechnik (m/w/d) 2025](https://jobright.ai/jobs/info/688dca4ecdbd821a3663f9af?utm_campaign=1048&utm_source=git)** | Location, WV | On Site | Aug 02 |
-| ↳ | **[Ausbildung Elektroniker (m/w/d) Geräte und Systeme 2025](https://jobright.ai/jobs/info/688dc9c1cdbd821a3663f982?utm_campaign=1048&utm_source=git)** | Location, WV | On Site | Aug 02 |
-| ↳ | **[Werkstudent (m/w/d) im Ausbildungszentrum Heidelberg](https://jobright.ai/jobs/info/688dc8a4e5cead4afd45abcc?utm_campaign=1048&utm_source=git)** | Location, WV | Hybrid | Aug 02 |
-| ↳ | **[Ausbildung Elektroniker für Betriebstechnik (m/w/d) 2025](https://jobright.ai/jobs/info/688dc89fe5cead4afd45abc9?utm_campaign=1048&utm_source=git)** | Location, WV | On Site | Aug 02 |
-| ↳ | **[Werkstudent (m/w/d) Entwicklung eines KI-gestützten Sharepoint im Service](https://jobright.ai/jobs/info/688dc756e5cead4afd45aaec?utm_campaign=1048&utm_source=git)** | Location, WV | Hybrid | Aug 02 |
-| ↳ | **[Ausbildung Mechatroniker (m/w/d) 2026](https://jobright.ai/jobs/info/688dc703e5cead4afd45aab8?utm_campaign=1048&utm_source=git)** | Location, WV | On Site | Aug 02 |
-| ↳ | **[Ausbildung Elektroniker für Betriebstechnik (m/w/d) 2025](https://jobright.ai/jobs/info/688dc699e5cead4afd45aa79?utm_campaign=1048&utm_source=git)** | Location, WV | On Site | Aug 02 |
-| ↳ | **[Werkstudent (m/w/d) in der Produktionstechnologie](https://jobright.ai/jobs/info/688dc662e5cead4afd45aa5d?utm_campaign=1048&utm_source=git)** | Location, WV | On Site | Aug 02 |
-| ↳ | **[Ausbildung Fachkraft für Metalltechnik (m/w/d) 2026](https://jobright.ai/jobs/info/688dc6576a4aac5783cd753b?utm_campaign=1048&utm_source=git)** | Location, WV | On Site | Aug 02 |
-| ↳ | **[Internship/Master Thesis (m/f/d): Machine Learning and Computer Vision](https://jobright.ai/jobs/info/688dc652e5cead4afd45aa4d?utm_campaign=1048&utm_source=git)** | Location, WV | Hybrid | Aug 02 |
-| ↳ | **[Werkstudent (m/w/d) im Bereich Projekte](https://jobright.ai/jobs/info/688dc61ce5cead4afd45aa2c?utm_campaign=1048&utm_source=git)** | Location, WV | Hybrid | Aug 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
