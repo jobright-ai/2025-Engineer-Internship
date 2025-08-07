@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UTEX Industries Inc.](http://utexind.com)** | **[Internship - Engineer](https://jobright.ai/jobs/info/689430f74c7e851b90ae395b?utm_campaign=1048&utm_source=git)** | Conroe, TX | On Site | Aug 06 |
+| **[VEG ER for Pets](https://veterinaryemergencygroup.com)** | **[Veterinary Technician Student Externship - Cambridge, MA](https://jobright.ai/jobs/info/68942b32a9199876488e32dd?utm_campaign=1048&utm_source=git)** | Cambridge, Massachusetts, United States | On Site | Aug 06 |
+| **[SigIQ.ai](https://sigiq.ai/)** | **[AI/ML Engineer Intern](https://jobright.ai/jobs/info/689426444c7e851b90ae35f6?utm_campaign=1048&utm_source=git)** | Berkeley, CA | On Site | Aug 06 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Project SURE STEM Scholar - SPC - req9193](https://jobright.ai/jobs/info/6894173ff47efe2113969344?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Aug 06 |
 | **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[RF Module Design Co-op (Summer/Fall Term)](https://jobright.ai/jobs/info/6894124da9199876488e2494?utm_campaign=1048&utm_source=git)** | Cedar Rapids, IA | On Site | Aug 06 |
 | **[NA](http://schnadig.com)** | **[2026 BNY Summer Internship Program - Engineering (Developer)](https://jobright.ai/jobs/info/6893353da9199876488dc687?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | Hybrid | Aug 06 |
@@ -92,8 +95,7 @@ For a complete list, click the following sortable link below:
 | **[AECOM](http://www.aecom.com/)** | **[Preconstruction Intern](https://jobright.ai/jobs/info/6893fcb34c7e851b90ae1c30?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | Aug 06 |
 | **[AECOM Tishman](http://www.aecomtishman.com)** | **[Construction Intern](https://jobright.ai/jobs/info/6893fa7ff47efe21139683f8?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Aug 06 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern - R&D Undergrad Year Round - Uncertainty Quantification for Radiography Applications, CA, Remote](https://jobright.ai/jobs/info/6893fa52f47efe21139683de?utm_campaign=1048&utm_source=git)** | Livermore, CA | Hybrid | Aug 06 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6893fa464c7e851b90ae1a69?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | Aug 06 |
-| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6893fa42f47efe21139683d8?utm_campaign=1048&utm_source=git)** | Melbourne, FL | On Site | Aug 06 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6893fa42f47efe21139683d8?utm_campaign=1048&utm_source=git)** | Melbourne, FL | On Site | Aug 06 |
 | **[Cromwell Architects Engineers](http://cromwell.com)** | **[Mechanical Engineer EI](https://jobright.ai/jobs/info/6893f9ecf47efe21139683a8?utm_campaign=1048&utm_source=git)** | Little Rock, AR | On Site | Aug 06 |
 | **[ConocoPhillips](http://www.conocophillips.com)** | **[Intern, Sustainable Development 2026](https://jobright.ai/jobs/info/6893f9b3f47efe2113968384?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Aug 06 |
 | **[Cosm](https://www.cosm.com)** | **[Risk & Safety Intern](https://jobright.ai/jobs/info/6893f98f4c7e851b90ae1a1f?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 06 |
@@ -110,6 +112,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Quarry Operations Intern](https://jobright.ai/jobs/info/6893f447f47efe21139680c2?utm_campaign=1048&utm_source=git)** | Miami, FL | On Site | Aug 06 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6893f4464c7e851b90ae187f?utm_campaign=1048&utm_source=git)** | Gainesville, FL | On Site | Aug 06 |
 | ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6893f40a4c7e851b90ae1864?utm_campaign=1048&utm_source=git)** | Panama City Beach, FL | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6893f40a4c7e851b90ae1865?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | Aug 06 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Mechanical Engineer Intern (Engineering Intern 5) - 24810](https://jobright.ai/jobs/info/6893f37df47efe2113968054?utm_campaign=1048&utm_source=git)** | Alexandria, VA | On Site | Aug 06 |
 | **[HNTB](http://www.hntb.com/)** | **[WED - 2026 New Grad Planner I (For Current/Previous HNTB Interns ONLY)](https://jobright.ai/jobs/info/6893f349f47efe2113968030?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Aug 06 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6893f31ca9199876488e13e3?utm_campaign=1048&utm_source=git)** | Tallahassee, FL | On Site | Aug 06 |
@@ -124,6 +127,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 University Intern - Rodeo Refining Engineer](https://jobright.ai/jobs/info/6893f05df47efe2113967f5e?utm_campaign=1048&utm_source=git)** | Rodeo, CA | On Site | Aug 06 |
 | **[Lilly India](https://www.lilly.com/in/)** | **[Postdoctoral Scientist - Renal Biology](https://jobright.ai/jobs/info/6894220ff47efe2113969ad2?utm_campaign=1048&utm_source=git)** | Greater Indianapolis | On Site | Aug 06 |
 | **[Mayo Clinic Healthcare](https://mayoclinichealthcare.co.uk)** | **[Postdoctoral Scientist - Biomedical Engineering-Physiology-Cardiovascular Surgery](https://jobright.ai/jobs/info/6893f02f4c7e851b90ae16c9?utm_campaign=1048&utm_source=git)** | Rochester, MN | On Site | Aug 06 |
+| **[AECOM](http://www.aecom.com/)** | **[Traffic Engineering Intern](https://jobright.ai/jobs/info/68942728f47efe2113969f21?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | On Site | Aug 06 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Quarry Operations Intern](https://jobright.ai/jobs/info/6893ef89a9199876488e125d?utm_campaign=1048&utm_source=git)** | Fort Myers, FL | On Site | Aug 06 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Electrical Engineering Intern - Power Delivery](https://jobright.ai/jobs/info/6893ef85a9199876488e125a?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | Aug 06 |
 | **[Patel, Greene & Associates, LLC (PGA)](https://www.patelgreene.com/)** | **[Engineer Intern](https://jobright.ai/jobs/info/6893ef6af47efe2113967ee4?utm_campaign=1048&utm_source=git)** | North Port-Sarasota Area | On Site | Aug 06 |
@@ -140,8 +144,8 @@ For a complete list, click the following sortable link below:
 | **[Research Innovations Incorporated](https://www.researchinnovations.com/)** | **[Vulnerability Research Internship (Cyber 249)](https://jobright.ai/jobs/info/6893ea964c7e851b90ae14b4?utm_campaign=1048&utm_source=git)** | St Pete Beach, FL | Hybrid | Aug 06 |
 | **[Phillips 66](http://www.phillips66.com/)** | **[2026 University Intern - Billings Refining Engineer](https://jobright.ai/jobs/info/6893ea224c7e851b90ae147a?utm_campaign=1048&utm_source=git)** | Billings, MT | On Site | Aug 06 |
 | ↳ | **[2026 University Intern - Ferndale Refining Engineer](https://jobright.ai/jobs/info/6893e9fa4c7e851b90ae1465?utm_campaign=1048&utm_source=git)** | Ferndale, WA | On Site | Aug 06 |
-| **[OWN, Inc.](https://www.ae-inc.com)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6893e9794c7e851b90ae142d?utm_campaign=1048&utm_source=git)** | Overland Park, KS | On Site | Aug 06 |
 | **[Research Innovations Incorporated](https://www.researchinnovations.com/)** | **[Vulnerability Research Internship (Cyber 247)](https://jobright.ai/jobs/info/6893e9544c7e851b90ae141e?utm_campaign=1048&utm_source=git)** | San Antonio, FL | Hybrid | Aug 06 |
+| **[Patel, Greene & Associates, LLC (PGA)](https://www.patelgreene.com/)** | **[Engineer Intern](https://jobright.ai/jobs/info/6893e92c4c7e851b90ae1404?utm_campaign=1048&utm_source=git)** | Greater Tampa Bay Area | On Site | Aug 06 |
 | **[Phillips 66](http://www.phillips66.com/)** | **[2026 University Intern - Sweeny Refining Engineer](https://jobright.ai/jobs/info/6893e8a4a9199876488e0fb9?utm_campaign=1048&utm_source=git)** | Sweeny, TX | On Site | Aug 06 |
 | **[Sensata Technologies](http://www.sensata.com)** | **[Electrical Engineer Intern (Aerospace) - Summer 2026](https://jobright.ai/jobs/info/6893e8a14c7e851b90ae13c1?utm_campaign=1048&utm_source=git)** | Attleboro, MA | On Site | Aug 06 |
 | **[RTX](http://www.raytheon.com)** | **[2026 SETC – Returning Intern – Onsite – Woburn, MA](https://jobright.ai/jobs/info/6893e7ebf47efe2113967c34?utm_campaign=1048&utm_source=git)** | MA312: Woburn MA 235 Presidential 235 Presidential Way Spencer Building 26, Woburn, MA, 01801 USA | Hybrid | Aug 06 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[WED Intern Structural/Architectural Engineer (For Current/Previous HNTB Interns ONLY) (Summer 2026)](https://jobright.ai/jobs/info/6893e5b9a9199876488e0e2d?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Aug 06 |
 | ↳ | **[WED - Intern Architect (For Current/Previous HNTB Interns ONLY) (Summer 2026)](https://jobright.ai/jobs/info/6893e5b0a9199876488e0e28?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | Aug 06 |
 | **[Research Innovations Incorporated](https://www.researchinnovations.com/)** | **[Vulnerability Research Internship (Cyber 247)](https://jobright.ai/jobs/info/6893e59da9199876488e0e1c?utm_campaign=1048&utm_source=git)** | St. Pete, FL | Hybrid | Aug 06 |
-| **[HNTB](http://www.hntb.com/)** | **[WED - Intern Engineer (For Current/Previous HNTB Interns ONLY) (Summer 2026)](https://jobright.ai/jobs/info/6893e546f47efe2113967b0a?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Aug 06 |
-| **[Patel, Greene & Associates, LLC (PGA)](https://www.patelgreene.com/)** | **[Engineer Intern](https://jobright.ai/jobs/info/6893e51fa9199876488e0df2?utm_campaign=1048&utm_source=git)** | Greater Orlando | On Site | Aug 06 |
-| **[HNTB](http://www.hntb.com/)** | **[WED - Intern Engineer (For Current/Previous HNTB Interns ONLY) (Summer 2026)](https://jobright.ai/jobs/info/6893e4ff4c7e851b90ae11f0?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Aug 06 |
-| **[Research Innovations Incorporated](https://www.researchinnovations.com/)** | **[Vulnerability Research Internship (Cyber 248)](https://jobright.ai/jobs/info/6893e4f6a9199876488e0dda?utm_campaign=1048&utm_source=git)** | St. Pete, FL | Hybrid | Aug 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
