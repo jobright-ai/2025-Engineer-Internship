@@ -57,7 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Stantec](http://www.stantec.com)** | **[Civil Engineer in Training – Mission Critical Site Design](https://jobright.ai/jobs/info/6895ab0373b3a600fe88a59f?utm_campaign=1048&utm_source=git)** | Columbus, OH | On Site | Aug 08 |
+| **[City of Cincinnati](http://www.cincinnati-oh.gov)** | **[CO-OP/INTERN 4 (Supply -Operations)](https://jobright.ai/jobs/info/6895c5254ed2ea559ca59435?utm_campaign=1048&utm_source=git)** | Cincinnati, OH | On Site | Aug 08 |
+| **[JT4](https://www.jt4llc.com/)** | **[JT4 SkillBridge Program - Programmer Opportunities at Edwards AFB, CA](https://jobright.ai/jobs/info/6895c3c18c6d6b442677d31b?utm_campaign=1048&utm_source=git)** | Edwards, CA | On Site | Aug 08 |
+| **[Quiddity](https://quiddity.com)** | **[Civil Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/6895c3ae8c6d6b442677d30f?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Aug 08 |
+| **[University of Washington](http://www.washington.edu)** | **[ROBOTIC PROCESS AUTOMATION (RPA) BUSINESS ANALYST INTERN](https://jobright.ai/jobs/info/6895bef84ed2ea559ca59320?utm_campaign=1048&utm_source=git)** | Seattle, WA | Hybrid | Aug 08 |
+| **[City of Tustin](http://www.tustinca.org)** | **[Engineering Intern (Administrative Intern) (Part-time)](https://jobright.ai/jobs/info/6895beaa4ed2ea559ca5930c?utm_campaign=1048&utm_source=git)** | Tustin, CA | On Site | Aug 08 |
+| **[TSMC](http://www.tsmc.com)** | **[[Fall 2025] TSMC Career Opportunities (Arizona/ California/ Texas / Washington / Canada)](https://jobright.ai/jobs/info/6895bea54ed2ea559ca59309?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | Aug 08 |
+| **[Redwood Materials](https://www.redwoodmaterials.com)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/6895bc3b4ed2ea559ca5927c?utm_campaign=1048&utm_source=git)** | Sparks, NV | On Site | Aug 08 |
+| **[VEG ER for Pets](https://veterinaryemergencygroup.com)** | **[Veterinary Technician Student Externship - Asheville, NC](https://jobright.ai/jobs/info/6895bbbf8c6d6b442677d173?utm_campaign=1048&utm_source=git)** | Asheville, North Carolina, United States | On Site | Aug 08 |
+| **[Jacksonville State University](http://www.jsu.edu/)** | **[Federal Work Study- Production Tech](https://jobright.ai/jobs/info/6895b8f873b3a600fe88aca6?utm_campaign=1048&utm_source=git)** | Jacksonville, AL | On Site | Aug 08 |
+| **[Stantec](http://www.stantec.com)** | **[Civil Engineer in Training – Mission Critical Site Design](https://jobright.ai/jobs/info/6895ad428c6d6b442677ca8f?utm_campaign=1048&utm_source=git)** | Cottage Grove, WI | On Site | Aug 08 |
+| ↳ | **[Civil Engineer in Training – Mission Critical Site Design](https://jobright.ai/jobs/info/6895ab0373b3a600fe88a59f?utm_campaign=1048&utm_source=git)** | Columbus, OH | On Site | Aug 08 |
 | **[Dell Technologies](https://www.delltechnologies.com)** | **[Dell ISG Hardware Engineering Undergraduate Intern](https://jobright.ai/jobs/info/6895aadb73b3a600fe88a58d?utm_campaign=1048&utm_source=git)** | Round Rock, TX | On Site | Aug 08 |
 | **[Stantec](http://www.stantec.com)** | **[Civil Engineer in Training – Mission Critical Site Design](https://jobright.ai/jobs/info/6895aa0773b3a600fe88a4d2?utm_campaign=1048&utm_source=git)** | Fargo, ND | On Site | Aug 08 |
 | ↳ | **[Civil Engineer in Training – Mission Critical Site Design](https://jobright.ai/jobs/info/6895a8164ed2ea559ca585ee?utm_campaign=1048&utm_source=git)** | Rochester, MN | On Site | Aug 08 |
@@ -66,6 +76,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Civil Engineer in Training – Mission Critical Site Design](https://jobright.ai/jobs/info/6895a6948c6d6b442677c2d1?utm_campaign=1048&utm_source=git)** | Des Moines, IA | On Site | Aug 08 |
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Engineering Intern](https://jobright.ai/jobs/info/68959d0673b3a600fe88945f?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Aug 07 |
 | ↳ | **[Engineering Intern](https://jobright.ai/jobs/info/68959b6e73b3a600fe889337?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Aug 07 |
+| **[Frontgrade Technologies](https://frontgrade.com)** | **[Mechanical Engineering Co-Op Student](https://jobright.ai/jobs/info/688bc666906ac06e1d1ce53d?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | Aug 07 |
+| **[Stantec](http://www.stantec.com)** | **[Civil Engineer in Training – Mission Critical Site Design](https://jobright.ai/jobs/info/6895b1fe73b3a600fe88a9f1?utm_campaign=1048&utm_source=git)** | Overland Park, KS | On Site | Aug 07 |
 | **[ByteDance](http://bytedance.com)** | **[Machine Learning Engineer Intern (E-commerce-Recommendation) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6895937a4ed2ea559ca5728b?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Aug 07 |
 | ↳ | **[Site Reliability Engineer Intern (Data Infrastructure) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689590db73b3a600fe888c23?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Aug 07 |
 | **[Heidelberg Materials UK](https://www.heidelbergmaterials.co.uk)** | **[Geology Intern](https://jobright.ai/jobs/info/689590278c6d6b442677b039?utm_campaign=1048&utm_source=git)** | Irving, TX | On Site | Aug 07 |
@@ -99,8 +111,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Conversion: (Early Career) Systems Engineer I](https://jobright.ai/jobs/info/689562788c6d6b442677951d?utm_campaign=1048&utm_source=git)** | Merritt Island, FL | On Site | Aug 07 |
 | ↳ | **[Intern Conversion: (Early Career) Systems Engineer I](https://jobright.ai/jobs/info/689562738c6d6b442677951a?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Aug 07 |
 | ↳ | **[Intern Conversion: (Early Career) Test Engineer I](https://jobright.ai/jobs/info/6895626b4ed2ea559ca5560e?utm_campaign=1048&utm_source=git)** | Reston, VA | On Site | Aug 07 |
-| ↳ | **[Intern Conversion: (Early Career) Fluid Systems Engineer I](https://jobright.ai/jobs/info/689562634ed2ea559ca55607?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Aug 07 |
 | ↳ | **[Intern Conversion: (Early Career) Fluid Systems Engineer I](https://jobright.ai/jobs/info/689562634ed2ea559ca55606?utm_campaign=1048&utm_source=git)** | Reston, VA | On Site | Aug 07 |
+| ↳ | **[Intern Conversion: (Early Career) Fluid Systems Engineer I](https://jobright.ai/jobs/info/689562634ed2ea559ca55607?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Aug 07 |
 | ↳ | **[Intern Conversion: (Early Career) Manufacturing Engineer I](https://jobright.ai/jobs/info/6895624b8c6d6b4426779508?utm_campaign=1048&utm_source=git)** | Arlington, VA | On Site | Aug 07 |
 | **[Ryan Companies US, Inc.](http://www.ryancompanies.com)** | **[Civil Engineer Intern - Minneapolis](https://jobright.ai/jobs/info/6895624a8c6d6b4426779505?utm_campaign=1048&utm_source=git)** | Minneapolis, MN | On Site | Aug 07 |
 | **[Blue Origin](http://www.blueorigin.com)** | **[Intern Conversion: (Early Career) Industrial Engineer I](https://jobright.ai/jobs/info/689562464ed2ea559ca555fe?utm_campaign=1048&utm_source=git)** | Arlington, VA | On Site | Aug 07 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Conversion: (Early Career) Avionics Software Engineer I](https://jobright.ai/jobs/info/68955af24ed2ea559ca5539b?utm_campaign=1048&utm_source=git)** | Arlington, VA | On Site | Aug 07 |
 | ↳ | **[Intern Conversion: (Early Career) Avionics Software Engineer I](https://jobright.ai/jobs/info/68955acf8c6d6b44267792a9?utm_campaign=1048&utm_source=git)** | Merritt Island, FL | On Site | Aug 07 |
 | ↳ | **[Intern Conversion: (Early Career) Industrial Engineer I](https://jobright.ai/jobs/info/68955a7c73b3a600fe886db4?utm_campaign=1048&utm_source=git)** | Merritt Island, FL | On Site | Aug 07 |
-| ↳ | **[Intern Conversion: (Early Career) Guidance, Navigation & Controls Engineer I](https://jobright.ai/jobs/info/68955a418c6d6b442677926b?utm_campaign=1048&utm_source=git)** | Merritt Island, FL | On Site | Aug 07 |
-| ↳ | **[Intern Conversion: (Early Career) Mfg/Process/Industrial Engineer I](https://jobright.ai/jobs/info/689559c48c6d6b4426779237?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Aug 07 |
-| ↳ | **[Intern Conversion: (Early Career) Structural & Mechanical Systems Engineer I](https://jobright.ai/jobs/info/689559c14ed2ea559ca55308?utm_campaign=1048&utm_source=git)** | Merritt Island, FL | On Site | Aug 07 |
-| **[New College of Florida](http://www.ncf.edu/)** | **[Lab/Field Research Assistant](https://jobright.ai/jobs/info/689559b08c6d6b442677922b?utm_campaign=1048&utm_source=git)** | Bay Shore Acres, FL | On Site | Aug 07 |
-| **[Blue Origin](http://www.blueorigin.com)** | **[Intern Conversion: (Early Career) Structural & Mechanical Systems Engineer I](https://jobright.ai/jobs/info/689559798c6d6b4426779216?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Aug 07 |
-| ↳ | **[Intern Conversion: (Early Career) Propulsion Engineer I](https://jobright.ai/jobs/info/6895595b8c6d6b4426779207?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Aug 07 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Civil Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/6895590c8c6d6b44267791d0?utm_campaign=1048&utm_source=git)** | Buffalo, NY | On Site | Aug 07 |
-| **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Intern - Open Space](https://jobright.ai/jobs/info/689559024ed2ea559ca5529f?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Aug 07 |
-| **[Blue Origin](http://www.blueorigin.com)** | **[Intern Conversion: (Early Career) Propulsion Engineer I](https://jobright.ai/jobs/info/689558df8c6d6b44267791aa?utm_campaign=1048&utm_source=git)** | Merritt Island, FL | On Site | Aug 07 |
-| ↳ | **[Intern Conversion: (Early Career) Materials & Processes Engineer I](https://jobright.ai/jobs/info/689558df73b3a600fe886cf4?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | Aug 07 |
-| ↳ | **[Intern Conversion: (Early Career) Fluid Systems Engineer I](https://jobright.ai/jobs/info/6895585673b3a600fe886c98?utm_campaign=1048&utm_source=git)** | Merritt Island, FL | On Site | Aug 07 |
-| ↳ | **[Intern Conversion: (Early Career) Guidance, Navigation & Controls Engineer I](https://jobright.ai/jobs/info/689558268c6d6b442677914d?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | Aug 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
