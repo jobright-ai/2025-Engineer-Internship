@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[XPENG](https://www.xiaopeng.com)** | **[Research Intern](https://jobright.ai/jobs/info/6895720173b3a600fe887952?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Aug 07 |
+| **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Internship, Structural Engineering & Mechanics 2026](https://jobright.ai/jobs/info/689589c44ed2ea559ca56d01?utm_campaign=1048&utm_source=git)** | Newport Beach, CA | On Site | Aug 07 |
+| ↳ | **[Internship/Co-op, Fire Protection 2026](https://jobright.ai/jobs/info/6895892f4ed2ea559ca56cdc?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Aug 07 |
+| **[Kaufman Rossin](http://kaufmanrossin.com)** | **[Cost Segregation Intern](https://jobright.ai/jobs/info/6895892b4ed2ea559ca56cda?utm_campaign=1048&utm_source=git)** | Boca Raton, FL | Hybrid | Aug 07 |
+| **[VEG ER for Pets](https://veterinaryemergencygroup.com)** | **[Veterinary Technician Student Externship - Brentwood, MO](https://jobright.ai/jobs/info/689587cc73b3a600fe888778?utm_campaign=1048&utm_source=git)** | Brentwood, Missouri, United States | On Site | Aug 07 |
+| **[University of Cincinnati](http://researchcompliance.uc.edu/UCTCA.aspx)** | **[Post Doc Fellow, Department of Chemical and Environmental Engineering](https://jobright.ai/jobs/info/68957e738c6d6b442677a45f?utm_campaign=1048&utm_source=git)** | Cincinnati, OH | On Site | Aug 07 |
+| **[Walker Consultants](http://walkerconsultants.com/)** | **[Structural Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/689575774ed2ea559ca560b5?utm_campaign=1048&utm_source=git)** | Indianapolis, IN | On Site | Aug 07 |
 | **[Blue Origin](http://www.blueorigin.com)** | **[Intern Conversion: (Early Career) Mfg/Process/Industrial Engineer I](https://jobright.ai/jobs/info/68956b414ed2ea559ca559af?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Aug 07 |
 | ↳ | **[Intern Conversion: (Early Career) Propulsion Engineer I](https://jobright.ai/jobs/info/68956b164ed2ea559ca5599f?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Aug 07 |
 | **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Internship, Structural Engineering & Mechanics 2026](https://jobright.ai/jobs/info/689569d673b3a600fe88738e?utm_campaign=1048&utm_source=git)** | Newport Beach, California, United States | On Site | Aug 07 |
@@ -83,8 +88,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Conversion: (Early Career) Systems Engineer I](https://jobright.ai/jobs/info/689562788c6d6b442677951d?utm_campaign=1048&utm_source=git)** | Merritt Island, FL | On Site | Aug 07 |
 | ↳ | **[Intern Conversion: (Early Career) Systems Engineer I](https://jobright.ai/jobs/info/689562738c6d6b442677951a?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Aug 07 |
 | ↳ | **[Intern Conversion: (Early Career) Test Engineer I](https://jobright.ai/jobs/info/6895626b4ed2ea559ca5560e?utm_campaign=1048&utm_source=git)** | Reston, VA | On Site | Aug 07 |
-| ↳ | **[Intern Conversion: (Early Career) Fluid Systems Engineer I](https://jobright.ai/jobs/info/689562634ed2ea559ca55606?utm_campaign=1048&utm_source=git)** | Reston, VA | On Site | Aug 07 |
 | ↳ | **[Intern Conversion: (Early Career) Fluid Systems Engineer I](https://jobright.ai/jobs/info/689562634ed2ea559ca55607?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Aug 07 |
+| ↳ | **[Intern Conversion: (Early Career) Fluid Systems Engineer I](https://jobright.ai/jobs/info/689562634ed2ea559ca55606?utm_campaign=1048&utm_source=git)** | Reston, VA | On Site | Aug 07 |
 | ↳ | **[Intern Conversion: (Early Career) Manufacturing Engineer I](https://jobright.ai/jobs/info/6895624b8c6d6b4426779508?utm_campaign=1048&utm_source=git)** | Arlington, VA | On Site | Aug 07 |
 | **[Ryan Companies US, Inc.](http://www.ryancompanies.com)** | **[Civil Engineer Intern - Minneapolis](https://jobright.ai/jobs/info/6895624a8c6d6b4426779505?utm_campaign=1048&utm_source=git)** | Minneapolis, MN | On Site | Aug 07 |
 | **[Blue Origin](http://www.blueorigin.com)** | **[Intern Conversion: (Early Career) Industrial Engineer I](https://jobright.ai/jobs/info/689562464ed2ea559ca555fe?utm_campaign=1048&utm_source=git)** | Arlington, VA | On Site | Aug 07 |
@@ -142,6 +147,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Conversion: (Early Career) Fluid Systems Engineer I](https://jobright.ai/jobs/info/6895585673b3a600fe886c98?utm_campaign=1048&utm_source=git)** | Merritt Island, FL | On Site | Aug 07 |
 | ↳ | **[Intern Conversion: (Early Career) Guidance, Navigation & Controls Engineer I](https://jobright.ai/jobs/info/689558268c6d6b442677914d?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | Aug 07 |
 | ↳ | **[Intern Conversion: (Early Career) Test Engineer I](https://jobright.ai/jobs/info/689557d18c6d6b442677912a?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | Aug 07 |
+| ↳ | **[Intern Conversion: (Early Career) Avionics Software Engineer I](https://jobright.ai/jobs/info/689579114ed2ea559ca5633d?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Aug 07 |
 | ↳ | **[Intern Conversion: (Early Career) Test Engineer I](https://jobright.ai/jobs/info/689556d58c6d6b44267790bd?utm_campaign=1048&utm_source=git)** | Merritt Island, FL | On Site | Aug 07 |
 | **[CPS Energy](http://www.cpsenergy.com)** | **[Intern - College - Gas Engineering and Planning](https://jobright.ai/jobs/info/689556c38c6d6b44267790b6?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Aug 07 |
 | **[Ohio Gratings, Inc.](http://www.ohiogratings.com/)** | **[Mfg Engineering Co-op](https://jobright.ai/jobs/info/689556ba8c6d6b44267790b2?utm_campaign=1048&utm_source=git)** | Canton, OH | On Site | Aug 07 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Blue Origin](http://www.blueorigin.com)** | **[Intern Conversion: (Early Career) Mfg/Process/Industrial Engineer I](https://jobright.ai/jobs/info/6895560873b3a600fe886b84?utm_campaign=1048&utm_source=git)** | Arlington, VA | On Site | Aug 07 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Research & Development Engineering Intern](https://jobright.ai/jobs/info/689556074ed2ea559ca5512c?utm_campaign=1048&utm_source=git)** | Maple Grove, MN | Hybrid | Aug 07 |
 | **[Blue Origin](http://www.blueorigin.com)** | **[Intern Conversion: (Early Career) Systems Engineer I](https://jobright.ai/jobs/info/689555cd8c6d6b4426779025?utm_campaign=1048&utm_source=git)** | Arlington, VA | On Site | Aug 07 |
-| ↳ | **[Intern Conversion: (Early Career) Electronics & Electrical Systems Engineer I](https://jobright.ai/jobs/info/689555c28c6d6b442677901e?utm_campaign=1048&utm_source=git)** | Reston, VA | On Site | Aug 07 |
-| ↳ | **[Intern Conversion: (Early Career) Materials & Processes Engineer I](https://jobright.ai/jobs/info/6895559b4ed2ea559ca550f5?utm_campaign=1048&utm_source=git)** | Reston, VA | On Site | Aug 07 |
-| ↳ | **[Intern Conversion: (Early Career) Fluid Systems Engineer I](https://jobright.ai/jobs/info/689555588c6d6b4426778fee?utm_campaign=1048&utm_source=git)** | Arlington, VA | On Site | Aug 07 |
-| **[Mack Trucks](http://www.macktrucks.com)** | **[Intern: Logistics Engineering (Spring 2026)](https://jobright.ai/jobs/info/6895552b8c6d6b4426778fdd?utm_campaign=1048&utm_source=git)** | Macungie, PA | On Site | Aug 07 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Civil Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/689555254ed2ea559ca550b7?utm_campaign=1048&utm_source=git)** | Valhalla, NY | On Site | Aug 07 |
-| ↳ | **[Civil Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/689555114ed2ea559ca550a9?utm_campaign=1048&utm_source=git)** | Troy, NY | On Site | Aug 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
