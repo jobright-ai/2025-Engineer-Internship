@@ -101,5 +101,4 @@ For a complete list, click the following sortable link below:
 | **[Potomac Testing](https://www.potomactesting.com/)** | **[Electrical Testing Technician Intern (CSP Program)](https://jobright.ai/jobs/info/67ed20d7b446740ddbcdb9f7?utm_campaign=1048&utm_source=git)** | Crofton, MD | On Site | Aug 03 |
 | **[Blattner](https://www.blattnercompany.com)** | **[Site Safety Internship (Summer 2026)](https://jobright.ai/jobs/info/67c8cea7292b154b8365780f?utm_campaign=1048&utm_source=git)** | Minnesota, United States | Remote | Aug 03 |
 | **[Carollo Engineers](http://www.carollo.com)** | **[Civil/Environmental Engineering Intern](https://jobright.ai/jobs/info/681b5327d8ddf663fdf7ddb9?utm_campaign=1048&utm_source=git)** | Nashville, TN | On Site | Aug 02 |
-| **[GE Aerospace](https://www.geaerospace.com)** | **[Military DoD SkillBridge Internship - Multiple Positions Q2 2025](https://jobright.ai/jobs/info/67a9389b71b7c751bb08decf?utm_campaign=1048&utm_source=git)** | Cincinnati, OH | Remote | Aug 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
