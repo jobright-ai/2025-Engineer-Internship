@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Texas Children's Hospital](http://texaschildrenspeople.org/)** | **[Postdoctoral Fellow: Lipid metabolism in neurodegeneration and brain tumors.](https://jobright.ai/jobs/info/6898d40683d13d1f5b690e9c?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Aug 10 |
+| **[RJMedex](https://rjmedex.com/)** | **[EXPERT Robotic Engineer with Mechanical Engineer Skills  & AI Developer Skills Internship Pay UPTO $20 Per hr ONSITE MANDATORY](https://jobright.ai/jobs/info/6898cf28faa4e875e8250a8e?utm_campaign=1048&utm_source=git)** | Columbia, MD | On Site | Aug 10 |
+| **[Pegasus Aerospace](https://pegasusaero.net/)** | **[Engineer Intern](https://jobright.ai/jobs/info/6898c9915574fd6bc0c7a96a?utm_campaign=1048&utm_source=git)** | Lakewood, CO | On Site | Aug 10 |
+| **[City of Ames, Iowa](https://www.cityofames.org)** | **[Smart Energy Intern](https://jobright.ai/jobs/info/6898c96a83d13d1f5b690e01?utm_campaign=1048&utm_source=git)** | Ames, IA | On Site | Aug 10 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Ocean Stewardship Program in Cambodia](https://jobright.ai/jobs/info/6898afa383d13d1f5b690af5?utm_campaign=1048&utm_source=git)** | Berkeley, CA | On Site | Aug 10 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Structural Intern 2025](https://jobright.ai/jobs/info/67622545b9969c2eae7060dc?utm_campaign=1048&utm_source=git)** | Raleigh, NC | On Site | Aug 10 |
 | **[Dorsey & Whitney LLP](http://www.dorsey.com/)** | **[Patent Technical Intern (Summer 2025) (Salt Lake City, UT; Denver, CO) (#3877)](https://jobright.ai/jobs/info/685fb653850895c37a10534a?utm_campaign=1048&utm_source=git)** | Denver, CO | Hybrid | Aug 10 |
@@ -88,10 +92,8 @@ For a complete list, click the following sortable link below:
 | **[Cirrus Logic](https://cirrus.com/)** | **[Summer Intern - Analog Design Engineer](https://jobright.ai/jobs/info/689861045574fd6bc0c797ee?utm_campaign=1048&utm_source=git)** | Greater Phoenix Area | Hybrid | Aug 09 |
 | ↳ | **[Summer Intern - Analog Design Engineer](https://jobright.ai/jobs/info/68985c765574fd6bc0c79021?utm_campaign=1048&utm_source=git)** | Austin, TX | Hybrid | Aug 09 |
 | **[The Herbert Wertheim UF Scripps Institute for Biomedical Innovation & Technology](https://scripps.ufl.edu/)** | **[Postdoctoral Associate - Liu Lab](https://jobright.ai/jobs/info/689861d05574fd6bc0c79981?utm_campaign=1048&utm_source=git)** | Palm Beach, FL | On Site | Aug 09 |
-| **[PhDFinder](Phdfinder.com)** | **[[Expired] Fully-Funded PhD and Research Internship Positions in Trustworthy and Efficient AI](https://jobright.ai/jobs/info/68986013faa4e875e824f971?utm_campaign=1048&utm_source=git)** | Sewanee, TN | Remote | Aug 09 |
-| ↳ | **[USA – Postdoctoral Position in Glass Science at Rutgers University](https://jobright.ai/jobs/info/68985457faa4e875e824e3df?utm_campaign=1048&utm_source=git)** | University City, MO | On Site | Aug 09 |
+| **[PhDFinder](Phdfinder.com)** | **[USA – Postdoctoral Position in Glass Science at Rutgers University](https://jobright.ai/jobs/info/68985457faa4e875e824e3df?utm_campaign=1048&utm_source=git)** | University City, MO | On Site | Aug 09 |
 | **[VEG ER for Pets](https://veterinaryemergencygroup.com)** | **[Veterinary Technician Student Externship - Greenville, SC](https://jobright.ai/jobs/info/689825e4faa4e875e824aac7?utm_campaign=1048&utm_source=git)** | Greenville, South Carolina, United States | On Site | Aug 09 |
-| **[RJMedex](https://rjmedex.com/)** | **[Expert Network Engineer Intern Opportunity -ONSITE Only](https://jobright.ai/jobs/info/689817661b9e81727f1a4088?utm_campaign=1048&utm_source=git)** | Columbia, MD | On Site | Aug 09 |
 | **[Waypoint Bio](https://www.waypointbio.com)** | **[Lab Operations Intern](https://jobright.ai/jobs/info/689817568c6d6b44267951be?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Aug 09 |
 | **[VEG ER for Pets](https://veterinaryemergencygroup.com)** | **[Veterinary Technician Student Externship - Alexandria, VA](https://jobright.ai/jobs/info/6898060a73b3a600fe8a1df6?utm_campaign=1048&utm_source=git)** | Alexandria, Virginia, United States | On Site | Aug 09 |
 | **[Albany Medical Center](http://www.amc.edu/)** | **[Post Doctoral Fellow](https://jobright.ai/jobs/info/689804b88c6d6b44267948c9?utm_campaign=1048&utm_source=git)** | Albany, NY | On Site | Aug 09 |
@@ -122,6 +124,7 @@ For a complete list, click the following sortable link below:
 | **[Lynker](https://lynker.com)** | **[National Data Buoy Center (NDBC)](https://jobright.ai/jobs/info/689832c25574fd6bc0c75485?utm_campaign=1048&utm_source=git)** | Leesburg, VA | Remote | Aug 09 |
 | **[NFX](https://www.nfx.com/bio/)** | **[NFX TechBio Fellows 2025-2026](https://jobright.ai/jobs/info/6888043afbbf032d000782e9?utm_campaign=1048&utm_source=git)** | United States | Remote | Aug 09 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[(CAST) - Engineering Planning Analyst (SkillBridge Intern) - 20139](https://jobright.ai/jobs/info/68983f9483d13d1f5b68cc3a?utm_campaign=1048&utm_source=git)** | Bremerton, WA | On Site | Aug 09 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Refining Chemical Engineering Intern/Co-op Fall 2025](https://jobright.ai/jobs/info/6894bc5e4ed2ea559ca4ff1b?utm_campaign=1048&utm_source=git)** | Kenai, AK | On Site | Aug 09 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Structural Intern 2025](https://jobright.ai/jobs/info/67622545b9969c2eae7060e3?utm_campaign=1048&utm_source=git)** | Charlotte, NC | On Site | Aug 09 |
 | **[Avicena Tech](https://www.avicena.tech/)** | **[Software Systems Hardware Integration Intern](https://jobright.ai/jobs/info/6888610bfbbf032d0007b58f?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA | On Site | Aug 09 |
 | **[Siemens](https://www.siemens.com/)** | **[DOD SkillBridge Internship – Field Technician](https://jobright.ai/jobs/info/68807a12764c3d7411c535e6?utm_campaign=1048&utm_source=git)** | Sandy, UT | On Site | Aug 09 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship/Master Thesis (m/f/d): Machine Learning and Computer Vision](https://jobright.ai/jobs/info/688dc652e5cead4afd45aa4d?utm_campaign=1048&utm_source=git)** | Location, WV | Hybrid | Aug 09 |
 | **[Landmark Vineyards](https://www.landmarkwine.com/)** | **[Harvest Cellar Intern](https://jobright.ai/jobs/info/6806d4c25fb71731760ec4d8?utm_campaign=1048&utm_source=git)** | Kenwood, CA | On Site | Aug 09 |
 | **[ABB](https://global.abb/group/en)** | **[Werkstudent (m/w/d) in der Produktionstechnologie](https://jobright.ai/jobs/info/688dc662e5cead4afd45aa5d?utm_campaign=1048&utm_source=git)** | Location, WV | On Site | Aug 09 |
-| **[Polaris Inc.](https://www.polaris.com)** | **[Electrical/Software/Controls Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68976b2373b3a600fe898a70?utm_campaign=1048&utm_source=git)** | Roseau, MN | On Site | Aug 09 |
-| ↳ | **[Powertrain Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68977b461b9e81727f19b79c?utm_campaign=1048&utm_source=git)** | Roseau, MN | On Site | Aug 09 |
-| ↳ | **[Core Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/6897952073b3a600fe89bcaa?utm_campaign=1048&utm_source=git)** | Roseau, MN | On Site | Aug 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
