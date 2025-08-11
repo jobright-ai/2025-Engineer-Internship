@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AI 2030](http://www.ai2030.org)** | **[Responsible AI Circle Member (Investor Community Member)](https://jobright.ai/jobs/info/68996160faa4e875e8251e1a?utm_campaign=1048&utm_source=git)** | United States | Remote | Aug 10 |
+| **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[USDA-ARS Postdoctoral Research Fellowship in Remote Sensing](https://jobright.ai/jobs/info/689956d7faa4e875e825173b?utm_campaign=1048&utm_source=git)** | Beltsville, MD | Remote | Aug 10 |
 | **[Audubon Companies](http://www.auduboncompanies.com)** | **[Project Engineering Intern](https://jobright.ai/jobs/info/689947e1faa4e875e8251492?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Aug 10 |
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[USDA-ARS Soil Health Laboratory Fellowship](https://jobright.ai/jobs/info/689945895574fd6bc0c7b3d4?utm_campaign=1048&utm_source=git)** | Columbia, MO | On Site | Aug 10 |
 | **[Swietelsky AG](https://www.swietelsky.at)** | **[Werkstudent/in - Kalkulation und Angebotsbearbeitung](https://jobright.ai/jobs/info/68992a5d83d13d1f5b69158e?utm_campaign=1048&utm_source=git)** | United States | Remote | Aug 10 |
@@ -105,9 +107,9 @@ For a complete list, click the following sortable link below:
 | **[Helix Electric](http://www.helixelectric.com)** | **[Project Engineer Intern - Fall 25](https://jobright.ai/jobs/info/669988036857f00f1d02a4fb?utm_campaign=1048&utm_source=git)** | Sacramento, CA | On Site | Aug 10 |
 | ↳ | **[Project Engineer Intern - Spring 26](https://jobright.ai/jobs/info/682012d334eee2160f69bc87?utm_campaign=1048&utm_source=git)** | Commerce, CA | On Site | Aug 10 |
 | **[Cirrus Logic](https://cirrus.com/)** | **[Summer Intern - Design Verification Engineer](https://jobright.ai/jobs/info/68984e5d5574fd6bc0c77b29?utm_campaign=1048&utm_source=git)** | Austin, TX | Hybrid | Aug 10 |
-| ↳ | **[Spring Intern - Digital Design Engineer](https://jobright.ai/jobs/info/689849945574fd6bc0c76cd9?utm_campaign=1048&utm_source=git)** | Austin, TX | Hybrid | Aug 10 |
+| **[Terrasmart](https://www.terrasmart.com)** | **[Solar Field Installation Apprentice - NY](https://jobright.ai/jobs/info/68984a505574fd6bc0c76f31?utm_campaign=1048&utm_source=git)** | Selkirk, NY | On Site | Aug 10 |
+| **[Cirrus Logic](https://cirrus.com/)** | **[Spring Intern - Digital Design Engineer](https://jobright.ai/jobs/info/689849945574fd6bc0c76cd9?utm_campaign=1048&utm_source=git)** | Austin, TX | Hybrid | Aug 10 |
 | ↳ | **[Summer Intern - Digital Design Engineer](https://jobright.ai/jobs/info/6898493ffaa4e875e824d0aa?utm_campaign=1048&utm_source=git)** | Austin, TX | Hybrid | Aug 10 |
-| **[Terrasmart](https://www.terrasmart.com)** | **[Solar Field Installation Apprentice - NY](https://jobright.ai/jobs/info/689848f583d13d1f5b68cfa9?utm_campaign=1048&utm_source=git)** | Selkirk, NY | On Site | Aug 10 |
 | **[VEG ER for Pets](https://veterinaryemergencygroup.com)** | **[Veterinary Technician Student Externship - Oro Valley, AZ](https://jobright.ai/jobs/info/6898680e83d13d1f5b69029e?utm_campaign=1048&utm_source=git)** | Tucson, Arizona, United States | On Site | Aug 09 |
 | **[Cirrus Logic](https://cirrus.com/)** | **[Summer Intern - Analog Design Engineer](https://jobright.ai/jobs/info/689861045574fd6bc0c797ee?utm_campaign=1048&utm_source=git)** | Greater Phoenix Area | Hybrid | Aug 09 |
 | ↳ | **[Summer Intern - Analog Design Engineer](https://jobright.ai/jobs/info/68985c765574fd6bc0c79021?utm_campaign=1048&utm_source=git)** | Austin, TX | Hybrid | Aug 09 |
@@ -115,6 +117,7 @@ For a complete list, click the following sortable link below:
 | **[PhDFinder](Phdfinder.com)** | **[USA – Postdoctoral Position in Glass Science at Rutgers University](https://jobright.ai/jobs/info/68985457faa4e875e824e3df?utm_campaign=1048&utm_source=git)** | University City, MO | On Site | Aug 09 |
 | **[VEG ER for Pets](https://veterinaryemergencygroup.com)** | **[Veterinary Technician Student Externship - Greenville, SC](https://jobright.ai/jobs/info/689825e4faa4e875e824aac7?utm_campaign=1048&utm_source=git)** | Greenville, South Carolina, United States | On Site | Aug 09 |
 | **[Waypoint Bio](https://www.waypointbio.com)** | **[Lab Operations Intern](https://jobright.ai/jobs/info/689817568c6d6b44267951be?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Aug 09 |
+| **[United Rentals](http://www.unitedrentals.com)** | **[Intern Diesel Mechanic (Paid)](https://jobright.ai/jobs/info/6899664c5574fd6bc0c7bf02?utm_campaign=1048&utm_source=git)** | Fort Worth, TX | On Site | Aug 09 |
 | **[VEG ER for Pets](https://veterinaryemergencygroup.com)** | **[Veterinary Technician Student Externship - Alexandria, VA](https://jobright.ai/jobs/info/6898060a73b3a600fe8a1df6?utm_campaign=1048&utm_source=git)** | Alexandria, Virginia, United States | On Site | Aug 09 |
 | **[Albany Medical Center](http://www.amc.edu/)** | **[Post Doctoral Fellow](https://jobright.ai/jobs/info/689804b88c6d6b44267948c9?utm_campaign=1048&utm_source=git)** | Albany, NY | On Site | Aug 09 |
 | **[ABB](https://global.abb/group/en)** | **[Werkstudent (m/w/d) in der kaufmännischen Abwicklung](https://jobright.ai/jobs/info/688dc1986a4aac5783cd70d9?utm_campaign=1048&utm_source=git)** | Location, WV | Hybrid | Aug 09 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Structural Intern 2025](https://jobright.ai/jobs/info/67622545b9969c2eae7060e3?utm_campaign=1048&utm_source=git)** | Charlotte, NC | On Site | Aug 09 |
 | **[Avicena Tech](https://www.avicena.tech/)** | **[Software Systems Hardware Integration Intern](https://jobright.ai/jobs/info/6888610bfbbf032d0007b58f?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA | On Site | Aug 09 |
 | **[Siemens](https://www.siemens.com/)** | **[DOD SkillBridge Internship – Field Technician](https://jobright.ai/jobs/info/68807a12764c3d7411c535e6?utm_campaign=1048&utm_source=git)** | Sandy, UT | On Site | Aug 09 |
-| **[Figure](https://www.figure.ai)** | **[Test Automation Intern (Fall 2025)](https://jobright.ai/jobs/info/685b2ae1e6572e3ac416c468?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Aug 09 |
-| **[Moonpreneur Inc](https://www.moonpreneur.com)** | **[Robotics Event Facilitator (part time)](https://jobright.ai/jobs/info/68985fb2faa4e875e824f8b3?utm_campaign=1048&utm_source=git)** | Columbia, MD | On Site | Aug 09 |
-| **[Kratos Defense and Security Solutions](http://www.kratosdefense.com)** | **[Hardware Engineering Co-Op](https://jobright.ai/jobs/info/68268c8d7b6bb22c70b99848?utm_campaign=1048&utm_source=git)** | Fort Walton Beach, FL | On Site | Aug 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
