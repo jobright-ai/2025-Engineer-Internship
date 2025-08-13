@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PhDFinder](https://phdfinder.com)** | **[[Expired] Postdoctoral Fellowship in Distribution System Modeling and Analysis](https://jobright.ai/jobs/info/689c28c883d13d1f5b6a6cd0?utm_campaign=1048&utm_source=git)** | Glasgow, DE | On Site | Aug 12 |
+| **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Traffic Intern / Co-op - Summer 2026](https://jobright.ai/jobs/info/689c255583d13d1f5b6a6856?utm_campaign=1048&utm_source=git)** | Greater Chicago Area | Hybrid | Aug 12 |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Service Technician Trainee (Fall 2025)](https://jobright.ai/jobs/info/689c2254faa4e875e82663d5?utm_campaign=1048&utm_source=git)** | Bellevue, WA | On Site | Aug 12 |
+| **[Swietelsky AG](https://www.swietelsky.at)** | **[Werkstudent/in - Kalkulation und Angebotsbearbeitung](https://jobright.ai/jobs/info/689c21ae83d13d1f5b6a63f8?utm_campaign=1048&utm_source=git)** | United States | Remote | Aug 12 |
+| **[Salt River Project](https://www.srpnet.com/)** | **[Field and Shop High School Student Intern](https://jobright.ai/jobs/info/689c1c4179a9f96662536562?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | Hybrid | Aug 12 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Physics Outreach Designer](https://jobright.ai/jobs/info/689c0bd279a9f96662535bb2?utm_campaign=1048&utm_source=git)** | Richmond, KY | On Site | Aug 12 |
 | **[Eight Sleep](http://eightsleep.com)** | **[Hardware Support & Test Intern](https://jobright.ai/jobs/info/688586f2fbbf032d0006cb07?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Aug 12 |
 | **[The Wasserstrom Company](http://www.wasserstrom.com)** | **[Welding Internship](https://jobright.ai/jobs/info/689bff8979a9f966625351a7?utm_campaign=1048&utm_source=git)** | Peoria, AZ | On Site | Aug 12 |
@@ -93,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[Westgate Resorts](https://www.westgateresorts.com/)** | **[Engineer Apprentice](https://jobright.ai/jobs/info/689be240faa4e875e82641a0?utm_campaign=1048&utm_source=git)** | Las Vegas, NV | On Site | Aug 12 |
 | **[The Mosaic Company](http://www.mosaicco.com/)** | **[Process Engineer Co-Op/Intern -Summer 2026](https://jobright.ai/jobs/info/689be21783d13d1f5b6a42d9?utm_campaign=1048&utm_source=git)** | Duette, FL | On Site | Aug 12 |
 | **[Advanced Energy](http://www.advancedenergy.com)** | **[Intern - Electrical Engineer - Fall 2025](https://jobright.ai/jobs/info/689be14b79a9f96662534682?utm_campaign=1048&utm_source=git)** | Wilmington, MA | On Site | Aug 12 |
-| ↳ | **[Intern - Electrical Engineer - Fall 2025](https://jobright.ai/jobs/info/689be14283d13d1f5b6a41f0?utm_campaign=1048&utm_source=git)** | Fort Collins, CO | On Site | Aug 12 |
 | **[The Mosaic Company](http://www.mosaicco.com/)** | **[Mining Engineer Co-Op/Intern - Summer 2026](https://jobright.ai/jobs/info/689be12283d13d1f5b6a41c7?utm_campaign=1048&utm_source=git)** | Bradley Junction, FL | On Site | Aug 12 |
 | **[Advanced Energy](http://www.advancedenergy.com)** | **[Intern - Electrical Engineer - Fall 2025](https://jobright.ai/jobs/info/689be10579a9f9666253461e?utm_campaign=1048&utm_source=git)** | Fort Collins, CO | On Site | Aug 12 |
 | **[Mortenson](https://www.mortenson.com)** | **[Sustainability Intern / Mortenson](https://jobright.ai/jobs/info/689be0d783d13d1f5b6a4157?utm_campaign=1048&utm_source=git)** | Minnesota, United States | On Site | Aug 12 |
@@ -103,7 +107,6 @@ For a complete list, click the following sortable link below:
 | **[The Mosaic Company](http://www.mosaicco.com/)** | **[Operations Engineering Co-op/Intern - Summer 2026](https://jobright.ai/jobs/info/689bdf04faa4e875e82640d0?utm_campaign=1048&utm_source=git)** | Riverview, FL | On Site | Aug 12 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/689bded4faa4e875e826409b?utm_campaign=1048&utm_source=git)** | Peachtree Corners, GA | On Site | Aug 12 |
 | ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/689bdeaefaa4e875e826407b?utm_campaign=1048&utm_source=git)** | Alpharetta, GA | On Site | Aug 12 |
-| **[The Whiting-Turner Contracting Company](http://www.whiting-turner.com/)** | **[Construction Intern](https://jobright.ai/jobs/info/689bde51faa4e875e8264011?utm_campaign=1048&utm_source=git)** | Plano, TX | On Site | Aug 12 |
 | **[The Mosaic Company](http://www.mosaicco.com/)** | **[Reliability Engineer Co-Op/Intern - Summer 2026](https://jobright.ai/jobs/info/689bde40faa4e875e8263ffb?utm_campaign=1048&utm_source=git)** | Riverview, FL | On Site | Aug 12 |
 | **[Brown and Caldwell](http://www.brownandcaldwell.com/)** | **[Environmental Engineering Co-op](https://jobright.ai/jobs/info/689bdde1faa4e875e8263f9c?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Aug 12 |
 | **[The Mosaic Company](http://www.mosaicco.com/)** | **[Process Engineer Co-Op/Intern -Summer 2026](https://jobright.ai/jobs/info/689bddbb83d13d1f5b6a40b7?utm_campaign=1048&utm_source=git)** | Bradley Junction, FL | On Site | Aug 12 |
@@ -115,13 +118,13 @@ For a complete list, click the following sortable link below:
 | **[VEG ER for Pets](https://veterinaryemergencygroup.com)** | **[Veterinary Technician Student Externship - Littleton, CO](https://jobright.ai/jobs/info/689bdd6283d13d1f5b6a4062?utm_campaign=1048&utm_source=git)** | Littleton, Colorado, United States | On Site | Aug 12 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/689bdd3083d13d1f5b6a4039?utm_campaign=1048&utm_source=git)** | Memphis, TN | On Site | Aug 12 |
 | **[The Mosaic Company](http://www.mosaicco.com/)** | **[Operations Engineer Co-Op/Intern - Summer 2026](https://jobright.ai/jobs/info/689bdd0b83d13d1f5b6a4024?utm_campaign=1048&utm_source=git)** | Uncle Sam, LA | On Site | Aug 12 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/689bdccf83d13d1f5b6a3fea?utm_campaign=1048&utm_source=git)** | Chattanooga, TN | On Site | Aug 12 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/689bdd0479a9f96662534476?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Aug 12 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/689bdccf83d13d1f5b6a3fea?utm_campaign=1048&utm_source=git)** | Chattanooga, TN | On Site | Aug 12 |
 | **[The Mosaic Company](http://www.mosaicco.com/)** | **[Project Engineer Co-Op/Intern - Summer 2026](https://jobright.ai/jobs/info/689bdccc79a9f96662534448?utm_campaign=1048&utm_source=git)** | Riverview, FL | On Site | Aug 12 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/689bdcc079a9f9666253443e?utm_campaign=1048&utm_source=git)** | Franklin, TN | On Site | Aug 12 |
 | ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/689bdcba83d13d1f5b6a3fd2?utm_campaign=1048&utm_source=git)** | Birmingham, AL | On Site | Aug 12 |
 | **[The Mosaic Company](http://www.mosaicco.com/)** | **[Process & Operations Engineer Co-Op/Intern - Summer 2026](https://jobright.ai/jobs/info/689bdcb079a9f9666253442b?utm_campaign=1048&utm_source=git)** | Mulberry, FL | On Site | Aug 12 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/689bdca979a9f96662534422?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Aug 12 |
-| **[The Mosaic Company](http://www.mosaicco.com/)** | **[Mining Engineer Co-Op/Intern - Summer 2026](https://jobright.ai/jobs/info/689bdc8e83d13d1f5b6a3faa?utm_campaign=1048&utm_source=git)** | Lithia, FL | On Site | Aug 12 |
+| ↳ | **[Mining Engineer Co-Op/Intern - Summer 2026](https://jobright.ai/jobs/info/689bdc8e83d13d1f5b6a3faa?utm_campaign=1048&utm_source=git)** | Lithia, FL | On Site | Aug 12 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Structural Intern](https://jobright.ai/jobs/info/689bdc7c83d13d1f5b6a3f94?utm_campaign=1048&utm_source=git)** | Nashville, TN | On Site | Aug 12 |
 | ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/689bdc6079a9f966625343ea?utm_campaign=1048&utm_source=git)** | Mobile, AL | On Site | Aug 12 |
 | ↳ | **[Structural Intern](https://jobright.ai/jobs/info/689bdc3783d13d1f5b6a3f5e?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Aug 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ByteDance](http://bytedance.com)** | **[Software Engineer Intern (ML System) - 2026 Start (PhD)](https://jobright.ai/jobs/info/689bccdf83d13d1f5b6a397d?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Aug 12 |
 | **[Ferris State University College of Business ](http://ferris.edu/business)** | **[Machine Tool Stockroom Assista (Student Position)](https://jobright.ai/jobs/info/689bccb6faa4e875e82638f0?utm_campaign=1048&utm_source=git)** | Big Rapids, MI | On Site | Aug 12 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Process Development Summer Intern at BASF](https://jobright.ai/jobs/info/689bccb3faa4e875e82638ec?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Aug 12 |
-| **[Parkhurst Dining](https://www.parkhurstdining.com)** | **[Sustainability Intern](https://jobright.ai/jobs/info/689bccac83d13d1f5b6a3939?utm_campaign=1048&utm_source=git)** | Biddeford, ME | On Site | Aug 12 |
-| **[Electric Era](http://www.electriceratechnologies.com)** | **[Intern, Mechanical Engineering - Fall 2025](https://jobright.ai/jobs/info/689bcc6583d13d1f5b6a38e8?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Aug 12 |
-| **[Mobile Communications America](http://callmc.com)** | **[DoD SkillBridge - Installation Technician Trainee (Internship)](https://jobright.ai/jobs/info/689bcbe079a9f96662533c81?utm_campaign=1048&utm_source=git)** | Jacksonville, FL | On Site | Aug 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
