@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Laveer Engineering](https://laveer.ca/)** | **[Structural Analysis Intern Summer 2026](https://jobright.ai/jobs/info/689c5e08faa4e875e82685a3?utm_campaign=1048&utm_source=git)** | Windsor, CT | Hybrid | Aug 13 |
+| ↳ | **[Electrical Engineering Intern Summer 2026](https://jobright.ai/jobs/info/689c5df179a9f966625389af?utm_campaign=1048&utm_source=git)** | Cranberry Township, PA | On Site | Aug 13 |
+| ↳ | **[Transient Analysis Intern Summer 2026](https://jobright.ai/jobs/info/689c5df079a9f966625389ab?utm_campaign=1048&utm_source=git)** | Cranberry Township, PA | Hybrid | Aug 13 |
+| ↳ | **[Structural Analysis Intern Summer 2026](https://jobright.ai/jobs/info/689c5df079a9f966625389ad?utm_campaign=1048&utm_source=git)** | Cranberry Township, PA | Hybrid | Aug 13 |
+| **[AAM - American Axle & Manufacturing](http://aam.com)** | **[Kettering Mechanical Engineering Co-op](https://jobright.ai/jobs/info/689c5de879a9f9666253898e?utm_campaign=1048&utm_source=git)** | Oxford, MI | On Site | Aug 13 |
+| **[Wichita State University](http://www.wichita.edu)** | **[Non-Destructive Inspection Testing Lab Assistant](https://jobright.ai/jobs/info/689c5a9b79a9f96662538936?utm_campaign=1048&utm_source=git)** | Wichita, KS | On Site | Aug 13 |
+| **[Kansas State University](http://www.k-state.edu/)** | **[Research Associate](https://jobright.ai/jobs/info/689c563b83d13d1f5b6a84ad?utm_campaign=1048&utm_source=git)** | Colby, KS | On Site | Aug 13 |
+| **[Northern Kentucky University](http://www.nku.edu/)** | **[Bouldering Wall Assistant (Student Employment)](https://jobright.ai/jobs/info/689c5469faa4e875e8268407?utm_campaign=1048&utm_source=git)** | Newport, KY | On Site | Aug 13 |
+| **[City of Fort Myers](https://www.cityftmyers.com/)** | **[Technical Intern - Fleet](https://jobright.ai/jobs/info/689c5469faa4e875e826840e?utm_campaign=1048&utm_source=git)** | Fort Myers, FL | On Site | Aug 13 |
+| **[GIANT](https://giantfoodstores.com/)** | **[SMTP Trainee - 6011](https://jobright.ai/jobs/info/689c535183d13d1f5b6a83a3?utm_campaign=1048&utm_source=git)** | Plymouth Meeting, PA | On Site | Aug 13 |
+| **[Car Toys](http://www.cartoys.com)** | **[Apprentice Installer](https://jobright.ai/jobs/info/689c4bbcfaa4e875e826820c?utm_campaign=1048&utm_source=git)** | Humble, TX | On Site | Aug 13 |
 | **[Georgia-Pacific LLC](http://www.gp.com/aboutus/companyoverview/index.html)** | **[Georgia-Pacific Process Engineering Internship Summer 2026 - Zachary, LA](https://jobright.ai/jobs/info/689c3e26faa4e875e8267d39?utm_campaign=1048&utm_source=git)** | Zachary, LA | On Site | Aug 13 |
 | **[NC State College of Engineering](https://www.engr.ncsu.edu/)** | **[Postdoctoral Research Scholar](https://jobright.ai/jobs/info/689c3ca783d13d1f5b6a7c8d?utm_campaign=1048&utm_source=git)** | Raleigh, NC | On Site | Aug 13 |
 | **[PhDFinder](https://phdfinder.com)** | **[[Expired] PhD Positions in 6G Wireless Communication Systems at KTH Royal Institute of Technology](https://jobright.ai/jobs/info/689c3790faa4e875e8267969?utm_campaign=1048&utm_source=git)** | Glasgow, DE | On Site | Aug 12 |
@@ -119,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[Westgate Resorts](https://www.westgateresorts.com/)** | **[Engineer Apprentice](https://jobright.ai/jobs/info/689be240faa4e875e82641a0?utm_campaign=1048&utm_source=git)** | Las Vegas, NV | On Site | Aug 12 |
 | **[The Mosaic Company](http://www.mosaicco.com/)** | **[Process Engineer Co-Op/Intern -Summer 2026](https://jobright.ai/jobs/info/689be21783d13d1f5b6a42d9?utm_campaign=1048&utm_source=git)** | Duette, FL | On Site | Aug 12 |
 | **[Advanced Energy](http://www.advancedenergy.com)** | **[Intern - Electrical Engineer - Fall 2025](https://jobright.ai/jobs/info/689be14b79a9f96662534682?utm_campaign=1048&utm_source=git)** | Wilmington, MA | On Site | Aug 12 |
+| ↳ | **[Intern - Electrical Engineer - Fall 2025](https://jobright.ai/jobs/info/689be14283d13d1f5b6a41f0?utm_campaign=1048&utm_source=git)** | Fort Collins, CO | On Site | Aug 12 |
 | **[The Mosaic Company](http://www.mosaicco.com/)** | **[Mining Engineer Co-Op/Intern - Summer 2026](https://jobright.ai/jobs/info/689be12283d13d1f5b6a41c7?utm_campaign=1048&utm_source=git)** | Bradley Junction, FL | On Site | Aug 12 |
-| **[Advanced Energy](http://www.advancedenergy.com)** | **[Intern - Electrical Engineer - Fall 2025](https://jobright.ai/jobs/info/689be10579a9f9666253461e?utm_campaign=1048&utm_source=git)** | Fort Collins, CO | On Site | Aug 12 |
 | **[Mortenson](https://www.mortenson.com)** | **[Sustainability Intern / Mortenson](https://jobright.ai/jobs/info/689be0d783d13d1f5b6a4157?utm_campaign=1048&utm_source=git)** | Minnesota, United States | On Site | Aug 12 |
 | **[Advanced Energy](http://www.advancedenergy.com)** | **[Intern - Electrical Engineer - Fall 2025](https://jobright.ai/jobs/info/689be07d83d13d1f5b6a40d7?utm_campaign=1048&utm_source=git)** | Eden Prairie, MN | On Site | Aug 12 |
 | **[Tetra Tech](http://www.tetratech.com)** | **[Engineering Assistant Intern - Fort Myers](https://jobright.ai/jobs/info/689be03679a9f9666253451c?utm_campaign=1048&utm_source=git)** | Fort Myers, FL | On Site | Aug 12 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/689bdcba83d13d1f5b6a3fd2?utm_campaign=1048&utm_source=git)** | Birmingham, AL | On Site | Aug 12 |
 | **[The Mosaic Company](http://www.mosaicco.com/)** | **[Process & Operations Engineer Co-Op/Intern - Summer 2026](https://jobright.ai/jobs/info/689bdcb079a9f9666253442b?utm_campaign=1048&utm_source=git)** | Mulberry, FL | On Site | Aug 12 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/689bdca979a9f96662534422?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Aug 12 |
-| **[The Mosaic Company](http://www.mosaicco.com/)** | **[Mining Engineer Co-Op/Intern - Summer 2026](https://jobright.ai/jobs/info/689bdc8e83d13d1f5b6a3faa?utm_campaign=1048&utm_source=git)** | Lithia, FL | On Site | Aug 12 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Structural Intern](https://jobright.ai/jobs/info/689bdc7c83d13d1f5b6a3f94?utm_campaign=1048&utm_source=git)** | Nashville, TN | On Site | Aug 12 |
-| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/689bdc6079a9f966625343ea?utm_campaign=1048&utm_source=git)** | Mobile, AL | On Site | Aug 12 |
-| ↳ | **[Structural Intern](https://jobright.ai/jobs/info/689bdbbf79a9f96662534362?utm_campaign=1048&utm_source=git)** | Alpharetta, GA | On Site | Aug 12 |
-| **[Johnson Electric](https://www.johnsonelectric.com/)** | **[Engineering Co-Op Student - Spring Term 2026](https://jobright.ai/jobs/info/689bd90cfaa4e875e8263e65?utm_campaign=1048&utm_source=git)** | Vandalia, OH | On Site | Aug 12 |
-| **[Lilly India](https://www.lilly.com/in/)** | **[Post-doctoral Scientist - Neural Obesity](https://jobright.ai/jobs/info/689bfd3783d13d1f5b6a4ce0?utm_campaign=1048&utm_source=git)** | Greater Indianapolis | On Site | Aug 12 |
-| **[Apex - Spacecraft Manufacturing](https://www.apexspace.com)** | **[Hardware Engineer Internship (Fall)](https://jobright.ai/jobs/info/689bfbc979a9f966625350e5?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Aug 12 |
-| **[Belden Inc.](http://belden.com)** | **[R&D CABLE INTERN](https://jobright.ai/jobs/info/689bd81b83d13d1f5b6a3e5d?utm_campaign=1048&utm_source=git)** | Carmel, IN | Remote | Aug 12 |
-| **[Cirrus Logic](https://cirrus.com/)** | **[Summer Intern - Analog Design Engineer](https://jobright.ai/jobs/info/689bd80b83d13d1f5b6a3e49?utm_campaign=1048&utm_source=git)** | Greensboro, NC | Hybrid | Aug 12 |
-| **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Structural Engineering Intern (Winter 2026) - Nuclear Projects](https://jobright.ai/jobs/info/689bd7d179a9f96662534299?utm_campaign=1048&utm_source=git)** | Wilmington, DE | Hybrid | Aug 12 |
-| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Structural Analysis Intern Summer 2026](https://jobright.ai/jobs/info/689bd4a779a9f96662534198?utm_campaign=1048&utm_source=git)** | Cranberry Township, PA | Hybrid | Aug 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
