@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rush University Medical Center](https://www.rush.edu/)** | **[Post Doctoral Research Fellow - Ortho Surgery - Full-time-18610](https://jobright.ai/jobs/info/689c773079a9f96662538bd2?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Aug 13 |
+| **[Peter Basso Associates](http://www.peterbassoassociates.com/)** | **[Electrical Co-Op Fall 2025](https://jobright.ai/jobs/info/689c72c783d13d1f5b6a876f?utm_campaign=1048&utm_source=git)** | Troy, MI | On Site | Aug 13 |
+| **[Laveer Engineering](https://laveer.ca/)** | **[Electrical Engineering Intern Summer 2026](https://jobright.ai/jobs/info/689c72af83d13d1f5b6a8758?utm_campaign=1048&utm_source=git)** | Rock Hill, SC | On Site | Aug 13 |
+| **[IBM](http://www.ibm.com)** | **[P-TECH at IBM High School Co-op](https://jobright.ai/jobs/info/689c679f79a9f96662538a47?utm_campaign=1048&utm_source=git)** | Coppell, TX | Remote | Aug 13 |
+| ↳ | **[P-TECH at IBM High School Co-op](https://jobright.ai/jobs/info/689c679f79a9f96662538a45?utm_campaign=1048&utm_source=git)** | Buffalo, NY | Remote | Aug 13 |
+| ↳ | **[P-TECH at IBM High School Co-op](https://jobright.ai/jobs/info/689c679579a9f96662538a2e?utm_campaign=1048&utm_source=git)** | Baton Rouge, LA | Remote | Aug 13 |
+| ↳ | **[P-TECH at IBM High School Co-op](https://jobright.ai/jobs/info/689c614d79a9f966625389da?utm_campaign=1048&utm_source=git)** | Armonk, NY | Remote | Aug 13 |
+| ↳ | **[P-TECH at IBM High School Co-op](https://jobright.ai/jobs/info/689c614d79a9f966625389d9?utm_campaign=1048&utm_source=git)** | Rochester, MN | Remote | Aug 13 |
+| ↳ | **[P-TECH at IBM High School Co-op](https://jobright.ai/jobs/info/689c6135faa4e875e8268604?utm_campaign=1048&utm_source=git)** | Poughkeepsie, NY | Remote | Aug 13 |
 | **[Laveer Engineering](https://laveer.ca/)** | **[Structural Analysis Intern Summer 2026](https://jobright.ai/jobs/info/689c5e08faa4e875e82685a3?utm_campaign=1048&utm_source=git)** | Windsor, CT | Hybrid | Aug 13 |
 | ↳ | **[Electrical Engineering Intern Summer 2026](https://jobright.ai/jobs/info/689c5df179a9f966625389af?utm_campaign=1048&utm_source=git)** | Cranberry Township, PA | On Site | Aug 13 |
 | ↳ | **[Transient Analysis Intern Summer 2026](https://jobright.ai/jobs/info/689c5df079a9f966625389ab?utm_campaign=1048&utm_source=git)** | Cranberry Township, PA | Hybrid | Aug 13 |
@@ -67,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Northern Kentucky University](http://www.nku.edu/)** | **[Bouldering Wall Assistant (Student Employment)](https://jobright.ai/jobs/info/689c5469faa4e875e8268407?utm_campaign=1048&utm_source=git)** | Newport, KY | On Site | Aug 13 |
 | **[City of Fort Myers](https://www.cityftmyers.com/)** | **[Technical Intern - Fleet](https://jobright.ai/jobs/info/689c5469faa4e875e826840e?utm_campaign=1048&utm_source=git)** | Fort Myers, FL | On Site | Aug 13 |
 | **[GIANT](https://giantfoodstores.com/)** | **[SMTP Trainee - 6011](https://jobright.ai/jobs/info/689c535183d13d1f5b6a83a3?utm_campaign=1048&utm_source=git)** | Plymouth Meeting, PA | On Site | Aug 13 |
+| **[Crane Aerospace & Electronics](http://www.craneae.com)** | **[Mechanical Engineering CO-OP](https://jobright.ai/jobs/info/689c6d0b83d13d1f5b6a870c?utm_campaign=1048&utm_source=git)** | Elyria, OH | On Site | Aug 13 |
 | **[Car Toys](http://www.cartoys.com)** | **[Apprentice Installer](https://jobright.ai/jobs/info/689c4bbcfaa4e875e826820c?utm_campaign=1048&utm_source=git)** | Humble, TX | On Site | Aug 13 |
 | **[Georgia-Pacific LLC](http://www.gp.com/aboutus/companyoverview/index.html)** | **[Georgia-Pacific Process Engineering Internship Summer 2026 - Zachary, LA](https://jobright.ai/jobs/info/689c3e26faa4e875e8267d39?utm_campaign=1048&utm_source=git)** | Zachary, LA | On Site | Aug 13 |
 | **[NC State College of Engineering](https://www.engr.ncsu.edu/)** | **[Postdoctoral Research Scholar](https://jobright.ai/jobs/info/689c3ca783d13d1f5b6a7c8d?utm_campaign=1048&utm_source=git)** | Raleigh, NC | On Site | Aug 13 |
@@ -74,7 +84,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[[Expired] Master’s Research Opportunity in Epigenetics and Embryonic Development in Dairy Cattle](https://jobright.ai/jobs/info/689c3786faa4e875e8267943?utm_campaign=1048&utm_source=git)** | Glasgow, DE | On Site | Aug 12 |
 | ↳ | **[[Expired] Graduate Student Position in Transportation Engineering at Michigan State University](https://jobright.ai/jobs/info/689c377779a9f96662537d3a?utm_campaign=1048&utm_source=git)** | Glasgow, DE | On Site | Aug 12 |
 | ↳ | **[USA – Postdoctoral Position in Liquid Metal Catalysis at University of California Berkeley](https://jobright.ai/jobs/info/689c376279a9f96662537d21?utm_campaign=1048&utm_source=git)** | California, United States | On Site | Aug 12 |
-| ↳ | **[[Expired] Postdoctoral Positions in Computational Drug Design and Protein Dynamics](https://jobright.ai/jobs/info/689c368b83d13d1f5b6a7943?utm_campaign=1048&utm_source=git)** | Glasgow, DE | On Site | Aug 12 |
 | ↳ | **[[Expired] Funded Postdoctoral Position in Renewable Energy Systems for Hydrogen-Powered Autonomous Underwater Vehicles](https://jobright.ai/jobs/info/689c366e83d13d1f5b6a78c1?utm_campaign=1048&utm_source=git)** | Glasgow, DE | On Site | Aug 12 |
 | **[GlobalFoundries](https://gf.com/)** | **[Device Engineering Intern, ULP CMOS (Summer 2026)](https://jobright.ai/jobs/info/689c315979a9f966625379c7?utm_campaign=1048&utm_source=git)** | Malta, NY | On Site | Aug 12 |
 | **[SK hynix America](https://www.skhynix.com/eng/index.jsp)** | **[Intern - R&D Programs (Fall 2025)](https://jobright.ai/jobs/info/689c315079a9f96662537995?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Aug 12 |
@@ -94,6 +103,7 @@ For a complete list, click the following sortable link below:
 | **[Tesla](https://www.tesla.com)** | **[Internship, Service Technician Trainee (Fall 2025)](https://jobright.ai/jobs/info/689c2254faa4e875e82663d5?utm_campaign=1048&utm_source=git)** | Bellevue, WA | On Site | Aug 12 |
 | **[Swietelsky AG](https://www.swietelsky.at)** | **[Werkstudent/in - Kalkulation und Angebotsbearbeitung](https://jobright.ai/jobs/info/689c21ae83d13d1f5b6a63f8?utm_campaign=1048&utm_source=git)** | United States | Remote | Aug 12 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[Field and Shop High School Student Intern](https://jobright.ai/jobs/info/689c1c4179a9f96662536562?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | Hybrid | Aug 12 |
+| **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship - Research & Development (PhD)](https://jobright.ai/jobs/info/687edaeb764c3d7411c46b90?utm_campaign=1048&utm_source=git)** | Carrollton, KY | On Site | Aug 12 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Physics Outreach Designer](https://jobright.ai/jobs/info/689c0bd279a9f96662535bb2?utm_campaign=1048&utm_source=git)** | Richmond, KY | On Site | Aug 12 |
 | **[Eight Sleep](http://eightsleep.com)** | **[Hardware Support & Test Intern](https://jobright.ai/jobs/info/688586f2fbbf032d0006cb07?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Aug 12 |
 | **[The Wasserstrom Company](http://www.wasserstrom.com)** | **[Welding Internship](https://jobright.ai/jobs/info/689bff8979a9f966625351a7?utm_campaign=1048&utm_source=git)** | Peoria, AZ | On Site | Aug 12 |
@@ -135,26 +145,16 @@ For a complete list, click the following sortable link below:
 | **[Mortenson](https://www.mortenson.com)** | **[Sustainability Intern / Mortenson](https://jobright.ai/jobs/info/689be0d783d13d1f5b6a4157?utm_campaign=1048&utm_source=git)** | Minnesota, United States | On Site | Aug 12 |
 | **[Advanced Energy](http://www.advancedenergy.com)** | **[Intern - Electrical Engineer - Fall 2025](https://jobright.ai/jobs/info/689be07d83d13d1f5b6a40d7?utm_campaign=1048&utm_source=git)** | Eden Prairie, MN | On Site | Aug 12 |
 | **[Tetra Tech](http://www.tetratech.com)** | **[Engineering Assistant Intern - Fort Myers](https://jobright.ai/jobs/info/689be03679a9f9666253451c?utm_campaign=1048&utm_source=git)** | Fort Myers, FL | On Site | Aug 12 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Structural Intern](https://jobright.ai/jobs/info/689bdf35faa4e875e8264107?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Aug 12 |
-| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/689bdf34faa4e875e8264105?utm_campaign=1048&utm_source=git)** | Woodstock, GA | On Site | Aug 12 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/689bdf34faa4e875e8264105?utm_campaign=1048&utm_source=git)** | Woodstock, GA | On Site | Aug 12 |
 | **[The Mosaic Company](http://www.mosaicco.com/)** | **[Operations Engineering Co-op/Intern - Summer 2026](https://jobright.ai/jobs/info/689bdf04faa4e875e82640d0?utm_campaign=1048&utm_source=git)** | Riverview, FL | On Site | Aug 12 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/689bded4faa4e875e826409b?utm_campaign=1048&utm_source=git)** | Peachtree Corners, GA | On Site | Aug 12 |
 | ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/689bdeaefaa4e875e826407b?utm_campaign=1048&utm_source=git)** | Alpharetta, GA | On Site | Aug 12 |
 | **[The Mosaic Company](http://www.mosaicco.com/)** | **[Reliability Engineer Co-Op/Intern - Summer 2026](https://jobright.ai/jobs/info/689bde40faa4e875e8263ffb?utm_campaign=1048&utm_source=git)** | Riverview, FL | On Site | Aug 12 |
 | **[Brown and Caldwell](http://www.brownandcaldwell.com/)** | **[Environmental Engineering Co-op](https://jobright.ai/jobs/info/689bdde1faa4e875e8263f9c?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Aug 12 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Structural Intern](https://jobright.ai/jobs/info/689bddc683d13d1f5b6a40c1?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Aug 12 |
 | **[The Mosaic Company](http://www.mosaicco.com/)** | **[Process Engineer Co-Op/Intern -Summer 2026](https://jobright.ai/jobs/info/689bddbb83d13d1f5b6a40b7?utm_campaign=1048&utm_source=git)** | Bradley Junction, FL | On Site | Aug 12 |
 | ↳ | **[Process Engineer Co-Op/Intern -Summer 2026](https://jobright.ai/jobs/info/689bddbafaa4e875e8263f6b?utm_campaign=1048&utm_source=git)** | Lithia, FL | On Site | Aug 12 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/689bddbafaa4e875e8263f6c?utm_campaign=1048&utm_source=git)** | Savannah, GA | On Site | Aug 12 |
 | **[The Mosaic Company](http://www.mosaicco.com/)** | **[Process Engineer Co-Op/Intern - Summer 2026](https://jobright.ai/jobs/info/689bddac83d13d1f5b6a40af?utm_campaign=1048&utm_source=git)** | Bartow, FL | On Site | Aug 12 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/689bdd8c83d13d1f5b6a4091?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | Aug 12 |
-| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/689bdd8b83d13d1f5b6a408f?utm_campaign=1048&utm_source=git)** | Nashville, TN | On Site | Aug 12 |
-| **[VEG ER for Pets](https://veterinaryemergencygroup.com)** | **[Veterinary Technician Student Externship - Littleton, CO](https://jobright.ai/jobs/info/689bdd6283d13d1f5b6a4062?utm_campaign=1048&utm_source=git)** | Littleton, Colorado, United States | On Site | Aug 12 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/689bdd3083d13d1f5b6a4039?utm_campaign=1048&utm_source=git)** | Memphis, TN | On Site | Aug 12 |
-| **[The Mosaic Company](http://www.mosaicco.com/)** | **[Operations Engineer Co-Op/Intern - Summer 2026](https://jobright.ai/jobs/info/689bdd0b83d13d1f5b6a4024?utm_campaign=1048&utm_source=git)** | Uncle Sam, LA | On Site | Aug 12 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/689bdccf83d13d1f5b6a3fea?utm_campaign=1048&utm_source=git)** | Chattanooga, TN | On Site | Aug 12 |
-| **[The Mosaic Company](http://www.mosaicco.com/)** | **[Project Engineer Co-Op/Intern - Summer 2026](https://jobright.ai/jobs/info/689bdccc79a9f96662534448?utm_campaign=1048&utm_source=git)** | Riverview, FL | On Site | Aug 12 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/689bdcc079a9f9666253443e?utm_campaign=1048&utm_source=git)** | Franklin, TN | On Site | Aug 12 |
-| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/689bdcba83d13d1f5b6a3fd2?utm_campaign=1048&utm_source=git)** | Birmingham, AL | On Site | Aug 12 |
-| **[The Mosaic Company](http://www.mosaicco.com/)** | **[Process & Operations Engineer Co-Op/Intern - Summer 2026](https://jobright.ai/jobs/info/689bdcb079a9f9666253442b?utm_campaign=1048&utm_source=git)** | Mulberry, FL | On Site | Aug 12 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/689bdca979a9f96662534422?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Aug 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
