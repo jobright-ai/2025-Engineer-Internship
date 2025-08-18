@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Event Technology Internship, Audio Visual – Chicago – Fall 2025 at Encore](https://jobright.ai/jobs/info/68a267abfaa4e875e8295f3c?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Aug 17 |
+| **[Omni Design Technologies, Inc.](http://www.omnidesigntech.com/)** | **[IC Characterization/Test Engineer Intern](https://jobright.ai/jobs/info/68a2526083d13d1f5b6d5ba5?utm_campaign=1048&utm_source=git)** | Milpitas, CA | On Site | Aug 17 |
 | **[Texas A&M AgriLife Research](https://agriliferesearch.tamu.edu/)** | **[Postdoctoral Research Associate](https://jobright.ai/jobs/info/68a24d4983d13d1f5b6d5b5f?utm_campaign=1048&utm_source=git)** | Weslaco, TX | On Site | Aug 17 |
 | **[Deca Defense](https://www.decadefense.com/)** | **[Robotics & AI Internship / Autonomy \ US Citizen](https://jobright.ai/jobs/info/68a2380c83d13d1f5b6d59e8?utm_campaign=1048&utm_source=git)** | United States | Remote | Aug 17 |
 | **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[IC Layout Design Co-op (Winter/Spring 2026)](https://jobright.ai/jobs/info/68a232ce83d13d1f5b6d599e?utm_campaign=1048&utm_source=git)** | Cedar Rapids, IA | On Site | Aug 17 |
 | ↳ | **[Analog IC Design Co-Op (Winter/Spring 2026)](https://jobright.ai/jobs/info/68a232c983d13d1f5b6d598c?utm_campaign=1048&utm_source=git)** | Cedar Rapids, IA | On Site | Aug 17 |
-| ↳ | **[RF SW IC Design Co-op (Summer/Fall 2026)](https://jobright.ai/jobs/info/68a232aacc9ee94dc91247bf?utm_campaign=1048&utm_source=git)** | Cedar Rapids, IA | On Site | Aug 17 |
 | ↳ | **[RF Module Design Co-op (Winter/Spring 2026)](https://jobright.ai/jobs/info/68a232aacc9ee94dc91247c0?utm_campaign=1048&utm_source=git)** | Cedar Rapids, IA | On Site | Aug 17 |
+| ↳ | **[RF SW IC Design Co-op (Summer/Fall 2026)](https://jobright.ai/jobs/info/68a232aacc9ee94dc91247bf?utm_campaign=1048&utm_source=git)** | Cedar Rapids, IA | On Site | Aug 17 |
 | ↳ | **[RF Module Design Co-op (Summer/Fall 2026)](https://jobright.ai/jobs/info/68a2329ecc9ee94dc91247ab?utm_campaign=1048&utm_source=git)** | Cedar Rapids, IA | On Site | Aug 17 |
 | ↳ | **[Analog IC Design Co-Op (Summer/Fall 2026)](https://jobright.ai/jobs/info/68a23265faa4e875e8295a2c?utm_campaign=1048&utm_source=git)** | Cedar Rapids, IA | On Site | Aug 17 |
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Engineering Intern](https://jobright.ai/jobs/info/68a21bbb83d13d1f5b6d57bf?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Aug 17 |
@@ -100,11 +102,13 @@ For a complete list, click the following sortable link below:
 | **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship - Research & Development (BS/MS)](https://jobright.ai/jobs/info/687ed5882097a271a8998327?utm_campaign=1048&utm_source=git)** | Midland, MI | On Site | Aug 16 |
 | **[MediaTek](http://www.mediatek.com)** | **[2025 Intern-RF/Analog/Mixed-Signal and Wireless Communication](https://jobright.ai/jobs/info/68a11504faa4e875e8292042?utm_campaign=1048&utm_source=git)** | West Lafayette, IN | On Site | Aug 16 |
 | **[Virginia Tech Bradley Department of Electrical & Computer Engineering](https://ece.vt.edu/)** | **[Postdoc and students](https://jobright.ai/jobs/info/68a1034dfaa4e875e8291f57?utm_campaign=1048&utm_source=git)** | Blacksburg, VA | On Site | Aug 16 |
+| **[Skanska](http://skanska.com)** | **[Heavy Civil Infrastructure Co-Op 2025](https://jobright.ai/jobs/info/6883a59cb54cac0f1e7389b1?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | Aug 16 |
 | **[Monte Sano Research Corporation](http://msrc.com/)** | **[1128 - Engineering Analysis Intern](https://jobright.ai/jobs/info/68a0f166cc9ee94dc9120cd8?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | Aug 16 |
 | **[Wawona Frozen Foods](https://www.wawona.com)** | **[R&D Intern](https://jobright.ai/jobs/info/68a0f157faa4e875e8291e8e?utm_campaign=1048&utm_source=git)** | Clovis, CA | On Site | Aug 16 |
 | **[Oklahoma Medical Research Foundation](http://www.omrf.org)** | **[Postdoctoral Scientist - James Lab](https://jobright.ai/jobs/info/68a14c85faa4e875e8292f5d?utm_campaign=1048&utm_source=git)** | Oklahoma City, OK | On Site | Aug 16 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Project SURE STEM Scholar - SPC - req9193](https://jobright.ai/jobs/info/68a0ec3c83d13d1f5b6d1e16?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Aug 16 |
 | **[WSP](https://www.wsp.com/en-om/services/mine-infrastructure)** | **[Geotechnical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68a0eb4a83d13d1f5b6d1e07?utm_campaign=1048&utm_source=git)** | 1400 West Benson Boulevard, Anchorage, AK, 99503, US | On Site | Aug 16 |
+| **[TOPPAN Packaging Americas](https://packaging.toppan.com/)** | **[Intern – GPS - Continuous Improvement](https://jobright.ai/jobs/info/6887e5a873e3e13cbd940f5a?utm_campaign=1048&utm_source=git)** | Hickory, NC | On Site | Aug 16 |
 | **[Oklahoma Medical Research Foundation](http://www.omrf.org)** | **[Postdoctoral Scientist - Coon Lab](https://jobright.ai/jobs/info/68a14b0183d13d1f5b6d2c41?utm_campaign=1048&utm_source=git)** | Oklahoma City, OK | On Site | Aug 16 |
 | **[ProSidian Consulting](https://prosidian.com/)** | **[Data Entry Intern / Data Management [COC0014211]](https://jobright.ai/jobs/info/68a0d9affaa4e875e8291c48?utm_campaign=1048&utm_source=git)** | 606 East 4th Street, Charlotte, NC, United States | On Site | Aug 16 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: AI Placement in India](https://jobright.ai/jobs/info/68125ac8a6e41049a106c5c3?utm_campaign=1048&utm_source=git)** | Princeton, NJ | On Site | Aug 16 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Siemens](https://www.siemens.com/)** | **[Smart Building Specialist Internship](https://jobright.ai/jobs/info/68a09e2bfaa4e875e8290f2e?utm_campaign=1048&utm_source=git)** | Norcross, GA | On Site | Aug 16 |
 | **[ABB](https://global.abb/group/en)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/68983e1083d13d1f5b68ca44?utm_campaign=1048&utm_source=git)** | Location, WV | On Site | Aug 16 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Grid Solutions Supply Chain Manufacturing Internship - Summer 2026](https://jobright.ai/jobs/info/68a07a97cc9ee94dc911f51b?utm_campaign=1048&utm_source=git)** | Charleroi, PA | On Site | Aug 16 |
-| **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Engineering Intern (Summer 2026) - Winsted, CT](https://jobright.ai/jobs/info/68839e526fcd973d15ae1f21?utm_campaign=1048&utm_source=git)** | Winsted, CT | On Site | Aug 16 |
-| **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Wind Supply Chain Manufacturing Internship - Summer 2026](https://jobright.ai/jobs/info/68a079e183d13d1f5b6d06bb?utm_campaign=1048&utm_source=git)** | Schenectady, NY | On Site | Aug 16 |
-| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Aquarist Intern $19.00/HR](https://jobright.ai/jobs/info/68138746c846c4e5c350a93c?utm_campaign=1048&utm_source=git)** | Vallejo, CA | On Site | Aug 16 |
-| **[ABB](https://global.abb/group/en)** | **[Internship - R&D Test Engineer](https://jobright.ai/jobs/info/688dc2d6cdbd821a3663f2a7?utm_campaign=1048&utm_source=git)** | Location, WV | On Site | Aug 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
