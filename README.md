@@ -57,19 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[InnoMountain](https://www.innomountain-inc.com/)** | **[Hardware System Intern, Wireless Development](https://jobright.ai/jobs/info/68a26f4bcc9ee94dc9124d5f?utm_campaign=1048&utm_source=git)** | United States | Remote | Aug 17 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Event Technology Internship, Audio Visual – Chicago – Fall 2025 at Encore](https://jobright.ai/jobs/info/68a267abfaa4e875e8295f3c?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Aug 17 |
+| **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship - Research & Development (BS/MS)](https://jobright.ai/jobs/info/687f000a2097a271a8999856?utm_campaign=1048&utm_source=git)** | Carrollton, KY | On Site | Aug 17 |
 | **[Omni Design Technologies, Inc.](http://www.omnidesigntech.com/)** | **[IC Characterization/Test Engineer Intern](https://jobright.ai/jobs/info/68a2526083d13d1f5b6d5ba5?utm_campaign=1048&utm_source=git)** | Milpitas, CA | On Site | Aug 17 |
 | **[Texas A&M AgriLife Research](https://agriliferesearch.tamu.edu/)** | **[Postdoctoral Research Associate](https://jobright.ai/jobs/info/68a24d4983d13d1f5b6d5b5f?utm_campaign=1048&utm_source=git)** | Weslaco, TX | On Site | Aug 17 |
 | **[Deca Defense](https://www.decadefense.com/)** | **[Robotics & AI Internship / Autonomy \ US Citizen](https://jobright.ai/jobs/info/68a2380c83d13d1f5b6d59e8?utm_campaign=1048&utm_source=git)** | United States | Remote | Aug 17 |
 | **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[IC Layout Design Co-op (Winter/Spring 2026)](https://jobright.ai/jobs/info/68a232ce83d13d1f5b6d599e?utm_campaign=1048&utm_source=git)** | Cedar Rapids, IA | On Site | Aug 17 |
 | ↳ | **[Analog IC Design Co-Op (Winter/Spring 2026)](https://jobright.ai/jobs/info/68a232c983d13d1f5b6d598c?utm_campaign=1048&utm_source=git)** | Cedar Rapids, IA | On Site | Aug 17 |
-| ↳ | **[RF Module Design Co-op (Winter/Spring 2026)](https://jobright.ai/jobs/info/68a232aacc9ee94dc91247c0?utm_campaign=1048&utm_source=git)** | Cedar Rapids, IA | On Site | Aug 17 |
 | ↳ | **[RF SW IC Design Co-op (Summer/Fall 2026)](https://jobright.ai/jobs/info/68a232aacc9ee94dc91247bf?utm_campaign=1048&utm_source=git)** | Cedar Rapids, IA | On Site | Aug 17 |
+| ↳ | **[RF Module Design Co-op (Winter/Spring 2026)](https://jobright.ai/jobs/info/68a232aacc9ee94dc91247c0?utm_campaign=1048&utm_source=git)** | Cedar Rapids, IA | On Site | Aug 17 |
 | ↳ | **[RF Module Design Co-op (Summer/Fall 2026)](https://jobright.ai/jobs/info/68a2329ecc9ee94dc91247ab?utm_campaign=1048&utm_source=git)** | Cedar Rapids, IA | On Site | Aug 17 |
 | ↳ | **[Analog IC Design Co-Op (Summer/Fall 2026)](https://jobright.ai/jobs/info/68a23265faa4e875e8295a2c?utm_campaign=1048&utm_source=git)** | Cedar Rapids, IA | On Site | Aug 17 |
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Engineering Intern](https://jobright.ai/jobs/info/68a21bbb83d13d1f5b6d57bf?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Aug 17 |
-| **[PhDFinder](https://phdfinder.com)** | **[[Expired] Postdoctoral Research Opportunity in Multiuser Massive MIMO Systems at Trinity College Dublin](https://jobright.ai/jobs/info/68a21b14cc9ee94dc91245d5?utm_campaign=1048&utm_source=git)** | Max, ND | On Site | Aug 17 |
-| **[City of Philadelphia](http://www.phila.gov/)** | **[Engineering Intern](https://jobright.ai/jobs/info/68a21b0ecc9ee94dc91245c6?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Aug 17 |
+| ↳ | **[Engineering Intern](https://jobright.ai/jobs/info/68a21b0ecc9ee94dc91245c6?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Aug 17 |
 | **[Drexel University](http://drexel.edu)** | **[Post-Doctoral Research Fellow](https://jobright.ai/jobs/info/68a2110683d13d1f5b6d5747?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | Hybrid | Aug 17 |
 | **[Swietelsky AG](https://www.swietelsky.at)** | **[Werkstudent/in - Kalkulation und Angebotsbearbeitung](https://jobright.ai/jobs/info/68a20e45cc9ee94dc9124515?utm_campaign=1048&utm_source=git)** | United States | Remote | Aug 17 |
 | **[Heico Holding Inc](http://www.heicocompanies.com/)** | **[Concrete Construction Internship/Trainee](https://jobright.ai/jobs/info/68a20348faa4e875e82956df?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | On Site | Aug 17 |
@@ -87,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern, Big Data (Data Platform) - 2025 Summer/Fall (MS)](https://jobright.ai/jobs/info/688f01a4cdbd821a36644644?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Aug 17 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Center for the Industrial Base (Fall 2025)](https://jobright.ai/jobs/info/68a1b245faa4e875e8294ef6?utm_campaign=1048&utm_source=git)** | Washington, DC | On Site | Aug 17 |
 | **[3D Systems Corporation](http://www.3dsystems.com)** | **[Electro Mechanical Engineer Intern](https://jobright.ai/jobs/info/684c7f97d0f10c7215f25539?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Aug 17 |
-| **[Peter Basso Associates](http://www.peterbassoassociates.com/)** | **[Electrical Co-Op Fall 2025](https://jobright.ai/jobs/info/68a1af03cc9ee94dc9123c49?utm_campaign=1048&utm_source=git)** | Troy, MI | On Site | Aug 17 |
 | **[CareerVillage.org](https://careervillage.org/)** | **[Volunteer: Mechanical Engineer](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36b9?utm_campaign=1048&utm_source=git)** | United States | Remote | Aug 17 |
 | **[Strattec Security Corporation](http://www.strattec.com/)** | **[Engineering Co-op (Michigan)](https://jobright.ai/jobs/info/68971fdd73b3a600fe8929fe?utm_campaign=1048&utm_source=git)** | Auburn Hills, MI | On Site | Aug 17 |
 | **[Clyde Companies, Inc.](https://www.clydeinc.com/)** | **[Construction Materials Intern - Boise](https://jobright.ai/jobs/info/68a1a83183d13d1f5b6d4df7?utm_campaign=1048&utm_source=git)** | Boise, ID | On Site | Aug 17 |
@@ -152,9 +152,9 @@ For a complete list, click the following sortable link below:
 | **[ABB](https://global.abb/group/en)** | **[Environment, Health and Safety Intern](https://jobright.ai/jobs/info/68984bcdfaa4e875e824d51a?utm_campaign=1048&utm_source=git)** | Location, WV | On Site | Aug 16 |
 | **[The Huntington](http://www.huntington.org/)** | **[Cactus and Succulent Society of America Desert Collections Intern](https://jobright.ai/jobs/info/68a084b8cc9ee94dc911f779?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Aug 16 |
 | **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[HVAC Service Technician Intern](https://jobright.ai/jobs/info/68a0811083d13d1f5b6d0971?utm_campaign=1048&utm_source=git)** | Macon, GA | On Site | Aug 16 |
+| **[ABB](https://global.abb/group/en)** | **[Production Engineering Intern](https://jobright.ai/jobs/info/68983b3f5574fd6bc0c7617a?utm_campaign=1048&utm_source=git)** | Location, WV | On Site | Aug 16 |
 | **[Terracon](https://www.terracon.com/about/foundation/)** | **[Intern](https://jobright.ai/jobs/info/68a09e7dcc9ee94dc911fd0f?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Aug 16 |
 | **[Zipline](http://flyzipline.com)** | **[System Validation & Automation Intern (Fall 2025)](https://jobright.ai/jobs/info/6875e269ae2f413e4a5aacc2?utm_campaign=1048&utm_source=git)** | South San Francisco, CA | On Site | Aug 16 |
 | **[Siemens](https://www.siemens.com/)** | **[Smart Building Specialist Internship](https://jobright.ai/jobs/info/68a09e2bfaa4e875e8290f2e?utm_campaign=1048&utm_source=git)** | Norcross, GA | On Site | Aug 16 |
 | **[ABB](https://global.abb/group/en)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/68983e1083d13d1f5b68ca44?utm_campaign=1048&utm_source=git)** | Location, WV | On Site | Aug 16 |
-| **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Grid Solutions Supply Chain Manufacturing Internship - Summer 2026](https://jobright.ai/jobs/info/68a07a97cc9ee94dc911f51b?utm_campaign=1048&utm_source=git)** | Charleroi, PA | On Site | Aug 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
