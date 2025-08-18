@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Applied Materials Europe](https://www.appliedmaterials.com/en-eu/company/about/europe-overview)** | **[2026 Spring Electrical Engineer Co-op BS or MS (Gloucester, MA)](https://jobright.ai/jobs/info/68a3033f37d3cc6b0d57435e?utm_campaign=1048&utm_source=git)** | Gloucester,MA | On Site | Aug 18 |
+| **[Big Bend Community College](http://www.bigbend.edu/)** | **[Flight Intern](https://jobright.ai/jobs/info/68a2fd361ab5f8579e8a2f7e?utm_campaign=1048&utm_source=git)** | Moses Lake, WA | On Site | Aug 18 |
+| **[Alabama Community College System](https://www.accs.edu)** | **[Maintenance Worker I (INTERNAL POSTING)](https://jobright.ai/jobs/info/68a2fc821ab5f8579e8a2d4f?utm_campaign=1048&utm_source=git)** | Dothan, AL | On Site | Aug 18 |
+| **[TikTok](https://www.tiktok.com)** | **[Machine Learning Engineer Intern (E-commerce Governance Algorithms) - 2025 Summer/Fall (PhD)](https://jobright.ai/jobs/info/6875eac25cebcd1dd51c4840?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Aug 18 |
 | **[Tulane University School of Medicine](https://medicine.tulane.edu)** | **[Postdoctoral Scholar - Computational Materials Science  >>>](https://jobright.ai/jobs/info/68a2e9bbff570d7ffd65e5ea?utm_campaign=1048&utm_source=git)** | New Orleans, LA | On Site | Aug 18 |
 | **[City of Scottsdale](http://www.scottsdaleaz.gov/)** | **[Traffic Engineering Intern Year-round, Part-time](https://jobright.ai/jobs/info/68a2e343ff570d7ffd65e580?utm_campaign=1048&utm_source=git)** | Scottsdale, AZ | On Site | Aug 18 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Forestry Intern: assist the Division with project management, capacity development activities and event organization
@@ -99,29 +103,28 @@ Job ID : 262075](https://jobright.ai/jobs/info/68a2e31d468ac21d6fabb4d0?utm_camp
 | **[Unison](https://www.unisonindustries.com/)** | **[Unison Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/68a2c43f468ac21d6fabaaad?utm_campaign=1048&utm_source=git)** | Jacksonville, FL | On Site | Aug 17 |
 | **[GE Aerospace](https://www.geaerospace.com)** | **[Electrical/Computer Engineering Intern in Electrical Power – Summer 2026](https://jobright.ai/jobs/info/68a2c429468ac21d6fabaaa2?utm_campaign=1048&utm_source=git)** | Dayton, OH | On Site | Aug 17 |
 | **[PhDFinder](https://phdfinder.com)** | **[[Expired] Postdoctoral Opportunity in Climate and Science Communication Research](https://jobright.ai/jobs/info/68a2c1b9ff570d7ffd65dab0?utm_campaign=1048&utm_source=git)** | Colorado Springs Area | On Site | Aug 17 |
-| ↳ | **[[Expired] Two Postdoctoral Positions in Biofabrication at the MERLN Institute, Maastricht University](https://jobright.ai/jobs/info/68a2c17f468ac21d6fabaa87?utm_campaign=1048&utm_source=git)** | Colorado Springs Area | Hybrid | Aug 17 |
 | **[Esurgi, Inc.](https://myesurgi.com/)** | **[Hardware Engineer Intern (Baltimore, MD Only)](https://jobright.ai/jobs/info/68a2c148ff570d7ffd65d956?utm_campaign=1048&utm_source=git)** | Timonium, MD | Hybrid | Aug 17 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Service Technician Trainee (Fall 2025)](https://jobright.ai/jobs/info/68a2beaada4b7a7e730737c9?utm_campaign=1048&utm_source=git)** | Fife, WA | On Site | Aug 17 |
-| **[GE Aerospace](https://www.geaerospace.com)** | **[Environmental/Health/Safety, Facilities, & Maintenance Intern – US – Summer 2026](https://jobright.ai/jobs/info/68a2ac69468ac21d6fab9ee1?utm_campaign=1048&utm_source=git)** | Dayton | On Site | Aug 17 |
+| **[GE Aerospace](https://www.geaerospace.com)** | **[Manufacturing Engineering Co-op – US – Fall 2026](https://jobright.ai/jobs/info/68a2ac69468ac21d6fab9eeb?utm_campaign=1048&utm_source=git)** | Evendale | On Site | Aug 17 |
+| ↳ | **[Environmental/Health/Safety, Facilities, & Maintenance Intern – US – Summer 2026](https://jobright.ai/jobs/info/68a2ac69468ac21d6fab9ee1?utm_campaign=1048&utm_source=git)** | Dayton | On Site | Aug 17 |
 | ↳ | **[Environmental/Health/Safety, Facilities, & Maintenance Intern – US – Summer 2026](https://jobright.ai/jobs/info/68a2ac69468ac21d6fab9ee6?utm_campaign=1048&utm_source=git)** | Evendale | On Site | Aug 17 |
 | ↳ | **[Environmental/Health/Safety, Facilities, & Maintenance Intern – US – Summer 2026](https://jobright.ai/jobs/info/68a2ac69468ac21d6fab9ee3?utm_campaign=1048&utm_source=git)** | Lafayette IN USA | On Site | Aug 17 |
 | ↳ | **[Manufacturing Engineering Co-op – US – Fall 2026](https://jobright.ai/jobs/info/68a2ac69468ac21d6fab9ee7?utm_campaign=1048&utm_source=git)** | Lafayette IN USA | On Site | Aug 17 |
 | ↳ | **[Manufacturing Engineering Co-op – US – Fall 2026](https://jobright.ai/jobs/info/68a2ac69468ac21d6fab9ee2?utm_campaign=1048&utm_source=git)** | Wilmington NC USA | On Site | Aug 17 |
-| ↳ | **[Manufacturing Engineering Co-op – US – Fall 2026](https://jobright.ai/jobs/info/68a2ac69468ac21d6fab9eeb?utm_campaign=1048&utm_source=git)** | Evendale | On Site | Aug 17 |
 | ↳ | **[Mechanical/Aerospace Engineering Co-op in Avionics – Fall 2026](https://jobright.ai/jobs/info/68a2ac67468ac21d6fab9edc?utm_campaign=1048&utm_source=git)** | Grand Rapids | On Site | Aug 17 |
 | ↳ | **[Manufacturing Engineering Co-op – US – Fall 2026](https://jobright.ai/jobs/info/68a2ac61468ac21d6fab9ed1?utm_campaign=1048&utm_source=git)** | Greenville | On Site | Aug 17 |
 | ↳ | **[Environmental/Health/Safety, Facilities, & Maintenance Intern – US – Summer 2026](https://jobright.ai/jobs/info/68a2ac61468ac21d6fab9ec6?utm_campaign=1048&utm_source=git)** | Greenville | On Site | Aug 17 |
-| ↳ | **[Manufacturing Engineering Intern – US – Summer 2026](https://jobright.ai/jobs/info/68a2ac61468ac21d6fab9ecf?utm_campaign=1048&utm_source=git)** | Hooksett | On Site | Aug 17 |
 | ↳ | **[Supply Chain Operations Intern – US – Summer 2026](https://jobright.ai/jobs/info/68a2ac61468ac21d6fab9ec8?utm_campaign=1048&utm_source=git)** | Arkansas City | On Site | Aug 17 |
+| ↳ | **[Manufacturing Engineering Intern – US – Summer 2026](https://jobright.ai/jobs/info/68a2ac61468ac21d6fab9ecf?utm_campaign=1048&utm_source=git)** | Hooksett | On Site | Aug 17 |
 | ↳ | **[Manufacturing Engineering Co-op – US – Fall 2026](https://jobright.ai/jobs/info/68a2ac5f468ac21d6fab9ebd?utm_campaign=1048&utm_source=git)** | Dayton | On Site | Aug 17 |
 | ↳ | **[Mechanical/Aerospace Engineering Co-op in Avionics – Spring 2026](https://jobright.ai/jobs/info/68a2ac5a468ac21d6fab9eb7?utm_campaign=1048&utm_source=git)** | Grand Rapids | On Site | Aug 17 |
 | ↳ | **[Manufacturing Engineering Intern – US – Summer 2026](https://jobright.ai/jobs/info/68a2ac54468ac21d6fab9ea6?utm_campaign=1048&utm_source=git)** | Madisonville | On Site | Aug 17 |
-| ↳ | **[Environmental/Health/Safety, Facilities, & Maintenance Intern – US – Summer 2026](https://jobright.ai/jobs/info/68a2ac54468ac21d6fab9ea5?utm_campaign=1048&utm_source=git)** | Jacksonville | On Site | Aug 17 |
+| ↳ | **[Manufacturing Engineering Intern – US – Summer 2026](https://jobright.ai/jobs/info/68a2ac54468ac21d6fab9e9e?utm_campaign=1048&utm_source=git)** | Auburn AL USA | On Site | Aug 17 |
 | ↳ | **[Manufacturing Engineering Intern – US – Summer 2026](https://jobright.ai/jobs/info/68a2ac54468ac21d6fab9e9f?utm_campaign=1048&utm_source=git)** | Lynn | On Site | Aug 17 |
 | ↳ | **[Environmental/Health/Safety, Facilities, & Maintenance Intern – US – Summer 2026](https://jobright.ai/jobs/info/68a2ac54468ac21d6fab9e9d?utm_campaign=1048&utm_source=git)** | Erlanger | On Site | Aug 17 |
-| ↳ | **[Electrical/Computer Engineering Co-op in Avionics - Fall 2026](https://jobright.ai/jobs/info/68a2ac54468ac21d6fab9e9b?utm_campaign=1048&utm_source=git)** | Clearwater | On Site | Aug 17 |
+| ↳ | **[Environmental/Health/Safety, Facilities, & Maintenance Intern – US – Summer 2026](https://jobright.ai/jobs/info/68a2ac54468ac21d6fab9ea5?utm_campaign=1048&utm_source=git)** | Jacksonville | On Site | Aug 17 |
 | ↳ | **[Manufacturing Engineering Co-op – US – Fall 2026](https://jobright.ai/jobs/info/68a2ac54468ac21d6fab9ea0?utm_campaign=1048&utm_source=git)** | Jacksonville | On Site | Aug 17 |
-| ↳ | **[Manufacturing Engineering Intern – US – Summer 2026](https://jobright.ai/jobs/info/68a2ac54468ac21d6fab9e9e?utm_campaign=1048&utm_source=git)** | Auburn AL USA | On Site | Aug 17 |
+| ↳ | **[Electrical/Computer Engineering Co-op in Avionics - Fall 2026](https://jobright.ai/jobs/info/68a2ac54468ac21d6fab9e9b?utm_campaign=1048&utm_source=git)** | Clearwater | On Site | Aug 17 |
 | ↳ | **[Supply Chain Operations Intern – US – Summer 2026](https://jobright.ai/jobs/info/68a2ac4e468ac21d6fab9e87?utm_campaign=1048&utm_source=git)** | Terre Haute | On Site | Aug 17 |
 | ↳ | **[Manufacturing Engineering Co-op – US – Fall 2026](https://jobright.ai/jobs/info/68a2ac4e468ac21d6fab9e8d?utm_campaign=1048&utm_source=git)** | Erlanger | On Site | Aug 17 |
 | ↳ | **[Welding Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68a2ac4e468ac21d6fab9e83?utm_campaign=1048&utm_source=git)** | Terre Haute | On Site | Aug 17 |
@@ -139,9 +142,9 @@ Job ID : 262075](https://jobright.ai/jobs/info/68a2e31d468ac21d6fabb4d0?utm_camp
 | ↳ | **[Manufacturing Engineering Co-op – US – Fall 2026](https://jobright.ai/jobs/info/68a2ac39ff570d7ffd65cf64?utm_campaign=1048&utm_source=git)** | Clearwater | On Site | Aug 17 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WDW Analytical & Strategic Planning Intern Spring 2026](https://jobright.ai/jobs/info/68a2ac38ff570d7ffd65cf5d?utm_campaign=1048&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Aug 17 |
 | **[GE Aerospace](https://www.geaerospace.com)** | **[Supply Chain Operations Intern – US – Summer 2026](https://jobright.ai/jobs/info/68a2ac32ff570d7ffd65cf45?utm_campaign=1048&utm_source=git)** | Madisonville | On Site | Aug 17 |
-| ↳ | **[Manufacturing Engineering Intern – US – Summer 2026](https://jobright.ai/jobs/info/68a2ac32ff570d7ffd65cf4a?utm_campaign=1048&utm_source=git)** | Erlanger | On Site | Aug 17 |
-| ↳ | **[Welding Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68a2ac32ff570d7ffd65cf4c?utm_campaign=1048&utm_source=git)** | Hooksett | On Site | Aug 17 |
 | ↳ | **[Manufacturing Engineering Co-op – US – Fall 2026](https://jobright.ai/jobs/info/68a2ac32ff570d7ffd65cf4b?utm_campaign=1048&utm_source=git)** | Asheville | On Site | Aug 17 |
+| ↳ | **[Welding Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68a2ac32ff570d7ffd65cf4c?utm_campaign=1048&utm_source=git)** | Hooksett | On Site | Aug 17 |
+| ↳ | **[Manufacturing Engineering Intern – US – Summer 2026](https://jobright.ai/jobs/info/68a2ac32ff570d7ffd65cf4a?utm_campaign=1048&utm_source=git)** | Erlanger | On Site | Aug 17 |
 | ↳ | **[Manufacturing Engineering Intern – US – Summer 2026](https://jobright.ai/jobs/info/68a2ac31ff570d7ffd65cf44?utm_campaign=1048&utm_source=git)** | Jacksonville | On Site | Aug 17 |
 | ↳ | **[Manufacturing Engineering Co-op – US – Fall 2026](https://jobright.ai/jobs/info/68a2ac31ff570d7ffd65cf40?utm_campaign=1048&utm_source=git)** | Terre Haute | On Site | Aug 17 |
 | ↳ | **[Environmental/Health/Safety, Facilities, & Maintenance Intern – US – Summer 2026](https://jobright.ai/jobs/info/68a2ac31ff570d7ffd65cf43?utm_campaign=1048&utm_source=git)** | Terre Haute | On Site | Aug 17 |
@@ -152,10 +155,7 @@ Job ID : 262075](https://jobright.ai/jobs/info/68a2e31d468ac21d6fabb4d0?utm_camp
 | **[GE Aerospace](https://www.geaerospace.com)** | **[Welding Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68a2ac2cda4b7a7e73072dc5?utm_campaign=1048&utm_source=git)** | Lynn | On Site | Aug 17 |
 | ↳ | **[Electrical/Computer Engineering Co-op in Avionics - Fall 2026](https://jobright.ai/jobs/info/68a2ac2bda4b7a7e73072dc3?utm_campaign=1048&utm_source=git)** | Grand Rapids | On Site | Aug 17 |
 | ↳ | **[Electrical/Computer Engineering Intern in Avionics - Summer 2026](https://jobright.ai/jobs/info/68a2ac28da4b7a7e73072dbb?utm_campaign=1048&utm_source=git)** | Clearwater | On Site | Aug 17 |
-| ↳ | **[Environmental/Health/Safety, Facilities, & Maintenance Intern – US – Summer 2026](https://jobright.ai/jobs/info/68a2ac27ff570d7ffd65cf23?utm_campaign=1048&utm_source=git)** | Sterling VA USA | On Site | Aug 17 |
+| ↳ | **[Manufacturing Engineering Intern – US – Summer 2026](https://jobright.ai/jobs/info/68a2ac27ff570d7ffd65cf28?utm_campaign=1048&utm_source=git)** | Dayton | On Site | Aug 17 |
 | ↳ | **[Manufacturing Engineering Co-op – US – Fall 2026](https://jobright.ai/jobs/info/68a2ac27ff570d7ffd65cf1f?utm_campaign=1048&utm_source=git)** | Sterling VA USA | On Site | Aug 17 |
 | ↳ | **[Supply Chain Operations Intern – US – Summer 2026](https://jobright.ai/jobs/info/68a2ac27ff570d7ffd65cf22?utm_campaign=1048&utm_source=git)** | McAllen | On Site | Aug 17 |
-| ↳ | **[Manufacturing Engineering Intern – US – Summer 2026](https://jobright.ai/jobs/info/68a2ac27ff570d7ffd65cf28?utm_campaign=1048&utm_source=git)** | Dayton | On Site | Aug 17 |
-| ↳ | **[Electrical/Computer Engineering Co-op in Avionics - Spring 2026](https://jobright.ai/jobs/info/68a2ac27ff570d7ffd65cf21?utm_campaign=1048&utm_source=git)** | Grand Rapids | On Site | Aug 17 |
-| ↳ | **[Environmental/Health/Safety, Facilities, & Maintenance Intern – US – Summer 2026](https://jobright.ai/jobs/info/68a2ac23da4b7a7e73072da9?utm_campaign=1048&utm_source=git)** | Lynn | On Site | Aug 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
