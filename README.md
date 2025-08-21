@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenBio AI](https://genbio.ai/)** | **[Research Scientist Intern](https://jobright.ai/jobs/info/68a6a5d433dd7158bbca172a?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | Hybrid | Aug 20 |
+| ↳ | **[Research Engineer Intern](https://jobright.ai/jobs/info/68a6a55033dd7158bbca16ae?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | Hybrid | Aug 20 |
 | **[Consolidated Precision Products Corp](http://www.cppcorp.com)** | **[Engineering Co-Op - FALL 2025](https://jobright.ai/jobs/info/68a69c61758f2e4ac3fe6010?utm_campaign=1048&utm_source=git)** | Willoughby, OH | On Site | Aug 20 |
 | ↳ | **[Engineering Co-Op - FALL 2025](https://jobright.ai/jobs/info/68a69c09758f2e4ac3fe5fd8?utm_campaign=1048&utm_source=git)** | Wickliffe, OH | On Site | Aug 20 |
 | **[empirical Foods](https://empiricalfoods.com/)** | **[Safety Intern - Summer 2026](https://jobright.ai/jobs/info/68a6996333dd7158bbca0fc7?utm_campaign=1048&utm_source=git)** | South Sioux City, NE | On Site | Aug 20 |
@@ -93,6 +95,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Civil Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68a66eef758f2e4ac3fe4e0c?utm_campaign=1048&utm_source=git)** | Cary | On Site | Aug 20 |
 | ↳ | **[Civil Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68a66ec333dd7158bbc9ffc5?utm_campaign=1048&utm_source=git)** | Baton Rouge | On Site | Aug 20 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[Research Student- Research Design & Analysis](https://jobright.ai/jobs/info/68a66ebc33dd7158bbc9ffb9?utm_campaign=1048&utm_source=git)** | Detroit, Michigan | On Site | Aug 20 |
+| **[Pony.ai](https://www.pony.ai)** | **[Research Intern (Deep Learning), 2025 Fall/Winter (Master/PhD)](https://jobright.ai/jobs/info/6848cfbea62b2289b50a043e?utm_campaign=1048&utm_source=git)** | Fremont, CA | On Site | Aug 20 |
 | **[AECOM](http://www.aecom.com/)** | **[Civil Engineering Intern - Transportation](https://jobright.ai/jobs/info/68a66d61b6a3617d7fa77711?utm_campaign=1048&utm_source=git)** | Minneapolis, MN | On Site | Aug 20 |
 | **[Wade Trim](http://wadetrim.com)** | **[Engineer Summer Intern - #2790](https://jobright.ai/jobs/info/68a66d56b6a3617d7fa77706?utm_campaign=1048&utm_source=git)** | Michigan, United States | On Site | Aug 20 |
 | **[TRIUMPH](http://www.triumphgroup.com)** | **[Intern, Engineering Direct](https://jobright.ai/jobs/info/68a66d13758f2e4ac3fe4cdc?utm_campaign=1048&utm_source=git)** | Redmond, WA | On Site | Aug 20 |
@@ -152,9 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Dana-Farber Cancer Institute](http://www.dana-farber.org)** | **[Postdoctoral Research Fellow - Freeman Lab](https://jobright.ai/jobs/info/68a65768b6a3617d7fa76fa2?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | Aug 20 |
 | **[Schneider Electric](https://www.se.com)** | **[DevOps Engineer Co-Op (January 2026)](https://jobright.ai/jobs/info/68a656bdb6a3617d7fa76f3d?utm_campaign=1048&utm_source=git)** | Andover, MA | On Site | Aug 20 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Traffic Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68a656a7b6a3617d7fa76f33?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Aug 20 |
-| **[We Energies](https://www.we-energies.com)** | **[Power Generation Mechanical Engineering Intern](https://jobright.ai/jobs/info/68a5665733dd7158bbc99e3a?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | On Site | Aug 20 |
 | **[Braun Intertec Corporation](http://braunintertec.com)** | **[2026 Civil Engineering & Construction Materials Testing 6-month Co-op (Minot)](https://jobright.ai/jobs/info/68a6542c758f2e4ac3fe4488?utm_campaign=1048&utm_source=git)** | Minot, ND | On Site | Aug 20 |
 | ↳ | **[2026 Civil Engineering & Construction Materials Testing 6-month Co-op (Bloomington/White Bear Lake)](https://jobright.ai/jobs/info/68a653cb758f2e4ac3fe4433?utm_campaign=1048&utm_source=git)** | Bloomington, MN | On Site | Aug 20 |
-| **[Dominion Energy](http://www.dominionenergy.com/)** | **[Intern-Engineer](https://jobright.ai/jobs/info/68a653b433dd7158bbc9f6b9?utm_campaign=1048&utm_source=git)** | Cayce, SC | On Site | Aug 20 |
-| **[Raytheon](http://www.bbn.com)** | **[Fall 2025 Intern/Co-Op - Raytheon Technical Writer](https://jobright.ai/jobs/info/68a65372b6a3617d7fa76e9d?utm_campaign=1048&utm_source=git)** | Andover, MA | Hybrid | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
