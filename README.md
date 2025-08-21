@@ -57,6 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stantec](http://www.stantec.com)** | **[Bridge Design Intern - Transportation (Spring/Summer 2026)](https://jobright.ai/jobs/info/68a6ce67758f2e4ac3fe8395?utm_campaign=1048&utm_source=git)** | Raleigh, NC | On Site | Aug 21 |
+| **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Applications Engineer](https://jobright.ai/jobs/info/68a6ce20758f2e4ac3fe8374?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Aug 21 |
+| **[HARMAN International](https://www.harman.com/)** | **[Intern - Acoustic Engineering](https://jobright.ai/jobs/info/68a6cd51758f2e4ac3fe832a?utm_campaign=1048&utm_source=git)** | Northridge - California, USA | Hybrid | Aug 21 |
+| **[Oatey Company](https://www.oatey.com//)** | **[Engineering Intern, Quality](https://jobright.ai/jobs/info/68a6cb9533dd7158bbca3487?utm_campaign=1048&utm_source=git)** | Cleveland, OH | On Site | Aug 21 |
+| **[City of Philadelphia](http://www.phila.gov/)** | **[Engineering Intern](https://jobright.ai/jobs/info/68a6c4f1b6a3617d7fa7a474?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Aug 21 |
+| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[2025 Internship - Vehicle Maintenance (Wilmington, NC)](https://jobright.ai/jobs/info/68a6c44cb6a3617d7fa7a3c1?utm_campaign=1048&utm_source=git)** | Castle Hayne, NC | On Site | Aug 21 |
+| **[City of Philadelphia](http://www.phila.gov/)** | **[Engineering Intern](https://jobright.ai/jobs/info/68a6c3c7b6a3617d7fa7a329?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Aug 20 |
+| **[Cirrus Logic](https://cirrus.com/)** | **[Summer Intern - Hardware Platform Development Engineer](https://jobright.ai/jobs/info/68a6c35d33dd7158bbca2a9e?utm_campaign=1048&utm_source=git)** | Austin, TX | Hybrid | Aug 20 |
+| ↳ | **[Summer Intern - Validation Engineer](https://jobright.ai/jobs/info/68a6c1e933dd7158bbca28fb?utm_campaign=1048&utm_source=git)** | Austin, TX | Hybrid | Aug 20 |
+| ↳ | **[Summer Intern - Product Test Engineer](https://jobright.ai/jobs/info/68a6c0e1b6a3617d7fa79ff6?utm_campaign=1048&utm_source=git)** | Austin, TX | Hybrid | Aug 20 |
+| ↳ | **[Spring Intern - Hardware Platform Development Engineer](https://jobright.ai/jobs/info/68a6bfd2758f2e4ac3fe775d?utm_campaign=1048&utm_source=git)** | Austin, TX | Hybrid | Aug 20 |
+| **[ETAP Software](http://etap.com/)** | **[Intern -Power Engineer](https://jobright.ai/jobs/info/68a6bd9633dd7158bbca26d6?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Aug 20 |
+| **[Summer Consultants, Inc.](https://www.summerconsultants.com/)** | **[Mechanical Intern - SUMMER 2026](https://jobright.ai/jobs/info/68a6b8c233dd7158bbca253b?utm_campaign=1048&utm_source=git)** | Newark, DE | On Site | Aug 20 |
+| ↳ | **[Electrical Intern - SUMMER 2026](https://jobright.ai/jobs/info/68a6b803b6a3617d7fa79c5d?utm_campaign=1048&utm_source=git)** | Newark, DE | On Site | Aug 20 |
+| **[Swietelsky AG](https://www.swietelsky.at)** | **[Werkstudent/in - Kalkulation und Angebotsbearbeitung](https://jobright.ai/jobs/info/68a6b3be758f2e4ac3fe6f6d?utm_campaign=1048&utm_source=git)** | United States | Remote | Aug 20 |
 | **[GenBio AI](https://genbio.ai/)** | **[Research Scientist Intern](https://jobright.ai/jobs/info/68a6a5d433dd7158bbca172a?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | Hybrid | Aug 20 |
 | ↳ | **[Research Engineer Intern](https://jobright.ai/jobs/info/68a6a55033dd7158bbca16ae?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | Hybrid | Aug 20 |
 | **[Consolidated Precision Products Corp](http://www.cppcorp.com)** | **[Engineering Co-Op - FALL 2025](https://jobright.ai/jobs/info/68a69c61758f2e4ac3fe6010?utm_campaign=1048&utm_source=git)** | Willoughby, OH | On Site | Aug 20 |
@@ -74,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[CRH](http://crh.com)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/68a682b2b6a3617d7fa77d47?utm_campaign=1048&utm_source=git)** | Richland, MS | On Site | Aug 20 |
 | **[Teledyne Technologies Incorporated](http://www.teledyne.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/68a67e5533dd7158bbca0418?utm_campaign=1048&utm_source=git)** | North Falmouth, MA | On Site | Aug 20 |
 | **[Formlabs](http://www.formlabs.com)** | **[Mechanical Engineering - Intern (Winter/Spring 2026)](https://jobright.ai/jobs/info/68a67e0ab6a3617d7fa77bc3?utm_campaign=1048&utm_source=git)** | Somerville, MA | On Site | Aug 20 |
-| **[GBA](http://gbateam.com)** | **[Electrical Engineering Internship](https://jobright.ai/jobs/info/68a67d7b33dd7158bbca0387?utm_campaign=1048&utm_source=git)** | Broomfield, CO | On Site | Aug 20 |
 | **[Research Innovations Incorporated](https://www.researchinnovations.com/)** | **[Vulnerability Research 2026 Summer Internship (Cyber 248)](https://jobright.ai/jobs/info/6893e4f6a9199876488e0dda?utm_campaign=1048&utm_source=git)** | St. Pete, FL | Hybrid | Aug 20 |
 | **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Aerospace Engineer I (For SNC Summer 2025 Interns Only)](https://jobright.ai/jobs/info/68a67b0fb6a3617d7fa77b57?utm_campaign=1048&utm_source=git)** | Lone Tree, CO | On Site | Aug 20 |
 | **[CAES](https://cobhamaes.com/)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/68a67ad7b6a3617d7fa77b26?utm_campaign=1048&utm_source=git)** | Lansdale, Pennsylvania | On Site | Aug 20 |
@@ -128,6 +142,9 @@ For a complete list, click the following sortable link below:
 | **[Nicholson Construction](http://nicholsonconstruction.com)** | **[Summer 2026: Engineering Intern - Eastern Division](https://jobright.ai/jobs/info/68a6661a33dd7158bbc9fbbe?utm_campaign=1048&utm_source=git)** | Canonsburg, PA | On Site | Aug 20 |
 | **[Ferrovial](http://www.ferrovial.com/en)** | **[Construction Intern](https://jobright.ai/jobs/info/68a665f833dd7158bbc9fb8d?utm_campaign=1048&utm_source=git)** | Fort Worth, TX | On Site | Aug 20 |
 | **[DN Tanks](http://dntanks.com)** | **[Construction Management Co-op](https://jobright.ai/jobs/info/689b586b83d13d1f5b69f940?utm_campaign=1048&utm_source=git)** | Wakefield, MA | On Site | Aug 20 |
+| **[Maymont Homes](https://rentconrex.com)** | **[Data Engineering Intern](https://jobright.ai/jobs/info/68a6c0c7758f2e4ac3fe7870?utm_campaign=1048&utm_source=git)** | Charleston, SC | On Site | Aug 20 |
+| **[Intel Corporation](http://www.intel.com)** | **[Ocotillo Technology Fabrication Process Engineering Graduate Intern](https://jobright.ai/jobs/info/68a6c3e533dd7158bbca2b4b?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | Aug 20 |
+| **[Augusta University](http://www.augusta.edu)** | **[Postdoctoral Fellow - Cellular Biology & Anatomy](https://jobright.ai/jobs/info/68a3ba6b1ab5f8579e8a7d50?utm_campaign=1048&utm_source=git)** | Augusta, GA | On Site | Aug 20 |
 | **[Johns Hopkins Hospital](https://www.hopkinsmedicine.org/the-johns-hopkins-hospital)** | **[Imaging Equipment Engineer Apprentice](https://jobright.ai/jobs/info/68a6637b758f2e4ac3fe4a24?utm_campaign=1048&utm_source=git)** | Baltimore, MD | On Site | Aug 20 |
 | **[Mount Sinai Health System](https://www.mountsinai.org)** | **[IT Security Trainee - Digital and Technology Partners - Hybrid/Onsite](https://jobright.ai/jobs/info/68a6633a758f2e4ac3fe49db?utm_campaign=1048&utm_source=git)** | New York, NY | Hybrid | Aug 20 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Summer 2026 Engineering Internship](https://jobright.ai/jobs/info/68a662f5b6a3617d7fa7731d?utm_campaign=1048&utm_source=git)** | Grove City, PA | On Site | Aug 20 |
@@ -140,21 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Lab Aide (work-study)](https://jobright.ai/jobs/info/68a65e91758f2e4ac3fe476b?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Aug 20 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Electrical Engineering (IC)](https://jobright.ai/jobs/info/68a65be1b6a3617d7fa770ef?utm_campaign=1048&utm_source=git)** | San Jose, California | On Site | Aug 20 |
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Civil Engineering Intern / Co-op - Summer 2026](https://jobright.ai/jobs/info/68a65b2c758f2e4ac3fe467a?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Aug 20 |
-| ↳ | **[Civil Engineering Interns / Co-ops - Summer 2026](https://jobright.ai/jobs/info/68a65b1233dd7158bbc9f8aa?utm_campaign=1048&utm_source=git)** | Warrington, PA | Hybrid | Aug 20 |
-| ↳ | **[Civil Engineer - Entry Level](https://jobright.ai/jobs/info/68a65ae9758f2e4ac3fe465b?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | Hybrid | Aug 20 |
-| **[Crowe](https://www.crowe.com/)** | **[Cybersecurity Intern](https://jobright.ai/jobs/info/68a65ab0b6a3617d7fa77033?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | Aug 20 |
-| **[Flowers Foods & Subsidiaries](https://flowersfoods.com/)** | **[Engineering Apprentice](https://jobright.ai/jobs/info/68a65a90b6a3617d7fa77012?utm_campaign=1048&utm_source=git)** | Tolleson, AZ | On Site | Aug 20 |
-| **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Winter 2026 Co-op – Manufacturing Engineering](https://jobright.ai/jobs/info/68a65a05b6a3617d7fa76fb4?utm_campaign=1048&utm_source=git)** | Frisco, TX | On Site | Aug 20 |
-| **[Hourigan](https://www.hourigan.group/)** | **[Construction Management Intern - Summer 2026](https://jobright.ai/jobs/info/68a68e8f758f2e4ac3fe5886?utm_campaign=1048&utm_source=git)** | Charlottesville, VA | On Site | Aug 20 |
-| ↳ | **[Construction Management Intern - Summer 2026](https://jobright.ai/jobs/info/68a68eadb6a3617d7fa781f8?utm_campaign=1048&utm_source=git)** | Virginia Beach, VA | On Site | Aug 20 |
-| **[Crowe](https://www.crowe.com/)** | **[Cybersecurity Intern](https://jobright.ai/jobs/info/68a65847758f2e4ac3fe463a?utm_campaign=1048&utm_source=git)** | Indianapolis, IN | On Site | Aug 20 |
-| **[City of Fort Myers](https://www.cityftmyers.com/)** | **[Technical Intern - Fleet](https://jobright.ai/jobs/info/68a68cca33dd7158bbca08d8?utm_campaign=1048&utm_source=git)** | Fort Myers, FL | On Site | Aug 20 |
-| **[Henry Ford Health](http://www.henryford.com/)** | **[Research Student- Research Design & Analysis](https://jobright.ai/jobs/info/68a68d2733dd7158bbca093c?utm_campaign=1048&utm_source=git)** | Detroit, MI | On Site | Aug 20 |
-| **[Amgen](http://www.amgen.com)** | **[Undergrad Co-op - Operations - North Carolina (January - May 2026)](https://jobright.ai/jobs/info/68a657bb758f2e4ac3fe45a7?utm_campaign=1048&utm_source=git)** | Holly Springs, NC | On Site | Aug 20 |
-| **[The Duracell Company](http://www.duracell.com)** | **[MFG - Machining Intern](https://jobright.ai/jobs/info/68a6578533dd7158bbc9f7d6?utm_campaign=1048&utm_source=git)** | Cleveland, TN | On Site | Aug 20 |
-| **[Dana-Farber Cancer Institute](http://www.dana-farber.org)** | **[Postdoctoral Research Fellow - Freeman Lab](https://jobright.ai/jobs/info/68a65768b6a3617d7fa76fa2?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | Aug 20 |
-| **[Schneider Electric](https://www.se.com)** | **[DevOps Engineer Co-Op (January 2026)](https://jobright.ai/jobs/info/68a656bdb6a3617d7fa76f3d?utm_campaign=1048&utm_source=git)** | Andover, MA | On Site | Aug 20 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Traffic Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68a656a7b6a3617d7fa76f33?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Aug 20 |
-| **[Braun Intertec Corporation](http://braunintertec.com)** | **[2026 Civil Engineering & Construction Materials Testing 6-month Co-op (Minot)](https://jobright.ai/jobs/info/68a6542c758f2e4ac3fe4488?utm_campaign=1048&utm_source=git)** | Minot, ND | On Site | Aug 20 |
-| ↳ | **[2026 Civil Engineering & Construction Materials Testing 6-month Co-op (Bloomington/White Bear Lake)](https://jobright.ai/jobs/info/68a653cb758f2e4ac3fe4433?utm_campaign=1048&utm_source=git)** | Bloomington, MN | On Site | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
