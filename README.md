@@ -57,16 +57,27 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Winter 2026 Co-op - Cost Engineering](https://jobright.ai/jobs/info/68a7ffc1d627244576e3009e?utm_campaign=1048&utm_source=git)** | Burlington, MA | Hybrid | Aug 21 |
+| **[GBA](http://gbateam.com)** | **[Electrical Engineering Internship](https://jobright.ai/jobs/info/68a820ba33dd7158bbcac6b9?utm_campaign=1048&utm_source=git)** | Broomfield, CO | On Site | Aug 22 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Industrial Engineering Intern, Glendale, Summer/Fall 2026](https://jobright.ai/jobs/info/68a81e1633dd7158bbcac437?utm_campaign=1048&utm_source=git)** | Glendale, CA, USA | Hybrid | Aug 22 |
+| **[Bloom Energy](http://www.bloomenergy.com)** | **[Manufacturing Engineering (IC)](https://jobright.ai/jobs/info/68a81a0ed627244576e30ff3?utm_campaign=1048&utm_source=git)** | Newark, DE | On Site | Aug 22 |
+| **[DoorDash](http://www.doordash.com)** | **[Machine Learning Intern (PhD only), Fall 2025](https://jobright.ai/jobs/info/68a819c1d627244576e30fab?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Aug 22 |
+| **[Bloom Energy](http://www.bloomenergy.com)** | **[Test Engineering (IC)](https://jobright.ai/jobs/info/68a815b2d627244576e30def?utm_campaign=1048&utm_source=git)** | Newark, DE | On Site | Aug 22 |
+| **[Jacobs](http://www.jacobs.com)** | **[Sustainability and Environmental Compliance Intern - FY2026](https://jobright.ai/jobs/info/68a7b488d627244576e2e1da?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Aug 21 |
+| **[City of Philadelphia](http://www.phila.gov/)** | **[Engineering Intern](https://jobright.ai/jobs/info/68a80f2e758f2e4ac3ff06de?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Aug 21 |
+| **[Assured Information Security (AIS)](http://ainfosec.com)** | **[Engineering Internship](https://jobright.ai/jobs/info/68a80d64758f2e4ac3ff048e?utm_campaign=1048&utm_source=git)** | Rome, NY | On Site | Aug 21 |
+| **[City of Philadelphia](http://www.phila.gov/)** | **[Engineering Intern](https://jobright.ai/jobs/info/68a80c4ed627244576e306ea?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Aug 21 |
+| **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Fall 2026 Co-op  - Mechanical Test and Reliability](https://jobright.ai/jobs/info/68a80bfc33dd7158bbcab691?utm_campaign=1048&utm_source=git)** | Burlington, MA | Hybrid | Aug 21 |
+| ↳ | **[Winter 2026 Co-op - Manufacturing Engineering](https://jobright.ai/jobs/info/68a805d8758f2e4ac3ff0024?utm_campaign=1048&utm_source=git)** | Columbus, OH | On Site | Aug 21 |
+| ↳ | **[Winter 2026 Co-op - Cost Engineering](https://jobright.ai/jobs/info/68a7ffc1d627244576e3009e?utm_campaign=1048&utm_source=git)** | Burlington, MA | Hybrid | Aug 21 |
 | ↳ | **[Summer 2026 Intern - Cybersecurity](https://jobright.ai/jobs/info/68a7ff50d627244576e30032?utm_campaign=1048&utm_source=git)** | Frisco, TX | Hybrid | Aug 21 |
 | ↳ | **[Winter 2026 Co-op - Mechanical Test and Reliability](https://jobright.ai/jobs/info/68a7fdfc33dd7158bbcaadbc?utm_campaign=1048&utm_source=git)** | Burlington, MA | Hybrid | Aug 21 |
 | ↳ | **[Fall 2026 Co-op - Cost Engineering](https://jobright.ai/jobs/info/68a7fd1633dd7158bbcaad53?utm_campaign=1048&utm_source=git)** | Burlington, MA | Hybrid | Aug 21 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Security/Cyber Governance & Risk Management)](https://jobright.ai/jobs/info/68a81dbf758f2e4ac3ff1397?utm_campaign=1048&utm_source=git)** | Vienna, VA | On Site | Aug 21 |
 | **[Merchants Bank IN](http://bankmerchants.com)** | **[Information Security Intern - Summer 2026](https://jobright.ai/jobs/info/68a7fb06758f2e4ac3fefa5a?utm_campaign=1048&utm_source=git)** | Carmel, IN | On Site | Aug 21 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Dev Ops Engineer](https://jobright.ai/jobs/info/68a7fafc758f2e4ac3fefa43?utm_campaign=1048&utm_source=git)** | Charlotte, NC | On Site | Aug 21 |
 | **[Genies](https://genies.com)** | **[ML Engineering Intern (2025 Fall Texture Gen)](https://jobright.ai/jobs/info/68a7fa5c758f2e4ac3fef97b?utm_campaign=1048&utm_source=git)** | LA Metro Area | Hybrid | Aug 21 |
 | **[Penn State Department of Materials Science and Engineering](https://www.matse.psu.edu/)** | **[R&D Engineering Intern](https://jobright.ai/jobs/info/68a7f79e33dd7158bbcaaba1?utm_campaign=1048&utm_source=git)** | Penn State University Park | On Site | Aug 21 |
 | **[Genies](https://genies.com)** | **[ML Engineering Intern (2025 Fall Texture Gen)](https://jobright.ai/jobs/info/68a7bd6b758f2e4ac3fee040?utm_campaign=1048&utm_source=git)** | Los Angeles, California, United States | On Site | Aug 21 |
-| ↳ | **[ML Engineering Intern (2025 Fall Texture Gen)](https://jobright.ai/jobs/info/68a7d045758f2e4ac3feeab9?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 21 |
 | ↳ | **[ML Engineering Intern (2025 Fall Image Gen&Edit)](https://jobright.ai/jobs/info/68a7f5fb33dd7158bbcaa8d0?utm_campaign=1048&utm_source=git)** | LA Metro Area | Hybrid | Aug 21 |
 | **[Rexel USA C&I Southeast](https://www.rexelusa.com)** | **[Intern](https://jobright.ai/jobs/info/68a7f4f4d627244576e2facf?utm_campaign=1048&utm_source=git)** | Indianapolis, IN | On Site | Aug 21 |
 | **[Microsoft](https://www.microsoft.com)** | **[Security Research: Internship Opportunities](https://jobright.ai/jobs/info/68a7ef95d627244576e2f995?utm_campaign=1048&utm_source=git)** | Redmond, Washington, United States | Hybrid | Aug 21 |
@@ -87,6 +98,7 @@ For a complete list, click the following sortable link below:
 | **[Children's Wisconsin](https://childrenswi.org/)** | **[Clinical Engineering Intern - Fall 2025 or Spring 2026](https://jobright.ai/jobs/info/68a7d8e733dd7158bbca9e57?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | On Site | Aug 21 |
 | **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[RF IC Design Co-Op (Jan '26 - June '26)](https://jobright.ai/jobs/info/68a7d3a9d627244576e2f068?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Aug 21 |
 | **[CBRE](https://www.cbre.com)** | **[Commercial Building Maintenance Tech Apprentice in Palo Alto CA](https://jobright.ai/jobs/info/68a7d35bd627244576e2f036?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Aug 21 |
+| **[raSmith](http://www.rasmith.com/)** | **[Co-op Civil Engineering - Rotational Program](https://jobright.ai/jobs/info/68a80d66758f2e4ac3ff0490?utm_campaign=1048&utm_source=git)** | Brookfield, WI | On Site | Aug 21 |
 | **[Cekura (YC F24)](https://www.cekura.ai)** | **[AI Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/68a7f6fe33dd7158bbcaaa78?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Aug 21 |
 | **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[AI Engineering Summer/Fall Co-Op (June '26 - Dec '26)](https://jobright.ai/jobs/info/68a7d049758f2e4ac3feeabc?utm_campaign=1048&utm_source=git)** | Woburn, MA | On Site | Aug 21 |
 | ↳ | **[RF Design Co-Op (Jan '26 - June '26)](https://jobright.ai/jobs/info/68a7cfe9758f2e4ac3feea83?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Aug 21 |
@@ -144,17 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Procter & Gamble](https://us.pg.com/)** | **[Quality Assurance Internship](https://jobright.ai/jobs/info/68a7bdd9d627244576e2e413?utm_campaign=1048&utm_source=git)** | Iowa City, IA | On Site | Aug 21 |
 | **[Wade Trim](http://wadetrim.com)** | **[Engineer Summer Intern - #2793.20](https://jobright.ai/jobs/info/68a7bdccd627244576e2e3fe?utm_campaign=1048&utm_source=git)** | Taylor, MI | On Site | Aug 21 |
 | **[Pape-Dawson](http://pape-dawson.com)** | **[Engineer Intern](https://jobright.ai/jobs/info/68a7bdccd627244576e2e3ff?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Aug 21 |
-| **[United Rentals](http://www.unitedrentals.com)** | **[Intern Diesel Mechanic (Paid)](https://jobright.ai/jobs/info/68a7bdc1d627244576e2e3f9?utm_campaign=1048&utm_source=git)** | Nashville, TN | On Site | Aug 21 |
 | **[Procter & Gamble](https://us.pg.com/)** | **[Engineering Internship](https://jobright.ai/jobs/info/68a7bdb4758f2e4ac3fee08e?utm_campaign=1048&utm_source=git)** | Browns Summit, NC | On Site | Aug 21 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/68a7bdb4758f2e4ac3fee08d?utm_campaign=1048&utm_source=git)** | Richardson, TX | On Site | Aug 21 |
-| **[Wade Trim](http://wadetrim.com)** | **[Engineer Summer Intern -#2796.03](https://jobright.ai/jobs/info/68a7bd62758f2e4ac3fee035?utm_campaign=1048&utm_source=git)** | Traverse City, MI | On Site | Aug 21 |
-| ↳ | **[Engineer Summer Intern - #2794.20](https://jobright.ai/jobs/info/68a7bd61758f2e4ac3fee033?utm_campaign=1048&utm_source=git)** | Taylor, MI | On Site | Aug 21 |
-| ↳ | **[Electrical Engineer Summer Intern - #2791.20](https://jobright.ai/jobs/info/68a7bd5333dd7158bbca9249?utm_campaign=1048&utm_source=git)** | Taylor, MI | On Site | Aug 21 |
-| ↳ | **[Substation Structural Engineer Summer Intern - #2797.20](https://jobright.ai/jobs/info/68a7bd01758f2e4ac3fedfe5?utm_campaign=1048&utm_source=git)** | Taylor, MI | Hybrid | Aug 21 |
-| ↳ | **[Engineer Summer Intern - #2816.15](https://jobright.ai/jobs/info/68a7bcff758f2e4ac3fedfe2?utm_campaign=1048&utm_source=git)** | Fort Worth, TX | On Site | Aug 21 |
-| **[ARCO a Family of Construction Companies](https://thearcoway.com)** | **[Construction Safety Intern (Summer 2026)](https://jobright.ai/jobs/info/68a7bcb433dd7158bbca91aa?utm_campaign=1048&utm_source=git)** | Richmond Heights, MO | On Site | Aug 21 |
-| **[Procter & Gamble](https://us.pg.com/)** | **[Western Region Manufacturing Internship](https://jobright.ai/jobs/info/68a7bca7758f2e4ac3fedf90?utm_campaign=1048&utm_source=git)** | Oxnard, CA | On Site | Aug 21 |
-| **[Dürr](http://www.durr.com/en/)** | **[Summer Internship 2026 - Electrical Engineering](https://jobright.ai/jobs/info/68a7bc85758f2e4ac3fedf72?utm_campaign=1048&utm_source=git)** | Farmington, MI | On Site | Aug 21 |
-| **[Wade Trim](http://wadetrim.com)** | **[Substation Electrical Engineer Summer Intern - #2795.20](https://jobright.ai/jobs/info/68a7bc6633dd7158bbca9153?utm_campaign=1048&utm_source=git)** | Taylor, MI | Hybrid | Aug 21 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Structural Intern](https://jobright.ai/jobs/info/68a7bc5333dd7158bbca9133?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | Aug 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
