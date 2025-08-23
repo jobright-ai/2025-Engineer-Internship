@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2026 Intern – Maintenance & Engineering](https://jobright.ai/jobs/info/68a955d4758f2e4ac3ff8eae?utm_campaign=1048&utm_source=git)** | Sumner, WA | On Site | Aug 22 |
+| **[Opportunities for a Better Tomorrow](https://obtjobs.org/)** | **[Construction Internship](https://jobright.ai/jobs/info/68a94b84758f2e4ac3ff8a1e?utm_campaign=1048&utm_source=git)** | Brooklyn, NY | On Site | Aug 22 |
 | **[Astera Labs](https://www.asteralabs.com)** | **[Hardware Electrical Validation Engineer (HW EV Internship 2026)](https://jobright.ai/jobs/info/68a92de4758f2e4ac3ff7d15?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Aug 22 |
 | ↳ | **[Product Applications Engineer - Aries (Internship 2026)](https://jobright.ai/jobs/info/68a92d62758f2e4ac3ff7c9f?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Aug 22 |
 | ↳ | **[Hardware Electrical Engineer - EED (Intern)](https://jobright.ai/jobs/info/68a92c4fd627244576e38128?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Aug 22 |
@@ -87,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Ametrine Inc.](http://www.ametrine.tech)** | **[Quality Intern](https://jobright.ai/jobs/info/68a91ca8758f2e4ac3ff76d8?utm_campaign=1048&utm_source=git)** | Round Rock, Texas, United States | On Site | Aug 22 |
 | **[INVISTA](http://www.invista.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/68a91c996acf96396f724e62?utm_campaign=1048&utm_source=git)** | Longview, TX | On Site | Aug 22 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[AIS R&D Device Innovations Research Intern](https://jobright.ai/jobs/info/68a91c4f758f2e4ac3ff7696?utm_campaign=1048&utm_source=git)** | Arden Hills, MN | On Site | Aug 22 |
-| **[Rukmer](www.rukmer.com)** | **[Robotics Intern](https://jobright.ai/jobs/info/68a91c106acf96396f724df6?utm_campaign=1048&utm_source=git)** | Boston, MA | Hybrid | Aug 22 |
 | **[Volvo Construction Equipment](http://www.volvoce.com)** | **[Intern: NVH/System Dynamics (Fall 2025)](https://jobright.ai/jobs/info/68a91be9758f2e4ac3ff765d?utm_campaign=1048&utm_source=git)** | Shippensburg, PA | On Site | Aug 22 |
 | **[Black Hills Energy](https://www.blackhillsenergy.com)** | **[IT Infrastructure Internship](https://jobright.ai/jobs/info/68a91bae758f2e4ac3ff762e?utm_campaign=1048&utm_source=git)** | Rapid City, SD | On Site | Aug 22 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[VLSI Engineer Intern](https://jobright.ai/jobs/info/68a91b86758f2e4ac3ff7611?utm_campaign=1048&utm_source=git)** | Spring, TX | On Site | Aug 22 |
@@ -100,6 +101,7 @@ For a complete list, click the following sortable link below:
 | **[Stellantis](https://www.stellantis.com)** | **[2026 Manufacturing – Kokomo Summer Internship](https://jobright.ai/jobs/info/68a917f7d627244576e377cb?utm_campaign=1048&utm_source=git)** | Kokomo, IN | On Site | Aug 22 |
 | **[Kiewit](http://www.kiewit.com)** | **[Field/Office Engineer Intern - South Central District Summer 2026](https://jobright.ai/jobs/info/68a917756acf96396f724bf0?utm_campaign=1048&utm_source=git)** | Omaha, NE | On Site | Aug 22 |
 | ↳ | **[Field/Office Engineer Intern - South Central District Summer 2026](https://jobright.ai/jobs/info/68a917756acf96396f724bef?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Aug 22 |
+| **[Auburn University](https://www.auburn.edu/)** | **[RFID Lab Student Worker: LANL Project Researcher](https://jobright.ai/jobs/info/68a666f8b6a3617d7fa77517?utm_campaign=1048&utm_source=git)** | Auburn, AL | On Site | Aug 22 |
 | **[Providence Health & Services](https://www.providence.org/)** | **[Facilities Engineer Apprentice](https://jobright.ai/jobs/info/68a91770d627244576e37713?utm_campaign=1048&utm_source=git)** | Portland, OR | On Site | Aug 22 |
 | **[Kiewit](http://www.kiewit.com)** | **[Field/Office Engineer Intern - South Central District Summer 2026](https://jobright.ai/jobs/info/68a9170c6acf96396f724bba?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Aug 22 |
 | ↳ | **[Field/Office Engineer Intern - South Central District Summer 2026](https://jobright.ai/jobs/info/68a916fd758f2e4ac3ff7464?utm_campaign=1048&utm_source=git)** | Roma, TX | On Site | Aug 22 |
@@ -117,11 +119,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Field/Office Engineer Intern - South Central District Summer 2026](https://jobright.ai/jobs/info/68a91346d627244576e3759b?utm_campaign=1048&utm_source=git)** | Grapevine, TX | On Site | Aug 22 |
 | ↳ | **[Field/Office Engineer Intern - South Central District Summer 2026](https://jobright.ai/jobs/info/68a912e4d627244576e37524?utm_campaign=1048&utm_source=git)** | Baton Rouge, LA | On Site | Aug 22 |
 | **[Caterpillar Inc.](https://www.caterpillar.com)** | **[2026 Summer Corporate Intern - Engineering](https://jobright.ai/jobs/info/68a911d3d627244576e373c6?utm_campaign=1048&utm_source=git)** | Mossville, IL | On Site | Aug 22 |
-| **[ChargePoint](http://www.chargepoint.com)** | **[Power Electronics Controls and Firmware Intern](https://jobright.ai/jobs/info/68a911d26acf96396f7249de?utm_campaign=1048&utm_source=git)** | Campbell, CA | On Site | Aug 22 |
 | **[Consertus](www.consertus.com)** | **[Intern - Transportation](https://jobright.ai/jobs/info/68a911a6758f2e4ac3ff7242?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Aug 22 |
 | **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Network Engineering Summer Intern](https://jobright.ai/jobs/info/68a911906acf96396f7249a6?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Aug 22 |
 | ↳ | **[Security Red Team Summer Intern](https://jobright.ai/jobs/info/68a911716acf96396f72497f?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Aug 22 |
-| ↳ | **[Linux/Unix Summer Intern](https://jobright.ai/jobs/info/68a9113d6acf96396f724959?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Aug 22 |
+| **[Auburn University](https://www.auburn.edu/)** | **[Graduate Bi-Weekly - LANL Project Researcher](https://jobright.ai/jobs/info/68a66b4633dd7158bbc9fe36?utm_campaign=1048&utm_source=git)** | Auburn, AL | On Site | Aug 22 |
+| **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Linux/Unix Summer Intern](https://jobright.ai/jobs/info/68a9113d6acf96396f724959?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Aug 22 |
+| **[BASF](https://www.basf.com/)** | **[Professional Development Program (PDP) Internship - Data Science Summer 2026](https://jobright.ai/jobs/info/68910d52f47efe21139523b3?utm_campaign=1048&utm_source=git)** | Florham Park, NJ | Hybrid | Aug 22 |
 | **[United Rentals](http://www.unitedrentals.com)** | **[Intern Diesel Mechanic (Paid)](https://jobright.ai/jobs/info/68a9106e6acf96396f724864?utm_campaign=1048&utm_source=git)** | League City, TX | On Site | Aug 22 |
 | **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Security Services - Business Continuity Summer Intern](https://jobright.ai/jobs/info/68a90f7c758f2e4ac3ff6fdf?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Aug 22 |
 | ↳ | **[Security Awareness Summer Intern](https://jobright.ai/jobs/info/68a90f6a6acf96396f72473a?utm_campaign=1048&utm_source=git)** | Dallas, TX | Hybrid | Aug 22 |
@@ -135,11 +138,11 @@ For a complete list, click the following sortable link below:
 | **[KPFF Consulting Engineers](http://www.kpff.com)** | **[Civil Engineering Internship](https://jobright.ai/jobs/info/68a90e64758f2e4ac3ff6e9e?utm_campaign=1048&utm_source=git)** | Long Beach, CA, USA | On Site | Aug 22 |
 | **[Guarantee Electrical Company](http://geco.com)** | **[Electrical Construction Intern](https://jobright.ai/jobs/info/68a92a756acf96396f725453?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Aug 22 |
 | **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Storage Infrastructure Summer Intern](https://jobright.ai/jobs/info/68a90e51758f2e4ac3ff6e85?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Aug 22 |
+| **[ChargePoint](http://www.chargepoint.com)** | **[Power Electronics Controls and Firmware Intern](https://jobright.ai/jobs/info/68a90e406acf96396f724547?utm_campaign=1048&utm_source=git)** | Campbell, CA | On Site | Aug 22 |
 | **[GeoEngineers Inc.](http://www.geoengineers.com)** | **[Geo-Structural Intern (Summer 2026)](https://jobright.ai/jobs/info/68a90e3b6acf96396f72453f?utm_campaign=1048&utm_source=git)** | Redmond | On Site | Aug 22 |
 | **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Technical Certification and Documentation Services Summer Intern](https://jobright.ai/jobs/info/68a90e1ad627244576e3722c?utm_campaign=1048&utm_source=git)** | Dallas, TX | Hybrid | Aug 22 |
 | **[Jump Trading Group](http://www.jumptrading.com/)** | **[Campus ML Research Engineer (Intern)](https://jobright.ai/jobs/info/6894f3ab8c6d6b4426775db9?utm_campaign=1048&utm_source=git)** | Chicago | On Site | Aug 22 |
 | **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Year-Round Intern - Cyber Defense](https://jobright.ai/jobs/info/68a90d04d627244576e370bc?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Aug 22 |
-| **[Opportunities for a Better Tomorrow](https://obtjobs.org/)** | **[Construction Internship](https://jobright.ai/jobs/info/68a90ce1758f2e4ac3ff6d04?utm_campaign=1048&utm_source=git)** | Brooklyn, NY | On Site | Aug 22 |
 | **[Bowman Consulting](https://bowman.com)** | **[Engineering Student Assistant - Manassas, VA](https://jobright.ai/jobs/info/68a90a64758f2e4ac3ff6ce8?utm_campaign=1048&utm_source=git)** | Manassas, VA | On Site | Aug 22 |
 | **[Kiewit](http://www.kiewit.com)** | **[Field/Office Engineer Intern - South Central District Summer 2026](https://jobright.ai/jobs/info/68a909a9758f2e4ac3ff6c91?utm_campaign=1048&utm_source=git)** | Lubbock, TX | On Site | Aug 22 |
 | ↳ | **[Field/Office Engineer Intern - South Central District Summer 2026](https://jobright.ai/jobs/info/68a90915758f2e4ac3ff6c51?utm_campaign=1048&utm_source=git)** | Amarillo, TX | On Site | Aug 22 |
@@ -153,8 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Kiewit](http://www.kiewit.com)** | **[Field/Office Engineer Intern - South Central District Summer 2026](https://jobright.ai/jobs/info/68a9055d758f2e4ac3ff6bb1?utm_campaign=1048&utm_source=git)** | Odessa, TX | On Site | Aug 22 |
 | **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Construction Services Procurement](https://jobright.ai/jobs/info/68a9051b6acf96396f7242c9?utm_campaign=1048&utm_source=git)** | Irving, TX | On Site | Aug 22 |
 | ↳ | **[Summer 2026 Internship: Data Center Infrastructure Management](https://jobright.ai/jobs/info/68a9049b758f2e4ac3ff6b31?utm_campaign=1048&utm_source=git)** | Suwanee, GA | On Site | Aug 22 |
-| ↳ | **[Summer 2026 Internship: Data Center Infrastructure Management](https://jobright.ai/jobs/info/68a90413758f2e4ac3ff6aed?utm_campaign=1048&utm_source=git)** | Suwanee, GA | On Site | Aug 22 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Electrical Physical Layout Intern Summer 2026](https://jobright.ai/jobs/info/68a903d4758f2e4ac3ff6abf?utm_campaign=1048&utm_source=git)** | Rock Hill, SC | On Site | Aug 22 |
-| **[Barr Engineering Co.](http://www.barr.com)** | **[Internship – Environmental Focus – Engineering or Geology (Hybrid)](https://jobright.ai/jobs/info/68a903a9758f2e4ac3ff6aa8?utm_campaign=1048&utm_source=git)** | Ann Arbor, MI | Hybrid | Aug 22 |
-| **[TalentAlly](http://www.prodivnet.com/)** | **[Part Time Student, Electrical Engineering](https://jobright.ai/jobs/info/68a928cb6acf96396f7252d1?utm_campaign=1048&utm_source=git)** | Fort Valley, GA | On Site | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
