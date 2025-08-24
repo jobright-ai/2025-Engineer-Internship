@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WestRock Company](http://www.westrock.com)** | **[Spring 2026 Co-op, Plant Operations/Engineering](https://jobright.ai/jobs/info/68aa9630d627244576e3dc74?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Aug 23 |
 | **[MITRE](http://www.mitre.org)** | **[Internships in Cybersecurity and Information Security](https://jobright.ai/jobs/info/68aa70fa6acf96396f72a1ee?utm_campaign=1048&utm_source=git)** | Quantico, VA | On Site | Aug 23 |
 | ↳ | **[Internships in Systems, Mechanical, Aerospace Engineering or Physics](https://jobright.ai/jobs/info/68aa70a96acf96396f72a1c0?utm_campaign=1048&utm_source=git)** | Quantico, VA | On Site | Aug 23 |
 | ↳ | **[Internships in Systems, Mechanical, Aerospace Engineering or Physics](https://jobright.ai/jobs/info/68aa7041758f2e4ac3ffc96b?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | Aug 23 |
@@ -78,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[City of Charlotte](https://charlottenc.gov/)** | **[4 Yr Undergrad- Safety and Health Intern](https://jobright.ai/jobs/info/68aa2277758f2e4ac3ffc27c?utm_campaign=1048&utm_source=git)** | Charlotte, NC | On Site | Aug 23 |
 | **[Ventura Coastal, LLC](http://venturacoastal.com)** | **[Intern EHS](https://jobright.ai/jobs/info/68aa20f4d627244576e3c583?utm_campaign=1048&utm_source=git)** | Visalia, CA | On Site | Aug 23 |
 | **[Omni Design Technologies, Inc.](http://www.omnidesigntech.com/)** | **[IC Characterization/Test Engineer Intern](https://jobright.ai/jobs/info/68aa20a4d627244576e3c55e?utm_campaign=1048&utm_source=git)** | Milpitas, CA | On Site | Aug 23 |
-| **[University of Arkansas](http://uark.edu)** | **[Postdoctoral Researcher](https://jobright.ai/jobs/info/68aa1e48758f2e4ac3ffc218?utm_campaign=1048&utm_source=git)** | Fayetteville, AR | On Site | Aug 23 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Intern- Rocky Mountain Region](https://jobright.ai/jobs/info/68aa1e47758f2e4ac3ffc217?utm_campaign=1048&utm_source=git)** | Greeley, CO | On Site | Aug 23 |
 | **[Omni Design Technologies, Inc.](http://www.omnidesigntech.com/)** | **[Analog/Mixed-Signal IC Design Engineering Intern](https://jobright.ai/jobs/info/68aa1dea6acf96396f729a47?utm_campaign=1048&utm_source=git)** | Milpitas, CA | On Site | Aug 23 |
 | **[WestRock Company](http://www.westrock.com)** | **[Engineering Intern Summer 2026, Plant Operations](https://jobright.ai/jobs/info/68aa14b6d627244576e3c3ae?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Aug 23 |
@@ -90,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Engineering Intern](https://jobright.ai/jobs/info/68aa07c76acf96396f72971b?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Aug 23 |
 | **[United Rentals Life](http://jobs.unitedrentals.com)** | **[Intern Diesel Mechanic (Paid)](https://jobright.ai/jobs/info/68aa0796d627244576e3c1a7?utm_campaign=1048&utm_source=git)** | League City, TX | On Site | Aug 23 |
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Engineering Intern](https://jobright.ai/jobs/info/68aa0770758f2e4ac3ffbe45?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Aug 23 |
-| **[GeoEngineers Inc.](http://www.geoengineers.com)** | **[Civil Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68aa04a86acf96396f72968d?utm_campaign=1048&utm_source=git)** | Springfield, MO | On Site | Aug 23 |
 | **[Inteplast Group](https://www.inteplast.com/)** | **[0140 - Traffic - WPS - WORK PROGRAM/STUDENT](https://jobright.ai/jobs/info/68a9f784758f2e4ac3ffbd6d?utm_campaign=1048&utm_source=git)** | Livingston, NJ | On Site | Aug 23 |
 | **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship - Digital Innovation – Cross-functional (Ph.D)](https://jobright.ai/jobs/info/687ed3fadb19f31cf0d6d62e?utm_campaign=1048&utm_source=git)** | Collegeville, PA | On Site | Aug 23 |
 | **[Advanced Wireless Solutions, Inc.](http://www.awsinc.biz)** | **[Civil Apprentice](https://jobright.ai/jobs/info/68a9ed05758f2e4ac3ffbc1b?utm_campaign=1048&utm_source=git)** | Johnson City, TN | On Site | Aug 23 |
@@ -118,6 +117,7 @@ For a complete list, click the following sortable link below:
 | **[Audi of America](http://audiusa.com)** | **[ADAS Data Acquisition & Analysis Fellowship (Unable to consider OPT/CPT candidates)](https://jobright.ai/jobs/info/688d654527f9022553c0b2f1?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Aug 23 |
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Research Engineering Internship - AI, Computer Vision, & Visualization](https://jobright.ai/jobs/info/688dafa4e5cead4afd459349?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Aug 23 |
 | **[Amazon](https://amazon.com)** | **[Jr. Applied Scientist](https://jobright.ai/jobs/info/6894e9164ed2ea559ca5196c?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Aug 23 |
+| **[Pond & Company](http://pondco.com)** | **[Mechanical Engineer Intern (Spring, Summer 2025)](https://jobright.ai/jobs/info/6759e65d3ee42ada5717d7f9?utm_campaign=1048&utm_source=git)** | Peachtree Corners, GA | On Site | Aug 23 |
 | **[ABB](https://global.abb/group/en)** | **[Manufacturing Internship - Fabrication](https://jobright.ai/jobs/info/68a9b9f4d627244576e3b635?utm_campaign=1048&utm_source=git)** | Location, WV | On Site | Aug 23 |
 | **[CommLabASU at Arizona State University](https://newcollege.asu.edu/commlabasu)** | **[Postdoctoral Research Scholar - In Vitro to In Vivo Extrapolation of Toxicant Effects on Ovarian Function](https://jobright.ai/jobs/info/68a9b9b16acf96396f728b71?utm_campaign=1048&utm_source=git)** | Valley, WV | On Site | Aug 23 |
 | **[Columbia Forest Products](http://www.columbiaforestproducts.com)** | **[Internship](https://jobright.ai/jobs/info/68711dfea5ae807a59cfdeda?utm_campaign=1048&utm_source=git)** | Greensboro, NC | On Site | Aug 23 |
@@ -147,7 +147,6 @@ For a complete list, click the following sortable link below:
 | **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Kaçar Lab Postdoctoral Researcher](https://jobright.ai/jobs/info/68a99adb758f2e4ac3ffaef9?utm_campaign=1048&utm_source=git)** | Madison, WI | On Site | Aug 23 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Missile Defense Project (Fall 2025)](https://jobright.ai/jobs/info/68a99aa5758f2e4ac3ffaedd?utm_campaign=1048&utm_source=git)** | Washington, DC | On Site | Aug 23 |
 | **[Danaher Life Sciences](https://lifesciences.danaher.com)** | **[Cloud Operations Intern - Boulder, CO](https://jobright.ai/jobs/info/68aa84cdd627244576e3d145?utm_campaign=1048&utm_source=git)** | Boulder, CO | On Site | Aug 23 |
-| **[Sanofi](https://www.sanofi.com)** | **[Winter/Spring 2026 Co-op - Oncology Research](https://jobright.ai/jobs/info/689ed8c2faa4e875e8282c22?utm_campaign=1048&utm_source=git)** | Cambridge, MA | On Site | Aug 23 |
 | **[Tenneco](https://www.tenneco.com/)** | **[Engineering Intern Fall 2025](https://jobright.ai/jobs/info/688caebc1808534a89cbe486?utm_campaign=1048&utm_source=git)** | Lansing, MI | On Site | Aug 23 |
 | **[Modern Technology Solutions LLC](https://mtsllc.us/)** | **[Systems Engineer Intern](https://jobright.ai/jobs/info/68a996d1d627244576e3b1b4?utm_campaign=1048&utm_source=git)** | Dayton, OH | On Site | Aug 23 |
 | ↳ | **[Systems Engineer Intern](https://jobright.ai/jobs/info/68a996bb6acf96396f72872f?utm_campaign=1048&utm_source=git)** | Alexandria, VA | On Site | Aug 23 |
@@ -155,6 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Sanofi](https://www.sanofi.com)** | **[Winter-Spring 2026 Co-op-Intern- CMC Biologics Drug Product Development and Manufacturing](https://jobright.ai/jobs/info/68773da7ae2f413e4a5b8dbb?utm_campaign=1048&utm_source=git)** | Framingham, MA | On Site | Aug 23 |
 | **[Clemson University MBA Programs](https://www.clemson.edu/business/departments/mba/)** | **[Post Doctoral Fellow - Water Resources Planning and Management](https://jobright.ai/jobs/info/68a9928c758f2e4ac3ffade5?utm_campaign=1048&utm_source=git)** | Pendleton, SC | On Site | Aug 23 |
 | **[Sanofi](https://www.sanofi.com)** | **[Winter-Spring 2026 Co-op-Intern - RND TA - protein sciences](https://jobright.ai/jobs/info/6874c3ceae2f413e4a5a01fa?utm_campaign=1048&utm_source=git)** | Cambridge, MA | On Site | Aug 23 |
+| ↳ | **[Winter/Spring 2026 Co-op-Intern - Oncology Research](https://jobright.ai/jobs/info/689ed8c2faa4e875e8282c22?utm_campaign=1048&utm_source=git)** | Cambridge, MA | On Site | Aug 23 |
 | ↳ | **[Winter, Spring 2026 Co-op-Intern- Manufacturing and Supply - Smart Process](https://jobright.ai/jobs/info/68749be2ae2f413e4a59df6d?utm_campaign=1048&utm_source=git)** | Framingham, MA | On Site | Aug 23 |
 | **[Geospace Technologies](http://www.geospace.com/)** | **[Intern, Research & Development](https://jobright.ai/jobs/info/68a98ea66acf96396f728630?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Aug 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
