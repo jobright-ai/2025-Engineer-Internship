@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Loyola University Chicago](http://LUC.edu)** | **[Post-Doctoral Research](https://jobright.ai/jobs/info/68ab0c54daf1431824c8e664?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Aug 24 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Cellular Morphology Profiling Intern (PhD)](https://jobright.ai/jobs/info/68aafa20daf1431824c8e41b?utm_campaign=1048&utm_source=git)** | North Chicago, IL | On Site | Aug 24 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Environmental Test Intern (Fall 2025)](https://jobright.ai/jobs/info/6874ae5bae2f413e4a59ef74?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Aug 24 |
 | **[Swietelsky AG](https://www.swietelsky.at)** | **[Werkstudent/in - Kalkulation und Angebotsbearbeitung](https://jobright.ai/jobs/info/68aaf607758f2e4ac3ffec20?utm_campaign=1048&utm_source=git)** | United States | Remote | Aug 24 |
@@ -89,12 +90,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internships in Cybersecurity and Information Security](https://jobright.ai/jobs/info/68aa6993758f2e4ac3ffc8ca?utm_campaign=1048&utm_source=git)** | Bellevue, NE | On Site | Aug 23 |
 | ↳ | **[Internships in Systems, Mechanical, Aerospace Engineering or Physics](https://jobright.ai/jobs/info/68aa695e758f2e4ac3ffc8be?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | Aug 23 |
 | ↳ | **[Internships in Systems, Mechanical, Aerospace Engineering or Physics](https://jobright.ai/jobs/info/68aa6954758f2e4ac3ffc8bc?utm_campaign=1048&utm_source=git)** | Bellevue, NE | On Site | Aug 23 |
-| **[Quantifyd](https://www.synthextechnologies.com/)** | **[Founding Machine Learning Engineer](https://jobright.ai/jobs/info/68aa61ef758f2e4ac3ffc804?utm_campaign=1048&utm_source=git)** | United States | Remote | Aug 23 |
+| **[Deepgrids](https://www.linkedin.com/company/106402957)** | **[Founding Machine Learning Engineer](https://jobright.ai/jobs/info/68aa61ef758f2e4ac3ffc804?utm_campaign=1048&utm_source=git)** | United States | Remote | Aug 23 |
 | **[The Digital BA](https://thedigitalba.com.au)** | **[AI Business Analyst - Graduate Program - Remote](https://jobright.ai/jobs/info/68aa5f0c6acf96396f72a00f?utm_campaign=1048&utm_source=git)** | New York, United States | Remote | Aug 23 |
 | **[Orbital Operations](https://www.orbitalops.tech/)** | **[Spring 2026 Internship - Engineering](https://jobright.ai/jobs/info/68aa5ef26acf96396f72a003?utm_campaign=1048&utm_source=git)** | Long Beach, CA | On Site | Aug 23 |
 | **[MEmusic.](http://www.memusic.group)** | **[MEmusic.internships fall 2025](https://jobright.ai/jobs/info/68aa5b0a758f2e4ac3ffc6c7?utm_campaign=1048&utm_source=git)** | United States | Remote | Aug 23 |
 | **[Celonis](https://www.celonis.com)** | **[Associate Value Engineer (Industrial Engineering & AI Applications) - Orbit Program](https://jobright.ai/jobs/info/68aa47906acf96396f729e5f?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Aug 23 |
-| **[Peter Basso Associates](http://www.peterbassoassociates.com/)** | **[Electrical Co-Op Fall 2025](https://jobright.ai/jobs/info/68aa3b10d627244576e3c8c4?utm_campaign=1048&utm_source=git)** | Troy, MI | On Site | Aug 23 |
 | **[City of Charlotte](https://charlottenc.gov/)** | **[4 Yr Undergrad- Safety and Health Intern](https://jobright.ai/jobs/info/68aa2277758f2e4ac3ffc27c?utm_campaign=1048&utm_source=git)** | Charlotte, NC | On Site | Aug 23 |
 | **[Ventura Coastal, LLC](http://venturacoastal.com)** | **[Intern EHS](https://jobright.ai/jobs/info/68aa20f4d627244576e3c583?utm_campaign=1048&utm_source=git)** | Visalia, CA | On Site | Aug 23 |
 | **[Omni Design Technologies, Inc.](http://www.omnidesigntech.com/)** | **[IC Characterization/Test Engineer Intern](https://jobright.ai/jobs/info/68aa20a4d627244576e3c55e?utm_campaign=1048&utm_source=git)** | Milpitas, CA | On Site | Aug 23 |
@@ -119,8 +119,8 @@ For a complete list, click the following sortable link below:
 | **[Stony Brook University](https://it.stonybrook.edu)** | **[Postdoctoral Associate](https://jobright.ai/jobs/info/68a9dc356acf96396f729288?utm_campaign=1048&utm_source=git)** | Stony Brook, NY | On Site | Aug 23 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Data Quality Engineering)](https://jobright.ai/jobs/info/68a9db7a6acf96396f729230?utm_campaign=1048&utm_source=git)** | Vienna, VA | Hybrid | Aug 23 |
 | **[Procter & Gamble](https://us.pg.com/)** | **[University of Cincinnati Co-Op R&D](https://jobright.ai/jobs/info/688d5b7f3a30793eb964a667?utm_campaign=1048&utm_source=git)** | Westchester, OH | On Site | Aug 23 |
-| ↳ | **[Cincinnati State Co-Op R&D](https://jobright.ai/jobs/info/688d6fd71808534a89cc343a?utm_campaign=1048&utm_source=git)** | Cincinnati, OH | On Site | Aug 23 |
 | ↳ | **[Cincinnati State Co-Op R&D](https://jobright.ai/jobs/info/688d73271808534a89cc35df?utm_campaign=1048&utm_source=git)** | Mason, OH | On Site | Aug 23 |
+| ↳ | **[Cincinnati State Co-Op R&D](https://jobright.ai/jobs/info/688d6fd71808534a89cc343a?utm_campaign=1048&utm_source=git)** | Cincinnati, OH | On Site | Aug 23 |
 | **[AutoZone](http://www.autozone.com/)** | **[Asociado de Ventas Tiempo Parcial - Puesto de nivel inicial](https://jobright.ai/jobs/info/6756e626cf31f03587d3161d?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Aug 23 |
 | **[Campari Group](https://www.camparigroup.com)** | **[EHS Intern (Part Time)](https://jobright.ai/jobs/info/688cde541808534a89cbf2a0?utm_campaign=1048&utm_source=git)** | Lawrenceburg, TN | On Site | Aug 23 |
 | **[Procter & Gamble](https://us.pg.com/)** | **[Cincinnati State Co-Op R&D](https://jobright.ai/jobs/info/688d744f27f9022553c0b998?utm_campaign=1048&utm_source=git)** | Westchester, OH | On Site | Aug 23 |
@@ -133,6 +133,7 @@ For a complete list, click the following sortable link below:
 | **[Beth Israel Deaconess Medical Center](https://www.bidmc.org/)** | **[Research Student](https://jobright.ai/jobs/info/685a2ab64c499b5d218cc926?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | Aug 23 |
 | **[Samsung Research America (SRA)](http://www.sra.samsung.com/)** | **[2025 Intern, NLP and ML Research](https://jobright.ai/jobs/info/68715eaf06ad7073463c4ba5?utm_campaign=1048&utm_source=git)** | Mountain View, CA | On Site | Aug 23 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - ASIC RTL/Digital Design](https://jobright.ai/jobs/info/68a54da633dd7158bbc98e4d?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Aug 23 |
+| **[Amazon](https://amazon.com)** | **[2026 Applied Science Internship - Computer Vision - United States, PhD Student Science Recruiting](https://jobright.ai/jobs/info/688d568e27f9022553c0ad59?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Aug 23 |
 | **[Terracon](https://www.terracon.com/about/foundation/)** | **[Intern](https://jobright.ai/jobs/info/68a6752cb6a3617d7fa778d1?utm_campaign=1048&utm_source=git)** | Tallahassee, FL | On Site | Aug 23 |
 | **[ABB](https://global.abb/group/en)** | **[Electrical Engineer - Part-time Job](https://jobright.ai/jobs/info/68a03f47cc9ee94dc911ec69?utm_campaign=1048&utm_source=git)** | Location, WV | On Site | Aug 23 |
 | **[Audi of America](http://audiusa.com)** | **[ADAS Data Acquisition & Analysis Fellowship (Unable to consider OPT/CPT candidates)](https://jobright.ai/jobs/info/688d654527f9022553c0b2f1?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Aug 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Process Engineering Intern](https://jobright.ai/jobs/info/68a9b168758f2e4ac3ffb0ba?utm_campaign=1048&utm_source=git)** | Frankfort, IL | On Site | Aug 23 |
 | **[GE Aerospace](https://www.geaerospace.com)** | **[Military DoD SkillBridge Internship - Multiple Positions Q2 2025](https://jobright.ai/jobs/info/67a9389b71b7c751bb08decf?utm_campaign=1048&utm_source=git)** | Cincinnati, OH | Remote | Aug 23 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Winter 2026 Co-op – Manufacturing Engineering](https://jobright.ai/jobs/info/68a9af34d627244576e3b3a2?utm_campaign=1048&utm_source=git)** | Frisco, TX | On Site | Aug 23 |
-| **[BioSpace](http://www.biospace.com/)** | **[Postdoctoral Fellow, Extracellular Targeted Protein Degradation](https://jobright.ai/jobs/info/68a9af096acf96396f728903?utm_campaign=1048&utm_source=git)** | South San Francisco, CA | On Site | Aug 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
