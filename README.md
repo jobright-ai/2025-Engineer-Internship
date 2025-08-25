@@ -66,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[RJMedex](https://rjmedex.com/)** | **[Robotics Engineers with Excellent  ROS2 Experience Mandatory ONSITE Only](https://jobright.ai/jobs/info/68aba6ea758f2e4ac3fff9df?utm_campaign=1048&utm_source=git)** | Columbia, MD | On Site | Aug 24 |
 | **[Providence](https://www.psjhealth.org/)** | **[Facilities Engineer Apprentice](https://jobright.ai/jobs/info/68a95423758f2e4ac3ff8d1d?utm_campaign=1048&utm_source=git)** | Portland, OR | On Site | Aug 24 |
 | **[University of Michigan](https://www.umich.edu)** | **[Postdoctoral Researcher](https://jobright.ai/jobs/info/68ab8da0d627244576e3fc10?utm_campaign=1048&utm_source=git)** | Ann Arbor, MI | On Site | Aug 24 |
-| **[Peter Basso Associates](http://www.peterbassoassociates.com/)** | **[Electrical Co-Op Fall 2025](https://jobright.ai/jobs/info/68ab8853daf1431824c8f069?utm_campaign=1048&utm_source=git)** | Troy, MI | On Site | Aug 24 |
 | **[Thompson Turner](http://www.thompsonturner.com)** | **[Intern - Industrial Construction](https://jobright.ai/jobs/info/68ab85a0d627244576e3fbcd?utm_campaign=1048&utm_source=git)** | Sumter, SC | On Site | Aug 24 |
 | **[Titan Tether Technologies](https://www.linkedin.com/company/105281220)** | **[User Research & Testing Intern – VR Headset Strap](https://jobright.ai/jobs/info/68ab7f9e758f2e4ac3fff87e?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | Hybrid | Aug 24 |
 | **[Thompson Turner](http://www.thompsonturner.com)** | **[Intern - Safety](https://jobright.ai/jobs/info/68ab7d07d627244576e3fb59?utm_campaign=1048&utm_source=git)** | Sumter, SC | On Site | Aug 24 |
@@ -74,8 +73,8 @@ For a complete list, click the following sortable link below:
 | **[Impact Electronic Solutions](https://impactelectronics.com)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/68ab7a7ad627244576e3fb53?utm_campaign=1048&utm_source=git)** | Vancouver, WA | On Site | Aug 24 |
 | **[Keville Enterprises, Inc.](http://keville.com)** | **[Intern-Construction Management](https://jobright.ai/jobs/info/68ab7a2ed627244576e3fb32?utm_campaign=1048&utm_source=git)** | Rocky Hill, CT | On Site | Aug 24 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Refining Electrical Engineering (Fall 2026)](https://jobright.ai/jobs/info/68ab63d7758f2e4ac3fff660?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Aug 24 |
-| ↳ | **[Intern/Co-op - Refining Electrical Engineering (Fall 2026)](https://jobright.ai/jobs/info/68ab6f96daf1431824c8ee81?utm_campaign=1048&utm_source=git)** | Mandan, ND | On Site | Aug 24 |
 | ↳ | **[Intern/Co-op - Refining Electrical Engineering (Summer 2026)](https://jobright.ai/jobs/info/68ab6f94daf1431824c8ee7c?utm_campaign=1048&utm_source=git)** | Findlay, OH | On Site | Aug 24 |
+| ↳ | **[Intern/Co-op - Refining Electrical Engineering (Fall 2026)](https://jobright.ai/jobs/info/68ab6f96daf1431824c8ee81?utm_campaign=1048&utm_source=git)** | Mandan, ND | On Site | Aug 24 |
 | ↳ | **[Intern/Co-op - Refining Electrical Engineering (Summer 2026)](https://jobright.ai/jobs/info/68ab6f9ddaf1431824c8ee84?utm_campaign=1048&utm_source=git)** | Kenai, AK | On Site | Aug 24 |
 | ↳ | **[Intern/Co-op - Refining Electrical Engineering (Summer 2026)](https://jobright.ai/jobs/info/68ab6f7adaf1431824c8ee6e?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Aug 24 |
 | ↳ | **[Intern/Co-op - Refining Electrical Engineering (Fall 2026)](https://jobright.ai/jobs/info/68ab66b7daf1431824c8edde?utm_campaign=1048&utm_source=git)** | Robinson, IL | On Site | Aug 24 |
@@ -83,8 +82,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern/Co-op - Refining Electrical Engineering (Fall 2026)](https://jobright.ai/jobs/info/68ab63dcdaf1431824c8edbc?utm_campaign=1048&utm_source=git)** | Detroit, MI | On Site | Aug 24 |
 | ↳ | **[Intern/Co-op - Refining Electrical Engineering (Summer 2026)](https://jobright.ai/jobs/info/68ab6f85daf1431824c8ee74?utm_campaign=1048&utm_source=git)** | Canton, OH | On Site | Aug 24 |
 | ↳ | **[Intern/Co-op - Refining Electrical Engineering (Fall 2026)](https://jobright.ai/jobs/info/68ab6f9edaf1431824c8ee89?utm_campaign=1048&utm_source=git)** | El Paso, TX | On Site | Aug 24 |
-| ↳ | **[Intern/Co-op - Refining Electrical Engineering (Fall 2026)](https://jobright.ai/jobs/info/68ab7028d627244576e3fa5f?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT | On Site | Aug 24 |
 | ↳ | **[Intern/Co-op - Refining Electrical Engineering (Summer 2026)](https://jobright.ai/jobs/info/68ab66b7daf1431824c8ede1?utm_campaign=1048&utm_source=git)** | Mandan, ND | On Site | Aug 24 |
+| ↳ | **[Intern/Co-op - Refining Electrical Engineering (Fall 2026)](https://jobright.ai/jobs/info/68ab7028d627244576e3fa5f?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT | On Site | Aug 24 |
 | ↳ | **[Intern/Co-op - Refining Electrical Engineering (Fall 2026)](https://jobright.ai/jobs/info/68ab6fd3758f2e4ac3fff737?utm_campaign=1048&utm_source=git)** | Garyville, LA | On Site | Aug 24 |
 | ↳ | **[Intern/Co-op - Refining Electrical Engineering (Summer 2026)](https://jobright.ai/jobs/info/68ab7009d627244576e3fa50?utm_campaign=1048&utm_source=git)** | Martinez, CA | On Site | Aug 24 |
 | ↳ | **[Intern/Co-op - Refining Electrical Engineering (Fall 2026)](https://jobright.ai/jobs/info/68ab7012d627244576e3fa55?utm_campaign=1048&utm_source=git)** | Catlettsburg, KY | On Site | Aug 24 |
@@ -98,8 +97,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern/Co-op - Refining Electrical Engineering (Summer 2026)](https://jobright.ai/jobs/info/68ab6f96daf1431824c8ee82?utm_campaign=1048&utm_source=git)** | Robinson, IL | On Site | Aug 24 |
 | ↳ | **[Intern/Co-op - Refining Electrical Engineering (Summer 2026)](https://jobright.ai/jobs/info/68ab6411758f2e4ac3fff672?utm_campaign=1048&utm_source=git)** | Garyville, LA | On Site | Aug 24 |
 | ↳ | **[Intern/Co-op - Refining Electrical Engineering (Summer 2026)](https://jobright.ai/jobs/info/68ab700b758f2e4ac3fff753?utm_campaign=1048&utm_source=git)** | Texas City, TX | On Site | Aug 24 |
-| ↳ | **[Intern/Co-op - Refining Electrical Engineering (Summer 2026)](https://jobright.ai/jobs/info/68ab6f6bd627244576e3fa05?utm_campaign=1048&utm_source=git)** | Detroit, MI | On Site | Aug 24 |
 | ↳ | **[Intern/Co-op - Refining Electrical Engineering (Summer 2026)](https://jobright.ai/jobs/info/68ab63ead627244576e3f957?utm_campaign=1048&utm_source=git)** | Anacortes, WA | On Site | Aug 24 |
+| ↳ | **[Intern/Co-op - Refining Electrical Engineering (Summer 2026)](https://jobright.ai/jobs/info/68ab6f6bd627244576e3fa05?utm_campaign=1048&utm_source=git)** | Detroit, MI | On Site | Aug 24 |
 | ↳ | **[Intern/Co-op - Refining Electrical Engineering (Summer 2026)](https://jobright.ai/jobs/info/68ab63e6758f2e4ac3fff664?utm_campaign=1048&utm_source=git)** | Catlettsburg, KY | On Site | Aug 24 |
 | ↳ | **[Intern/Co-op - Refining Electrical Engineering (Fall 2026)](https://jobright.ai/jobs/info/68ab66b8758f2e4ac3fff681?utm_campaign=1048&utm_source=git)** | Martinez, CA | On Site | Aug 24 |
 | **[Electric Power Systems, Inc.](https://epsenergy.com/)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/68ab76f9d627244576e3fade?utm_campaign=1048&utm_source=git)** | Logan, UT | On Site | Aug 24 |
@@ -111,8 +110,8 @@ For a complete list, click the following sortable link below:
 | **[Tulane University School of Medicine](https://medicine.tulane.edu)** | **[Postdoc Fellow, MAC  >>>](https://jobright.ai/jobs/info/68ab7320d627244576e3fa81?utm_campaign=1048&utm_source=git)** | New Orleans, LA | On Site | Aug 24 |
 | ↳ | **[Postdoctoral Scholar - Computational Materials Science  >>>](https://jobright.ai/jobs/info/68ab72f4758f2e4ac3fff785?utm_campaign=1048&utm_source=git)** | New Orleans, LA | On Site | Aug 24 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/co-op - Refining Construction Management (Summer 2026)](https://jobright.ai/jobs/info/68ab7008d627244576e3fa4f?utm_campaign=1048&utm_source=git)** | Texas City, TX | On Site | Aug 24 |
-| ↳ | **[Intern/Co-op - Refining Mechanical Engineer (Summer 2026)](https://jobright.ai/jobs/info/68ab7004758f2e4ac3fff74c?utm_campaign=1048&utm_source=git)** | Findlay, OH | On Site | Aug 24 |
 | ↳ | **[Intern/Co-op - Refining Mechanical Engineer (Fall 2026)](https://jobright.ai/jobs/info/68ab7004758f2e4ac3fff74d?utm_campaign=1048&utm_source=git)** | Robinson, IL | On Site | Aug 24 |
+| ↳ | **[Intern/Co-op - Refining Mechanical Engineer (Summer 2026)](https://jobright.ai/jobs/info/68ab7004758f2e4ac3fff74c?utm_campaign=1048&utm_source=git)** | Findlay, OH | On Site | Aug 24 |
 | ↳ | **[Intern/co-op - Refining Construction Management (Summer 2026)](https://jobright.ai/jobs/info/68ab7000d627244576e3fa4a?utm_campaign=1048&utm_source=git)** | Anacortes, WA | On Site | Aug 24 |
 | ↳ | **[Intern/co-op - Refining Construction Management (Summer 2026)](https://jobright.ai/jobs/info/68ab6ffe758f2e4ac3fff747?utm_campaign=1048&utm_source=git)** | Canton, OH | On Site | Aug 24 |
 | ↳ | **[Intern/co-op - Refining Construction Management (Fall 2026)](https://jobright.ai/jobs/info/68ab6ff5d627244576e3fa44?utm_campaign=1048&utm_source=git)** | Canton, OH | On Site | Aug 24 |
@@ -130,8 +129,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern/co-op - Refining Construction Management (Fall 2026)](https://jobright.ai/jobs/info/68ab6f95daf1431824c8ee7f?utm_campaign=1048&utm_source=git)** | Catlettsburg, KY | On Site | Aug 24 |
 | ↳ | **[Intern/Co-op - Refining Mechanical Engineer (Fall 2026)](https://jobright.ai/jobs/info/68ab6f8d758f2e4ac3fff71b?utm_campaign=1048&utm_source=git)** | Findlay, OH | On Site | Aug 24 |
 | ↳ | **[Intern/Co-op - Refining Mechanical Engineer (Summer 2026)](https://jobright.ai/jobs/info/68ab6f85758f2e4ac3fff714?utm_campaign=1048&utm_source=git)** | Mandan, ND | On Site | Aug 24 |
-| ↳ | **[Intern/Co-op - Refining Mechanical Engineer (Fall 2026)](https://jobright.ai/jobs/info/68ab6f83d627244576e3fa12?utm_campaign=1048&utm_source=git)** | Martinez, CA | On Site | Aug 24 |
 | ↳ | **[Intern/Co-op - Refining Mechanical Engineer (Summer 2026)](https://jobright.ai/jobs/info/68ab6f83d627244576e3fa13?utm_campaign=1048&utm_source=git)** | Detroit, MI | On Site | Aug 24 |
+| ↳ | **[Intern/Co-op - Refining Mechanical Engineer (Fall 2026)](https://jobright.ai/jobs/info/68ab6f83d627244576e3fa12?utm_campaign=1048&utm_source=git)** | Martinez, CA | On Site | Aug 24 |
 | ↳ | **[Intern/co-op - Refining Construction Management (Fall 2026)](https://jobright.ai/jobs/info/68ab6f81758f2e4ac3fff711?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT | On Site | Aug 24 |
 | ↳ | **[Intern/co-op - Refining Construction Management (Summer 2026)](https://jobright.ai/jobs/info/68ab6f7fdaf1431824c8ee70?utm_campaign=1048&utm_source=git)** | Detroit, MI | On Site | Aug 24 |
 | ↳ | **[Intern/Co-op - Refining Mechanical Engineer (Summer 2026)](https://jobright.ai/jobs/info/68ab6f7dd627244576e3fa0f?utm_campaign=1048&utm_source=git)** | St Paul Park, MN | On Site | Aug 24 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern/Co-op - Refining Mechanical Engineer (Summer 2026)](https://jobright.ai/jobs/info/68ab63f5daf1431824c8edc5?utm_campaign=1048&utm_source=git)** | Kenai, AK | On Site | Aug 24 |
 | ↳ | **[Intern/co-op - Refining Construction Management (Summer 2026)](https://jobright.ai/jobs/info/68ab63f2758f2e4ac3fff667?utm_campaign=1048&utm_source=git)** | Findlay, OH | On Site | Aug 24 |
 | ↳ | **[Intern/co-op - Refining Construction Management (Summer 2026)](https://jobright.ai/jobs/info/68ab63e5daf1431824c8edc0?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT | On Site | Aug 24 |
+| ↳ | **[Intern/co-op - Refining Construction Management (Summer 2026)](https://jobright.ai/jobs/info/68ab63c7daf1431824c8edb6?utm_campaign=1048&utm_source=git)** | Robinson, IL | On Site | Aug 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
