@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Power Electronics Firmware Engineer, Energy Engineering (Winter/Spring 2026)](https://jobright.ai/jobs/info/68ad4aa5758f2e4ac300c8f8?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Aug 25 |
+| **[Fred Hutch](http://www.fredhutch.org/)** | **[Post-Doctoral Research Fellow](https://jobright.ai/jobs/info/68ad4927daf1431824c9bf4a?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Aug 25 |
+| **[GFT](https://www.gftinc.com/)** | **[Intern - Water Engineering](https://jobright.ai/jobs/info/68ad489dd627244576e4c972?utm_campaign=1048&utm_source=git)** | Mechanicsburg, PA | Remote | Aug 25 |
+| **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Distribution Center Industrial Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/68ad43fa758f2e4ac300c6ab?utm_campaign=1048&utm_source=git)** | Swedesboro, NJ | On Site | Aug 25 |
+| **[Raytheon](http://www.bbn.com)** | **[SkillBridge Support Services Engineering Intern](https://jobright.ai/jobs/info/68ad43f0daf1431824c9bdd0?utm_campaign=1048&utm_source=git)** | Tucson, AZ | Hybrid | Aug 25 |
+| **[RAM Aviation, Space & Defense](https://ramasd.com)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/68ad43c3daf1431824c9bd98?utm_campaign=1048&utm_source=git)** | St George, UT | On Site | Aug 25 |
+| **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Distribution Center Industrial Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/68ad41d1daf1431824c9baf8?utm_campaign=1048&utm_source=git)** | Riverside, CA | On Site | Aug 25 |
+| **[Clow Valve Company](https://www.clowvalve.com/)** | **[Clow Valve - Videographer Intern](https://jobright.ai/jobs/info/68ad3deb758f2e4ac300c281?utm_campaign=1048&utm_source=git)** | Oskaloosa, IA | On Site | Aug 25 |
 | **[Cincinnati Children's](http://cincinnatichildrens.org)** | **[Research Fellow - Circadian and Sensory Integration](https://jobright.ai/jobs/info/68ad2de2d627244576e4bc29?utm_campaign=1048&utm_source=git)** | Cincinnati, OH | On Site | Aug 25 |
 | **[Murray Company](http://murraycompany.com)** | **[Project Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/68ad2938d627244576e4ba82?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Aug 25 |
 | ↳ | **[Project Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/68ad2920758f2e4ac300b5ce?utm_campaign=1048&utm_source=git)** | San Leandro, CA | On Site | Aug 25 |
@@ -122,6 +130,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Water Engineering Intern](https://jobright.ai/jobs/info/68ad143c758f2e4ac300ac52?utm_campaign=1048&utm_source=git)** | Fort Worth, TX | On Site | Aug 25 |
 | ↳ | **[Aviation Intern - Civil Engineering](https://jobright.ai/jobs/info/68ad143b758f2e4ac300ac51?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | Aug 25 |
 | ↳ | **[Water Intern - Hydraulic Modeling](https://jobright.ai/jobs/info/68ad1425daf1431824c9a40c?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Aug 25 |
+| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Hardware Engineer intern](https://jobright.ai/jobs/info/68a71e51758f2e4ac3fe97a3?utm_campaign=1048&utm_source=git)** | Spring, TX | Hybrid | Aug 25 |
 | **[Woolpert](http://www.woolpert.com)** | **[Transportation Engineer Intern - Spring 2026](https://jobright.ai/jobs/info/68ad1120daf1431824c9a3c1?utm_campaign=1048&utm_source=git)** | Cincinnati, OH | On Site | Aug 25 |
 | ↳ | **[Transportation Engineer Intern - Spring 2026](https://jobright.ai/jobs/info/68ad1114758f2e4ac300ab96?utm_campaign=1048&utm_source=git)** | Columbus, OH | On Site | Aug 25 |
 | **[Fifth Third Bank](http://53.com)** | **[Information Security Co-op - SecDev Services - Spring 2026](https://jobright.ai/jobs/info/68ad1079d627244576e4afcc?utm_campaign=1048&utm_source=git)** | Cincinnati, OH | On Site | Aug 25 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Subsea7](http://www.subsea7.com/en/index.html)** | **[Structural 1 intern](https://jobright.ai/jobs/info/68ad0b68d627244576e4ad20?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Aug 25 |
 | **[Kiewit](http://www.kiewit.com)** | **[Field Engineer Intern - Bridge and Marine District](https://jobright.ai/jobs/info/68ad0b66758f2e4ac300a932?utm_campaign=1048&utm_source=git)** | Ilwaco, WA | On Site | Aug 25 |
 | **[Subsea7](http://www.subsea7.com/en/index.html)** | **[Pipeline Design intern](https://jobright.ai/jobs/info/68ad0b61daf1431824c9a0f0?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Aug 25 |
-| ↳ | **[Mooring intern](https://jobright.ai/jobs/info/68ad0b61758f2e4ac300a92d?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Aug 25 |
-| **[Micron Technology](http://www.micron.com)** | **[Intern - Systems Software](https://jobright.ai/jobs/info/68ad0ae6daf1431824c9a06a?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Aug 25 |
-| **[Kiewit](http://www.kiewit.com)** | **[Field Engineer Intern - Bridge and Marine District](https://jobright.ai/jobs/info/68ad0ae2daf1431824c9a067?utm_campaign=1048&utm_source=git)** | New Orleans, LA | On Site | Aug 25 |
-| ↳ | **[Field Engineer Intern - Bridge and Marine District](https://jobright.ai/jobs/info/68ad0ad0758f2e4ac300a89c?utm_campaign=1048&utm_source=git)** | Everett, WA | On Site | Aug 25 |
-| **[Subsea7](http://www.subsea7.com/en/index.html)** | **[Analysis Intern](https://jobright.ai/jobs/info/68ad0ab5daf1431824c9a026?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Aug 25 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Structural Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/68ad0aa8758f2e4ac300a86f?utm_campaign=1048&utm_source=git)** | Richmond, VA | On Site | Aug 25 |
-| **[HCA Healthcare](https://hcahealthcare.com/)** | **[Technical Analyst Intern PRN](https://jobright.ai/jobs/info/68ad0aa0daf1431824c9a008?utm_campaign=1048&utm_source=git)** | El Paso, TX | On Site | Aug 25 |
-| **[Kiewit](http://www.kiewit.com)** | **[Field Engineer Intern - Bridge and Marine District](https://jobright.ai/jobs/info/68ad0a9e758f2e4ac300a863?utm_campaign=1048&utm_source=git)** | Vancouver, WA | On Site | Aug 25 |
-| ↳ | **[Field Engineer Intern - Bridge and Marine District](https://jobright.ai/jobs/info/68ad0a99758f2e4ac300a85b?utm_campaign=1048&utm_source=git)** | Savannah, GA | On Site | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
