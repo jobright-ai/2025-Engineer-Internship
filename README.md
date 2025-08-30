@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walmart](http://www.walmart.com)** | **[2025 Intern Conversion - 2026 FT: Manager, Automation Engineering](https://jobright.ai/jobs/info/68b31d30bc187f64e1bdfc03?utm_campaign=1048&utm_source=git)** | Bentonville, AR | On Site | Aug 30 |
+| **[Access Lifts Florida Inc.](https://www.cibessymmetry.com/)** | **[Elevator Mechanic Apprentice](https://jobright.ai/jobs/info/68b313391ade4306aa63aba4?utm_campaign=1048&utm_source=git)** | Hollywood, FL | On Site | Aug 30 |
+| **[ARAUCO - North America](https://na.arauco.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/689739be1b9e81727f19679a?utm_campaign=1048&utm_source=git)** | Albany, OR | On Site | Aug 30 |
+| **[Midmark Corporation](http://www.midmark.com/)** | **[Mechanical Engineering Co-op - Spring 2026](https://jobright.ai/jobs/info/685dfe3bbee2fb40984e7ef2?utm_campaign=1048&utm_source=git)** | Versailles, OH | On Site | Aug 30 |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Reforesting the Future: Volunteering for Portugals Forest Conservation](https://jobright.ai/jobs/info/68b3060f1ade4306aa63aa51?utm_campaign=1048&utm_source=git)** | Pasadena, CA | On Site | Aug 30 |
+| **[Georgia Institute of Technology](http://gatech.edu)** | **[Research Intern (PIN Fellowship)](https://jobright.ai/jobs/info/68985c9e5574fd6bc0c79074?utm_campaign=1048&utm_source=git)** | Atlanta Metro | On Site | Aug 30 |
 | **[Siemens](https://www.siemens.com/)** | **[Protection & Automation Mechanical Engineering Summer - Fall 2026 Co-Op (North Carolina State University)](https://jobright.ai/jobs/info/68b3024cf4e41a61efd887ee?utm_campaign=1048&utm_source=git)** | Raleigh, NC | On Site | Aug 30 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[Digital & Information Technology - Infrastructure & Information Security Internship - Summer 2026](https://jobright.ai/jobs/info/68b30207f4e41a61efd887ca?utm_campaign=1048&utm_source=git)** | Plymouth, MN | On Site | Aug 30 |
 | ↳ | **[Electrical/Software/Controls Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68b301a41ade4306aa63a9cc?utm_campaign=1048&utm_source=git)** | Wyoming, MN | On Site | Aug 30 |
@@ -89,6 +95,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Road Engineering Internship - Akron, OH](https://jobright.ai/jobs/info/68974c0a8c6d6b4426788d8b?utm_campaign=1048&utm_source=git)** | Akron, OH | On Site | Aug 30 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[MILITARY DoD SKILLBRIDGE Field Engineer (Northeast Region)](https://jobright.ai/jobs/info/68b2ddb61ade4306aa63a471?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Aug 30 |
 | **[Walmart](http://www.walmart.com)** | **[2025 Intern Conversion - 2026 FT: Manager, Automation Engineering](https://jobright.ai/jobs/info/68b2dd921ade4306aa63a460?utm_campaign=1048&utm_source=git)** | Buckeye, AZ | On Site | Aug 30 |
+| **[Wallace Design Collective](https://wallace.design/)** | **[Structural Summer Internship](https://jobright.ai/jobs/info/68b168906fab621da7b0d6ff?utm_campaign=1048&utm_source=git)** | Kansas City, MO | On Site | Aug 30 |
+| **[MWH](https://mwhconstructors.com)** | **[Construction Intern](https://jobright.ai/jobs/info/689abba95574fd6bc0c8590f?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Aug 30 |
 | **[MSI Mold Builders](https://www.msimoldbuilders.com)** | **[CNC Internship](https://jobright.ai/jobs/info/68b2d368f4e41a61efd88167?utm_campaign=1048&utm_source=git)** | Cedar Rapids, IA | On Site | Aug 30 |
 | **[Sandhills Community College](http://www.sandhills.edu)** | **[Engineering and Construction Technologies Toelle Student Success Center - Student Associate](https://jobright.ai/jobs/info/68b2cf211ade4306aa63a2c4?utm_campaign=1048&utm_source=git)** | Pinehurst, NC | On Site | Aug 30 |
 | **[Peter Basso Associates](http://www.peterbassoassociates.com/)** | **[Electrical Co-Op Fall 2026](https://jobright.ai/jobs/info/68b2e742bc187f64e1bdf4ef?utm_campaign=1048&utm_source=git)** | Troy, MI | On Site | Aug 30 |
@@ -98,13 +106,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Masters Hardware Engineering Co-Op](https://jobright.ai/jobs/info/68b2d2ddf4e41a61efd88135?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Aug 30 |
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Engineering Intern](https://jobright.ai/jobs/info/68b2adc71ade4306aa639c64?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Aug 30 |
 | **[WVU Department of Mechanical, Materials and Aerospace Engineering](https://mmae.statler.wvu.edu/)** | **[Postdoctoral Fellow - Department of Computer Science and Electrical Engineering- 27814](https://jobright.ai/jobs/info/68b2c7a6bc187f64e1bdf069?utm_campaign=1048&utm_source=git)** | Morgantown, WV | On Site | Aug 30 |
-| **[ABB](https://global.abb/group/en)** | **[Ausbildung Elektroniker/-in für Betriebstechnik (m/w/d) 2026](https://jobright.ai/jobs/info/68b2a859f4e41a61efd8784f?utm_campaign=1048&utm_source=git)** | Location, WV | On Site | Aug 30 |
 | **[HPE Aruba Networking](http://www.arubanetworks.com)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/68b2a7c6f4e41a61efd87721?utm_campaign=1048&utm_source=git)** | Roseville, CA | On Site | Aug 30 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Retail Internship - Pipeline - Central Indiana Division](https://jobright.ai/jobs/info/68b2a798bc187f64e1bde7b0?utm_campaign=1048&utm_source=git)** | Peru, IN | On Site | Aug 30 |
 | ↳ | **[Internship Retail - Pipeline - Northern OH Division](https://jobright.ai/jobs/info/68b2a350bc187f64e1bde3e3?utm_campaign=1048&utm_source=git)** | Morenci, MI | On Site | Aug 30 |
 | **[ABB](https://global.abb/group/en)** | **[Duales Studium Sustainable Science and Technology (m/w/d) 2025](https://jobright.ai/jobs/info/68b2a291f4e41a61efd87342?utm_campaign=1048&utm_source=git)** | Location, WV | On Site | Aug 30 |
 | ↳ | **[Werkstudent (m/w/d) - Netzwerkberechnungen in der Elektrotechnik](https://jobright.ai/jobs/info/68b2a289f4e41a61efd87337?utm_campaign=1048&utm_source=git)** | Location, WV | On Site | Aug 30 |
-| ↳ | **[R&D Intern](https://jobright.ai/jobs/info/68b2a268bc187f64e1bde2da?utm_campaign=1048&utm_source=git)** | Location, WV | On Site | Aug 30 |
 | ↳ | **[Quality Intern](https://jobright.ai/jobs/info/68a02c6a83d13d1f5b6cedb1?utm_campaign=1048&utm_source=git)** | Location, WV | On Site | Aug 30 |
 | ↳ | **[Global Sustainable Sourcing Intern](https://jobright.ai/jobs/info/68b2a1b3f4e41a61efd8729b?utm_campaign=1048&utm_source=git)** | Location, WV | On Site | Aug 30 |
 | **[AMD](http://www.amd.com)** | **[2026 Masters Hardware Engineering Intern](https://jobright.ai/jobs/info/68b29d9d1ade4306aa638fe9?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Aug 29 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Greenheck Group](https://www.greenheckgroup.com)** | **[Automation Engineer Co-op](https://jobright.ai/jobs/info/68b26ca21ade4306aa636463?utm_campaign=1048&utm_source=git)** | Schofield, WI | Hybrid | Aug 29 |
 | **[Volvo Construction Equipment](http://www.volvoce.com)** | **[Intern: Engineering, Asphalt Compaction (Fall 2025)](https://jobright.ai/jobs/info/68b267b9bc187f64e1bdafa9?utm_campaign=1048&utm_source=git)** | Shippensburg, PA | On Site | Aug 29 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Project SURE STEM Scholar - SPC - req9193](https://jobright.ai/jobs/info/68b26724bc187f64e1bdaedb?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Aug 29 |
-| **[Industrious Group Inc.](https://www.industriousgroup.com)** | **[Mechanical Engineer Co - Op (Spring Term)](https://jobright.ai/jobs/info/68b266fdf4e41a61efd83d1f?utm_campaign=1048&utm_source=git)** | York, PA | On Site | Aug 29 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Motor Controls Engineer, Vehicle Controls (Winter/Spring 2026)](https://jobright.ai/jobs/info/68b25db11ade4306aa635d74?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Aug 29 |
-| **[Nutrien](https://www.nutrien.com/)** | **[Internship Retail - Pipeline - Northern OH Division](https://jobright.ai/jobs/info/68b25d45f4e41a61efd83a45?utm_campaign=1048&utm_source=git)** | Polk, OH | On Site | Aug 29 |
-| ↳ | **[Internship Retail - Pipeline - Northern OH Division](https://jobright.ai/jobs/info/68b25d441ade4306aa635d35?utm_campaign=1048&utm_source=git)** | Reading, MI | On Site | Aug 29 |
-| **[KPFF Consulting Engineers](http://www.kpff.com)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/68b25d38f4e41a61efd83a41?utm_campaign=1048&utm_source=git)** | Newport Beach, CA | Hybrid | Aug 29 |
-| **[MITER Brands](https://www.miterbrands.com/)** | **[Engineering Intern I](https://jobright.ai/jobs/info/68b25af4bc187f64e1bdabf8?utm_campaign=1048&utm_source=git)** | Gratz, PA | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
