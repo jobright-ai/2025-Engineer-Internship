@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Philadelphia](http://www.phila.gov/)** | **[Engineering Intern](https://jobright.ai/jobs/info/68b2adc71ade4306aa639c64?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Aug 30 |
+| **[WVU Department of Mechanical, Materials and Aerospace Engineering](https://mmae.statler.wvu.edu/)** | **[Postdoctoral Fellow - Department of Computer Science and Electrical Engineering- 27814](https://jobright.ai/jobs/info/68b2c7a6bc187f64e1bdf069?utm_campaign=1048&utm_source=git)** | Morgantown, WV | On Site | Aug 30 |
 | **[ABB](https://global.abb/group/en)** | **[Ausbildung Elektroniker/-in für Betriebstechnik (m/w/d) 2026](https://jobright.ai/jobs/info/68b2a859f4e41a61efd8784f?utm_campaign=1048&utm_source=git)** | Location, WV | On Site | Aug 30 |
 | **[HPE Aruba Networking](http://www.arubanetworks.com)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/68b2a7c6f4e41a61efd87721?utm_campaign=1048&utm_source=git)** | Roseville, CA | On Site | Aug 30 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Retail Internship - Pipeline - Central Indiana Division](https://jobright.ai/jobs/info/68b2a798bc187f64e1bde7b0?utm_campaign=1048&utm_source=git)** | Peru, IN | On Site | Aug 30 |
@@ -71,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[fairlife, LLC](http://www.fairlife.com)** | **[Continuous Improvement Intern](https://jobright.ai/jobs/info/68b29ce7f4e41a61efd87093?utm_campaign=1048&utm_source=git)** | Coopersville, MI | On Site | Aug 29 |
 | **[ABB](https://global.abb/group/en)** | **[Duales Studium Sustainable Science and Technology (m/w/d) 2026](https://jobright.ai/jobs/info/68b29c721ade4306aa638e7b?utm_campaign=1048&utm_source=git)** | Location, WV | On Site | Aug 29 |
 | **[AMD](http://www.amd.com)** | **[2026 Masters Hardware Engineering Co-Op](https://jobright.ai/jobs/info/68b29b5cf4e41a61efd86eef?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Aug 29 |
+| **[Trane](http://www.trane.com)** | **[Engineering Co-Op](https://jobright.ai/jobs/info/68b2addf1ade4306aa639c6f?utm_campaign=1048&utm_source=git)** | Grand Rapids, MI | On Site | Aug 29 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2026 Intern - Warehouse Optimization](https://jobright.ai/jobs/info/68b297bd1ade4306aa638b98?utm_campaign=1048&utm_source=git)** | Williamson, NY | On Site | Aug 29 |
 | **[AMD](http://www.amd.com)** | **[2026 Masters Hardware Engineering Intern](https://jobright.ai/jobs/info/68b29789f4e41a61efd86e3d?utm_campaign=1048&utm_source=git)** | Longmont, CO | On Site | Aug 29 |
 | ↳ | **[2026 Undergrad Hardware Engineering Co-Op](https://jobright.ai/jobs/info/68b2975cbc187f64e1bddb55?utm_campaign=1048&utm_source=git)** | Boxborough, MA | On Site | Aug 29 |
@@ -96,7 +99,12 @@ For a complete list, click the following sortable link below:
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[MILITARY DoD SKILLBRIDGE Field Engineer (West Region)](https://jobright.ai/jobs/info/68b289b1f4e41a61efd86018?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Aug 29 |
 | **[fairlife, LLC](http://www.fairlife.com)** | **[Engineering Utilities Intern](https://jobright.ai/jobs/info/68b2897c1ade4306aa637d88?utm_campaign=1048&utm_source=git)** | Goodyear, AZ | On Site | Aug 29 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[MILITARY DoD SKILLBRIDGE Field Engineer (West Region)](https://jobright.ai/jobs/info/68b28863f4e41a61efd85b8d?utm_campaign=1048&utm_source=git)** | Shawnee, OK | On Site | Aug 29 |
-| ↳ | **[MILITARY DoD SKILLBRIDGE Field Engineer (Northeast Region)](https://jobright.ai/jobs/info/68b28506bc187f64e1bdc99a?utm_campaign=1048&utm_source=git)** | New Jersey, United States | On Site | Aug 29 |
+| **[AMD](http://www.amd.com)** | **[2026 Masters Hardware Engineering Intern](https://jobright.ai/jobs/info/68b2c8a7bc187f64e1bdf115?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Aug 29 |
+| ↳ | **[2026 Undergrad Hardware Engineering Intern](https://jobright.ai/jobs/info/68b2c39b1ade4306aa63a00b?utm_campaign=1048&utm_source=git)** | Longmont, CO | On Site | Aug 29 |
+| ↳ | **[2026 Undergrad Hardware Engineering Intern](https://jobright.ai/jobs/info/68b2c7a6bc187f64e1bdf068?utm_campaign=1048&utm_source=git)** | Boxborough, MA | On Site | Aug 29 |
+| ↳ | **[2026 Masters Product Development Engineering Intern](https://jobright.ai/jobs/info/68b2c14ebc187f64e1bdef01?utm_campaign=1048&utm_source=git)** | Longmont, CO | On Site | Aug 29 |
+| ↳ | **[2026 Masters Hardware Engineering Intern](https://jobright.ai/jobs/info/68b2c1581ade4306aa639f52?utm_campaign=1048&utm_source=git)** | Fort Collins, CO | On Site | Aug 29 |
+| **[GE HealthCare](http://www.gehealthcare.com)** | **[MILITARY DoD SKILLBRIDGE Field Engineer (Northeast Region)](https://jobright.ai/jobs/info/68b28506bc187f64e1bdc99a?utm_campaign=1048&utm_source=git)** | New Jersey, United States | On Site | Aug 29 |
 | **[AMD](http://www.amd.com)** | **[2026 Masters Hardware Engineering Co-Op](https://jobright.ai/jobs/info/68b2a8fef4e41a61efd8799c?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Aug 29 |
 | **[Henkel](http://www.henkel.com)** | **[R&D Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/68b2a7c2bc187f64e1bde806?utm_campaign=1048&utm_source=git)** | Trumbull, CT | On Site | Aug 29 |
 | **[Princess Cruises](http://www.princess.com)** | **[Winter Internship - Electrical Systems](https://jobright.ai/jobs/info/68b2811bbc187f64e1bdc68a?utm_campaign=1048&utm_source=git)** | Miami, FL, United States | Hybrid | Aug 29 |
@@ -130,6 +138,7 @@ For a complete list, click the following sortable link below:
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Engineering Intern (Summer 2026) - Littleton NH](https://jobright.ai/jobs/info/68b25228bc187f64e1bda982?utm_campaign=1048&utm_source=git)** | Littleton, NH | On Site | Aug 29 |
 | **[US Conec](http://www.usconec.com/)** | **[Manufacturing Engineer Intern – Fort Worth, TX Summer 2026](https://jobright.ai/jobs/info/68b2521fbc187f64e1bda973?utm_campaign=1048&utm_source=git)** | Fort Worth, TX | On Site | Aug 29 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Retail Internship - Pipeline - Michigan Division](https://jobright.ai/jobs/info/68b2521bbc187f64e1bda970?utm_campaign=1048&utm_source=git)** | Owendale, MI | On Site | Aug 29 |
+| ↳ | **[Retail Internship - Pipeline - Michigan Division](https://jobright.ai/jobs/info/68b2c31ebc187f64e1bdefc6?utm_campaign=1048&utm_source=git)** | Sparta, MI | On Site | Aug 29 |
 | **[BNSF Railway](http://www.bnsf.com/)** | **[Mechanical (Shop Environment) Summer Intern (Paid) 2026](https://jobright.ai/jobs/info/68b2512ef4e41a61efd83748?utm_campaign=1048&utm_source=git)** | Barstow, CA | On Site | Aug 29 |
 | **[Henkel](http://www.henkel.com)** | **[Packaging Engineering Intern – Spring 2026](https://jobright.ai/jobs/info/68b25127bc187f64e1bda888?utm_campaign=1048&utm_source=git)** | Darien, None, US | On Site | Aug 29 |
 | **[HNTB](http://www.hntb.com/)** | **[Intern Engineer - Summer 2026](https://jobright.ai/jobs/info/68b2511b1ade4306aa635a20?utm_campaign=1048&utm_source=git)** | Grand Rapids, MI | On Site | Aug 29 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tetra Tech](http://www.tetratech.com)** | **[Engineering Intern (Remote)](https://jobright.ai/jobs/info/68b24e341ade4306aa635712?utm_campaign=1048&utm_source=git)** | Diamond Bar, California, United States | Remote | Aug 29 |
 | **[AMD](http://www.amd.com)** | **[Summer 2026 Undergrad Field Applications Engineer Intern](https://jobright.ai/jobs/info/68b24dedbc187f64e1bda74c?utm_campaign=1048&utm_source=git)** | San Jose, California | On Site | Aug 29 |
 | **[Mr. Plumber](https://mrplumberindy.com)** | **[Plumbing Projects Apprentice - Mr. Plumber](https://jobright.ai/jobs/info/68b24d4ef4e41a61efd83425?utm_campaign=1048&utm_source=git)** | US-IN-Indianapolis | On Site | Aug 29 |
-| **[Henkel](http://www.henkel.com)** | **[Application Engineering Intern - Year-Round - 2026](https://jobright.ai/jobs/info/68b24d17bc187f64e1bda677?utm_campaign=1048&utm_source=git)** | Madison Heights, None, US | On Site | Aug 29 |
-| **[SRF Consulting Group](http://srfconsulting.com)** | **[Roadway Design Internship](https://jobright.ai/jobs/info/68b24d0bbc187f64e1bda664?utm_campaign=1048&utm_source=git)** | Minneapolis, MN; St. Paul, MN | On Site | Aug 29 |
-| **[ECC](https://www.ecc.net/)** | **[Intern – Construction Management](https://jobright.ai/jobs/info/68b24ce41ade4306aa635600?utm_campaign=1048&utm_source=git)** | Lakewood, Colorado | On Site | Aug 29 |
-| **[AMD](http://www.amd.com)** | **[Summer 2026 Masters Field Applications Engineer Intern](https://jobright.ai/jobs/info/68b24ce01ade4306aa6355fc?utm_campaign=1048&utm_source=git)** | San Jose, California | On Site | Aug 29 |
-| **[US Conec](http://www.usconec.com/)** | **[Manufacturing Engineer Intern – Fort Worth, TX Summer 2026](https://jobright.ai/jobs/info/68b24cadf4e41a61efd8339e?utm_campaign=1048&utm_source=git)** | US Conec - TX North | On Site | Aug 29 |
-| **[Colortech Inc.](http://colortech.com)** | **[Technical Services Representative Student Intern/Coop](https://jobright.ai/jobs/info/68b24ca8f4e41a61efd83399?utm_campaign=1048&utm_source=git)** | Morristown, TN, USA | On Site | Aug 29 |
-| **[Henkel](http://www.henkel.com)** | **[R&D Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/68b24c5cf4e41a61efd83366?utm_campaign=1048&utm_source=git)** | Trumbull, None, US | On Site | Aug 29 |
-| **[BNSF Railway](http://www.bnsf.com/)** | **[Environmental Sustainability Summer Intern (Paid) 2026](https://jobright.ai/jobs/info/68b24bf6f4e41a61efd8331e?utm_campaign=1048&utm_source=git)** | DFW Metroplex | Hybrid | Aug 29 |
-| **[fairlife, LLC](http://www.fairlife.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/68b24bbc1ade4306aa6355d6?utm_campaign=1048&utm_source=git)** | Coopersville, Michigan, United States | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
