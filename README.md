@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Flight School - Flight Operations (Spring, 2025)](https://jobright.ai/jobs/info/68b434adf4e41a61efd8bfd2?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Aug 31 |
+| **[Worthington Enterprises](https://www.worthingtonenterprises.com/)** | **[NPD Engineering Co-Op](https://jobright.ai/jobs/info/68b44984bc187f64e1be328a?utm_campaign=1048&utm_source=git)** | Malvern, PA | On Site | Aug 31 |
+| **[Amazon](https://amazon.com)** | **[Amazon Robotics - Applied Scientist II Intern / Co-op - 2025 (Robotics, Manipulation, Perception, Motion Planning, Autonomous Mobile Robots, Computer Vision, Machine Learning, Controls, and more)](https://jobright.ai/jobs/info/68b449731ade4306aa63e2cf?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Aug 31 |
+| **[Santander Consumer USA](https://santanderconsumerusa.com/)** | **[Database Administrator Intern](https://jobright.ai/jobs/info/68b43d801ade4306aa63e1c8?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | Aug 31 |
+| **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Emerging Technology Risk Management Intern](https://jobright.ai/jobs/info/68b43d591ade4306aa63e1b9?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | Aug 31 |
 | **[Peter Basso Associates](http://www.peterbassoassociates.com/)** | **[Electrical Co-Op Fall 2026](https://jobright.ai/jobs/info/68b42949bc187f64e1be2fca?utm_campaign=1048&utm_source=git)** | Troy, MI | On Site | Aug 31 |
 | **[Wavetronix](http://www.wavetronix.com)** | **[Electrical/Computer Engineering Internship Summer 2026](https://jobright.ai/jobs/info/68b4201cbc187f64e1be2f74?utm_campaign=1048&utm_source=git)** | Springville, UT | On Site | Aug 31 |
+| **[Helix Electric](http://www.helixelectric.com)** | **[Project Engineer Intern - Spring 26](https://jobright.ai/jobs/info/682022f1379642f5903b58fa?utm_campaign=1048&utm_source=git)** | Goodyear, AZ | On Site | Aug 31 |
+| **[IBM](http://www.ibm.com)** | **[P-TECH Summer Intern 2025 - Level 1 (ON/NS) - Nova Scotia Community College - (NSCC)](https://jobright.ai/jobs/info/6842c51e7114b8fba03d8f61?utm_campaign=1048&utm_source=git)** | Bedford, IN | Remote | Aug 31 |
 | **[Cirrus Logic](https://cirrus.com/)** | **[Summer Intern - Analog Design Engineer](https://jobright.ai/jobs/info/689861045574fd6bc0c797ee?utm_campaign=1048&utm_source=git)** | Greater Phoenix Area | Hybrid | Aug 31 |
 | ↳ | **[Summer Intern - Digital Design Engineer](https://jobright.ai/jobs/info/6898493ffaa4e875e824d0aa?utm_campaign=1048&utm_source=git)** | Austin, TX | Hybrid | Aug 31 |
 | ↳ | **[Spring Intern - Analog Design Engineer](https://jobright.ai/jobs/info/6897ea248c6d6b4426794057?utm_campaign=1048&utm_source=git)** | Austin, TX | Hybrid | Aug 31 |
@@ -67,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[MathWorks](http://www.mathworks.com)** | **[Multiple Openings-Engineering Development Group Internship](https://jobright.ai/jobs/info/671a69ea75c42966c795fe8d?utm_campaign=1048&utm_source=git)** | Natick, MA | Hybrid | Aug 31 |
 | **[Cirrus Logic](https://cirrus.com/)** | **[Summer Intern - Analog Design Engineer](https://jobright.ai/jobs/info/68985c765574fd6bc0c79021?utm_campaign=1048&utm_source=git)** | Austin, TX | Hybrid | Aug 31 |
 | ↳ | **[Summer Intern - Design Verification Engineer](https://jobright.ai/jobs/info/68984e5d5574fd6bc0c77b29?utm_campaign=1048&utm_source=git)** | Austin, TX | Hybrid | Aug 31 |
+| **[JT4](https://www.jt4llc.com/)** | **[JT4 SkillBridge Program - System Administrator Opportunities at Edwards AFB, CA](https://jobright.ai/jobs/info/6897227b1b9e81727f1945e3?utm_campaign=1048&utm_source=git)** | Edwards, CA | On Site | Aug 31 |
 | **[Electronic Theatre Controls](http://www.etcconnect.com/)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/68b406f6bc187f64e1be2e4f?utm_campaign=1048&utm_source=git)** | Middleton, WI | On Site | Aug 31 |
 | **[Lunar Energy](https://www.lunarenergy.com)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/68b4067cbc187f64e1be2e38?utm_campaign=1048&utm_source=git)** | Mountain View, CA | On Site | Aug 31 |
 | **[GBA](http://gbateam.com)** | **[Electrical Engineering Internship](https://jobright.ai/jobs/info/68b4065bf4e41a61efd8bd68?utm_campaign=1048&utm_source=git)** | Broomfield, CO | On Site | Aug 31 |
@@ -89,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[RJMedex](https://rjmedex.com/)** | **[Robotic Algorithms-DL-ML-Developer Intern TO Fulltime ONSITE](https://jobright.ai/jobs/info/68b3cf4bf4e41a61efd8a79e?utm_campaign=1048&utm_source=git)** | Columbia, MD | On Site | Aug 30 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Retail Internship - Pipeline - Central Indiana Division](https://jobright.ai/jobs/info/68b3c3321ade4306aa63c186?utm_campaign=1048&utm_source=git)** | Indianapolis, IN | On Site | Aug 30 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Project SURE STEM Scholar - SPC - req9193](https://jobright.ai/jobs/info/68b3b4b1bc187f64e1be0845?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Aug 30 |
-| **[Carmel Labs](https://carmel.so/)** | **[Forward Deployed Engineering Unpaid Internship](https://jobright.ai/jobs/info/68b3a77df4e41a61efd895b1?utm_campaign=1048&utm_source=git)** | Pennsylvania, United States | Remote | Aug 30 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Retail Internship - Pipeline - Central Indiana Division](https://jobright.ai/jobs/info/68b39dcd1ade4306aa63b66d?utm_campaign=1048&utm_source=git)** | Rochester, IN | On Site | Aug 30 |
 | **[ABB](https://global.abb/group/en)** | **[Internship HSE](https://jobright.ai/jobs/info/68a02c9cfaa4e875e828f04f?utm_campaign=1048&utm_source=git)** | Location, WV | Hybrid | Aug 30 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Retail Internship - Pipeline - Central Indiana Division](https://jobright.ai/jobs/info/68b39cfcf4e41a61efd894dc?utm_campaign=1048&utm_source=git)** | Lafayette, IN | On Site | Aug 30 |
@@ -123,7 +128,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Cryogenics Engineer - Spring Co-op 2026](https://jobright.ai/jobs/info/68b3c14fbc187f64e1be0ead?utm_campaign=1048&utm_source=git)** | Devens, MA | On Site | Aug 30 |
 | ↳ | **[Intern - Environmental, Health, Safety and Security - Spring 2026](https://jobright.ai/jobs/info/68b3c0701ade4306aa63be56?utm_campaign=1048&utm_source=git)** | Devens, MA | On Site | Aug 30 |
 | **[Lexington Medical, Inc](https://www.lexington-med.com/)** | **[Mechanical Engineering Co-Op](https://jobright.ai/jobs/info/68b343dcbc187f64e1bdffa1?utm_campaign=1048&utm_source=git)** | Bedford, MA | On Site | Aug 30 |
-| **[City of Philadelphia](http://www.phila.gov/)** | **[Engineering Intern](https://jobright.ai/jobs/info/68b343c1f4e41a61efd88e0e?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Aug 30 |
 | **[Commonwealth Fusion Systems](https://www.cfs.energy)** | **[Intern - Plasma Physics - Summer 2026](https://jobright.ai/jobs/info/68b3ba22bc187f64e1be0b73?utm_campaign=1048&utm_source=git)** | Devens, MA | On Site | Aug 30 |
 | **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Module Design Intern](https://jobright.ai/jobs/info/68b33f83bc187f64e1bdff01?utm_campaign=1048&utm_source=git)** | Apopka, FL | On Site | Aug 30 |
 | **[Amgen](http://www.amgen.com)** | **[Undergrad Intern - Operations - Holly Springs, NC (Summer 2026)](https://jobright.ai/jobs/info/68b0901913563e782a9f74db?utm_campaign=1048&utm_source=git)** | Holly Springs, NC | On Site | Aug 30 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[OHLA USA](https://www.ohla-usa.com)** | **[2025  Field Engineer Intern](https://jobright.ai/jobs/info/683fdbabeacac5f9ee64e10a?utm_campaign=1048&utm_source=git)** | City of Industry, CA | On Site | Aug 30 |
 | **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Test Engineering Co-Op (Jan '26 - June '26)](https://jobright.ai/jobs/info/689772fa1b9e81727f19ac85?utm_campaign=1048&utm_source=git)** | Woburn, MA | On Site | Aug 30 |
 | **[Siemens](https://www.siemens.com/)** | **[Protection & Automation Mechanical Engineering Summer - Fall 2026 Co-Op (North Carolina State University)](https://jobright.ai/jobs/info/68b3024cf4e41a61efd887ee?utm_campaign=1048&utm_source=git)** | Raleigh, NC | On Site | Aug 30 |
-| **[Polaris Inc.](https://www.polaris.com)** | **[Digital & Information Technology - Infrastructure & Information Security Internship - Summer 2026](https://jobright.ai/jobs/info/68b30207f4e41a61efd887ca?utm_campaign=1048&utm_source=git)** | Plymouth, MN | On Site | Aug 30 |
-| ↳ | **[Electrical/Software/Controls Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68b301a41ade4306aa63a9cc?utm_campaign=1048&utm_source=git)** | Wyoming, MN | On Site | Aug 30 |
-| **[Wize Computing Academy®](https://wizeacademy.com)** | **[Summer Camp STEM Interns 2026](https://jobright.ai/jobs/info/68b3c288bc187f64e1be108a?utm_campaign=1048&utm_source=git)** | Parker, CO | On Site | Aug 30 |
-| **[Siemens](https://www.siemens.com/)** | **[Protection & Automation Mechanical Engineering Summer - Fall 2026 Co-Op (North Carolina State University)](https://jobright.ai/jobs/info/68b3c212bc187f64e1be0fca?utm_campaign=1048&utm_source=git)** | Cary, NC | On Site | Aug 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
