@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Philadelphia](http://www.phila.gov/)** | **[Engineering Intern](https://jobright.ai/jobs/info/68b3fa90f4e41a61efd8b2ed?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Aug 31 |
+| **[Murphy-Hoffman Company (MHC Kenworth)](https://mhc.com)** | **[Intern](https://jobright.ai/jobs/info/68b3f2071ade4306aa63d32e?utm_campaign=1048&utm_source=git)** | Hickory, NC | On Site | Aug 30 |
+| **[City of Philadelphia](http://www.phila.gov/)** | **[Engineering Intern](https://jobright.ai/jobs/info/68b3f14ff4e41a61efd8b23b?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Aug 30 |
+| **[Westwood Professional Services](http://www.westwoodps.com/)** | **[2026 Engineering Intern - Power Distribution](https://jobright.ai/jobs/info/68b3f1001ade4306aa63d2d9?utm_campaign=1048&utm_source=git)** | Lansdale, PA | On Site | Aug 30 |
+| ↳ | **[2026 Engineering Intern - Power Transmission (Entry Level Civil Engineering)](https://jobright.ai/jobs/info/68b3ed30f4e41a61efd8b17f?utm_campaign=1048&utm_source=git)** | Lansdale, PA | On Site | Aug 30 |
+| ↳ | **[2026 Substation Engineering Intern (Electrical Engineer)](https://jobright.ai/jobs/info/68b3ec93bc187f64e1be226e?utm_campaign=1048&utm_source=git)** | Lansdale, PA | On Site | Aug 30 |
 | **[Henkel](http://www.henkel.com)** | **[R&D Engineering Intern – Fall 2026](https://jobright.ai/jobs/info/68b3db691ade4306aa63ce88?utm_campaign=1048&utm_source=git)** | United States | Remote | Aug 30 |
 | ↳ | **[R&D Engineering Intern – Spring 2026](https://jobright.ai/jobs/info/68b3db331ade4306aa63ce56?utm_campaign=1048&utm_source=git)** | United States | Remote | Aug 30 |
 | ↳ | **[Facilities and North America Real Estate Intern – Summer 2026](https://jobright.ai/jobs/info/68b3db43bc187f64e1be1edc?utm_campaign=1048&utm_source=git)** | Stamford, CT | Hybrid | Aug 30 |
@@ -85,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[General Engineer Co-op (Spring/Summer 2026)(Onsite)](https://jobright.ai/jobs/info/68b37f4bf4e41a61efd892fc?utm_campaign=1048&utm_source=git)** | Rockford, IL | On Site | Aug 30 |
 | **[InnoMountain](https://www.innomountain-inc.com/)** | **[Hardware System Engineer Intern (Wireless Development)](https://jobright.ai/jobs/info/68b37870bc187f64e1be03e6?utm_campaign=1048&utm_source=git)** | United States | Remote | Aug 30 |
 | **[Peter Basso Associates](http://www.peterbassoassociates.com/)** | **[Electrical Co-Op Fall 2026](https://jobright.ai/jobs/info/68b375e21ade4306aa63b429?utm_campaign=1048&utm_source=git)** | Troy, MI | On Site | Aug 30 |
-| **[City of Fort Myers](https://www.cityftmyers.com/)** | **[Technical Intern - Fleet](https://jobright.ai/jobs/info/68b36f2ebc187f64e1be03c2?utm_campaign=1048&utm_source=git)** | Fort Myers, FL | On Site | Aug 30 |
 | **[Clemson University MBA Programs](https://www.clemson.edu/business/departments/mba/)** | **[Post Doctoral Fellow in Digital/Precision Agricultural Systems (Mechanical Engineering)](https://jobright.ai/jobs/info/68b3631abc187f64e1be0360?utm_campaign=1048&utm_source=git)** | Daniel, WY | On Site | Aug 30 |
 | **[Wade Trim](http://wadetrim.com)** | **[Engineer Summer Intern - #2782.03](https://jobright.ai/jobs/info/68a63526758f2e4ac3fe3993?utm_campaign=1048&utm_source=git)** | Traverse City, MI | On Site | Aug 30 |
 | **[Frameshifts](https://frameshifts.org)** | **[Audio Engineer Intern](https://jobright.ai/jobs/info/68b35f5bbc187f64e1be02de?utm_campaign=1048&utm_source=git)** | Cambridge, MA | Hybrid | Aug 30 |
@@ -106,8 +111,7 @@ For a complete list, click the following sortable link below:
 | **[Commonwealth Fusion Systems](https://www.cfs.energy)** | **[Intern - Cryogenics Engineer - Spring Co-op 2026](https://jobright.ai/jobs/info/68b3c14fbc187f64e1be0ead?utm_campaign=1048&utm_source=git)** | Devens, MA | On Site | Aug 30 |
 | ↳ | **[Intern - Environmental, Health, Safety and Security - Spring 2026](https://jobright.ai/jobs/info/68b3c0701ade4306aa63be56?utm_campaign=1048&utm_source=git)** | Devens, MA | On Site | Aug 30 |
 | **[Lexington Medical, Inc](https://www.lexington-med.com/)** | **[Mechanical Engineering Co-Op](https://jobright.ai/jobs/info/68b343dcbc187f64e1bdffa1?utm_campaign=1048&utm_source=git)** | Bedford, MA | On Site | Aug 30 |
-| **[City of Philadelphia](http://www.phila.gov/)** | **[Engineering Intern](https://jobright.ai/jobs/info/68b343c9f4e41a61efd88e15?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Aug 30 |
-| ↳ | **[Engineering Intern](https://jobright.ai/jobs/info/68b343c1f4e41a61efd88e0e?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Aug 30 |
+| **[City of Philadelphia](http://www.phila.gov/)** | **[Engineering Intern](https://jobright.ai/jobs/info/68b343c1f4e41a61efd88e0e?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Aug 30 |
 | **[Commonwealth Fusion Systems](https://www.cfs.energy)** | **[Intern - Plasma Physics - Summer 2026](https://jobright.ai/jobs/info/68b3ba22bc187f64e1be0b73?utm_campaign=1048&utm_source=git)** | Devens, MA | On Site | Aug 30 |
 | **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Module Design Intern](https://jobright.ai/jobs/info/68b33f83bc187f64e1bdff01?utm_campaign=1048&utm_source=git)** | Apopka, FL | On Site | Aug 30 |
 | **[Amgen](http://www.amgen.com)** | **[Undergrad Intern - Operations - Holly Springs, NC (Summer 2026)](https://jobright.ai/jobs/info/68b0901913563e782a9f74db?utm_campaign=1048&utm_source=git)** | Holly Springs, NC | On Site | Aug 30 |
@@ -132,6 +136,7 @@ For a complete list, click the following sortable link below:
 | **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Acoustic Engineering Co-Op (Winter/Spring Term)](https://jobright.ai/jobs/info/68985da95574fd6bc0c79235?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Aug 30 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Reforesting the Future: Volunteering for Portugals Forest Conservation](https://jobright.ai/jobs/info/68b3060f1ade4306aa63aa51?utm_campaign=1048&utm_source=git)** | Pasadena, CA | On Site | Aug 30 |
 | **[Georgia Institute of Technology](http://gatech.edu)** | **[Research Intern (PIN Fellowship)](https://jobright.ai/jobs/info/68985c9e5574fd6bc0c79074?utm_campaign=1048&utm_source=git)** | Atlanta Metro | On Site | Aug 30 |
+| **[Walter P Moore](http://www.walterpmoore.com)** | **[Diagnostics Intern - 2025](https://jobright.ai/jobs/info/68013d824efd1d83742d4a7b?utm_campaign=1048&utm_source=git)** | Washington, DC | On Site | Aug 30 |
 | **[OHLA USA](https://www.ohla-usa.com)** | **[2025  Field Engineer Intern](https://jobright.ai/jobs/info/683fdbabeacac5f9ee64e10a?utm_campaign=1048&utm_source=git)** | City of Industry, CA | On Site | Aug 30 |
 | **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Test Engineering Co-Op (Jan '26 - June '26)](https://jobright.ai/jobs/info/689772fa1b9e81727f19ac85?utm_campaign=1048&utm_source=git)** | Woburn, MA | On Site | Aug 30 |
 | **[Siemens](https://www.siemens.com/)** | **[Protection & Automation Mechanical Engineering Summer - Fall 2026 Co-Op (North Carolina State University)](https://jobright.ai/jobs/info/68b3024cf4e41a61efd887ee?utm_campaign=1048&utm_source=git)** | Raleigh, NC | On Site | Aug 30 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Metrea](https://www.metrea.aero)** | **[Engineering CoOp](https://jobright.ai/jobs/info/68b2f935bc187f64e1bdf847?utm_campaign=1048&utm_source=git)** | Victor, NY | On Site | Aug 30 |
 | **[Siemens](https://www.siemens.com/)** | **[Mechanical Design Engineer Spring - Summer 2026 Co-Op (North Carolina State University)](https://jobright.ai/jobs/info/68b2f8601ade4306aa63a805?utm_campaign=1048&utm_source=git)** | Wendell, NC | On Site | Aug 30 |
 | ↳ | **[Protection & Automation Mechanical Engineering Summer - Fall 2026 Co-Op (North Carolina State University)](https://jobright.ai/jobs/info/68b2f833f4e41a61efd885da?utm_campaign=1048&utm_source=git)** | Wendell, NC | On Site | Aug 30 |
-| **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Salesforce and Data Engineering Intern](https://jobright.ai/jobs/info/68b2f80ff4e41a61efd885c2?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | Aug 30 |
-| **[Polaris Inc.](https://www.polaris.com)** | **[Powertrain Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68b2f7f8bc187f64e1bdf78b?utm_campaign=1048&utm_source=git)** | Wyoming, MN | On Site | Aug 30 |
-| **[Maxcess](http://www.maxcessintl.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6898483b5574fd6bc0c76a96?utm_campaign=1048&utm_source=git)** | Neenah, WI | On Site | Aug 30 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Refining Chemical Engineering Intern/Co-op Summer 2026](https://jobright.ai/jobs/info/68a361741ab5f8579e8a517c?utm_campaign=1048&utm_source=git)** | Martinez, CA | On Site | Aug 30 |
-| **[Pactiv Evergreen Inc.](https://www.pactivevergreen.com)** | **[Intern, Engineering](https://jobright.ai/jobs/info/689834ee5574fd6bc0c757f6?utm_campaign=1048&utm_source=git)** | Raleigh, NC | On Site | Aug 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
