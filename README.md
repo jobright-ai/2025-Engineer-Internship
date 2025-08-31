@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Flight School - Flight Operations (Spring, 2025)](https://jobright.ai/jobs/info/68b434adf4e41a61efd8bfd2?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Aug 31 |
+| **[Peter Basso Associates](http://www.peterbassoassociates.com/)** | **[Electrical Co-Op Fall 2026](https://jobright.ai/jobs/info/68b42949bc187f64e1be2fca?utm_campaign=1048&utm_source=git)** | Troy, MI | On Site | Aug 31 |
+| **[Wavetronix](http://www.wavetronix.com)** | **[Electrical/Computer Engineering Internship Summer 2026](https://jobright.ai/jobs/info/68b4201cbc187f64e1be2f74?utm_campaign=1048&utm_source=git)** | Springville, UT | On Site | Aug 31 |
 | **[Cirrus Logic](https://cirrus.com/)** | **[Summer Intern - Analog Design Engineer](https://jobright.ai/jobs/info/689861045574fd6bc0c797ee?utm_campaign=1048&utm_source=git)** | Greater Phoenix Area | Hybrid | Aug 31 |
 | ↳ | **[Summer Intern - Digital Design Engineer](https://jobright.ai/jobs/info/6898493ffaa4e875e824d0aa?utm_campaign=1048&utm_source=git)** | Austin, TX | Hybrid | Aug 31 |
 | ↳ | **[Spring Intern - Analog Design Engineer](https://jobright.ai/jobs/info/6897ea248c6d6b4426794057?utm_campaign=1048&utm_source=git)** | Austin, TX | Hybrid | Aug 31 |
@@ -94,13 +97,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Third-Party Manufacturing Intern – Summer 2026](https://jobright.ai/jobs/info/68b39bf7f4e41a61efd894b4?utm_campaign=1048&utm_source=git)** | Rocky Hill, None, US | On Site | Aug 30 |
 | ↳ | **[R&D Engineering Intern – Spring 2026](https://jobright.ai/jobs/info/68b39bd5bc187f64e1be0603?utm_campaign=1048&utm_source=git)** | Lexington, None, US | On Site | Aug 30 |
 | ↳ | **[Adhesives Rotational Program Intern – Summer 2026](https://jobright.ai/jobs/info/68b39bc6f4e41a61efd8949e?utm_campaign=1048&utm_source=git)** | Rocky Hill, None, US | On Site | Aug 30 |
-| ↳ | **[R&D Engineering Intern – Fall 2026](https://jobright.ai/jobs/info/68b39b85bc187f64e1be05e5?utm_campaign=1048&utm_source=git)** | Lexington, None, US | On Site | Aug 30 |
 | ↳ | **[Facilities and North America Real Estate Intern – Summer 2026](https://jobright.ai/jobs/info/68b39b85bc187f64e1be05e6?utm_campaign=1048&utm_source=git)** | Stamford, None, US | On Site | Aug 30 |
+| ↳ | **[R&D Engineering Intern – Fall 2026](https://jobright.ai/jobs/info/68b39b85bc187f64e1be05e5?utm_campaign=1048&utm_source=git)** | Lexington, None, US | On Site | Aug 30 |
 | **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/68af19e31f0a2a568a05f08c?utm_campaign=1048&utm_source=git)** | Louisville, Kentucky, United States | On Site | Aug 30 |
 | **[Lexington Medical, Inc](https://www.lexington-med.com/)** | **[Mechanical Engineering Co-Op](https://jobright.ai/jobs/info/68b399b9f4e41a61efd89466?utm_campaign=1048&utm_source=git)** | Bedford, MA | On Site | Aug 30 |
+| **[GE HealthCare](http://www.gehealthcare.com)** | **[MILITARY DoD SKILLBRIDGE Field Engineer (West Region)](https://jobright.ai/jobs/info/68b434c8f4e41a61efd8bfde?utm_campaign=1048&utm_source=git)** | Montana, United States | On Site | Aug 30 |
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[General Engineer Co-op (Spring/Summer 2026)(Onsite)](https://jobright.ai/jobs/info/68b37f4bf4e41a61efd892fc?utm_campaign=1048&utm_source=git)** | Rockford, IL | On Site | Aug 30 |
 | **[InnoMountain](https://www.innomountain-inc.com/)** | **[Hardware System Engineer Intern (Wireless Development)](https://jobright.ai/jobs/info/68b37870bc187f64e1be03e6?utm_campaign=1048&utm_source=git)** | United States | Remote | Aug 30 |
-| **[Peter Basso Associates](http://www.peterbassoassociates.com/)** | **[Electrical Co-Op Fall 2026](https://jobright.ai/jobs/info/68b375e21ade4306aa63b429?utm_campaign=1048&utm_source=git)** | Troy, MI | On Site | Aug 30 |
 | **[Clemson University MBA Programs](https://www.clemson.edu/business/departments/mba/)** | **[Post Doctoral Fellow in Digital/Precision Agricultural Systems (Mechanical Engineering)](https://jobright.ai/jobs/info/68b3631abc187f64e1be0360?utm_campaign=1048&utm_source=git)** | Daniel, WY | On Site | Aug 30 |
 | **[Wade Trim](http://wadetrim.com)** | **[Engineer Summer Intern - #2782.03](https://jobright.ai/jobs/info/68a63526758f2e4ac3fe3993?utm_campaign=1048&utm_source=git)** | Traverse City, MI | On Site | Aug 30 |
 | **[Frameshifts](https://frameshifts.org)** | **[Audio Engineer Intern](https://jobright.ai/jobs/info/68b35f5bbc187f64e1be02de?utm_campaign=1048&utm_source=git)** | Cambridge, MA | Hybrid | Aug 30 |
@@ -117,8 +120,7 @@ For a complete list, click the following sortable link below:
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[Winter Internship - Electrical Systems](https://jobright.ai/jobs/info/68b34e5df4e41a61efd88f70?utm_campaign=1048&utm_source=git)** | Miami, FL | Hybrid | Aug 30 |
 | **[Commonwealth Fusion Systems](https://www.cfs.energy)** | **[Intern - Nuclear Engineer - Summer 2026](https://jobright.ai/jobs/info/68b34e59f4e41a61efd88f6c?utm_campaign=1048&utm_source=git)** | Devens, MA | On Site | Aug 30 |
 | ↳ | **[Intern - Materials Engineer  - Spring, Summer 2026](https://jobright.ai/jobs/info/68b34e3c1ade4306aa63b110?utm_campaign=1048&utm_source=git)** | Devens, MA | On Site | Aug 30 |
-| **[Nutrien](https://www.nutrien.com/)** | **[Retail Internship - Pipeline - Central Indiana Division](https://jobright.ai/jobs/info/68b34a81bc187f64e1be0052?utm_campaign=1048&utm_source=git)** | Arcadia, IN | On Site | Aug 30 |
-| **[Commonwealth Fusion Systems](https://www.cfs.energy)** | **[Intern - Cryogenics Engineer - Spring Co-op 2026](https://jobright.ai/jobs/info/68b3c14fbc187f64e1be0ead?utm_campaign=1048&utm_source=git)** | Devens, MA | On Site | Aug 30 |
+| ↳ | **[Intern - Cryogenics Engineer - Spring Co-op 2026](https://jobright.ai/jobs/info/68b3c14fbc187f64e1be0ead?utm_campaign=1048&utm_source=git)** | Devens, MA | On Site | Aug 30 |
 | ↳ | **[Intern - Environmental, Health, Safety and Security - Spring 2026](https://jobright.ai/jobs/info/68b3c0701ade4306aa63be56?utm_campaign=1048&utm_source=git)** | Devens, MA | On Site | Aug 30 |
 | **[Lexington Medical, Inc](https://www.lexington-med.com/)** | **[Mechanical Engineering Co-Op](https://jobright.ai/jobs/info/68b343dcbc187f64e1bdffa1?utm_campaign=1048&utm_source=git)** | Bedford, MA | On Site | Aug 30 |
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Engineering Intern](https://jobright.ai/jobs/info/68b343c1f4e41a61efd88e0e?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Aug 30 |
@@ -133,6 +135,7 @@ For a complete list, click the following sortable link below:
 | **[ECC](https://www.ecc.net/)** | **[Intern – Construction Management](https://jobright.ai/jobs/info/68b32d45f4e41a61efd88c24?utm_campaign=1048&utm_source=git)** | Lakewood, CO | On Site | Aug 30 |
 | **[InterDigital, Inc.](https://www.interdigital.com)** | **[Intern, Deep Learning for Image and Video Processing](https://jobright.ai/jobs/info/68b32cb9bc187f64e1bdfd52?utm_campaign=1048&utm_source=git)** | Los Altos, CA | On Site | Aug 30 |
 | **[Research Innovations Incorporated](https://www.researchinnovations.com/)** | **[Vulnerability Research 2026 Summer Internship (Cyber 249)](https://jobright.ai/jobs/info/6893e1004c7e851b90ae1023?utm_campaign=1048&utm_source=git)** | St. Pete, FL | Hybrid | Aug 30 |
+| **[Walmart](http://www.walmart.com)** | **[2025 Intern Conversion - 2026 FT: Manager, Automation Engineering](https://jobright.ai/jobs/info/68b31d30bc187f64e1bdfc03?utm_campaign=1048&utm_source=git)** | Bentonville, AR | On Site | Aug 30 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Desktop Risk & Vulnerability Remediation)](https://jobright.ai/jobs/info/689858d483d13d1f5b68ecb9?utm_campaign=1048&utm_source=git)** | Vienna, VA | Hybrid | Aug 30 |
 | **[Access Lifts Florida Inc.](https://www.cibessymmetry.com/)** | **[Elevator Mechanic Apprentice](https://jobright.ai/jobs/info/68b313391ade4306aa63aba4?utm_campaign=1048&utm_source=git)** | Hollywood, FL | On Site | Aug 30 |
 | **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Acoustic Filter Design Co-Op (Summer/Fall 2026)](https://jobright.ai/jobs/info/68984f415574fd6bc0c77cef?utm_campaign=1048&utm_source=git)** | Greensboro, NC | On Site | Aug 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Electrical/Software/Controls Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68b301a41ade4306aa63a9cc?utm_campaign=1048&utm_source=git)** | Wyoming, MN | On Site | Aug 30 |
 | **[Wize Computing Academy®](https://wizeacademy.com)** | **[Summer Camp STEM Interns 2026](https://jobright.ai/jobs/info/68b3c288bc187f64e1be108a?utm_campaign=1048&utm_source=git)** | Parker, CO | On Site | Aug 30 |
 | **[Siemens](https://www.siemens.com/)** | **[Protection & Automation Mechanical Engineering Summer - Fall 2026 Co-Op (North Carolina State University)](https://jobright.ai/jobs/info/68b3c212bc187f64e1be0fca?utm_campaign=1048&utm_source=git)** | Cary, NC | On Site | Aug 30 |
-| **[Kratos Defense and Security Solutions](http://www.kratosdefense.com)** | **[Hardware Engineering Co-Op](https://jobright.ai/jobs/info/68268c8d7b6bb22c70b99848?utm_campaign=1048&utm_source=git)** | Fort Walton Beach, FL | On Site | Aug 30 |
-| **[Polaris Inc.](https://www.polaris.com)** | **[Electrical/Software/Controls Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68b2fce6f4e41a61efd886e3?utm_campaign=1048&utm_source=git)** | Roseau, MN | On Site | Aug 30 |
-| **[Thompson Thrift](https://www.thompsonthrift.com/)** | **[Thompson Thrift Construction Management Internship 2026](https://jobright.ai/jobs/info/68984def5574fd6bc0c77a5b?utm_campaign=1048&utm_source=git)** | Terre Haute, IN | On Site | Aug 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
