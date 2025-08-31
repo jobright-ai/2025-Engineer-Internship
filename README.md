@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cirrus Logic](https://cirrus.com/)** | **[Summer Intern - Analog Design Engineer](https://jobright.ai/jobs/info/689861045574fd6bc0c797ee?utm_campaign=1048&utm_source=git)** | Greater Phoenix Area | Hybrid | Aug 31 |
+| ↳ | **[Summer Intern - Digital Design Engineer](https://jobright.ai/jobs/info/6898493ffaa4e875e824d0aa?utm_campaign=1048&utm_source=git)** | Austin, TX | Hybrid | Aug 31 |
+| ↳ | **[Spring Intern - Analog Design Engineer](https://jobright.ai/jobs/info/6897ea248c6d6b4426794057?utm_campaign=1048&utm_source=git)** | Austin, TX | Hybrid | Aug 31 |
+| ↳ | **[Spring Intern - Digital Design Engineer](https://jobright.ai/jobs/info/689849945574fd6bc0c76cd9?utm_campaign=1048&utm_source=git)** | Austin, TX | Hybrid | Aug 31 |
+| **[MathWorks](http://www.mathworks.com)** | **[Multiple Openings-Engineering Development Group Internship](https://jobright.ai/jobs/info/671a69ea75c42966c795fe8d?utm_campaign=1048&utm_source=git)** | Natick, MA | Hybrid | Aug 31 |
+| **[Cirrus Logic](https://cirrus.com/)** | **[Summer Intern - Analog Design Engineer](https://jobright.ai/jobs/info/68985c765574fd6bc0c79021?utm_campaign=1048&utm_source=git)** | Austin, TX | Hybrid | Aug 31 |
+| ↳ | **[Summer Intern - Design Verification Engineer](https://jobright.ai/jobs/info/68984e5d5574fd6bc0c77b29?utm_campaign=1048&utm_source=git)** | Austin, TX | Hybrid | Aug 31 |
+| **[Electronic Theatre Controls](http://www.etcconnect.com/)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/68b406f6bc187f64e1be2e4f?utm_campaign=1048&utm_source=git)** | Middleton, WI | On Site | Aug 31 |
+| **[Lunar Energy](https://www.lunarenergy.com)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/68b4067cbc187f64e1be2e38?utm_campaign=1048&utm_source=git)** | Mountain View, CA | On Site | Aug 31 |
+| **[GBA](http://gbateam.com)** | **[Electrical Engineering Internship](https://jobright.ai/jobs/info/68b4065bf4e41a61efd8bd68?utm_campaign=1048&utm_source=git)** | Broomfield, CO | On Site | Aug 31 |
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Engineering Intern](https://jobright.ai/jobs/info/68b3fa90f4e41a61efd8b2ed?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Aug 31 |
 | **[Murphy-Hoffman Company (MHC Kenworth)](https://mhc.com)** | **[Intern](https://jobright.ai/jobs/info/68b3f2071ade4306aa63d32e?utm_campaign=1048&utm_source=git)** | Hickory, NC | On Site | Aug 30 |
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Engineering Intern](https://jobright.ai/jobs/info/68b3f14ff4e41a61efd8b23b?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Aug 30 |
@@ -123,9 +133,9 @@ For a complete list, click the following sortable link below:
 | **[ECC](https://www.ecc.net/)** | **[Intern – Construction Management](https://jobright.ai/jobs/info/68b32d45f4e41a61efd88c24?utm_campaign=1048&utm_source=git)** | Lakewood, CO | On Site | Aug 30 |
 | **[InterDigital, Inc.](https://www.interdigital.com)** | **[Intern, Deep Learning for Image and Video Processing](https://jobright.ai/jobs/info/68b32cb9bc187f64e1bdfd52?utm_campaign=1048&utm_source=git)** | Los Altos, CA | On Site | Aug 30 |
 | **[Research Innovations Incorporated](https://www.researchinnovations.com/)** | **[Vulnerability Research 2026 Summer Internship (Cyber 249)](https://jobright.ai/jobs/info/6893e1004c7e851b90ae1023?utm_campaign=1048&utm_source=git)** | St. Pete, FL | Hybrid | Aug 30 |
-| **[Walmart](http://www.walmart.com)** | **[2025 Intern Conversion - 2026 FT: Manager, Automation Engineering](https://jobright.ai/jobs/info/68b31d30bc187f64e1bdfc03?utm_campaign=1048&utm_source=git)** | Bentonville, AR | On Site | Aug 30 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Desktop Risk & Vulnerability Remediation)](https://jobright.ai/jobs/info/689858d483d13d1f5b68ecb9?utm_campaign=1048&utm_source=git)** | Vienna, VA | Hybrid | Aug 30 |
 | **[Access Lifts Florida Inc.](https://www.cibessymmetry.com/)** | **[Elevator Mechanic Apprentice](https://jobright.ai/jobs/info/68b313391ade4306aa63aba4?utm_campaign=1048&utm_source=git)** | Hollywood, FL | On Site | Aug 30 |
+| **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Acoustic Filter Design Co-Op (Summer/Fall 2026)](https://jobright.ai/jobs/info/68984f415574fd6bc0c77cef?utm_campaign=1048&utm_source=git)** | Greensboro, NC | On Site | Aug 30 |
 | **[ABB](https://global.abb/group/en)** | **[Duales Studium Sustainable Science and Technology (m/w/d) 2025](https://jobright.ai/jobs/info/68985cd983d13d1f5b68f435?utm_campaign=1048&utm_source=git)** | Location, WV | On Site | Aug 30 |
 | **[ARAUCO - North America](https://na.arauco.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/689739be1b9e81727f19679a?utm_campaign=1048&utm_source=git)** | Albany, OR | On Site | Aug 30 |
 | **[ABB](https://global.abb/group/en)** | **[Duales Studium Bachelor of Science - Digitale Technologien (m/w/d) 2026](https://jobright.ai/jobs/info/68984d8efaa4e875e824da68?utm_campaign=1048&utm_source=git)** | Location, WV | On Site | Aug 30 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kratos Defense and Security Solutions](http://www.kratosdefense.com)** | **[Hardware Engineering Co-Op](https://jobright.ai/jobs/info/68268c8d7b6bb22c70b99848?utm_campaign=1048&utm_source=git)** | Fort Walton Beach, FL | On Site | Aug 30 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[Electrical/Software/Controls Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68b2fce6f4e41a61efd886e3?utm_campaign=1048&utm_source=git)** | Roseau, MN | On Site | Aug 30 |
 | **[Thompson Thrift](https://www.thompsonthrift.com/)** | **[Thompson Thrift Construction Management Internship 2026](https://jobright.ai/jobs/info/68984def5574fd6bc0c77a5b?utm_campaign=1048&utm_source=git)** | Terre Haute, IN | On Site | Aug 30 |
-| **[ABB](https://global.abb/group/en)** | **[Internship - R&D Test Engineer](https://jobright.ai/jobs/info/688dc2d6cdbd821a3663f2a7?utm_campaign=1048&utm_source=git)** | Location, WV | On Site | Aug 30 |
-| **[Siemens](https://www.siemens.com/)** | **[Mechanical Design Engineer Summer - Fall 2026 Co-Op (North Carolina State University)](https://jobright.ai/jobs/info/68b2fa021ade4306aa63a909?utm_campaign=1048&utm_source=git)** | Wendell, NC | On Site | Aug 30 |
-| **[Polaris Inc.](https://www.polaris.com)** | **[Digital & Information Technology - Infrastructure & Information Security Internship - Summer 2026](https://jobright.ai/jobs/info/68b2f9fa1ade4306aa63a906?utm_campaign=1048&utm_source=git)** | Vermillion, SD | On Site | Aug 30 |
-| ↳ | **[Powertrain Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68b2f9ef1ade4306aa63a8fd?utm_campaign=1048&utm_source=git)** | Roseau, MN | On Site | Aug 30 |
-| ↳ | **[Electrical/Software/Controls Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68b2f9ac1ade4306aa63a8d4?utm_campaign=1048&utm_source=git)** | Novi, MI | On Site | Aug 30 |
-| ↳ | **[Powertrain Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68b2f99af4e41a61efd886ae?utm_campaign=1048&utm_source=git)** | Osceola, WI | On Site | Aug 30 |
-| **[Siemens](https://www.siemens.com/)** | **[Protection & Automation Electrical Engineering Summer - Fall 2026 Co-Op (North Carolina State University)](https://jobright.ai/jobs/info/68b2f959f4e41a61efd8867e?utm_campaign=1048&utm_source=git)** | Wendell, NC | On Site | Aug 30 |
-| **[Metrea](https://www.metrea.aero)** | **[Engineering CoOp](https://jobright.ai/jobs/info/68b2f935bc187f64e1bdf847?utm_campaign=1048&utm_source=git)** | Victor, NY | On Site | Aug 30 |
-| **[Siemens](https://www.siemens.com/)** | **[Mechanical Design Engineer Spring - Summer 2026 Co-Op (North Carolina State University)](https://jobright.ai/jobs/info/68b2f8601ade4306aa63a805?utm_campaign=1048&utm_source=git)** | Wendell, NC | On Site | Aug 30 |
-| ↳ | **[Protection & Automation Mechanical Engineering Summer - Fall 2026 Co-Op (North Carolina State University)](https://jobright.ai/jobs/info/68b2f833f4e41a61efd885da?utm_campaign=1048&utm_source=git)** | Wendell, NC | On Site | Aug 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
