@@ -57,10 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Supply Chain](https://jobright.ai/jobs/info/68b5dc53f4e41a61efd9163d?utm_campaign=1048&utm_source=git)** | Rosemead, CA | Remote | Sep 01 |
+| ↳ | **[2026 Summer Internship - All Engineering](https://jobright.ai/jobs/info/68b5dc3af4e41a61efd91636?utm_campaign=1048&utm_source=git)** | Palmdale, CA | Hybrid | Sep 01 |
+| **[Trane Technologies](https://www.tranetechnologies.com)** | **[2026 Engineering Intern (Mechanical Engineering)](https://jobright.ai/jobs/info/68b5d9cebc187f64e1be8614?utm_campaign=1048&utm_source=git)** | Bloomington, MN | On Site | Sep 01 |
+| **[Comcast](https://corporate.comcast.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/68b5d94cbc187f64e1be8608?utm_campaign=1048&utm_source=git)** | FL - West Palm Beach, 1401 Northpoint Parkway | On Site | Sep 01 |
+| **[BioSpace](http://www.biospace.com/)** | **[Undergrad Intern - Operations - Holly Springs, NC (Summer 2026)](https://jobright.ai/jobs/info/68b5d5ac1ade4306aa6435b2?utm_campaign=1048&utm_source=git)** | Holly Springs, NC | On Site | Sep 01 |
+| **[Textron](http://textron.com)** | **[2026 Internship - Operations Engineer - Independence, KS](https://jobright.ai/jobs/info/68b5d2b11ade4306aa64358d?utm_campaign=1048&utm_source=git)** | Independence, KS | On Site | Sep 01 |
+| ↳ | **[2026 Intern - Materials Engineer (Lycoming) - Williamsport, PA](https://jobright.ai/jobs/info/68b5d20ff4e41a61efd91502?utm_campaign=1048&utm_source=git)** | Williamsport, PA | Hybrid | Sep 01 |
+| **[Textron Aviation](http://txtav.com)** | **[2026 Internship - Flight Ops (Flight Operations Dispatch and Operations Coordinator)](https://jobright.ai/jobs/info/68b5d20d1ade4306aa64354c?utm_campaign=1048&utm_source=git)** | Wichita, KS | On Site | Sep 01 |
+| **[Textron](http://textron.com)** | **[2026 Intern - Mechanical Engineer (Electronic Systems) - Goose Creek, SC](https://jobright.ai/jobs/info/68b5d2081ade4306aa643549?utm_campaign=1048&utm_source=git)** | Charleston, SC | Hybrid | Sep 01 |
+| ↳ | **[2026 Intern - Quality Engineer (Lycoming) - Williamsport, PA](https://jobright.ai/jobs/info/68b5d170f4e41a61efd914b6?utm_campaign=1048&utm_source=git)** | Williamsport, PA | Hybrid | Sep 01 |
+| ↳ | **[2026 Intern - IT  Cyber Security - Hunt Valley, MD](https://jobright.ai/jobs/info/68b5d0f4f4e41a61efd91485?utm_campaign=1048&utm_source=git)** | Hunt Valley, MD | Hybrid | Sep 01 |
+| ↳ | **[2026 Intern - Quality Engineer  - Hunt Valley, MD](https://jobright.ai/jobs/info/68b5ce5bbc187f64e1be846c?utm_campaign=1048&utm_source=git)** | Hunt Valley, MD | Hybrid | Sep 01 |
 | **[Metalcraft of Mayville, Inc.](http://www.mtlcraft.com/)** | **[Tool and Die Apprentice , 1st shift  (West Bend)](https://jobright.ai/jobs/info/68b5c1f0f4e41a61efd912cb?utm_campaign=1048&utm_source=git)** | West Bend, WI | On Site | Sep 01 |
 | ↳ | **[Manufacturing Engineering Intern (Youth Apprentice)](https://jobright.ai/jobs/info/68b5c063bc187f64e1be8316?utm_campaign=1048&utm_source=git)** | Fall River, WI | On Site | Sep 01 |
-| **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Electrical Engineering](https://jobright.ai/jobs/info/68b5b159bc187f64e1be7e17?utm_campaign=1048&utm_source=git)** | Fullerton, CA | Hybrid | Sep 01 |
-| ↳ | **[2026 Summer Internship - Electrical Engineering](https://jobright.ai/jobs/info/68b5b13cbc187f64e1be7df7?utm_campaign=1048&utm_source=git)** | Irvine, CA | Hybrid | Sep 01 |
+| **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Electrical Engineering](https://jobright.ai/jobs/info/68b5b13cbc187f64e1be7df7?utm_campaign=1048&utm_source=git)** | Irvine, CA | Hybrid | Sep 01 |
 | ↳ | **[2026 Summer Internship - Electrical Engineering](https://jobright.ai/jobs/info/68b5b0b0bc187f64e1be7d8c?utm_campaign=1048&utm_source=git)** | Westminster, CA | Hybrid | Sep 01 |
 | ↳ | **[2026 Summer Internship - Electrical Engineering 1](https://jobright.ai/jobs/info/68b5b0aabc187f64e1be7d84?utm_campaign=1048&utm_source=git)** | Rosemead, CA | Hybrid | Sep 01 |
 | ↳ | **[2026 Summer Internship - Electrical Engineering](https://jobright.ai/jobs/info/68b5b060bc187f64e1be7d50?utm_campaign=1048&utm_source=git)** | Fontana, CA | Hybrid | Sep 01 |
@@ -73,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Electrical Engineering](https://jobright.ai/jobs/info/68b5a50d1ade4306aa642b36?utm_campaign=1048&utm_source=git)** | Santa Clarita, CA | Hybrid | Sep 01 |
 | ↳ | **[2026 Summer Internship - All Engineering](https://jobright.ai/jobs/info/68b5a50d1ade4306aa642b37?utm_campaign=1048&utm_source=git)** | Santa Clarita, CA | Hybrid | Sep 01 |
 | ↳ | **[2026 Summer Internship - Electrical/Mechanical Engineering](https://jobright.ai/jobs/info/68b5a4d71ade4306aa642b0f?utm_campaign=1048&utm_source=git)** | Westminster, CA | Hybrid | Sep 01 |
-| ↳ | **[2026 Summer Internship - Cybersecurity/Computer Science](https://jobright.ai/jobs/info/68b5a4ce1ade4306aa642b06?utm_campaign=1048&utm_source=git)** | Santa Ana, CA | Hybrid | Sep 01 |
 | ↳ | **[2026 Summer Internship - Cybersecurity/Computer Science](https://jobright.ai/jobs/info/68b5a4111ade4306aa642a90?utm_campaign=1048&utm_source=git)** | Alhambra, CA | Hybrid | Sep 01 |
 | ↳ | **[2026 Summer Internship - Electrical/Mechanical Engineering](https://jobright.ai/jobs/info/68b5a3d51ade4306aa642a6e?utm_campaign=1048&utm_source=git)** | Compton, CA | Hybrid | Sep 01 |
 | ↳ | **[2026 Summer Internship - Mechanical Engineering](https://jobright.ai/jobs/info/68b5a3a61ade4306aa642a4a?utm_campaign=1048&utm_source=git)** | Redlands, CA | Hybrid | Sep 01 |
@@ -134,27 +144,17 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NTP - Trinity - 2026 Nucor Technical Academy](https://jobright.ai/jobs/info/68b581a8f4e41a61efd8ff15?utm_campaign=1048&utm_source=git)** | Trinity, AL | Hybrid | Sep 01 |
 | ↳ | **[NSNE Nucor Technical Academy](https://jobright.ai/jobs/info/68b57e43bc187f64e1be6e74?utm_campaign=1048&utm_source=git)** | Norfolk, NE | On Site | Sep 01 |
 | ↳ | **[NTP - Decatur - 2026 Nucor Technical Academy](https://jobright.ai/jobs/info/68b57dd2f4e41a61efd8fe74?utm_campaign=1048&utm_source=git)** | Decatur, AL | Hybrid | Sep 01 |
-| ↳ | **[NTP - Birmingham - 2026 Nucor Technical Academy](https://jobright.ai/jobs/info/68b57c6e1ade4306aa641e56?utm_campaign=1048&utm_source=git)** | Birmingham, AL | On Site | Sep 01 |
+| **[Audubon Companies](http://www.auduboncompanies.com)** | **[Project Engineering Intern](https://jobright.ai/jobs/info/689947e1faa4e875e8251492?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Sep 01 |
+| **[Nucor Corporation](http://www.nucor.com)** | **[NTP - Birmingham - 2026 Nucor Technical Academy](https://jobright.ai/jobs/info/68b57c6e1ade4306aa641e56?utm_campaign=1048&utm_source=git)** | Birmingham, AL | On Site | Sep 01 |
 | **[The Christman Company](https://www.christmanco.com/)** | **[Assistant Project Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/68b57956f4e41a61efd8fd22?utm_campaign=1048&utm_source=git)** | Sterling, VA | On Site | Sep 01 |
+| ↳ | **[Assistant Project Engineer - Internship](https://jobright.ai/jobs/info/68b57569bc187f64e1be6c7b?utm_campaign=1048&utm_source=git)** | Sterling, VA | On Site | Sep 01 |
 | **[Walker Consultants](http://walkerconsultants.com/)** | **[Structural Engineering Internship - Summer 2025](https://jobright.ai/jobs/info/689874055574fd6bc0c7a001?utm_campaign=1048&utm_source=git)** | Portage, MI | On Site | Sep 01 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Quality Engineer Intern](https://jobright.ai/jobs/info/68b5715cbc187f64e1be6bd7?utm_campaign=1048&utm_source=git)** | Benson, MN | On Site | Sep 01 |
 | ↳ | **[Data Engineer Intern](https://jobright.ai/jobs/info/68b57152bc187f64e1be6bd4?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | Hybrid | Sep 01 |
 | **[The Christman Company](https://www.christmanco.com/)** | **[Assistant Project Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/68b570ebbc187f64e1be6bac?utm_campaign=1048&utm_source=git)** | Knoxville, TN | On Site | Sep 01 |
+| ↳ | **[Assistant Estimating Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/68b570e5bc187f64e1be6bab?utm_campaign=1048&utm_source=git)** | Lansing, MI | On Site | Sep 01 |
 | ↳ | **[Assistant Project Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/68b570b8f4e41a61efd8fb86?utm_campaign=1048&utm_source=git)** | Irving, TX | On Site | Sep 01 |
 | ↳ | **[Assistant Project Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/68b570a6f4e41a61efd8fb7f?utm_campaign=1048&utm_source=git)** | Raleigh, NC | On Site | Sep 01 |
 | **[Peter Basso Associates](http://www.peterbassoassociates.com/)** | **[Electrical Co-Op Fall 2026](https://jobright.ai/jobs/info/68b5705ebc187f64e1be6b7a?utm_campaign=1048&utm_source=git)** | Troy, MI | On Site | Sep 01 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Logistics Engineer Intern](https://jobright.ai/jobs/info/68b56d42f4e41a61efd8fb20?utm_campaign=1048&utm_source=git)** | Benson, MN | On Site | Sep 01 |
-| ↳ | **[Parts & Service Purchasing Specialist Intern](https://jobright.ai/jobs/info/68b56d13f4e41a61efd8fb03?utm_campaign=1048&utm_source=git)** | Oak Brook, IL | Hybrid | Sep 01 |
-| **[The Christman Company](https://www.christmanco.com/)** | **[Assistant Project Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/68b56ccdf4e41a61efd8fae0?utm_campaign=1048&utm_source=git)** | Detroit, MI | On Site | Sep 01 |
-| **[CNH](http://www.cnhindustrial.com)** | **[Hydraulic System Engineer Intern](https://jobright.ai/jobs/info/68b56cabf4e41a61efd8fac7?utm_campaign=1048&utm_source=git)** | New Holland, PA | On Site | Sep 01 |
-| **[The Christman Company](https://www.christmanco.com/)** | **[Assistant Project Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/68b56c2ef4e41a61efd8fa92?utm_campaign=1048&utm_source=git)** | Memphis, TN | On Site | Sep 01 |
-| **[Commonwealth Fusion Systems](https://www.cfs.energy)** | **[Intern - Materials Engineer - Spring, Summer 2026](https://jobright.ai/jobs/info/68b56b031ade4306aa641b2f?utm_campaign=1048&utm_source=git)** | Ayer, MA | On Site | Sep 01 |
-| **[U.S. Tsubaki Power Transmission, LLC](http://ustsubaki.com)** | **[Intern, Engineering Co-Op Spring 2026](https://jobright.ai/jobs/info/68b56a9c1ade4306aa641b01?utm_campaign=1048&utm_source=git)** | Sandusky, OH | On Site | Sep 01 |
-| **[CNH](http://www.cnhindustrial.com)** | **[Systems Engineer Intern](https://jobright.ai/jobs/info/68b56838bc187f64e1be6a3b?utm_campaign=1048&utm_source=git)** | Greater Sioux Falls Area | On Site | Sep 01 |
-| **[Helix Electric](http://www.helixelectric.com)** | **[Project Engineer Intern - Fall 25](https://jobright.ai/jobs/info/669988036857f00f1d02a4fb?utm_campaign=1048&utm_source=git)** | Sacramento, CA | On Site | Sep 01 |
-| **[CNH](http://www.cnhindustrial.com)** | **[Haytools Field Test Engineer Intern](https://jobright.ai/jobs/info/68b5678cbc187f64e1be69e8?utm_campaign=1048&utm_source=git)** | New Holland, PA | On Site | Sep 01 |
-| **[American Public Health Association](https://www.apha.org)** | **[Environmental Health Internship: 2026 spring term (Jan. 15 - May 1)](https://jobright.ai/jobs/info/68b56788f4e41a61efd8f998?utm_campaign=1048&utm_source=git)** | Washington, DC | Hybrid | Sep 01 |
-| **[CNH](http://www.cnhindustrial.com)** | **[Tractor Integration Intern](https://jobright.ai/jobs/info/68b5677abc187f64e1be69dc?utm_campaign=1048&utm_source=git)** | Oak Brook, IL | Hybrid | Sep 01 |
-| ↳ | **[Continuous Improvement Digital Tools Intern](https://jobright.ai/jobs/info/68b567611ade4306aa641ac5?utm_campaign=1048&utm_source=git)** | Grand Island, NE | On Site | Sep 01 |
-| **[Helix Electric](http://www.helixelectric.com)** | **[Project Engineer Intern - Fall 25](https://jobright.ai/jobs/info/678c79707edb701f10aebcd6?utm_campaign=1048&utm_source=git)** | Reno, NV | On Site | Sep 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
