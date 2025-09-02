@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Summer 2026 - IEF - Powerplant / Propulsion / Thermodynamics Eng College Intern](https://jobright.ai/jobs/info/68b6275d1ade4306aa643ed9?utm_campaign=1048&utm_source=git)** | Savannah, GA | On Site | Sep 01 |
+| **[Comcast](https://corporate.comcast.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/68b626b4bc187f64e1be8e4f?utm_campaign=1048&utm_source=git)** | West Palm Beach, FL | On Site | Sep 01 |
+| **[IPS-Integrated Project Services](https://www.ipsdb.com)** | **[Co-op, Design (Electrical)](https://jobright.ai/jobs/info/68b623a2bc187f64e1be8ddc?utm_campaign=1048&utm_source=git)** | Blue Bell, PA | On Site | Sep 01 |
+| **[Peter Basso Associates](http://www.peterbassoassociates.com/)** | **[Electrical Co-Op Fall 2026](https://jobright.ai/jobs/info/68b6198d1ade4306aa643d73?utm_campaign=1048&utm_source=git)** | Troy, MI | On Site | Sep 01 |
+| **[Precision Value & Health](https://www.precisionvaluehealth.com/)** | **[Intern Clinical Innovation](https://jobright.ai/jobs/info/68b616861ade4306aa643d5d?utm_campaign=1048&utm_source=git)** | United States | Remote | Sep 01 |
 | **[InnoMountain](https://www.innomountain-inc.com/)** | **[Hardware Engineer Intern (Wireless Development)](https://jobright.ai/jobs/info/68b613441ade4306aa643d39?utm_campaign=1048&utm_source=git)** | United States | Remote | Sep 01 |
 | **[Chapman Construction/Design](http://chap-con.com)** | **[Internships & Co-ops](https://jobright.ai/jobs/info/68b60e4bbc187f64e1be8c85?utm_campaign=1048&utm_source=git)** | Newton Highlands, MA | On Site | Sep 01 |
 | **[Arrowhead Products](https://www.arrowheadproducts.net)** | **[Intern](https://jobright.ai/jobs/info/68b60cbe1ade4306aa643cc1?utm_campaign=1048&utm_source=git)** | Los Alamitos, CA | On Site | Sep 01 |
@@ -72,6 +77,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Project Engineer Summer 2026 - TX](https://jobright.ai/jobs/info/68b606fef4e41a61efd91b9c?utm_campaign=1048&utm_source=git)** | Amarillo, TX, United States | On Site | Sep 01 |
 | **[WVU Department of Mechanical, Materials and Aerospace Engineering](https://mmae.statler.wvu.edu/)** | **[Postdoctoral Fellow - Department of Chemical and Biomedical Engineering- 25751](https://jobright.ai/jobs/info/68b60078f4e41a61efd91b06?utm_campaign=1048&utm_source=git)** | Morgantown, WV | On Site | Sep 01 |
 | **[MSI Mold Builders](https://www.msimoldbuilders.com)** | **[Internship](https://jobright.ai/jobs/info/68b5f982bc187f64e1be8a6d?utm_campaign=1048&utm_source=git)** | Cedar Rapids, IA | On Site | Sep 01 |
+| **[Woodwell Climate Research Center](https://www.woodwellclimate.org)** | **[Postdoctoral Researcher (Arctic Boreal Fire Management)](https://jobright.ai/jobs/info/68b61b96bc187f64e1be8d31?utm_campaign=1048&utm_source=git)** | Falmouth, MA | Hybrid | Sep 01 |
 | **[Nordson Industrial Coating Systems](http://www.nordson.com/ics)** | **[Intern (Mechatronic Engineer/Scientist)](https://jobright.ai/jobs/info/68b5f56ebc187f64e1be89d6?utm_campaign=1048&utm_source=git)** | USA - Minnesota - Minneapolis - 5900 Golden Hills Drive | On Site | Sep 01 |
 | **[RTX](http://www.raytheon.com)** | **[2026 Returning Intern-Raytheon Sensor Controls & Electronics Electrical Engineer-(Onsite)](https://jobright.ai/jobs/info/68b5f4cf1ade4306aa643a21?utm_campaign=1048&utm_source=git)** | MA131: Tewksbury, MA Bldg  1 Assabet 50 Apple Hill Drive Assabet - Building 1, Tewksbury, MA, 01876 USA | On Site | Sep 01 |
 | **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Mechanical Engineering](https://jobright.ai/jobs/info/68b5f271f4e41a61efd91982?utm_campaign=1048&utm_source=git)** | Shaver Lake, CA | On Site | Sep 01 |
@@ -79,8 +85,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Process Engineering Intern](https://jobright.ai/jobs/info/68b5eedcf4e41a61efd91909?utm_campaign=1048&utm_source=git)** | 5508 Lonas Drive, Knoxville, TN | On Site | Sep 01 |
 | ↳ | **[Network Operations Intern](https://jobright.ai/jobs/info/68b5eebb1ade4306aa643924?utm_campaign=1048&utm_source=git)** | 9016 Cross Park Drive, Knoxville, TN | On Site | Sep 01 |
 | **[Southern California Edison (SCE)](https://www.sce.com)** | **[2025 Summer Internship - Electrical & Mechanical Engineering 1](https://jobright.ai/jobs/info/68b5e4ebbc187f64e1be8719?utm_campaign=1048&utm_source=git)** | Rosemead, CA | Remote | Sep 01 |
-| **[City of Philadelphia](http://www.phila.gov/)** | **[Engineering Intern](https://jobright.ai/jobs/info/68b5e485f4e41a61efd91749?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Sep 01 |
-| ↳ | **[Engineering Intern](https://jobright.ai/jobs/info/68b5e3b2f4e41a61efd916ea?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Sep 01 |
+| **[City of Philadelphia](http://www.phila.gov/)** | **[Engineering Intern](https://jobright.ai/jobs/info/68b5e3b2f4e41a61efd916ea?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Sep 01 |
 | **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Electrical/Mechanical Engineering](https://jobright.ai/jobs/info/68b5e181bc187f64e1be86fd?utm_campaign=1048&utm_source=git)** | Pomona, CA | Hybrid | Sep 01 |
 | ↳ | **[2026 Summer Internship - Electrical/Mechanical Engineering](https://jobright.ai/jobs/info/68b5e176bc187f64e1be86f6?utm_campaign=1048&utm_source=git)** | Fontana, CA | Hybrid | Sep 01 |
 | ↳ | **[2026 Summer Internship - Electrical Engineering](https://jobright.ai/jobs/info/68b5e171bc187f64e1be86f1?utm_campaign=1048&utm_source=git)** | Fullerton, CA | Hybrid | Sep 01 |
@@ -104,6 +109,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Internship - Cybersecurity/Computer Science](https://jobright.ai/jobs/info/68b5e02af4e41a61efd9169a?utm_campaign=1048&utm_source=git)** | Pomona, CA | Hybrid | Sep 01 |
 | ↳ | **[2026 Summer Internship - Crime and Intelligence](https://jobright.ai/jobs/info/68b5e00bf4e41a61efd9168e?utm_campaign=1048&utm_source=git)** | Rosemead, CA | Hybrid | Sep 01 |
 | ↳ | **[2026 Summer Internship - All Engineering](https://jobright.ai/jobs/info/68b5e004f4e41a61efd9168a?utm_campaign=1048&utm_source=git)** | Pomona, CA | Hybrid | Sep 01 |
+| ↳ | **[2026 Summer Internship - Electrical Engineering](https://jobright.ai/jobs/info/68b5dffff4e41a61efd91687?utm_campaign=1048&utm_source=git)** | Compton, CA | Hybrid | Sep 01 |
 | ↳ | **[2026 Summer Internship - Electrical Engineering](https://jobright.ai/jobs/info/68b5dff8f4e41a61efd91683?utm_campaign=1048&utm_source=git)** | Fontana, CA | Hybrid | Sep 01 |
 | ↳ | **[2026 Summer Internship - Electrical/Mechanical Engineering](https://jobright.ai/jobs/info/68b5dfc6f4e41a61efd91676?utm_campaign=1048&utm_source=git)** | Tulare, CA | Hybrid | Sep 01 |
 | ↳ | **[2026 Summer Internship - Electrical/Mechanical Engineering](https://jobright.ai/jobs/info/68b5dfabf4e41a61efd9166d?utm_campaign=1048&utm_source=git)** | Redlands, CA | Hybrid | Sep 01 |
@@ -115,7 +121,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Internship - Environmental Sciences](https://jobright.ai/jobs/info/68b5dd69bc187f64e1be865b?utm_campaign=1048&utm_source=git)** | Rosemead, CA | Remote | Sep 01 |
 | **[GLS IT Services GmbH](https://gls-group.eu/DE/de/home)** | **[Ausbildung Fachinformatiker für Systemintegration (w/m/d) 2026](https://jobright.ai/jobs/info/68b5dd55bc187f64e1be8654?utm_campaign=1048&utm_source=git)** | Elkhart County, IN | On Site | Sep 01 |
 | **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Electrical/Mechanical Engineering](https://jobright.ai/jobs/info/68b5dd531ade4306aa6436b7?utm_campaign=1048&utm_source=git)** | Santa Ana, CA | Hybrid | Sep 01 |
+| ↳ | **[2026 Summer Internship - Electrical/Mechanical Engineering](https://jobright.ai/jobs/info/68b5dd431ade4306aa6436b3?utm_campaign=1048&utm_source=git)** | Compton, CA | Hybrid | Sep 01 |
 | ↳ | **[2026 Summer Internship - Cybersecurity/Computer Science](https://jobright.ai/jobs/info/68b5dd191ade4306aa6436a5?utm_campaign=1048&utm_source=git)** | Rosemead, CA | Hybrid | Sep 01 |
+| ↳ | **[2026 Summer Internship - Electrical Engineering](https://jobright.ai/jobs/info/68b5dccbf4e41a61efd91657?utm_campaign=1048&utm_source=git)** | Alhambra, CA | Hybrid | Sep 01 |
 | ↳ | **[2026 Summer Internship - All Engineering](https://jobright.ai/jobs/info/68b5dcb1f4e41a61efd91651?utm_campaign=1048&utm_source=git)** | Santa Clarita, CA | Hybrid | Sep 01 |
 | ↳ | **[2026 Summer Internship - Electrical Engineering 1](https://jobright.ai/jobs/info/68b5dc97f4e41a61efd91648?utm_campaign=1048&utm_source=git)** | Rosemead, CA | Hybrid | Sep 01 |
 | ↳ | **[2026 Summer Internship - Supply Chain](https://jobright.ai/jobs/info/68b5dc53f4e41a61efd9163d?utm_campaign=1048&utm_source=git)** | Rosemead, CA | Remote | Sep 01 |
@@ -131,30 +139,22 @@ For a complete list, click the following sortable link below:
 | **[Metalcraft of Mayville, Inc.](http://www.mtlcraft.com/)** | **[Tool and Die Apprentice , 1st shift  (West Bend)](https://jobright.ai/jobs/info/68b5c1f0f4e41a61efd912cb?utm_campaign=1048&utm_source=git)** | West Bend, WI | On Site | Sep 01 |
 | ↳ | **[Manufacturing Engineering Intern (Youth Apprentice)](https://jobright.ai/jobs/info/68b5c063bc187f64e1be8316?utm_campaign=1048&utm_source=git)** | Fall River, WI | On Site | Sep 01 |
 | **[Textron Aviation](http://txtav.com)** | **[2026 Internship - Flight Ops (Flight Operations Dispatch and Operations Coordinator)](https://jobright.ai/jobs/info/68b5d20d1ade4306aa64354c?utm_campaign=1048&utm_source=git)** | Wichita, KS | On Site | Sep 01 |
+| **[Walter P Moore](http://www.walterpmoore.com)** | **[Structural Intern 2025](https://jobright.ai/jobs/info/676247bf875716bda6ec6da2?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Sep 01 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Reforesting the Future: Volunteering for Portugals Forest Conservation](https://jobright.ai/jobs/info/68b5b02ebc187f64e1be7d2d?utm_campaign=1048&utm_source=git)** | Berkeley, CA | On Site | Sep 01 |
 | **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Crime and Intelligence](https://jobright.ai/jobs/info/68b5af00f4e41a61efd90d15?utm_campaign=1048&utm_source=git)** | Rosemead, CA | Hybrid | Sep 01 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Exotiuc Animals Conservation in Hawaii](https://jobright.ai/jobs/info/687cb529764c3d7411c3b81c?utm_campaign=1048&utm_source=git)** | Berkeley, CA | On Site | Sep 01 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Design Engineering Intern](https://jobright.ai/jobs/info/68b5aa0ff4e41a61efd90b3c?utm_campaign=1048&utm_source=git)** | Flower Mound, TX | On Site | Sep 01 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Structural Intern - 2025](https://jobright.ai/jobs/info/67a86dda19abe9ec4cb2a681?utm_campaign=1048&utm_source=git)** | New York, United States | On Site | Sep 01 |
-| **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Electrical/Mechanical Engineering](https://jobright.ai/jobs/info/68b5a3d51ade4306aa642a6e?utm_campaign=1048&utm_source=git)** | Compton, CA | Hybrid | Sep 01 |
-| ↳ | **[2026 Summer Internship - Electrical/Mechanical Engineering](https://jobright.ai/jobs/info/68b5a3981ade4306aa642a40?utm_campaign=1048&utm_source=git)** | Santa Ana, CA | Hybrid | Sep 01 |
-| ↳ | **[2026 Summer Internship - Electrical Engineering](https://jobright.ai/jobs/info/68b5a2c0bc187f64e1be7a0f?utm_campaign=1048&utm_source=git)** | Alhambra, CA | Hybrid | Sep 01 |
-| ↳ | **[2026 Summer Internship - Electrical Engineering](https://jobright.ai/jobs/info/68b5a29bbc187f64e1be7a01?utm_campaign=1048&utm_source=git)** | Compton, CA | Hybrid | Sep 01 |
+| **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Electrical/Mechanical Engineering](https://jobright.ai/jobs/info/68b5a3981ade4306aa642a40?utm_campaign=1048&utm_source=git)** | Santa Ana, CA | Hybrid | Sep 01 |
 | ↳ | **[2026 Summer Internship - All Engineering](https://jobright.ai/jobs/info/68b5a284bc187f64e1be79f8?utm_campaign=1048&utm_source=git)** | Pomona, CA | Hybrid | Sep 01 |
 | ↳ | **[2026 Summer Internship - All Engineering](https://jobright.ai/jobs/info/68b5a212f4e41a61efd90a25?utm_campaign=1048&utm_source=git)** | Compton, CA | Hybrid | Sep 01 |
-| ↳ | **[2026 Summer Internship - Cybersecurity/Computer Science](https://jobright.ai/jobs/info/68b5a0eef4e41a61efd9088e?utm_campaign=1048&utm_source=git)** | Pomona, CA | Hybrid | Sep 01 |
 | ↳ | **[2026 Summer Internship - Cybersecurity/Computer Science](https://jobright.ai/jobs/info/68b5a0dff4e41a61efd90880?utm_campaign=1048&utm_source=git)** | Rosemead, CA | Hybrid | Sep 01 |
 | ↳ | **[2026 Summer Internship - All Engineering](https://jobright.ai/jobs/info/68b5a0291ade4306aa6429ad?utm_campaign=1048&utm_source=git)** | Santa Ana, CA | Remote | Sep 01 |
 | **[TE Connectivity](http://www.te.com)** | **[Mold Engineering Intern](https://jobright.ai/jobs/info/68b5a0031ade4306aa642964?utm_campaign=1048&utm_source=git)** | Winston-Salem, NC | On Site | Sep 01 |
-| **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - All Engineering](https://jobright.ai/jobs/info/68b59f21bc187f64e1be7947?utm_campaign=1048&utm_source=git)** | Palmdale, CA | Remote | Sep 01 |
 | **[General Dynamics NASSCO](http://www.nassco.com/)** | **[Hull Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68b59ea5bc187f64e1be786f?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Sep 01 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern – Mechanical Engineering – Illinois](https://jobright.ai/jobs/info/68b59dbbf4e41a61efd90801?utm_campaign=1048&utm_source=git)** | Cary, IL | On Site | Sep 01 |
 | **[SEKO Logistics](http://sekologistics.com)** | **[Cybersecurity Intern (Summer)](https://jobright.ai/jobs/info/68b59d84f4e41a61efd907ec?utm_campaign=1048&utm_source=git)** | Schaumburg, IL | On Site | Sep 01 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern - Biomedical Engineering - New Jersey](https://jobright.ai/jobs/info/68b59d82f4e41a61efd907ea?utm_campaign=1048&utm_source=git)** | Mahwah, NJ | On Site | Sep 01 |
 | ↳ | **[2026 Summer Intern - Electrical Engineering - California](https://jobright.ai/jobs/info/68b59d68f4e41a61efd907e0?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Sep 01 |
 | ↳ | **[2026 Summer Intern – Manufacturing Engineering – Michigan](https://jobright.ai/jobs/info/68b59d20f4e41a61efd907bb?utm_campaign=1048&utm_source=git)** | Portage, MI | On Site | Sep 01 |
-| ↳ | **[2026 Summer Intern - Biomedical Engineering - Washington](https://jobright.ai/jobs/info/68b59cf9f4e41a61efd907ae?utm_campaign=1048&utm_source=git)** | Redmond, WA | On Site | Sep 01 |
-| ↳ | **[2026 Summer Intern – Manufacturing Engineering – California](https://jobright.ai/jobs/info/68b59ce4f4e41a61efd907a7?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Sep 01 |
-| ↳ | **[EH&S Intern](https://jobright.ai/jobs/info/68b59ca0f4e41a61efd9078e?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT | On Site | Sep 01 |
-| ↳ | **[2026 Summer Intern – Mechanical Engineering – New Jersey](https://jobright.ai/jobs/info/68b59c2f1ade4306aa64284a?utm_campaign=1048&utm_source=git)** | Mahwah, NJ | On Site | Sep 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
