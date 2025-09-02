@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Franklin Pierce University](http://www.franklinpierce.edu/)** | **[Students at FPU Only - Maintenance Assistant AY 25-26](https://jobright.ai/jobs/info/68b6b30c2124650c1401ddf7?utm_campaign=1048&utm_source=git)** | Rindge, NH | On Site | Sep 02 |
+| **[Valero](http://www.valero.com)** | **[Project Construction Intern (Summer 2026) – U.S. Refining Locations](https://jobright.ai/jobs/info/68b6b2512124650c1401ddd4?utm_campaign=1048&utm_source=git)** | United States | Remote | Sep 02 |
+| ↳ | **[Mechanical Engineering Intern (Summer 2026) – U.S. Refining Locations](https://jobright.ai/jobs/info/68b6b2362124650c1401ddd2?utm_campaign=1048&utm_source=git)** | United States | Remote | Sep 02 |
+| ↳ | **[Safety Engineering Intern (Summer 2026) – U.S. Refining Locations](https://jobright.ai/jobs/info/68b6b1ad1ade4306aa646176?utm_campaign=1048&utm_source=git)** | United States | Remote | Sep 02 |
+| ↳ | **[Electrical Engineering Intern (Summer 2026) – U.S. Refining Locations](https://jobright.ai/jobs/info/68b6b17e1ade4306aa64616f?utm_campaign=1048&utm_source=git)** | United States | Remote | Sep 02 |
+| ↳ | **[Metallurgy Intern (Summer 2026)](https://jobright.ai/jobs/info/68b6b176f4e41a61efd94149?utm_campaign=1048&utm_source=git)** | US-TX-Corpus Christi | On Site | Sep 02 |
+| ↳ | **[Chemical Engineering Intern (Summer 2026) – U.S. Refining Locations](https://jobright.ai/jobs/info/68b6b124f4e41a61efd94134?utm_campaign=1048&utm_source=git)** | United States | Remote | Sep 02 |
+| **[GenPark](https://genpark.ai)** | **[Machine Learning Intern](https://jobright.ai/jobs/info/68b6ad33bc187f64e1beb114?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area | Hybrid | Sep 02 |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Project SURE STEM Scholar - SPC - req9193](https://jobright.ai/jobs/info/68b6ac4abc187f64e1beb0e5?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Sep 02 |
+| **[Clemson University MBA Programs](https://www.clemson.edu/business/departments/mba/)** | **[Post Doctoral Fellow - Water Resources Planning and Management](https://jobright.ai/jobs/info/68b6ac21bc187f64e1beb0d1?utm_campaign=1048&utm_source=git)** | Pendleton, SC | On Site | Sep 02 |
+| **[Western Dairy Transport, LLC](https://www.wdtmilk.com)** | **[Intern - Dispatcher and Diesel Mechanic (Cabool, MO location)](https://jobright.ai/jobs/info/68b6ac061ade4306aa6460b3?utm_campaign=1048&utm_source=git)** | Cabool, MO | On Site | Sep 02 |
 | **[Donaldson](http://donaldson.com)** | **[Safety, Health and Environment Intern](https://jobright.ai/jobs/info/68b6a26df4e41a61efd94025?utm_campaign=1048&utm_source=git)** | Bloomington, MN | On Site | Sep 02 |
 | **[Blue Origin](http://www.blueorigin.com)** | **[Summer 2026 Fluid Systems Engineering Intern - Graduate Student](https://jobright.ai/jobs/info/68b6a1cabc187f64e1beaff6?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Sep 02 |
 | **[UNSW](https://www.founders.unsw.edu.au)** | **[Postdoctoral Research Fellow in Process Control Group](https://jobright.ai/jobs/info/68b6a1c7f4e41a61efd93ff4?utm_campaign=1048&utm_source=git)** | Princeton, CA | On Site | Sep 02 |
@@ -68,8 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Blue Origin](http://www.blueorigin.com)** | **[Summer 2026 Test Engineering Intern - Graduate Student](https://jobright.ai/jobs/info/68b6a187bc187f64e1beaf7d?utm_campaign=1048&utm_source=git)** | Longmont, CO | On Site | Sep 02 |
 | **[UNSW](https://www.founders.unsw.edu.au)** | **[Postdoctoral Research Fellow in Process Control Group](https://jobright.ai/jobs/info/68b6a1761ade4306aa646021?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Sep 02 |
 | **[Blue Origin](http://www.blueorigin.com)** | **[Summer 2026 Aerospace Systems Engineering Intern - Graduate Student](https://jobright.ai/jobs/info/68b6a171bc187f64e1beaf5e?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Sep 02 |
-| **[GenPark](https://genpark.ai)** | **[Artificial Intelligence Intern](https://jobright.ai/jobs/info/68b6a16e1ade4306aa64601f?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area | Hybrid | Sep 02 |
-| **[Blue Origin](http://www.blueorigin.com)** | **[Summer 2026 Mechanical Engineering- Graduate Student](https://jobright.ai/jobs/info/68b6a146bc187f64e1beaf19?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Sep 02 |
+| ↳ | **[Summer 2026 Mechanical Engineering- Graduate Student](https://jobright.ai/jobs/info/68b6a146bc187f64e1beaf19?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Sep 02 |
 | ↳ | **[Summer 2026 Electrical Systems Engineering Intern - Graduate Student](https://jobright.ai/jobs/info/68b6a146bc187f64e1beaf18?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Sep 02 |
 | ↳ | **[Summer 2026 Materials & Processes Intern - Undergraduate](https://jobright.ai/jobs/info/68b6a132f4e41a61efd93fc1?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Sep 02 |
 | ↳ | **[Summer 2026 Electrical Systems Engineering Internship - Undergraduate](https://jobright.ai/jobs/info/68b6a12cbc187f64e1beaee8?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | Sep 02 |
@@ -78,8 +88,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Manufacturing Engineering Intern - Undergraduate](https://jobright.ai/jobs/info/68b6a11dbc187f64e1beaed4?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | Sep 02 |
 | ↳ | **[Summer 2026 Electrical Systems Engineering Internship - Undergraduate](https://jobright.ai/jobs/info/68b6a103bc187f64e1beaeba?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Sep 02 |
 | ↳ | **[Summer 2026 Test Engineering Intern - Undergraduate](https://jobright.ai/jobs/info/68b6a0fdbc187f64e1beaeb0?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Sep 02 |
-| ↳ | **[Summer 2026 Aerospace Systems Engineering Intern - Graduate Student](https://jobright.ai/jobs/info/68b6a0f6f4e41a61efd93f6c?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Sep 02 |
 | ↳ | **[Summer 2026 Aerospace Systems Engineering Intern - Graduate Student](https://jobright.ai/jobs/info/68b6a0f6f4e41a61efd93f6a?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Sep 02 |
+| ↳ | **[Summer 2026 Aerospace Systems Engineering Intern - Graduate Student](https://jobright.ai/jobs/info/68b6a0f6f4e41a61efd93f6c?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Sep 02 |
 | ↳ | **[Summer 2026 Mechanical Engineering- Graduate Student](https://jobright.ai/jobs/info/68b6a0f5f4e41a61efd93f66?utm_campaign=1048&utm_source=git)** | Van Horn, TX | On Site | Sep 02 |
 | ↳ | **[Summer 2026 Guidance, Navigation & Controls Internship - Undergraduate](https://jobright.ai/jobs/info/68b6a0e71ade4306aa645fdc?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Sep 02 |
 | ↳ | **[Summer 2026 Electrical Systems Engineering Intern - Graduate Student](https://jobright.ai/jobs/info/68b6a0e61ade4306aa645fd8?utm_campaign=1048&utm_source=git)** | Van Horn, TX | On Site | Sep 02 |
@@ -100,8 +110,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Fluid Systems Engineering Intern - Graduate Student](https://jobright.ai/jobs/info/68b6a05a1ade4306aa645f37?utm_campaign=1048&utm_source=git)** | Space Coast, FL | On Site | Sep 02 |
 | ↳ | **[Summer 2026 Aerospace Systems Engineering Intern - Undergraduate Student](https://jobright.ai/jobs/info/68b6a0511ade4306aa645f26?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Sep 02 |
 | ↳ | **[Summer 2026 Mechanical Engineering- Graduate Student](https://jobright.ai/jobs/info/68b6a0511ade4306aa645f23?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Sep 02 |
-| ↳ | **[Summer 2026 Mechanical Engineering- Graduate Student](https://jobright.ai/jobs/info/68b6a047bc187f64e1beade5?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | Sep 02 |
 | ↳ | **[Summer 2026 Aerospace Systems Engineering Intern - Undergraduate Student](https://jobright.ai/jobs/info/68b6a047bc187f64e1beade4?utm_campaign=1048&utm_source=git)** | Space Coast, FL | On Site | Sep 02 |
+| ↳ | **[Summer 2026 Mechanical Engineering- Graduate Student](https://jobright.ai/jobs/info/68b6a047bc187f64e1beade5?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | Sep 02 |
 | ↳ | **[Summer 2026 Manufacturing Engineering Intern - Undergraduate](https://jobright.ai/jobs/info/68b6a0421ade4306aa645f1c?utm_campaign=1048&utm_source=git)** | Space Coast, FL | On Site | Sep 02 |
 | ↳ | **[Summer 2026 Manufacturing Engineering Intern - Graduate Student](https://jobright.ai/jobs/info/68b6a03e1ade4306aa645f12?utm_campaign=1048&utm_source=git)** | Space Coast, FL | On Site | Sep 02 |
 | ↳ | **[Summer 2026 Guidance, Navigation & Controls Internship - Undergraduate](https://jobright.ai/jobs/info/68b6a03cbc187f64e1beaddb?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Sep 02 |
@@ -130,8 +140,8 @@ For a complete list, click the following sortable link below:
 | **[Blue Origin](http://www.blueorigin.com)** | **[Summer 2026 Fluid Systems Engineering Intern - Graduate Student](https://jobright.ai/jobs/info/68b69f7ff4e41a61efd93d91?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | Sep 02 |
 | ↳ | **[Summer 2026 Fluid Systems Intern - Undergraduate](https://jobright.ai/jobs/info/68b69f7ff4e41a61efd93d8c?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Sep 02 |
 | ↳ | **[Summer 2026 Guidance, Navigation & Controls Internship - Undergraduate](https://jobright.ai/jobs/info/68b69f7df4e41a61efd93d8b?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Sep 02 |
-| ↳ | **[Summer 2026 Fluid Systems Engineering Intern - Graduate Student](https://jobright.ai/jobs/info/68b69f63f4e41a61efd93d72?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Sep 02 |
 | ↳ | **[Summer 2026 Test Engineering Intern - Graduate Student](https://jobright.ai/jobs/info/68b69f63bc187f64e1beacc3?utm_campaign=1048&utm_source=git)** | Van Horn, TX | On Site | Sep 02 |
+| ↳ | **[Summer 2026 Fluid Systems Engineering Intern - Graduate Student](https://jobright.ai/jobs/info/68b69f63f4e41a61efd93d72?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Sep 02 |
 | ↳ | **[Summer 2026 Mechanical Engineering- Graduate Student](https://jobright.ai/jobs/info/68b69f4d1ade4306aa645ddf?utm_campaign=1048&utm_source=git)** | Longmont, CO | On Site | Sep 02 |
 | ↳ | **[Summer 2026 Aerospace Systems Engineering Intern - Undergraduate Student](https://jobright.ai/jobs/info/68b69f34f4e41a61efd93d4b?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Sep 02 |
 | ↳ | **[Summer 2026 Test Engineering Intern - Undergraduate](https://jobright.ai/jobs/info/68b69f211ade4306aa645db0?utm_campaign=1048&utm_source=git)** | Van Horn, TX | On Site | Sep 02 |
@@ -143,18 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Electrical Systems Engineering Intern - Graduate Student](https://jobright.ai/jobs/info/68b69e8df4e41a61efd93ca0?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Sep 02 |
 | ↳ | **[Summer 2026 Electrical Systems Engineering Intern - Graduate Student](https://jobright.ai/jobs/info/68b69e8cf4e41a61efd93c9e?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | Sep 02 |
 | **[NVIDIA](https://www.nvidia.com)** | **[NVIDIA 2026 Internships: PhD Generative AI Research](https://jobright.ai/jobs/info/68b69e891ade4306aa645d13?utm_campaign=1048&utm_source=git)** | US, CA, Santa Clara | On Site | Sep 02 |
-| **[Blue Origin](http://www.blueorigin.com)** | **[Summer 2026  - Mechanical Engineering Intern - Undergraduate](https://jobright.ai/jobs/info/68b69e84f4e41a61efd93c8d?utm_campaign=1048&utm_source=git)** | Longmont, CO | On Site | Sep 02 |
+| **[Blue Origin](http://www.blueorigin.com)** | **[Summer 2026 Materials & Processes Intern- Graduate Student](https://jobright.ai/jobs/info/68b69e84f4e41a61efd93c8b?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Sep 02 |
+| ↳ | **[Summer 2026  - Mechanical Engineering Intern - Undergraduate](https://jobright.ai/jobs/info/68b69e84f4e41a61efd93c8d?utm_campaign=1048&utm_source=git)** | Longmont, CO | On Site | Sep 02 |
 | ↳ | **[Summer 2026 Electrical Systems Engineering Internship - Undergraduate](https://jobright.ai/jobs/info/68b69e84f4e41a61efd93c8a?utm_campaign=1048&utm_source=git)** | Space Coast, FL | On Site | Sep 02 |
-| ↳ | **[Summer 2026 Materials & Processes Intern- Graduate Student](https://jobright.ai/jobs/info/68b69e84f4e41a61efd93c8b?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Sep 02 |
 | **[NVIDIA](https://www.nvidia.com)** | **[NVIDIA 2026 Internships: Mixed Signal Design and Digital Circuit Design](https://jobright.ai/jobs/info/68b69e77f4e41a61efd93c7b?utm_campaign=1048&utm_source=git)** | US, CA, Santa Clara | On Site | Sep 02 |
-| **[Blue Origin](http://www.blueorigin.com)** | **[Summer 2026 Manufacturing Engineering Intern - Graduate Student](https://jobright.ai/jobs/info/68b69e75f4e41a61efd93c79?utm_campaign=1048&utm_source=git)** | Van Horn, TX | On Site | Sep 02 |
-| **[NVIDIA](https://www.nvidia.com)** | **[NVIDIA 2026 Internships: Deep Learning](https://jobright.ai/jobs/info/68b69e6ff4e41a61efd93c76?utm_campaign=1048&utm_source=git)** | US, CA, Santa Clara | On Site | Sep 02 |
-| **[Blue Origin](http://www.blueorigin.com)** | **[Summer 2026 Manufacturing Engineering Intern - Undergraduate](https://jobright.ai/jobs/info/68b69e6bf4e41a61efd93c6c?utm_campaign=1048&utm_source=git)** | Longmont, CO | On Site | Sep 02 |
-| ↳ | **[Summer 2026 Manufacturing Engineering Intern - Undergraduate](https://jobright.ai/jobs/info/68b69e6a1ade4306aa645cf7?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Sep 02 |
-| **[UNSW](https://www.founders.unsw.edu.au)** | **[Postdoctoral Research Fellow in Process Control Group](https://jobright.ai/jobs/info/68b69dcdbc187f64e1beacb2?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Sep 02 |
-| **[United Airlines](https://www.united.com)** | **[Intern - Resource Planning - Industrial Engineering (Summer 2026)](https://jobright.ai/jobs/info/68b69dc9bc187f64e1beacaf?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Sep 02 |
-| **[UNSW](https://www.founders.unsw.edu.au)** | **[Postdoctoral Research Fellow in Process Control Group](https://jobright.ai/jobs/info/68b69da1f4e41a61efd93c4f?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | Sep 02 |
-| **[GBA](http://gbateam.com)** | **[Electrical Engineering Internship](https://jobright.ai/jobs/info/68b69d961ade4306aa645cc1?utm_campaign=1048&utm_source=git)** | Broomfield, CO | On Site | Sep 02 |
-| **[Georgia-Pacific LLC](http://www.gp.com/aboutus/companyoverview/index.html)** | **[Georgia-Pacific Engineering Internship Summer 2026 – Savannah River Mill](https://jobright.ai/jobs/info/68b69d83f4e41a61efd93c47?utm_campaign=1048&utm_source=git)** | Rincon, GA | On Site | Sep 02 |
-| **[UNSW](https://www.founders.unsw.edu.au)** | **[Postdoctoral Research Fellow in Process Control Group](https://jobright.ai/jobs/info/68b69d34f4e41a61efd93c35?utm_campaign=1048&utm_source=git)** | New York, United States | On Site | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
