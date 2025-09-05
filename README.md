@@ -57,11 +57,27 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Shell](https://www.shell.com)** | **[Shell Assessed Internship Program 2026 - United States](https://jobright.ai/jobs/info/68bacd058043103d4f223074?utm_campaign=1048&utm_source=git)** | Houston, TX | Hybrid | Sep 05 |
+| **[IMEG](http://www.imegcorp.com/)** | **[Electrical Engineering Intern / Indianapolis, IN](https://jobright.ai/jobs/info/68bacd058043103d4f223073?utm_campaign=1048&utm_source=git)** | Indianapolis, IN | On Site | Sep 05 |
+| **[Traylor Bros., Inc.](http://traylor.com)** | **[Spring 2026 Engineer Intern/Co-op - Heavy Civil Construction](https://jobright.ai/jobs/info/68852101fbbf032d0006c16e?utm_campaign=1048&utm_source=git)** | United States | On Site | Sep 05 |
+| ↳ | **[Fall 2025 Engineer Intern/Co-op - Underground Construction & Tunneling](https://jobright.ai/jobs/info/68852106fbbf032d0006c171?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Sep 05 |
+| ↳ | **[Fall 2025 Engineer Intern/Co-op - Underground Construction & Tunneling](https://jobright.ai/jobs/info/6885a5eb4174df41e0f97ca1?utm_campaign=1048&utm_source=git)** | Tempe, AZ | On Site | Sep 05 |
+| ↳ | **[Spring 2026 Engineer Intern/Co-op - Underground Construction & Tunneling](https://jobright.ai/jobs/info/688520b2b651c92cb78ab53c?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Sep 05 |
+| **[ZOLL Medical Corporation](https://www.lifevest.zoll.com)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/689e6ea7faa4e875e827c66f?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Sep 05 |
+| **[Beckman Coulter Life Sciences](https://www.mybeckman.uk/)** | **[Supplier Quality Engineer Internship - Indianapolis](https://jobright.ai/jobs/info/689ec50a83d13d1f5b6c1310?utm_campaign=1048&utm_source=git)** | Indianapolis, IN | On Site | Sep 05 |
+| **[Traylor Bros., Inc.](http://traylor.com)** | **[Spring 2026 Engineer Intern/Co-op - Underground Construction & Tunneling](https://jobright.ai/jobs/info/6885c3d7b651c92cb78adfcc?utm_campaign=1048&utm_source=git)** | United States | On Site | Sep 05 |
+| **[Peter Basso Associates](http://www.peterbassoassociates.com/)** | **[Electrical Co-Op Fall 2026](https://jobright.ai/jobs/info/68babedb8043103d4f222a19?utm_campaign=1048&utm_source=git)** | Troy, MI | On Site | Sep 05 |
+| **[Hydrite](http://www.hydrite.com)** | **[Food Science Intern (Summer 2026)](https://jobright.ai/jobs/info/68b1e020f4e41a61efd80634?utm_campaign=1048&utm_source=git)** | Visalia, CA | Hybrid | Sep 05 |
+| **[Nuro](https://nuro.ai)** | **[Systems Engineering Intern, Scenario Taxonomy](https://jobright.ai/jobs/info/689e8825faa4e875e827d846?utm_campaign=1048&utm_source=git)** | Mountain View, CA | On Site | Sep 05 |
+| **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[Maintenance Intern - Summer 2026](https://jobright.ai/jobs/info/68bab88f5f383274918691aa?utm_campaign=1048&utm_source=git)** | Detroit, MI | On Site | Sep 05 |
+| **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Kettering Engineering Co-op, R&D – New Product Development](https://jobright.ai/jobs/info/689d6d54faa4e875e826ff1c?utm_campaign=1048&utm_source=git)** | Portage, MI | Hybrid | Sep 05 |
 | **[Sonatus](https://sonatus.com)** | **[AI Engineer Intern](https://jobright.ai/jobs/info/68bab1385f3832749186902a?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA | Hybrid | Sep 05 |
 | **[WVU Department of Mechanical, Materials and Aerospace Engineering](https://mmae.statler.wvu.edu/)** | **[Postdoctoral Fellow - Department of Chemical and Biomedical Engineering- 25751](https://jobright.ai/jobs/info/68baa4bd6105227d1189fc27?utm_campaign=1048&utm_source=git)** | Morgantown, WV | On Site | Sep 05 |
 | **[ERCOT](http://www.ercot.com/)** | **[Intern - Engineering (University of Texas at Austin)](https://jobright.ai/jobs/info/68baa4525f38327491868d9a?utm_campaign=1048&utm_source=git)** | Taylor, TX | On Site | Sep 05 |
 | **[Westmor Industries](http://westmor-ind.com)** | **[Mechanical Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/68baa41e5f38327491868d8a?utm_campaign=1048&utm_source=git)** | Morris, MN | On Site | Sep 05 |
+| **[Smurfit Westrock](https://www.smurfitwestrock.com/)** | **[Fiber Supply Intern - Summer 2026](https://jobright.ai/jobs/info/68bac0756105227d118a0232?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Sep 05 |
 | **[XTX Markets](https://www.xtxmarkets.com/)** | **[AI Research Internship - XTY Labs](https://jobright.ai/jobs/info/673b32c14fb9a5af02f63747?utm_campaign=1048&utm_source=git)** | New York | On Site | Sep 05 |
+| **[SteelFab, Inc.](https://www.steelfab-inc.com)** | **[Summer 2026 Detail Intern- Charlotte, NC](https://jobright.ai/jobs/info/68bac10d6105227d118a02b6?utm_campaign=1048&utm_source=git)** | Charlotte, NC | On Site | Sep 05 |
 | **[BD](https://www.bd.com)** | **[BD 2026 Summer Internship - Quality Engineering Development Program](https://jobright.ai/jobs/info/68ba9e946105227d1189fb02?utm_campaign=1048&utm_source=git)** | Tempe, AZ | On Site | Sep 05 |
 | **[Superior Industries Inc](http://superior-ind.com)** | **[Design Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/68ba9e716105227d1189faf7?utm_campaign=1048&utm_source=git)** | Prescott Valley, AZ | On Site | Sep 05 |
 | **[BD](https://www.bd.com)** | **[BD 2026 Summer Internship - Quality Engineering Development Program](https://jobright.ai/jobs/info/68ba9e4d6105227d1189fae5?utm_campaign=1048&utm_source=git)** | Sandy, UT | On Site | Sep 05 |
@@ -69,42 +85,45 @@ For a complete list, click the following sortable link below:
 | **[BD](https://www.bd.com)** | **[BD 2026 Summer Internship - Quality Engineering Development Program](https://jobright.ai/jobs/info/68ba9d395f38327491868c03?utm_campaign=1048&utm_source=git)** | Covington, GA | On Site | Sep 05 |
 | **[ERCOT](http://www.ercot.com/)** | **[Intern - IT (Baylor University)](https://jobright.ai/jobs/info/68ba9cab5f38327491868bc9?utm_campaign=1048&utm_source=git)** | Taylor, TX | On Site | Sep 05 |
 | ↳ | **[Intern - Engineering (Texas A&M)](https://jobright.ai/jobs/info/68ba9c0f8043103d4f22230f?utm_campaign=1048&utm_source=git)** | Taylor, TX | On Site | Sep 05 |
+| **[SteelFab, Inc.](https://www.steelfab-inc.com)** | **[Summer 2026 Structural Engineer Intern- Charlotte, NC](https://jobright.ai/jobs/info/68bab8c98043103d4f222988?utm_campaign=1048&utm_source=git)** | Charlotte, NC | On Site | Sep 05 |
 | **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Engineering Process Automation Intern](https://jobright.ai/jobs/info/68ba9b388043103d4f222274?utm_campaign=1048&utm_source=git)** | Portland, OR US | Hybrid | Sep 05 |
 | **[Superior Industries Inc](http://superior-ind.com)** | **[Design Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/68ba9b038043103d4f22224f?utm_campaign=1048&utm_source=git)** | Morris, MN | On Site | Sep 05 |
 | **[ERCOT](http://www.ercot.com/)** | **[Intern - IT (Texas A&M)](https://jobright.ai/jobs/info/68ba96b46105227d1189f94e?utm_campaign=1048&utm_source=git)** | Taylor, TX | On Site | Sep 05 |
-| **[Swinerton](http://www.swinerton.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/68ba96076105227d1189f8da?utm_campaign=1048&utm_source=git)** | Dallas TX | On Site | Sep 05 |
-| ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/68ba96056105227d1189f8d8?utm_campaign=1048&utm_source=git)** | Bellevue WA | On Site | Sep 05 |
 | **[Terex Corporation](http://www.terex.com)** | **[2026 Design Engineer Intern](https://jobright.ai/jobs/info/68ba95cb6105227d1189f8ac?utm_campaign=1048&utm_source=git)** | USA, WA, Moses Lake | On Site | Sep 05 |
-| **[Swinerton](http://www.swinerton.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/68ba95a96105227d1189f88a?utm_campaign=1048&utm_source=git)** | San Francisco CA | On Site | Sep 05 |
+| **[Swinerton](http://www.swinerton.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/68ba95b85f38327491868ad6?utm_campaign=1048&utm_source=git)** | Bellevue WA | On Site | Sep 05 |
+| ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/68ba95ae6105227d1189f890?utm_campaign=1048&utm_source=git)** | Raleigh NC | On Site | Sep 05 |
+| ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/68ba95a96105227d1189f88a?utm_campaign=1048&utm_source=git)** | San Francisco CA | On Site | Sep 05 |
 | ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/68ba95a96105227d1189f88b?utm_campaign=1048&utm_source=git)** | Los Angeles CA | On Site | Sep 05 |
 | ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/68ba95a76105227d1189f889?utm_campaign=1048&utm_source=git)** | Concord CA | On Site | Sep 05 |
+| ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/68ba958f5f38327491868acd?utm_campaign=1048&utm_source=git)** | Spokane WA | On Site | Sep 05 |
+| ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/68ba95815f38327491868ac7?utm_campaign=1048&utm_source=git)** | Boise ID | On Site | Sep 05 |
 | **[Terex Corporation](http://www.terex.com)** | **[Manufacturing Engineer Intern/Co-op](https://jobright.ai/jobs/info/68ba957d6105227d1189f861?utm_campaign=1048&utm_source=git)** | USA, WA, Moses Lake | On Site | Sep 05 |
-| **[Swinerton](http://www.swinerton.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/68ba95756105227d1189f857?utm_campaign=1048&utm_source=git)** | Sacramento CA | On Site | Sep 05 |
+| **[Swinerton](http://www.swinerton.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/68ba95726105227d1189f855?utm_campaign=1048&utm_source=git)** | Santa Clara CA | On Site | Sep 05 |
 | ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/68ba956f5f38327491868ac3?utm_campaign=1048&utm_source=git)** | Portland OR (Timberlab) | On Site | Sep 05 |
 | **[Terex Corporation](http://www.terex.com)** | **[2026 Operational Technology Engineering Co-op](https://jobright.ai/jobs/info/68ba956d5f38327491868ac2?utm_campaign=1048&utm_source=git)** | USA, WA, Redmond | On Site | Sep 05 |
-| **[Swinerton](http://www.swinerton.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/68ba95686105227d1189f84d?utm_campaign=1048&utm_source=git)** | Spokane WA | On Site | Sep 05 |
+| **[Swinerton](http://www.swinerton.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/68ba95635f38327491868abd?utm_campaign=1048&utm_source=git)** | Sacramento CA | On Site | Sep 05 |
+| ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/68ba955d5f38327491868abc?utm_campaign=1048&utm_source=git)** | Arvada CO | On Site | Sep 05 |
 | ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/68ba955c8043103d4f2221bc?utm_campaign=1048&utm_source=git)** | Piedmont SC | On Site | Sep 05 |
-| ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/68ba95128043103d4f2221ae?utm_campaign=1048&utm_source=git)** | Raleigh NC | On Site | Sep 05 |
+| ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/68ba95516105227d1189f834?utm_campaign=1048&utm_source=git)** | Santa Ana CA | On Site | Sep 05 |
+| ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/68ba954f6105227d1189f832?utm_campaign=1048&utm_source=git)** | Austin TX | On Site | Sep 05 |
+| ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/68ba95485f38327491868ab8?utm_campaign=1048&utm_source=git)** | Charlotte NC | On Site | Sep 05 |
+| ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/68ba953f8043103d4f2221b5?utm_campaign=1048&utm_source=git)** | Dallas TX | On Site | Sep 05 |
+| ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/68ba95355f38327491868ab3?utm_campaign=1048&utm_source=git)** | Portland OR | On Site | Sep 05 |
+| ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/68ba95115f38327491868aa0?utm_campaign=1048&utm_source=git)** | San Diego CA | On Site | Sep 05 |
 | **[Terex Corporation](http://www.terex.com)** | **[2026 Design Engineer Co-op](https://jobright.ai/jobs/info/68ba950e8043103d4f2221ad?utm_campaign=1048&utm_source=git)** | USA, WA, Redmond | On Site | Sep 05 |
 | **[Vast](https://www.vast.space)** | **[2026 Summer Internship - Manufacturing](https://jobright.ai/jobs/info/68ba94fd6105227d1189f7fe?utm_campaign=1048&utm_source=git)** | Long Beach, California, United States | On Site | Sep 05 |
-| **[Swinerton](http://www.swinerton.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/68ba94ea8043103d4f2221a2?utm_campaign=1048&utm_source=git)** | Boise ID | On Site | Sep 05 |
-| ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/68ba94e05f38327491868a77?utm_campaign=1048&utm_source=git)** | Santa Ana CA | On Site | Sep 05 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Fisheries Management (Summer)](https://jobright.ai/jobs/info/68ba94cc6105227d1189f7e0?utm_campaign=1048&utm_source=git)** | Sioux Falls, SD | On Site | Sep 05 |
 | **[Swinerton](http://www.swinerton.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/68ba94bc8043103d4f22219b?utm_campaign=1048&utm_source=git)** | Oakland CA | On Site | Sep 05 |
-| ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/68ba94ba8043103d4f22219a?utm_campaign=1048&utm_source=git)** | Santa Clara CA | On Site | Sep 05 |
-| ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/68ba94b48043103d4f222198?utm_campaign=1048&utm_source=git)** | Austin TX | On Site | Sep 05 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Wildlife Damage (Summer)](https://jobright.ai/jobs/info/68ba94975f38327491868a3b?utm_campaign=1048&utm_source=git)** | Mitchell, SD | On Site | Sep 05 |
-| **[Swinerton](http://www.swinerton.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/68ba948e8043103d4f222193?utm_campaign=1048&utm_source=git)** | Portland OR | On Site | Sep 05 |
-| ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/68ba94828043103d4f222191?utm_campaign=1048&utm_source=git)** | Charlotte NC | On Site | Sep 05 |
 | **[Vast](https://www.vast.space)** | **[2026 Summer Internship - Mechanical/Aerospace Engineering](https://jobright.ai/jobs/info/68ba947e5f38327491868a23?utm_campaign=1048&utm_source=git)** | Long Beach, California, United States | On Site | Sep 05 |
-| **[Swinerton](http://www.swinerton.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/68ba947e8043103d4f222190?utm_campaign=1048&utm_source=git)** | San Diego CA | On Site | Sep 05 |
-| ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/68ba947a8043103d4f22218e?utm_campaign=1048&utm_source=git)** | Arvada CO | On Site | Sep 05 |
 | **[ERCOT](http://www.ercot.com/)** | **[Intern - Engineering (Baylor University)](https://jobright.ai/jobs/info/68ba943d6105227d1189f785?utm_campaign=1048&utm_source=git)** | Taylor, TX | On Site | Sep 05 |
 | **[Rosendin](https://www.rosendin.com)** | **[Intern - Summer 2026](https://jobright.ai/jobs/info/68ba93b75f383274918689aa?utm_campaign=1048&utm_source=git)** | Pflugerville, TX | On Site | Sep 05 |
 | **[BD](https://www.bd.com)** | **[BD 2026 Summer Internship - Quality Engineering Development Program](https://jobright.ai/jobs/info/68ba93625f3832749186897a?utm_campaign=1048&utm_source=git)** | Broken Bow, NE | On Site | Sep 05 |
+| **[ERCOT](http://www.ercot.com/)** | **[Intern - Engineering](https://jobright.ai/jobs/info/68ba92698043103d4f22201f?utm_campaign=1048&utm_source=git)** | Taylor, TX | Hybrid | Sep 05 |
 | **[Johnson & Johnson MedTech](https://www.jnjmedicaldevices.com/)** | **[Human Factors Engineer Co-op Spring 2026](https://jobright.ai/jobs/info/68ba92125f38327491868865?utm_campaign=1048&utm_source=git)** | Cincinnati, OH | On Site | Sep 05 |
 | **[WVU Department of Mechanical, Materials and Aerospace Engineering](https://mmae.statler.wvu.edu/)** | **[Postdoctoral Fellow - Department of Computer Science and Electrical Engineering- 27814](https://jobright.ai/jobs/info/68bab0128043103d4f222775?utm_campaign=1048&utm_source=git)** | Morgantown, WV | On Site | Sep 05 |
 | **[Framatome](http://www.framatome.com)** | **[Intern / Co - Op Chemical Engineer](https://jobright.ai/jobs/info/68ba91995f38327491868768?utm_campaign=1048&utm_source=git)** | Lynchburg, VA | On Site | Sep 05 |
+| **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Civil Engineering Internship](https://jobright.ai/jobs/info/68bac7f58043103d4f222f0b?utm_campaign=1048&utm_source=git)** | Butler, IN | On Site | Sep 05 |
 | **[Rosendin](https://www.rosendin.com)** | **[Intern - Summer 2026](https://jobright.ai/jobs/info/68ba91128043103d4f221dfc?utm_campaign=1048&utm_source=git)** | Amarillo, TX | On Site | Sep 05 |
 | **[Monolithic Power Systems, Inc.](http://www.monolithicpower.com)** | **[North Carolina State University Fall 2025 Engineering Career Fair](https://jobright.ai/jobs/info/68ba90a76105227d1189f469?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Sep 05 |
 | ↳ | **[North Carolina State University Fall 2025 Engineering Career Fair](https://jobright.ai/jobs/info/68ba90776105227d1189f427?utm_campaign=1048&utm_source=git)** | Remote - Florida | Remote | Sep 05 |
@@ -138,23 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Arup](http://www.arup.com)** | **[Physical Security Intern (Available June 2026)](https://jobright.ai/jobs/info/68ba859a5f38327491867dce?utm_campaign=1048&utm_source=git)** | New York, NY | Hybrid | Sep 04 |
 | ↳ | **[Structural Engineering Intern (Available June 2026)](https://jobright.ai/jobs/info/68ba85265f38327491867d5b?utm_campaign=1048&utm_source=git)** | Washington, DC | Hybrid | Sep 04 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Hatchery (Summer)](https://jobright.ai/jobs/info/68ba84e98043103d4f2213d9?utm_campaign=1048&utm_source=git)** | Spearfish, SD | On Site | Sep 04 |
-| ↳ | **[Intern - Habitat Management (Summer)](https://jobright.ai/jobs/info/68ba84c85f38327491867cfd?utm_campaign=1048&utm_source=git)** | Rapid City, SD | On Site | Sep 04 |
-| ↳ | **[Intern - Surface Water Quality (Summer)](https://jobright.ai/jobs/info/68ba84a48043103d4f2213a7?utm_campaign=1048&utm_source=git)** | Brookings, SD | On Site | Sep 04 |
-| ↳ | **[Intern - Fisheries Management (Summer)](https://jobright.ai/jobs/info/68ba84796105227d1189e8d9?utm_campaign=1048&utm_source=git)** | Mobridge, SD | On Site | Sep 04 |
-| ↳ | **[Intern - Network Analyst (Summer 2026)](https://jobright.ai/jobs/info/68ba84545f38327491867c86?utm_campaign=1048&utm_source=git)** | Pierre, SD | On Site | Sep 04 |
-| **[Arup](http://www.arup.com)** | **[Digital Technology Intern (Available June 2026)](https://jobright.ai/jobs/info/68ba84508043103d4f22135f?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | Hybrid | Sep 04 |
-| **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Aquatic Habitat and Access (Summer)](https://jobright.ai/jobs/info/68ba83fa5f38327491867c42?utm_campaign=1048&utm_source=git)** | Pierre, SD | On Site | Sep 04 |
-| **[City of Philadelphia](http://www.phila.gov/)** | **[Engineering Intern](https://jobright.ai/jobs/info/68ba83988043103d4f2212da?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Sep 04 |
-| **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Aquatic Habitat and Access (Summer)](https://jobright.ai/jobs/info/68ba836a8043103d4f2212ba?utm_campaign=1048&utm_source=git)** | Rapid City, SD | On Site | Sep 04 |
-| **[Primetals Technologies](https://primetals.com)** | **[Industrial Engineering Associate (Intern)](https://jobright.ai/jobs/info/68bab1125f38327491869020?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | Sep 04 |
-| **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Cleghorn Springs Hatchery (Summer)](https://jobright.ai/jobs/info/68ba83185f38327491867b80?utm_campaign=1048&utm_source=git)** | Rapid City, SD | On Site | Sep 04 |
-| **[Arup](http://www.arup.com)** | **[Mechanical Plumbing and Public Health Engineering Intern (Available June 2026)](https://jobright.ai/jobs/info/68ba82f05f38327491867b56?utm_campaign=1048&utm_source=git)** | Seattle, WA | Hybrid | Sep 04 |
-| **[IMEG](http://www.imegcorp.com/)** | **[Civil Engineering Intern / Bozeman, MT](https://jobright.ai/jobs/info/68ba82e98043103d4f22123c?utm_campaign=1048&utm_source=git)** | Bozeman, MT | On Site | Sep 04 |
-| **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Wildlife Damage (Summer)](https://jobright.ai/jobs/info/68ba82d08043103d4f221226?utm_campaign=1048&utm_source=git)** | Sioux Falls, SD | On Site | Sep 04 |
-| ↳ | **[Intern - Habitat (Summer)](https://jobright.ai/jobs/info/68ba82b95f38327491867b21?utm_campaign=1048&utm_source=git)** | Mitchell, SD | On Site | Sep 04 |
-| **[IMEG](http://www.imegcorp.com/)** | **[Intern - Civil Engineering](https://jobright.ai/jobs/info/68ba82765f38327491867ae6?utm_campaign=1048&utm_source=git)** | Manassas, VA | On Site | Sep 04 |
-| **[City of Philadelphia](http://www.phila.gov/)** | **[Engineering Intern](https://jobright.ai/jobs/info/68ba826c5f38327491867add?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Sep 04 |
-| **[Arup](http://www.arup.com)** | **[Commissioning Engineering Intern (Available June 2026)](https://jobright.ai/jobs/info/68ba825a8043103d4f2211e1?utm_campaign=1048&utm_source=git)** | Houston, TX | Hybrid | Sep 04 |
-| **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Fisheries Management (Summer)](https://jobright.ai/jobs/info/68ba82578043103d4f2211df?utm_campaign=1048&utm_source=git)** | Fort Pierre, SD | On Site | Sep 04 |
-| ↳ | **[Intern - Historic Preservation (Summer)](https://jobright.ai/jobs/info/68ba81f28043103d4f2211aa?utm_campaign=1048&utm_source=git)** | Pierre, SD | On Site | Sep 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
