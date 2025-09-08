@@ -57,6 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oxy](https://www.oxy.com)** | **[Land Intern](https://jobright.ai/jobs/info/68be1557c4c5904ff600479c?utm_campaign=1048&utm_source=git)** | Houston, Texas | On Site | Sep 07 |
+| **[Micron Technology](http://www.micron.com)** | **[Intern - APTD Equipment](https://jobright.ai/jobs/info/68be1537c4c5904ff600478e?utm_campaign=1048&utm_source=git)** | Boise, ID - Main Site | On Site | Sep 07 |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Center for the Industrial Base (Fall 2025)](https://jobright.ai/jobs/info/68be0e77c4c5904ff6004756?utm_campaign=1048&utm_source=git)** | Washington, DC | On Site | Sep 07 |
+| **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Civil Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68be0e77df5eec448f63da3c?utm_campaign=1048&utm_source=git)** | Fargo, ND | On Site | Sep 07 |
+| **[Page closed](http://www.doosanbobcat.com/)** | **[2026 Quality Engineer Student Experience](https://jobright.ai/jobs/info/68be0e56e57feb02eb0ac9dc?utm_campaign=1048&utm_source=git)** | Bismarck, ND | On Site | Sep 07 |
+| ↳ | **[2026 Test Engineer Student Experience](https://jobright.ai/jobs/info/68be0b02e57feb02eb0ac9b0?utm_campaign=1048&utm_source=git)** | Bismarck, ND | On Site | Sep 07 |
+| **[Hydrite](http://www.hydrite.com)** | **[Food Science Intern (Summer 2026)](https://jobright.ai/jobs/info/68b1de62f4e41a61efd804cd?utm_campaign=1048&utm_source=git)** | Ames, IA | Hybrid | Sep 07 |
+| **[American Electric Power](http://aep.com)** | **[MECHANICAL Engineering Intern](https://jobright.ai/jobs/info/68be0988c4c5904ff600471d?utm_campaign=1048&utm_source=git)** | Pittsburg, TX | On Site | Sep 07 |
+| ↳ | **[ELECTRICAL Engineering Intern](https://jobright.ai/jobs/info/68be0921c4c5904ff6004710?utm_campaign=1048&utm_source=git)** | Shreveport, LA | On Site | Sep 07 |
+| ↳ | **[ELECTRICAL Engineering Intern](https://jobright.ai/jobs/info/68be08a4df5eec448f63d9f1?utm_campaign=1048&utm_source=git)** | Pittsburg, TX | On Site | Sep 07 |
+| ↳ | **[ELECTRICAL Engineering Intern](https://jobright.ai/jobs/info/68be0868e57feb02eb0ac994?utm_campaign=1048&utm_source=git)** | Fulton, AR | On Site | Sep 07 |
+| ↳ | **[MECHANICAL Engineering Intern](https://jobright.ai/jobs/info/68be0865df5eec448f63d9ea?utm_campaign=1048&utm_source=git)** | Fulton, AR | On Site | Sep 07 |
+| ↳ | **[MECHANICAL Engineering Intern](https://jobright.ai/jobs/info/68be0862e57feb02eb0ac993?utm_campaign=1048&utm_source=git)** | Shreveport, LA | On Site | Sep 07 |
+| **[Peter Basso Associates](http://www.peterbassoassociates.com/)** | **[Electrical Co-Op Fall 2026](https://jobright.ai/jobs/info/68be081ac4c5904ff600470b?utm_campaign=1048&utm_source=git)** | Troy, MI | On Site | Sep 07 |
+| **[American Electric Power](http://aep.com)** | **[MECHANICAL Engineering Intern](https://jobright.ai/jobs/info/68be0813e57feb02eb0ac988?utm_campaign=1048&utm_source=git)** | Hallsville, TX | On Site | Sep 07 |
 | **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[Maintenance Intern - Summer 2026](https://jobright.ai/jobs/info/68bdffbae57feb02eb0ac913?utm_campaign=1048&utm_source=git)** | Detroit, MI | On Site | Sep 07 |
 | **[C-SPAN](http://www.c-span.org)** | **[Network Associate (Temporary 15-month Fellowship)](https://jobright.ai/jobs/info/68bdfc4de57feb02eb0ac8f1?utm_campaign=1048&utm_source=git)** | Washington, DC | Hybrid | Sep 07 |
 | **[V2X Inc](https://gov2x.com)** | **[Technical Ship Rider SkillBridge Intern](https://jobright.ai/jobs/info/68bdf4dbe57feb02eb0ac862?utm_campaign=1048&utm_source=git)** | Lemoore, CA | On Site | Sep 07 |
@@ -71,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[Bobcat Company](https://www.bobcat.com)** | **[2026 Test Engineer Student Experience](https://jobright.ai/jobs/info/68bddcb6c4c5904ff600443c?utm_campaign=1048&utm_source=git)** | Bismarck, ND | On Site | Sep 07 |
 | **[Cretex Companies, Inc.](http://cretexcompanies.com)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/68bddaefdf5eec448f63d707?utm_campaign=1048&utm_source=git)** | Bloomington, MN | On Site | Sep 07 |
 | **[Cretex Medical](https://www.cretexmedical.com)** | **[Engineering Co-Op](https://jobright.ai/jobs/info/68bdd86ac4c5904ff60043be?utm_campaign=1048&utm_source=git)** | Bloomington, MN | On Site | Sep 07 |
-| **[InnoMountain](https://www.innomountain-inc.com/)** | **[Wireless System and Hardware Engineering Internship](https://jobright.ai/jobs/info/68bdd85fc4c5904ff60043b9?utm_campaign=1048&utm_source=git)** | United States | Remote | Sep 07 |
 | **[QTS Medical Device Outsourcing](https://qtspackage.com)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/68bdd81fc4c5904ff600439b?utm_campaign=1048&utm_source=git)** | US-MN-Bloomington | On Site | Sep 07 |
 | ↳ | **[Quality Engineer Intern](https://jobright.ai/jobs/info/68bdd812df5eec448f63d6dd?utm_campaign=1048&utm_source=git)** | US-MN-Bloomington | On Site | Sep 07 |
 | **[Cretex Companies, Inc.](http://cretexcompanies.com)** | **[Quality Engineer Intern](https://jobright.ai/jobs/info/68bdd7bcdf5eec448f63d6c7?utm_campaign=1048&utm_source=git)** | Bloomington, MN | On Site | Sep 07 |
@@ -129,7 +143,6 @@ For a complete list, click the following sortable link below:
 | **[Traylor Bros., Inc.](http://traylor.com)** | **[Fall 2025 Engineer Intern/Co-op - Underground Construction & Tunneling](https://jobright.ai/jobs/info/68142bc5fddf0e4801bc96ff?utm_campaign=1048&utm_source=git)** | United States | On Site | Sep 07 |
 | **[Allegion](https://www.allegion.com)** | **[Robotics Engineering Intern](https://jobright.ai/jobs/info/68b8c9c707090163b6ba4f15?utm_campaign=1048&utm_source=git)** | Indianapolis, IN | On Site | Sep 07 |
 | **[Hussmann](http://www.hussmann.com)** | **[Intern - Design Engineering](https://jobright.ai/jobs/info/68bd6157c4c5904ff60036fa?utm_campaign=1048&utm_source=git)** | Bridgeton, MO | On Site | Sep 07 |
-| **[Peter Basso Associates](http://www.peterbassoassociates.com/)** | **[Electrical Co-Op Fall 2026](https://jobright.ai/jobs/info/68bd6141e57feb02eb0ab9d3?utm_campaign=1048&utm_source=git)** | Troy, MI | On Site | Sep 07 |
 | **[City of Fort Myers](https://www.cityftmyers.com/)** | **[Technical Intern - Fleet](https://jobright.ai/jobs/info/68bd5ce0e57feb02eb0ab988?utm_campaign=1048&utm_source=git)** | Fort Myers, FL | On Site | Sep 07 |
 | **[Billerud](https://www.billerudkorsnas.com/)** | **[Mechanical Engineer Co-op (Quinnesec and Escanaba MI)](https://jobright.ai/jobs/info/688445e0b651c92cb78a5d2e?utm_campaign=1048&utm_source=git)** | Quinnesec, MI | On Site | Sep 07 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Gas Utility Inspector Intern](https://jobright.ai/jobs/info/684ab245ba9aa7cc29fbf922?utm_campaign=1048&utm_source=git)** | Windsor, CT | On Site | Sep 07 |
@@ -139,22 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Co-Op: Engineering - Jackson, MI](https://jobright.ai/jobs/info/68bd526cae79610dacddf5c1?utm_campaign=1048&utm_source=git)** | Jackson, MI | On Site | Sep 07 |
 | **[EPFL ENAC](https://www.epfl.ch/schools/enac/)** | **[Postdoctoral Fellow in Soft Matter Physics / Materials Science](https://jobright.ai/jobs/info/68bd4edcae79610dacddf599?utm_campaign=1048&utm_source=git)** | Midland, TX | On Site | Sep 07 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Project SURE STEM Scholar - SPC - req9193](https://jobright.ai/jobs/info/68bd4ea8ae79610dacddf587?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Sep 07 |
-| **[ARTMS](http://artms.ca/)** | **[CMC Programs Intern Therapeutics (Tx)](https://jobright.ai/jobs/info/68bd69eae57feb02eb0aba83?utm_campaign=1048&utm_source=git)** | United States | Remote | Sep 07 |
 | **[Andersen Corporation](https://www.andersenwindows.com)** | **[Product Design Engineer Intern](https://jobright.ai/jobs/info/68bd462f3bf9eb44f8327900?utm_campaign=1048&utm_source=git)** | Bayport, MN | On Site | Sep 07 |
 | **[EPFL ENAC](https://www.epfl.ch/schools/enac/)** | **[PostDoc to work on Solvent-based Processing and Lamination of Sustainable Polymers for Inert Filter Composites](https://jobright.ai/jobs/info/68bd5be7c4c5904ff600367a?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | Sep 07 |
 | **[Andersen Corporation](https://www.andersenwindows.com)** | **[Sustainability Intern](https://jobright.ai/jobs/info/68b0d7cb2d46f6396cae8f5c?utm_campaign=1048&utm_source=git)** | Oak Park Heights, MN | On Site | Sep 07 |
 | **[RTX](http://www.raytheon.com)** | **[2026 Intern - Raytheon Mechanical Engineering](https://jobright.ai/jobs/info/68bd3ae2ae79610dacddf2fd?utm_campaign=1048&utm_source=git)** | AZ862: 3360 Hemisphere Loop Bldg M10 3360 East Hemisphere Loop Building M10, Tucson, AZ, 85706 USA | Hybrid | Sep 07 |
 | **[Andersen Corporation](https://www.andersenwindows.com)** | **[Construction Management Intern](https://jobright.ai/jobs/info/68af5ea7962903596357c281?utm_campaign=1048&utm_source=git)** | Goodyear, AZ | On Site | Sep 07 |
-| **[Butterball, LLC](http://www.butterball.com/)** | **[2026 Summer Supply Chain Intern](https://jobright.ai/jobs/info/68ba41216105227d1189c649?utm_campaign=1048&utm_source=git)** | Mount Olive, NC | On Site | Sep 07 |
-| ↳ | **[2026 Summer Continuous Improvement Intern](https://jobright.ai/jobs/info/68ba41a66105227d1189c6ea?utm_campaign=1048&utm_source=git)** | Raeford, NC | On Site | Sep 07 |
-| **[Aptiv](http://www.aptiv.com)** | **[ADAS/AD Algorithm Developer Intern](https://jobright.ai/jobs/info/68bd3832ae79610dacddf11d?utm_campaign=1048&utm_source=git)** | Troy, MI | On Site | Sep 07 |
-| ↳ | **[Automation Intern](https://jobright.ai/jobs/info/68bd30ac3bf9eb44f8327075?utm_campaign=1048&utm_source=git)** | Troy, MI | On Site | Sep 07 |
-| **[City of Philadelphia](http://www.phila.gov/)** | **[Engineering Intern](https://jobright.ai/jobs/info/68bd2c183bf9eb44f8326fa2?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Sep 06 |
-| **[Ardurra](http://www.ARDURRA.com)** | **[Northwest Region Intern (WA, ID, UT, WY)](https://jobright.ai/jobs/info/68bd2b663bf9eb44f8326f49?utm_campaign=1048&utm_source=git)** | Spokane, WA | On Site | Sep 06 |
-| **[CDM Smith](https://www.cdmsmith.com/industry)** | **[Automation Engineering Intern (Summer 2026!)](https://jobright.ai/jobs/info/68bd295a3bf9eb44f8326f28?utm_campaign=1048&utm_source=git)** | Florida - Orlando | Hybrid | Sep 06 |
-| ↳ | **[Electrical Engineering Intern (Summer 2026!)](https://jobright.ai/jobs/info/68bd294468300c452ca18804?utm_campaign=1048&utm_source=git)** | California - Irvine | Hybrid | Sep 06 |
-| ↳ | **[Bachelors/Masters - Electrical Engineering Intern-COOP](https://jobright.ai/jobs/info/68bd28e83bf9eb44f8326ef5?utm_campaign=1048&utm_source=git)** | Virginia - Fairfax | Hybrid | Sep 06 |
-| ↳ | **[Electrical Engineering Intern (Summer 2026!)](https://jobright.ai/jobs/info/68bd28df68300c452ca187dc?utm_campaign=1048&utm_source=git)** | Colorado - Denver | Hybrid | Sep 06 |
-| ↳ | **[Electrical Engineering Co-op (Spring 2026!)](https://jobright.ai/jobs/info/68bd289aae79610dacdde8c0?utm_campaign=1048&utm_source=git)** | Massachusetts - Boston | Hybrid | Sep 06 |
-| ↳ | **[Electrical Engineering Intern (Summer 2026!)](https://jobright.ai/jobs/info/68bd2858ae79610dacdde891?utm_campaign=1048&utm_source=git)** | North Carolina - Raleigh | Hybrid | Sep 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
