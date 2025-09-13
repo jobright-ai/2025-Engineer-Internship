@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pratt & Whitney](https://prattwhitney.com)** | **[Intern: Summer 2026 - Production Test Engineer (Onsite)](https://jobright.ai/jobs/info/68c4fbebc96a22563ece5887?utm_campaign=1048&utm_source=git)** | Middletown, CT | On Site | Sep 12 |
+| **[HII](https://hii.com)** | **[INDUSTRIAL ENGINEERING INTERN](https://jobright.ai/jobs/info/68c4fb137d0db41142730a5f?utm_campaign=1048&utm_source=git)** | Pascagoula, MS | On Site | Sep 12 |
+| **[Walmart](http://www.walmart.com)** | **[2025 Intern Conversion - 2026 FT: Manager, Automation Engineering](https://jobright.ai/jobs/info/68c4fab6c96a22563ece5550?utm_campaign=1048&utm_source=git)** | Terrell, TX | On Site | Sep 12 |
+| **[Garrett - Advancing Motion](http://www.garrettmotion.com)** | **[Garrett Engineering Internship](https://jobright.ai/jobs/info/68c4fa4cdb52c07d2883f2ac?utm_campaign=1048&utm_source=git)** | Plymouth, MI | On Site | Sep 12 |
+| **[MKS Inc.](https://www.mks.com)** | **[2026 Summer Mechanical Test Engineering Undergraduate Intern/Co-op](https://jobright.ai/jobs/info/68c4fa187d0db41142730798?utm_campaign=1048&utm_source=git)** | Wilmington, MA | On Site | Sep 12 |
+| **[Garrett - Advancing Motion](http://www.garrettmotion.com)** | **[Garrett Engineering Internship - Electrical](https://jobright.ai/jobs/info/68c4f9d0c96a22563ece52fe?utm_campaign=1048&utm_source=git)** | Torrance, CA | On Site | Sep 12 |
+| **[TKDA](http://tkda.com)** | **[2026 Summer Intern - Planning, Transportation](https://jobright.ai/jobs/info/68c4f5d8c96a22563ece5007?utm_campaign=1048&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 12 |
+| **[Design Alaska](http://www.designalaska.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/68c4f57bdb52c07d2883edfc?utm_campaign=1048&utm_source=git)** | Fairbanks, AK | On Site | Sep 12 |
+| **[Horton, Inc.](http://hortonww.com)** | **[Manufacturing Engineering Co-Op](https://jobright.ai/jobs/info/68c4ea68db52c07d2883e11c?utm_campaign=1048&utm_source=git)** | Westminster, SC | On Site | Sep 12 |
 | **[Avondale Dealerships](https://www.avondale.com)** | **[High School Automotive Technician Internship](https://jobright.ai/jobs/info/68c4e96ec96a22563ece3f41?utm_campaign=1048&utm_source=git)** | Grapevine, TX | On Site | Sep 12 |
 | **[County of Los Angeles](https://lacounty.gov/)** | **[VETERAN INTERN, CRAFTS SUPPORT](https://jobright.ai/jobs/info/68c4e94cdb52c07d2883dd11?utm_campaign=1048&utm_source=git)** | Los Angeles County, CA | On Site | Sep 12 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Global Medical Safety Intern](https://jobright.ai/jobs/info/68c4e9487d0db4114272f177?utm_campaign=1048&utm_source=git)** | Spring House, PA | Hybrid | Sep 12 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[JEA](https://www.jea.com)** | **[Intern - Engineering](https://jobright.ai/jobs/info/68c4c5377279451d6a03789b?utm_campaign=1048&utm_source=git)** | 225 N Pearl Street225 N Pearl Street | On Site | Sep 12 |
 | **[The AES Corporation](http://www.aes.com)** | **[Intern - Substation Engineer - Engineering Services (Summer 2026)](https://jobright.ai/jobs/info/68c4c40131e5763f188e36d2?utm_campaign=1048&utm_source=git)** | Dayton, OH | On Site | Sep 12 |
 | **[Stantec](http://www.stantec.com)** | **[Civil Engineering Co-op-Transportation (Spring 2026)](https://jobright.ai/jobs/info/68c4c39a7279451d6a037869?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Sep 12 |
-| **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Transmission & Distribution Engineer Intern - Grid (Summer 2026)](https://jobright.ai/jobs/info/68c4c36931e5763f188e363c?utm_campaign=1048&utm_source=git)** | Englewood, CO | Hybrid | Sep 12 |
-| **[Ceco Concrete Construction L.L.C.](https://www.cecoconcrete.com)** | **[Concrete Construction Internship/Trainee Opportunity - Dallas, TX](https://jobright.ai/jobs/info/68c4c3577279451d6a03781a?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | Sep 12 |
-| **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Transmission & Distribution Engineer Intern - Grid (Summer 2026)](https://jobright.ai/jobs/info/68c4c329fce86561b928923a?utm_campaign=1048&utm_source=git)** | Atlanta, GA | Hybrid | Sep 12 |
-| **[AECOM](http://www.aecom.com/)** | **[Civil Engineering Intern - Ports & Marine](https://jobright.ai/jobs/info/68c4c31e7279451d6a0377e3?utm_campaign=1048&utm_source=git)** | Orange, CA | Hybrid | Sep 12 |
-| **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Transportation Engineering (Summer)](https://jobright.ai/jobs/info/68c4c31bfce86561b9289231?utm_campaign=1048&utm_source=git)** | Winner, SD | On Site | Sep 12 |
-| **[The AES Corporation](http://www.aes.com)** | **[Intern - Relay Engineer - Engineering Services (Summer 2026)](https://jobright.ai/jobs/info/68c4c3117279451d6a0377d9?utm_campaign=1048&utm_source=git)** | Dayton, OH | On Site | Sep 12 |
-| **[Leidos](https://www.leidos.com/)** | **[Cybersecurity Engineer Intern](https://jobright.ai/jobs/info/68c4c30b31e5763f188e35d5?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | Sep 12 |
-| **[Crafton Tull](http://craftontull.com)** | **[Summer/Student Civil Engineer Intern](https://jobright.ai/jobs/info/68c4c3027279451d6a0377ca?utm_campaign=1048&utm_source=git)** | Plano, TX | On Site | Sep 12 |
-| **[Tyson Foods](http://tysonfoods.com)** | **[Poultry Production Year-Round Intern (Tyler Road)](https://jobright.ai/jobs/info/68c4c2fd31e5763f188e35c6?utm_campaign=1048&utm_source=git)** | Russellville, AR | On Site | Sep 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
