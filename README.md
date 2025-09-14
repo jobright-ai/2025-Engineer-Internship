@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Haleon](http://www.haleon.com/)** | **[2026 Intern: R&D, Medical and Scientific Affairs (12 weeks, June 2026 Start)](https://jobright.ai/jobs/info/68c68d4f7d0db4114273aca4?utm_campaign=1048&utm_source=git)** | Warren, NJ | On Site | Sep 14 |
+| **[HII](https://hii.com)** | **[2026- Engineering Intern 3 - 25473](https://jobright.ai/jobs/info/68c689b9db52c07d2884956a?utm_campaign=1048&utm_source=git)** | Dayton, OH | On Site | Sep 14 |
+| ↳ | **[2026 - Engineering Intern 4 - 25472](https://jobright.ai/jobs/info/68c6891fdb52c07d2884954f?utm_campaign=1048&utm_source=git)** | Dayton, OH | On Site | Sep 14 |
+| **[La-Z-Boy Incorporated](http://www.la-z-boy.com)** | **[Internship - Supply Chain (Summer 2026)](https://jobright.ai/jobs/info/68c67b00c96a22563ecef6ba?utm_campaign=1048&utm_source=git)** | Monroe, MI | Hybrid | Sep 14 |
+| **[GBA](http://gbateam.com)** | **[Electrical Engineering Internship](https://jobright.ai/jobs/info/68c679cc7d0db4114273aaa6?utm_campaign=1048&utm_source=git)** | Broomfield, CO | On Site | Sep 14 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Postdoctoral Scholar - Anthropology](https://jobright.ai/jobs/info/68c66485db52c07d28848402?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | Sep 13 |
 | **[RRS Group & Co](www.myrrsinc.org)** | **[2026 - Data Engineering Intern](https://jobright.ai/jobs/info/68c663b6db52c07d28848202?utm_campaign=1048&utm_source=git)** | San Francisco, OTHER | Hybrid | Sep 13 |
 | **[Ursa Major](https://www.ursamajor.com)** | **[Summer 2026 Energetics Engineering Intern, Solid Missile Systems](https://jobright.ai/jobs/info/68bf587f8e65e77df55b97a9?utm_campaign=1048&utm_source=git)** | Berthoud, CO | On Site | Sep 13 |
@@ -66,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[RTX](http://www.raytheon.com)** | **[Intern: Summer 2026 - Power Thermal Management Systems (Onsite)](https://jobright.ai/jobs/info/68c6467ac96a22563ecec58d?utm_campaign=1048&utm_source=git)** | PW100: East Hartford 400 Main Street, East Hartford, CT, 06118 USA | On Site | Sep 13 |
 | ↳ | **[Intern: Summer 2026 - Gas Turbine Controls Hardware, Mechanical Engineering (Onsite)](https://jobright.ai/jobs/info/68c64659c96a22563ecec584?utm_campaign=1048&utm_source=git)** | PW100: East Hartford 400 Main Street, East Hartford, CT, 06118 USA | On Site | Sep 13 |
 | ↳ | **[Intern: Summer 2026 - Hot Section Engineering (Onsite)](https://jobright.ai/jobs/info/68c64654c96a22563ecec580?utm_campaign=1048&utm_source=git)** | PW100: East Hartford 400 Main Street, East Hartford, CT, 06118 USA | On Site | Sep 13 |
-| **[La-Z-Boy Incorporated](http://www.la-z-boy.com)** | **[Internship - Supply Chain (Summer 2026)](https://jobright.ai/jobs/info/68c646457d0db411427378c8?utm_campaign=1048&utm_source=git)** | Monroe, MI | Hybrid | Sep 13 |
 | **[California Closets](https://www.californiaclosets.com)** | **[Product Engineer Co-Op](https://jobright.ai/jobs/info/68c64151c96a22563ecebfb1?utm_campaign=1048&utm_source=git)** | Grand Rapids, MI | On Site | Sep 13 |
 | **[Nand AI](https://www.nand.ai)** | **[AI Engineer Intern, Full Stack (Fall 2025)](https://jobright.ai/jobs/info/68c639067d0db41142736c0b?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Sep 13 |
 | **[Cenovus Energy](http://www.cenovus.com)** | **[Mechanical Engineering Student - OH (Spring AND Summer 2026)](https://jobright.ai/jobs/info/68c62652db52c07d28844a8d?utm_campaign=1048&utm_source=git)** | Toledo, OH | On Site | Sep 13 |
@@ -134,7 +138,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[RFIC Design Engineer - Summer/Fall Co-Op](https://jobright.ai/jobs/info/68c5df007d0db411427352b8?utm_campaign=1048&utm_source=git)** | Newbury Park, CA | On Site | Sep 13 |
 | **[Kennedy Jenks](https://www.kennedyjenks.com)** | **[2026 Summer Intern - Electrical Engineer](https://jobright.ai/jobs/info/68c653cfc96a22563eced443?utm_campaign=1048&utm_source=git)** | Denver, CO | Hybrid | Sep 13 |
 | **[KLJ](http://kljeng.com/)** | **[Intern- Public Works](https://jobright.ai/jobs/info/68c5b108db52c07d288439da?utm_campaign=1048&utm_source=git)** | Helena, MT | Hybrid | Sep 13 |
-| **[Meta](https://www.meta.com)** | **[Research Scientist Intern, 3D Scene Understanding (PhD)](https://jobright.ai/jobs/info/68c670c7db52c07d28848b50?utm_campaign=1048&utm_source=git)** | Redmond, WA | On Site | Sep 13 |
 | **[Microsoft](https://www.microsoft.com)** | **[PhD Cloud Network Engineer Intern](https://jobright.ai/jobs/info/68c5aa06c96a22563ece9a08?utm_campaign=1048&utm_source=git)** | Redmond, WA | Hybrid | Sep 13 |
 | **[Kennedy Jenks](https://www.kennedyjenks.com)** | **[2026 Summer Intern - Mechanical Engineer](https://jobright.ai/jobs/info/68c6597cc96a22563eced8f6?utm_campaign=1048&utm_source=git)** | Pasadena, CA | Hybrid | Sep 13 |
 | **[Lignite Oil Company Inc](https://www.linkedin.com/company/5526674)** | **[2026 Summer Engineering Intern / R-00625](https://jobright.ai/jobs/info/68c5a676c96a22563ece9982?utm_campaign=1048&utm_source=git)** | Ackerman, MS | On Site | Sep 13 |
@@ -149,12 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Cushing & Co](http://www.cushingco.com)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/68c605ffc96a22563ecea535?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Sep 13 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Information Security – Fall 2025](https://jobright.ai/jobs/info/68c59fea7d0db41142734a83?utm_campaign=1048&utm_source=git)** | Culver City, CA | On Site | Sep 13 |
 | **[Baird, Hampton & Brown](https://bhbinc.com/)** | **[Civil Intern - Summer 2026](https://jobright.ai/jobs/info/68c59d40db52c07d28843632?utm_campaign=1048&utm_source=git)** | Weatherford, TX | On Site | Sep 13 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Quantum Computing Algorithms Intern](https://jobright.ai/jobs/info/68c68101db52c07d288494a9?utm_campaign=1048&utm_source=git)** | Frederick, MD | On Site | Sep 13 |
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Industrial Engineering Co-op (Summer/Fall 2026)(Onsite)](https://jobright.ai/jobs/info/68c649c1c96a22563ececa78?utm_campaign=1048&utm_source=git)** | Cedar Rapids, IA | On Site | Sep 13 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Quantum Computing Algorithms Intern](https://jobright.ai/jobs/info/68c595aedb52c07d2884356c?utm_campaign=1048&utm_source=git)** | Frederick, MD | On Site | Sep 13 |
 | **[City of New York](http://www1.nyc.gov)** | **[College Aide (Design)](https://jobright.ai/jobs/info/68c594dadb52c07d288434ba?utm_campaign=1048&utm_source=git)** | Queens, NY | On Site | Sep 13 |
 | ↳ | **[Apprentice Inspector (H&S) - HIQA](https://jobright.ai/jobs/info/68c592b0c96a22563ece9602?utm_campaign=1048&utm_source=git)** | All, MO | On Site | Sep 13 |
 | ↳ | **[College Aide (GI) / College Aide (CR)](https://jobright.ai/jobs/info/68c59124db52c07d288433f6?utm_campaign=1048&utm_source=git)** | Queens, NY | On Site | Sep 13 |
-| **[Procter & Gamble](https://us.pg.com/)** | **[University of Cincinnati Co-Op R&D](https://jobright.ai/jobs/info/688d5b7f3a30793eb964a667?utm_campaign=1048&utm_source=git)** | Westchester, OH | On Site | Sep 13 |
-| **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Security Services - Business Continuity Summer Intern](https://jobright.ai/jobs/info/68a90f7c758f2e4ac3ff6fdf?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Sep 13 |
-| **[Infineon Technologies](https://www.infineon.com)** | **[Internship - ASIC RTL/Digital Design](https://jobright.ai/jobs/info/68c65393c96a22563eced397?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Sep 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
