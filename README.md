@@ -57,7 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Homebase](http://www.joinhomebase.com)** | **[Future Opportunities with Engineering & Data](https://jobright.ai/jobs/info/68cf8c43846f0b04af682e56?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Hybrid | Sep 20 |
+| **[Nutrien](https://www.nutrien.com/)** | **[Retail Field Intern - Central Iowa Division](https://jobright.ai/jobs/info/68cfad57846f0b04af68442a?utm_campaign=1048&utm_source=git)** | Corning, IA | On Site | Sep 21 |
+| **[MechNova](mechnova.us)** | **[Mechanical Engineering Internship Opportunities](https://jobright.ai/jobs/info/68cfac9f846f0b04af684330?utm_campaign=1048&utm_source=git)** | St. Louis County, MO | Remote | Sep 21 |
+| **[Boston Scientific](http://www.bostonscientific.com)** | **[AIS R&D Leads Sustaining Engineer Intern](https://jobright.ai/jobs/info/68cfa8f1dbd9fb154ede97cd?utm_campaign=1048&utm_source=git)** | Arden Hills, MN | On Site | Sep 21 |
+| ↳ | **[AIS R&D Hardware Engineer Intern 2026 (ME/BME)](https://jobright.ai/jobs/info/68cfa519fb49c96ca6eaa0ca?utm_campaign=1048&utm_source=git)** | United States |  N/A | Hybrid | Sep 21 |
+| ↳ | **[AIS R&D Hardware Engineer Intern 2026 (EE)](https://jobright.ai/jobs/info/68cfa518dbd9fb154ede963e?utm_campaign=1048&utm_source=git)** | United States |  N/A | Hybrid | Sep 21 |
+| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/68cfa410846f0b04af68388a?utm_campaign=1048&utm_source=git)** | Lake Los Angeles, CA | Hybrid | Sep 21 |
+| **[Applied Materials](http://www.appliedmaterials.com)** | **[Manufacturing Engineering Intern (Austin)](https://jobright.ai/jobs/info/68cf9f3ddbd9fb154ede93f6?utm_campaign=1048&utm_source=git)** | Austin,TX | On Site | Sep 20 |
+| **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Transmission and Distribution Internship – Power Division (Land Survey)](https://jobright.ai/jobs/info/68cf9e12fb49c96ca6ea9cb0?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Sep 20 |
+| **[Daktronics](http://www.daktronics.com/en-us)** | **[Mechanical Engineer Student](https://jobright.ai/jobs/info/68cf9bb7dbd9fb154ede92f1?utm_campaign=1048&utm_source=git)** | Brookings, SD | On Site | Sep 20 |
+| ↳ | **[Manufacturing Process Engineer Co-op Intern](https://jobright.ai/jobs/info/68cf995afb49c96ca6ea9aba?utm_campaign=1048&utm_source=git)** | Brookings, SD | On Site | Sep 20 |
 | **[HNTB](http://www.hntb.com/)** | **[Toll Technology Intern - Summer 2026](https://jobright.ai/jobs/info/68cf899bdbd9fb154ede8b21?utm_campaign=1048&utm_source=git)** | Raleigh, NC | On Site | Sep 20 |
 | **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Lead & Copper Inventory Internship - Summer 2026](https://jobright.ai/jobs/info/68cf8958dbd9fb154ede8aae?utm_campaign=1048&utm_source=git)** | Grand Forks, ND | On Site | Sep 20 |
 | ↳ | **[Water/Wastewater Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68cf88f5fb49c96ca6ea95a6?utm_campaign=1048&utm_source=git)** | Maple Grove, MN | On Site | Sep 20 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Lending Systems)](https://jobright.ai/jobs/info/68cecefbdbd9fb154ede2f69?utm_campaign=1048&utm_source=git)** | Winchester, VA | Hybrid | Sep 20 |
 | **[ABB](https://global.abb/group/en)** | **[Duales Studium Bachelor of Science - Digitale Technologien (m/w/d) 2026](https://jobright.ai/jobs/info/68984d8efaa4e875e824da68?utm_campaign=1048&utm_source=git)** | Location, WV | On Site | Sep 20 |
 | **[Kiewit](http://www.kiewit.com)** | **[Engineering Intern - Kiewit Mining Group 2026](https://jobright.ai/jobs/info/68b272831ade4306aa636a55?utm_campaign=1048&utm_source=git)** | Dillon, MT | On Site | Sep 20 |
-| **[Los Alamos National Laboratory](http://www.lanl.gov)** | **[Computer, Computational, and Statistic Sciences Graduate Intern](https://jobright.ai/jobs/info/6807bbd2bd5f8f945f06ef16?utm_campaign=1048&utm_source=git)** | Los Alamos, NM | On Site | Sep 20 |
-| **[Kiewit](http://www.kiewit.com)** | **[Field/Office Engineer Intern - South Central District Summer 2026](https://jobright.ai/jobs/info/68cecc5b846f0b04af67d1f0?utm_campaign=1048&utm_source=git)** | Kermit, TX | On Site | Sep 20 |
-| ↳ | **[Field/Office Engineer Intern - South Central District Summer 2026](https://jobright.ai/jobs/info/68cecc31846f0b04af67d180?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Sep 20 |
-| ↳ | **[Field/Office Engineer Intern - South Central District Summer 2026](https://jobright.ai/jobs/info/68cecc22fb49c96ca6ea3991?utm_campaign=1048&utm_source=git)** | Baton Rouge, LA | On Site | Sep 20 |
-| ↳ | **[Field/Office Engineer Intern - South Central District Summer 2026](https://jobright.ai/jobs/info/68cecc14fb49c96ca6ea3984?utm_campaign=1048&utm_source=git)** | Jackson, MS | On Site | Sep 20 |
-| **[Honeywell](http://www.honeywell.com)** | **[Manufacturing & Industrial Engineering - Summer 2026 Intern (US Person Required)](https://jobright.ai/jobs/info/68cecbaedbd9fb154ede2ece?utm_campaign=1048&utm_source=git)** | United States | Remote | Sep 20 |
-| **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Mechanical Engineering Intern - Nuclear (Summer 2026)](https://jobright.ai/jobs/info/68cecb9b846f0b04af67d040?utm_campaign=1048&utm_source=git)** | Warrenville, IL | Hybrid | Sep 20 |
-| **[Kiewit](http://www.kiewit.com)** | **[Field/Office Engineer Intern - South Central District Summer 2026](https://jobright.ai/jobs/info/68cecb7d846f0b04af67d002?utm_campaign=1048&utm_source=git)** | Roma, TX | On Site | Sep 20 |
-| ↳ | **[Field/Office Engineer Intern - South Central District Summer 2026](https://jobright.ai/jobs/info/68cecb41846f0b04af67cf74?utm_campaign=1048&utm_source=git)** | Paris, TX | On Site | Sep 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
