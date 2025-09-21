@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Murray Company](http://murraycompany.com)** | **[Project Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/68cf7352846f0b04af68230a?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Sep 20 |
+| ↳ | **[Project Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/68cf7349846f0b04af6822f8?utm_campaign=1048&utm_source=git)** | Las Vegas, NV | On Site | Sep 20 |
+| ↳ | **[Project Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/68cf7300846f0b04af68226c?utm_campaign=1048&utm_source=git)** | Chandler, AZ | On Site | Sep 20 |
+| ↳ | **[Project Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/68cf6846dbd9fb154ede7a78?utm_campaign=1048&utm_source=git)** | San Leandro, CA | On Site | Sep 20 |
+| **[Kodiak](http://www.kodiak.ai)** | **[Winter 2026 Intern, Motion Planning](https://jobright.ai/jobs/info/687acf57764c3d7411c2f8dd?utm_campaign=1048&utm_source=git)** | Mountain View, CA | On Site | Sep 20 |
 | **[MITRE](http://www.mitre.org)** | **[Internships in Cybersecurity and Information Security](https://jobright.ai/jobs/info/68cf58cfdbd9fb154ede7359?utm_campaign=1048&utm_source=git)** | McLean, VA | On Site | Sep 20 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[AIS R&D Leads Sustaining Engineer Intern](https://jobright.ai/jobs/info/68cf55c2dbd9fb154ede7256?utm_campaign=1048&utm_source=git)** | Arden Hills, MN | On Site | Sep 20 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Quality Control/Data Reviewer Intern (REMOTE)](https://jobright.ai/jobs/info/68cf54eedbd9fb154ede6eb1?utm_campaign=1048&utm_source=git)** | Richmond, CA | Remote | Sep 20 |
@@ -75,6 +80,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 Emerging Missions Flight Dynamics Graduate Intern](https://jobright.ai/jobs/info/68cf43bafb49c96ca6ea68aa?utm_campaign=1048&utm_source=git)** | Albuquerque, NM | On Site | Sep 20 |
 | ↳ | **[2026 Space Mission Analysis and Operations Graduate Intern](https://jobright.ai/jobs/info/68cf4339fb49c96ca6ea6874?utm_campaign=1048&utm_source=git)** | Colorado Springs, CO | On Site | Sep 20 |
 | **[Yates Construction](https://www.wgyates.com)** | **[INTERN](https://jobright.ai/jobs/info/68cf3f38fb49c96ca6ea664f?utm_campaign=1048&utm_source=git)** | Las Vegas, NV | On Site | Sep 20 |
+| **[UniFirst Corporation](https://unifirst.com/)** | **[Environmental Engineering Co-Op](https://jobright.ai/jobs/info/68cf6c1efb49c96ca6ea8824?utm_campaign=1048&utm_source=git)** | Wilmington, MA | On Site | Sep 20 |
 | **[VEG ER for Pets](https://veterinaryemergencygroup.com)** | **[Veterinary Technician Student Externship - Boston, MA](https://jobright.ai/jobs/info/68cf2d03dbd9fb154ede56e5?utm_campaign=1048&utm_source=git)** | Boston, Massachusetts, United States | On Site | Sep 20 |
 | **[Innovative Health LLC](http://www.innovative-health.com)** | **[Manufacturing Engineer Internship](https://jobright.ai/jobs/info/68cf1934846f0b04af67f479?utm_campaign=1048&utm_source=git)** | Scottsdale, AZ | On Site | Sep 20 |
 | **[Parold Entertainment Inc.](http://parold.com)** | **[Intern: Researcher for African American History](https://jobright.ai/jobs/info/68cf15e8dbd9fb154ede5063?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area | On Site | Sep 20 |
@@ -100,8 +106,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Research Scientist Intern (Quantum Chemistry, ByteDance Research) - 2026 Start (PhD)](https://jobright.ai/jobs/info/68cefe4e846f0b04af67e360?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Sep 20 |
 | ↳ | **[Site Reliability Engineer Intern (Traffic Platform)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cefe37846f0b04af67e32c?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Sep 20 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Boeing Technology Innovation - Graduate Researcher Program – Computational Geometry Intern](https://jobright.ai/jobs/info/68cefa72fb49c96ca6ea4a57?utm_campaign=1048&utm_source=git)** | Tukwila, WA | On Site | Sep 20 |
-| ↳ | **[Boeing Technology Innovation - Graduate Researcher Program – Boeing Commercial Airplanes (BCA) Computational Geometry Mathematician Intern](https://jobright.ai/jobs/info/68cefa36846f0b04af67e20a?utm_campaign=1048&utm_source=git)** | Everett, WA | On Site | Sep 20 |
 | ↳ | **[Boeing Artificial Intelligence - Graduate Researcher Program – Artificial Intelligence Intern](https://jobright.ai/jobs/info/68cefa36846f0b04af67e20b?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | Sep 20 |
+| ↳ | **[Boeing Technology Innovation - Graduate Researcher Program – Boeing Commercial Airplanes (BCA) Computational Geometry Mathematician Intern](https://jobright.ai/jobs/info/68cefa36846f0b04af67e20a?utm_campaign=1048&utm_source=git)** | Everett, WA | On Site | Sep 20 |
 | **[Olsson](https://www.olsson.com)** | **[Electrical Engineering Internship - Power Transmission](https://jobright.ai/jobs/info/68b9e0ec5f38327491861a52?utm_campaign=1048&utm_source=git)** | Omaha, NE | Hybrid | Sep 20 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Boeing Technology Innovation - Graduate Researcher Program – Computational Materials Science Intern](https://jobright.ai/jobs/info/68cef952dbd9fb154ede3ec6?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | Sep 20 |
 | **[STV](http://www.stvinc.com/)** | **[Summer 2026 - Geotechnical & Tunneling Intern](https://jobright.ai/jobs/info/68cf4b7adbd9fb154ede6146?utm_campaign=1048&utm_source=git)** | Glasgow, KY | Hybrid | Sep 20 |
@@ -117,7 +123,6 @@ For a complete list, click the following sortable link below:
 | **[Perdue Farms](http://www.perduefarms.com/)** | **[Animal Nutrition Science Intern](https://jobright.ai/jobs/info/68ceed3b846f0b04af67dd72?utm_campaign=1048&utm_source=git)** | Salisbury, MD | On Site | Sep 20 |
 | **[Cargill](https://www.cargill.com/home)** | **[Applications Food Scientist R&D Intern](https://jobright.ai/jobs/info/68ceecf1dbd9fb154ede3a54?utm_campaign=1048&utm_source=git)** | Plymouth, MN | On Site | Sep 20 |
 | **[Perdue Farms](http://www.perduefarms.com/)** | **[Engineering Intern -Summer 2026](https://jobright.ai/jobs/info/68ceecd9dbd9fb154ede3a4b?utm_campaign=1048&utm_source=git)** | Salisbury, MD | On Site | Sep 20 |
-| **[JIO ROBOTICS Academy](www.jiorobotics.com)** | **[Jr Robotics with Mechanical/ Electrical Engineer & AI Developer Intern To Full Time ONSITE](https://jobright.ai/jobs/info/68ceea54fb49c96ca6ea4517?utm_campaign=1048&utm_source=git)** | Columbia, MD | On Site | Sep 20 |
 | **[Meta](https://www.meta.com)** | **[Research Scientist Intern, Monetization Computer Vision (PhD)](https://jobright.ai/jobs/info/68cee915dbd9fb154ede39b2?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Sep 20 |
 | ↳ | **[Research Scientist Intern, Monetization Computer Vision (PhD)](https://jobright.ai/jobs/info/68cee88adbd9fb154ede38e0?utm_campaign=1048&utm_source=git)** | Menlo Park, CA | On Site | Sep 20 |
 | ↳ | **[Research Scientist Intern, Monetization Generative AI - LLM (PhD)](https://jobright.ai/jobs/info/68cee853dbd9fb154ede3880?utm_campaign=1048&utm_source=git)** | Menlo Park, CA | On Site | Sep 20 |
@@ -147,14 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Kiewit](http://www.kiewit.com)** | **[Field/Office Engineer Intern - South Central District Summer 2026](https://jobright.ai/jobs/info/68cecb7d846f0b04af67d002?utm_campaign=1048&utm_source=git)** | Roma, TX | On Site | Sep 20 |
 | ↳ | **[Field/Office Engineer Intern - South Central District Summer 2026](https://jobright.ai/jobs/info/68cecb41846f0b04af67cf74?utm_campaign=1048&utm_source=git)** | Paris, TX | On Site | Sep 20 |
 | ↳ | **[Field/Office Engineer Intern - South Central District Summer 2026](https://jobright.ai/jobs/info/68ceca90dbd9fb154ede2c58?utm_campaign=1048&utm_source=git)** | Fort Worth, TX | On Site | Sep 20 |
-| ↳ | **[Engineering Intern - Kiewit Mining Group 2026](https://jobright.ai/jobs/info/68b1f3591ade4306aa633228?utm_campaign=1048&utm_source=git)** | Gillette, WY | On Site | Sep 20 |
+| **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Mechanical Engineering Intern - Nuclear (Summer 2026)](https://jobright.ai/jobs/info/68b1ee7abc187f64e1bd7ec1?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Sep 20 |
+| **[Kiewit](http://www.kiewit.com)** | **[Engineering Intern - Kiewit Mining Group 2026](https://jobright.ai/jobs/info/68b1f3591ade4306aa633228?utm_campaign=1048&utm_source=git)** | Gillette, WY | On Site | Sep 20 |
 | ↳ | **[Field/Office Engineer Intern - South Central District Summer 2026](https://jobright.ai/jobs/info/68cec853fb49c96ca6ea38cb?utm_campaign=1048&utm_source=git)** | El Paso, TX | On Site | Sep 20 |
 | ↳ | **[Field/Office Engineer Intern - South Central District Summer 2026](https://jobright.ai/jobs/info/68cec84ffb49c96ca6ea38c5?utm_campaign=1048&utm_source=git)** | Grapevine, TX | On Site | Sep 20 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Reforesting the Future: Volunteering for Portugals Forest Conservation](https://jobright.ai/jobs/info/68cec843fb49c96ca6ea38ac?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Sep 20 |
-| **[Kiewit](http://www.kiewit.com)** | **[Field/Office Engineer Intern - South Central District Summer 2026](https://jobright.ai/jobs/info/68cec7cefb49c96ca6ea37ac?utm_campaign=1048&utm_source=git)** | Laredo, TX | On Site | Sep 20 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rethinking Energy Access: Empowering Peruvian Coastal Communities through Sustainable Development](https://jobright.ai/jobs/info/68cec7cbfb49c96ca6ea37a0?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Sep 20 |
-| **[Kiewit](http://www.kiewit.com)** | **[Field/Office Engineer Intern - South Central District Summer 2026](https://jobright.ai/jobs/info/68cec784846f0b04af67ceb0?utm_campaign=1048&utm_source=git)** | Amarillo, TX | On Site | Sep 20 |
-| ↳ | **[Field/Office Engineer Intern - South Central District Summer 2026](https://jobright.ai/jobs/info/68cec780fb49c96ca6ea36fd?utm_campaign=1048&utm_source=git)** | Corpus Christi, TX | On Site | Sep 20 |
-| ↳ | **[Field/Office Engineer Intern - South Central District Summer 2026](https://jobright.ai/jobs/info/68cec758846f0b04af67ce88?utm_campaign=1048&utm_source=git)** | Midland, TX | On Site | Sep 20 |
-| **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[2026 Mechanical Engineering Intern](https://jobright.ai/jobs/info/68cec6de846f0b04af67cdef?utm_campaign=1048&utm_source=git)** | Hilliard, OH | Remote | Sep 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
