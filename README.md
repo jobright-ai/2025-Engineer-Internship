@@ -57,10 +57,26 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Real Alloy](http://realalloy.com)** | **[Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68d0fcc717bd5d3415aa8204?utm_campaign=1048&utm_source=git)** | Wabash Specification | On Site | Sep 22 |
+| **[Crane Currency](http://www.cranecurrency.com/)** | **[Materials or Chemical Engineer Co-Op](https://jobright.ai/jobs/info/68d0fc4817bd5d3415aa813d?utm_campaign=1048&utm_source=git)** | Nashua, NH | On Site | Sep 22 |
+| ↳ | **[R&D Co-Op or Internship](https://jobright.ai/jobs/info/68d0f8047727df7d5a84f1f9?utm_campaign=1048&utm_source=git)** | Nashua, NH | On Site | Sep 22 |
+| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2025-2026 Yearlong Quality Inspections Intern](https://jobright.ai/jobs/info/68d0f720f1976376178f0f08?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Sep 22 |
+| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern – Data and AI Analyst – DCCA](https://jobright.ai/jobs/info/68d0f59d17bd5d3415aa7e36?utm_campaign=1048&utm_source=git)** | Washington, DC | On Site | Sep 22 |
+| **[Qualer Asset Management](https://qualer.com)** | **[AI Solutions Engineer Intern](https://jobright.ai/jobs/info/68d0f3acf1976376178f0e36?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT | On Site | Sep 21 |
+| **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Technology Intern](https://jobright.ai/jobs/info/68d0f3547727df7d5a84efe4?utm_campaign=1048&utm_source=git)** | Coppell, TX | On Site | Sep 21 |
+| **[Qualer Asset Management](https://qualer.com)** | **[Data Platform Operations Intern](https://jobright.ai/jobs/info/68d0f1a4f1976376178f0d2e?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT | On Site | Sep 21 |
+| **[VEG ER for Pets](https://veterinaryemergencygroup.com)** | **[Veterinary Technician Student Externship - Lincoln Park, IL](https://jobright.ai/jobs/info/68d0f17417bd5d3415aa7d27?utm_campaign=1048&utm_source=git)** | Chicago, Illinois, United States | On Site | Sep 21 |
+| **[Qualer Asset Management](https://qualer.com)** | **[DevOps Engineering Intern](https://jobright.ai/jobs/info/68d0f0ee17bd5d3415aa7cdd?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT | On Site | Sep 21 |
+| ↳ | **[Data Engineer Intern](https://jobright.ai/jobs/info/68d0f053f1976376178f0c97?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT | On Site | Sep 21 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Structural Intern](https://jobright.ai/jobs/info/68d0f00117bd5d3415aa7c65?utm_campaign=1048&utm_source=git)** | St Paul, MN | On Site | Sep 21 |
+| **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Mechatronics & Robotics Apprentice](https://jobright.ai/jobs/info/68d0ece07727df7d5a84ecea?utm_campaign=1048&utm_source=git)** | Sacramento, CA | On Site | Sep 21 |
+| **[Precision Castparts](http://precast.com)** | **[Quality Engineering Co-Op - Spring 2026 SMP Plant](https://jobright.ai/jobs/info/68d0e83417bd5d3415aa7945?utm_campaign=1048&utm_source=git)** | Wickliffe, OH | On Site | Sep 21 |
+| **[Tampa Electric](http://www.tampaelectric.com)** | **[Spring 2026 - Electric System Reliability Student Internship/Co-Op](https://jobright.ai/jobs/info/68d0e7447727df7d5a84e911?utm_campaign=1048&utm_source=git)** | Ruskin, FL | On Site | Sep 21 |
+| **[Kennedy Jenks](https://www.kennedyjenks.com)** | **[2026 Summer Intern - Electrical Engineer](https://jobright.ai/jobs/info/68d0e374f1976376178f0569?utm_campaign=1048&utm_source=git)** | Lakewood, CO | Hybrid | Sep 21 |
 | **[Volvo Cars](https://www.volvocars.com/intl/)** | **[Engineering Intern](https://jobright.ai/jobs/info/68d0d96d17bd5d3415aa710a?utm_campaign=1048&utm_source=git)** | Ridgeville, SC | Hybrid | Sep 21 |
-| **[Tampa Electric](http://www.tampaelectric.com)** | **[Spring 2026 Engineering Co-Op](https://jobright.ai/jobs/info/68d0d92af1976376178f00f4?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | Sep 21 |
-| ↳ | **[Spring 2026 - ED Student Internship/Co-Op](https://jobright.ai/jobs/info/68d0d92417bd5d3415aa7060?utm_campaign=1048&utm_source=git)** | Ruskin, FL | On Site | Sep 21 |
+| **[Tampa Electric](http://www.tampaelectric.com)** | **[Spring 2026 - ED Student Internship/Co-Op](https://jobright.ai/jobs/info/68d0d92417bd5d3415aa7060?utm_campaign=1048&utm_source=git)** | Ruskin, FL | On Site | Sep 21 |
 | ↳ | **[Spring 2026 Engineering Co-Op/Parallel](https://jobright.ai/jobs/info/68d0d8c9f1976376178f0034?utm_campaign=1048&utm_source=git)** | Lutz, FL | On Site | Sep 21 |
+| ↳ | **[Spring 2026 Engineering Co-Op](https://jobright.ai/jobs/info/68d0d8be7727df7d5a84e141?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | Sep 21 |
 | **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Lead & Copper Inventory Internship - Summer 2026](https://jobright.ai/jobs/info/68d0d8a017bd5d3415aa6f38?utm_campaign=1048&utm_source=git)** | Grand Forks, ND | On Site | Sep 21 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern – Data and AI Analyst – DCCA](https://jobright.ai/jobs/info/68d0d6d6f1976376178eff48?utm_campaign=1048&utm_source=git)** | DC-Washington | Hybrid | Sep 21 |
 | **[Olsson](https://www.olsson.com)** | **[Electrical Engineering Internship - Power Transmission](https://jobright.ai/jobs/info/68b9e4fa6105227d11898f02?utm_campaign=1048&utm_source=git)** | Joplin, MO | Hybrid | Sep 21 |
@@ -93,11 +109,11 @@ For a complete list, click the following sortable link below:
 | **[UNSW](https://www.unsw.edu.au/)** | **[Postdoctoral Fellow in Nuclear Law](https://jobright.ai/jobs/info/68d0c3700ebfb22f38aa8716?utm_campaign=1048&utm_source=git)** | New Haven, CT | On Site | Sep 21 |
 | ↳ | **[Postdoctoral Fellow in Nuclear Law](https://jobright.ai/jobs/info/68d0c32afb49c96ca6eb00c5?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | Sep 21 |
 | ↳ | **[Postdoctoral Fellow in Nuclear Law](https://jobright.ai/jobs/info/68d0c334fb49c96ca6eb00cb?utm_campaign=1048&utm_source=git)** | Princeton, CA | On Site | Sep 21 |
-| ↳ | **[Postdoctoral Fellow in Nuclear Law](https://jobright.ai/jobs/info/68d0c672846f0b04af689ac4?utm_campaign=1048&utm_source=git)** | New York, United States | On Site | Sep 21 |
-| ↳ | **[Postdoctoral Fellow in Nuclear Law](https://jobright.ai/jobs/info/68d0c30afb49c96ca6eb00b7?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Sep 21 |
 | ↳ | **[Postdoctoral Fellow in Nuclear Law](https://jobright.ai/jobs/info/68d0c348fb49c96ca6eb00d4?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Sep 21 |
 | ↳ | **[Postdoctoral Fellow in Nuclear Law](https://jobright.ai/jobs/info/68d0c313fb49c96ca6eb00bc?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Sep 21 |
 | ↳ | **[Postdoctoral Fellow in Nuclear Law](https://jobright.ai/jobs/info/68d0c376fb49c96ca6eb00ed?utm_campaign=1048&utm_source=git)** | Princeton, NJ | On Site | Sep 21 |
+| ↳ | **[Postdoctoral Fellow in Nuclear Law](https://jobright.ai/jobs/info/68d0c30afb49c96ca6eb00b7?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Sep 21 |
+| ↳ | **[Postdoctoral Fellow in Nuclear Law](https://jobright.ai/jobs/info/68d0c672846f0b04af689ac4?utm_campaign=1048&utm_source=git)** | New York, United States | On Site | Sep 21 |
 | ↳ | **[Postdoctoral Fellow in Nuclear Law](https://jobright.ai/jobs/info/68d0c305846f0b04af6899bb?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Sep 21 |
 | ↳ | **[Postdoctoral Fellow in Nuclear Law](https://jobright.ai/jobs/info/68d0c3e50ebfb22f38aa8748?utm_campaign=1048&utm_source=git)** | Los Angeles County, CA | On Site | Sep 21 |
 | **[Autodesk](http://www.autodesk.com)** | **[PhD Intern, Robotics Application](https://jobright.ai/jobs/info/68d09db6846f0b04af688e57?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Hybrid | Sep 21 |
@@ -133,6 +149,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[AV Internship](https://jobright.ai/jobs/info/68d01c60fb49c96ca6eadff1?utm_campaign=1048&utm_source=git)** | Virginia, United States | On Site | Sep 21 |
 | **[SIG SAUER, Inc.](https://www.sigsauer.com/)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/68cf8015846f0b04af6829fa?utm_campaign=1048&utm_source=git)** | Exeter, NH | On Site | Sep 21 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rethinking Energy Access: Empowering Peruvian Coastal Communities through Sustainable Development](https://jobright.ai/jobs/info/68b45bc1f4e41a61efd8c32c?utm_campaign=1048&utm_source=git)** | Baltimore, MD | On Site | Sep 21 |
+| **[Barr Engineering Co.](http://www.barr.com)** | **[Internship – Structural Engineer (Hybrid)](https://jobright.ai/jobs/info/68b1ef311ade4306aa632f4b?utm_campaign=1048&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 21 |
 | **[Siemens](https://www.siemens.com/)** | **[DOD SkillBridge Internship – Field Technician](https://jobright.ai/jobs/info/68afdbede723db6c9b7b45bb?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Sep 21 |
 | **[Avicena Tech](https://www.avicena.tech/)** | **[Software Systems Hardware Integration Intern](https://jobright.ai/jobs/info/68c65f33c96a22563ecede90?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA | On Site | Sep 21 |
 | **[Henkel](http://www.henkel.com)** | **[Adhesives Innovation Lab Intern – Summer 2026](https://jobright.ai/jobs/info/68b3dae91ade4306aa63ce0c?utm_campaign=1048&utm_source=git)** | Rocky Hill, CT | On Site | Sep 21 |
@@ -140,21 +157,4 @@ For a complete list, click the following sortable link below:
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Electrical Engineering Intern (Tulsa, OK)](https://jobright.ai/jobs/info/68b35826f4e41a61efd89137?utm_campaign=1048&utm_source=git)** | Tulsa, OK | On Site | Sep 21 |
 | **[Siemens](https://www.siemens.com/)** | **[DOD SkillBridge Internship – Field Technician](https://jobright.ai/jobs/info/68cd8a9d1ad6b16f0289b241?utm_campaign=1048&utm_source=git)** | Baltimore, MD | On Site | Sep 21 |
 | **[Henkel](http://www.henkel.com)** | **[Facilities and North America Real Estate Intern – Summer 2026](https://jobright.ai/jobs/info/68b3db43bc187f64e1be1edc?utm_campaign=1048&utm_source=git)** | Stamford, CT | Hybrid | Sep 21 |
-| **[Siemens](https://www.siemens.com/)** | **[DOD SkillBridge Internship – Field Technician](https://jobright.ai/jobs/info/6881b7b5f4f06100f3a2975c?utm_campaign=1048&utm_source=git)** | Fairbanks, AK | On Site | Sep 21 |
-| ↳ | **[DOD SkillBridge Internship – Field Technician](https://jobright.ai/jobs/info/689ebff879a9f966625507cc?utm_campaign=1048&utm_source=git)** | Sandy, UT | On Site | Sep 21 |
-| **[Henkel](http://www.henkel.com)** | **[R&D Engineering Intern – Spring 2026](https://jobright.ai/jobs/info/68c7ac0cdb52c07d2884e064?utm_campaign=1048&utm_source=git)** | United States | Remote | Sep 21 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Exotiuc Animals Conservation in Hawaii](https://jobright.ai/jobs/info/68d003e3fb49c96ca6ead68c?utm_campaign=1048&utm_source=git)** | Cambridge, MA | Hybrid | Sep 21 |
-| **[Terracon](https://www.terracon.com/about/foundation/)** | **[Intern - Enviro](https://jobright.ai/jobs/info/68cfffbbfb49c96ca6ead358?utm_campaign=1048&utm_source=git)** | Charlotte, NC | On Site | Sep 21 |
-| ↳ | **[Intern - Geo](https://jobright.ai/jobs/info/68cfff87846f0b04af686d9d?utm_campaign=1048&utm_source=git)** | Charlotte, NC | On Site | Sep 21 |
-| ↳ | **[Intern - FAC](https://jobright.ai/jobs/info/68cfff40846f0b04af686ce3?utm_campaign=1048&utm_source=git)** | Charlotte, NC | On Site | Sep 21 |
-| **[Samsung Research America (SRA)](http://www.sra.samsung.com/)** | **[2025 Fall Intern, GPU Architecture Modeling](https://jobright.ai/jobs/info/68405798d5d52640c6f23b63?utm_campaign=1048&utm_source=git)** | Mountain View, CA | On Site | Sep 21 |
-| **[Terracon](https://www.terracon.com/about/foundation/)** | **[Intern - Materials](https://jobright.ai/jobs/info/68cffdc1dbd9fb154edec847?utm_campaign=1048&utm_source=git)** | Charlotte, NC | On Site | Sep 21 |
-| **[Applied Materials](http://www.appliedmaterials.com)** | **[Manufacturing Engineering Intern (Austin)](https://jobright.ai/jobs/info/68cffd98dbd9fb154edec83b?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Sep 21 |
-| **[ByteDance](http://bytedance.com)** | **[Network Software Development Engineer Intern(Network Observation) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/68cffca9fb49c96ca6ead2d2?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Sep 21 |
-| **[Thompson Thrift](https://www.thompsonthrift.com/)** | **[Thompson Thrift Construction Management Internship 2026](https://jobright.ai/jobs/info/68984def5574fd6bc0c77a5b?utm_campaign=1048&utm_source=git)** | Terre Haute, IN | On Site | Sep 21 |
-| **[Polaris Inc.](https://www.polaris.com)** | **[Core Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68cff974dbd9fb154edec6c7?utm_campaign=1048&utm_source=git)** | Spirit Lake, IA | On Site | Sep 21 |
-| **[IES Residential](http://www.iesresidential.com)** | **[Residential Electrical Apprentice](https://jobright.ai/jobs/info/68cff741fb49c96ca6eace64?utm_campaign=1048&utm_source=git)** | Columbus, OH | On Site | Sep 21 |
-| **[Polaris Inc.](https://www.polaris.com)** | **[Digital & Information Technology - Infrastructure & Information Security Internship - Summer 2026](https://jobright.ai/jobs/info/68b30207f4e41a61efd887ca?utm_campaign=1048&utm_source=git)** | Plymouth, MN | On Site | Sep 21 |
-| **[Amazon](https://amazon.com)** | **[Jr. Software Development Engineer - Santa Cruz, CA, Jr. Developer Program](https://jobright.ai/jobs/info/68ccda38d11b445e0bee2fe1?utm_campaign=1048&utm_source=git)** | Santa Cruz, CA | On Site | Sep 21 |
-| **[Shape Corp.](https://www.shapecorp.com/)** | **[Engineering Intern/Co-op- Multiple Openings- Summer 2026](https://jobright.ai/jobs/info/68cff643846f0b04af686727?utm_campaign=1048&utm_source=git)** | Grand Haven, MI | On Site | Sep 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
