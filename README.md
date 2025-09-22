@@ -57,20 +57,33 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op – Midstream Environmental (Spring 2026)](https://jobright.ai/jobs/info/68d0a507846f0b04af688f48?utm_campaign=1048&utm_source=git)** | Findlay, OH | On Site | Sep 21 |
+| ↳ | **[Intern/Co-op – Midstream Environmental (Summer 2026)](https://jobright.ai/jobs/info/68d0a4f8fb49c96ca6eaf68e?utm_campaign=1048&utm_source=git)** | Findlay, OH | On Site | Sep 21 |
+| **[MITRE](http://www.mitre.org)** | **[Internships in Electrical or Computer Engineering](https://jobright.ai/jobs/info/68d0af1cfb49c96ca6eaf75c?utm_campaign=1048&utm_source=git)** | Bedford, MA | On Site | Sep 21 |
+| ↳ | **[Internships in Electrical or Computer Engineering](https://jobright.ai/jobs/info/68d0aeb1dbd9fb154edeee47?utm_campaign=1048&utm_source=git)** | Shrewsbury, NJ | On Site | Sep 21 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op – Midstream Environmental (Summer 2026)](https://jobright.ai/jobs/info/68d0a86adbd9fb154edeee0a?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Sep 21 |
 | **[MITRE](http://www.mitre.org)** | **[Internships in Electrical or Computer Engineering](https://jobright.ai/jobs/info/68d0a852dbd9fb154edeee03?utm_campaign=1048&utm_source=git)** | Shaw Heights, SC | On Site | Sep 21 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op – Midstream Environmental (Summer 2026)](https://jobright.ai/jobs/info/68d0a82e846f0b04af688f94?utm_campaign=1048&utm_source=git)** | Canonsburg, PA | On Site | Sep 21 |
 | ↳ | **[Intern/Co-op – Midstream Environmental (Spring 2026)](https://jobright.ai/jobs/info/68d0a80efb49c96ca6eaf6e0?utm_campaign=1048&utm_source=git)** | Canonsburg, PA | On Site | Sep 21 |
 | **[S&B](https://www.sbec.com)** | **[Intern - Civil/Structural Engineer - Raleigh, NC](https://jobright.ai/jobs/info/68d0a7b4dbd9fb154edeedb2?utm_campaign=1048&utm_source=git)** | S&B Raleigh | Hybrid | Sep 21 |
 | **[Meijer](https://www.meijer.com/)** | **[Intern Detective](https://jobright.ai/jobs/info/68d0a78cdbd9fb154edeeda0?utm_campaign=1048&utm_source=git)** | Cadillac, MI | On Site | Sep 21 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op – Midstream Environmental (Spring 2026)](https://jobright.ai/jobs/info/68d0a507846f0b04af688f48?utm_campaign=1048&utm_source=git)** | Findlay, OH | On Site | Sep 21 |
-| ↳ | **[Intern/Co-op – Midstream Environmental (Summer 2026)](https://jobright.ai/jobs/info/68d0a4f8fb49c96ca6eaf68e?utm_campaign=1048&utm_source=git)** | Findlay, OH | On Site | Sep 21 |
 | **[SAM](https://www.sam.biz)** | **[DOD SkillBridge Internship (Authorized SkillBridge Organization - Military Personnel Only)](https://jobright.ai/jobs/info/68d0a4e7dbd9fb154edeed91?utm_campaign=1048&utm_source=git)** | Gainesville, VA | Hybrid | Sep 21 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op – Midstream Environmental (Summer 2026)](https://jobright.ai/jobs/info/68d0a4d1fb49c96ca6eaf67c?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Sep 21 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Equipment Engineering Mechanical Engineer Intern 2026](https://jobright.ai/jobs/info/68d0a466dbd9fb154edeed52?utm_campaign=1048&utm_source=git)** | Maple Grove, MN | On Site | Sep 21 |
 | ↳ | **[Equipment Engineering Controls Engineer Intern 2026](https://jobright.ai/jobs/info/68d0a453fb49c96ca6eaf63f?utm_campaign=1048&utm_source=git)** | Maple Grove, MN | On Site | Sep 21 |
 | **[Novanta Inc.](http://www.novanta.com)** | **[Intern Engineering](https://jobright.ai/jobs/info/68d0a131fb49c96ca6eaf61b?utm_campaign=1048&utm_source=git)** | Apex, NC | On Site | Sep 21 |
 | **[FM](https://www.fmglobal.com)** | **[Cyber Specialist Co-Op](https://jobright.ai/jobs/info/68d0a111dbd9fb154edeed12?utm_campaign=1048&utm_source=git)** | Johnston, RI | Remote | Sep 21 |
+| **[Crane NXT](https://www.cranenxt.com)** | **[Materials or Chemical Engineer Co-Op](https://jobright.ai/jobs/info/68d0b27bdbd9fb154edeeee2?utm_campaign=1048&utm_source=git)** | Nashua, NH | On Site | Sep 21 |
+| **[UNSW](https://www.unsw.edu.au/)** | **[Postdoctoral Fellow in Nuclear Law](https://jobright.ai/jobs/info/68d0c3700ebfb22f38aa8716?utm_campaign=1048&utm_source=git)** | New Haven, CT | On Site | Sep 21 |
+| ↳ | **[Postdoctoral Fellow in Nuclear Law](https://jobright.ai/jobs/info/68d0c32afb49c96ca6eb00c5?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | Sep 21 |
+| ↳ | **[Postdoctoral Fellow in Nuclear Law](https://jobright.ai/jobs/info/68d0c334fb49c96ca6eb00cb?utm_campaign=1048&utm_source=git)** | Princeton, CA | On Site | Sep 21 |
+| ↳ | **[Postdoctoral Fellow in Nuclear Law](https://jobright.ai/jobs/info/68d0c672846f0b04af689ac4?utm_campaign=1048&utm_source=git)** | New York, United States | On Site | Sep 21 |
+| ↳ | **[Postdoctoral Fellow in Nuclear Law](https://jobright.ai/jobs/info/68d0c30afb49c96ca6eb00b7?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Sep 21 |
+| ↳ | **[Postdoctoral Fellow in Nuclear Law](https://jobright.ai/jobs/info/68d0c348fb49c96ca6eb00d4?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Sep 21 |
+| ↳ | **[Postdoctoral Fellow in Nuclear Law](https://jobright.ai/jobs/info/68d0c313fb49c96ca6eb00bc?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Sep 21 |
+| ↳ | **[Postdoctoral Fellow in Nuclear Law](https://jobright.ai/jobs/info/68d0c376fb49c96ca6eb00ed?utm_campaign=1048&utm_source=git)** | Princeton, NJ | On Site | Sep 21 |
+| ↳ | **[Postdoctoral Fellow in Nuclear Law](https://jobright.ai/jobs/info/68d0c305846f0b04af6899bb?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Sep 21 |
+| ↳ | **[Postdoctoral Fellow in Nuclear Law](https://jobright.ai/jobs/info/68d0c3e50ebfb22f38aa8748?utm_campaign=1048&utm_source=git)** | Los Angeles County, CA | On Site | Sep 21 |
 | **[Autodesk](http://www.autodesk.com)** | **[PhD Intern, Robotics Application](https://jobright.ai/jobs/info/68d09db6846f0b04af688e57?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Hybrid | Sep 21 |
 | **[Heelstone Renewable Energy, LLC](http://heelstoneenergy.com)** | **[Internship - Environmental Intern](https://jobright.ai/jobs/info/68d09d25846f0b04af688e23?utm_campaign=1048&utm_source=git)** | Durham, North Carolina, United States | Hybrid | Sep 21 |
 | ↳ | **[Internship - Interconnection Intern](https://jobright.ai/jobs/info/68d09d25dbd9fb154edeec72?utm_campaign=1048&utm_source=git)** | Durham, North Carolina, United States | Hybrid | Sep 21 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Refining Chemical Engineering Intern/Co-op Summer 2026](https://jobright.ai/jobs/info/68ce5683fb49c96ca6e9f743?utm_campaign=1048&utm_source=git)** | Mandan, ND | On Site | Sep 21 |
 | **[Denver Water](https://www.denverwater.org/)** | **[Summer Internship 2026 - Engineering Focus](https://jobright.ai/jobs/info/68cfed40fb49c96ca6eacaca?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Sep 21 |
 | **[ORION](https://www.oriongroupholdingsinc.com/)** | **[Safety Intern](https://jobright.ai/jobs/info/68cfecca846f0b04af686314?utm_campaign=1048&utm_source=git)** | Dallas, TX | Hybrid | Sep 21 |
-| **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[WRAIR - Blast-Induced Brain Injury Research Internship/Fellowship](https://jobright.ai/jobs/info/68a3fa362d2a252445cd4a46?utm_campaign=1048&utm_source=git)** | Silver Spring, MD | On Site | Sep 21 |
-| **[Astronautics Corporation of America](https://astronautics.com/)** | **[Systems Engineering Intern (PHX)](https://jobright.ai/jobs/info/68cfeae1dbd9fb154edebea5?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | Sep 21 |
-| **[BioSpace](http://www.biospace.com/)** | **[2026 Intern, R&D Quality](https://jobright.ai/jobs/info/68cfea8ddbd9fb154edebe18?utm_campaign=1048&utm_source=git)** | Cambridge, MA | On Site | Sep 21 |
-| **[ClarkDietrich](https://www.clarkdietrich.com/)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/68cfe994dbd9fb154edebc7d?utm_campaign=1048&utm_source=git)** | McDonough, GA | On Site | Sep 21 |
-| **[ORION](https://www.oriongroupholdingsinc.com/)** | **[Field Engineer Intern](https://jobright.ai/jobs/info/68cfe98fdbd9fb154edebc74?utm_campaign=1048&utm_source=git)** | Honolulu, HI | On Site | Sep 21 |
-| **[Astronautics Corporation of America](https://astronautics.com/)** | **[Systems Engineering Intern](https://jobright.ai/jobs/info/68cfe98edbd9fb154edebc71?utm_campaign=1048&utm_source=git)** | Oak Creek, WI | On Site | Sep 21 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Engineer Intern - Fall](https://jobright.ai/jobs/info/685dd0160cdd9ffcf4f9c573?utm_campaign=1048&utm_source=git)** | Baton Rouge, LA | On Site | Sep 21 |
-| **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[CEMAT / ACCIT Master Tradesperson (SkillBridge Intern) - 18420](https://jobright.ai/jobs/info/682977756dd7e5f8b5d79b37?utm_campaign=1048&utm_source=git)** | Newport News, VA | On Site | Sep 21 |
-| **[Astronautics Corporation of America](https://astronautics.com/)** | **[Data Security Engineering Intern](https://jobright.ai/jobs/info/68cfe91fdbd9fb154edebbba?utm_campaign=1048&utm_source=git)** | Oak Creek, WI | On Site | Sep 21 |
-| **[BioSpace](http://www.biospace.com/)** | **[Summer Intern - Mass Spectrometry](https://jobright.ai/jobs/info/68cfe8defb49c96ca6eac950?utm_campaign=1048&utm_source=git)** | Bridgewater, NJ | Hybrid | Sep 21 |
-| **[Astronautics Corporation of America](https://astronautics.com/)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/68cfe8b1846f0b04af686218?utm_campaign=1048&utm_source=git)** | Oak Creek, WI | On Site | Sep 21 |
-| ↳ | **[Quality Engineering Intern](https://jobright.ai/jobs/info/68cfe85efb49c96ca6eac87d?utm_campaign=1048&utm_source=git)** | Oak Creek, WI | On Site | Sep 21 |
-| **[Wallace Design Collective](https://wallace.design/)** | **[Structural Summer Internship](https://jobright.ai/jobs/info/687b3c4d2097a271a8982c5d?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Sep 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
