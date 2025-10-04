@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[2026 Mechanical Engineering Intern](https://jobright.ai/jobs/info/68e175b4f758fe1f97e5532e?utm_campaign=1048&utm_source=git)** | Hilliard, OH | Remote | Oct 04 |
+| **[MechNova](mechnova.us)** | **[Industrial Engineering Intern](https://jobright.ai/jobs/info/68e17574f758fe1f97e55318?utm_campaign=1048&utm_source=git)** | Waller County, TX | Remote | Oct 04 |
+| **[2IM Group, LLC](https://www.2imgroup.com)** | **[Vegetation Management & Restoration Ecology Intern](https://jobright.ai/jobs/info/68e175321852e62f007f2c00?utm_campaign=1048&utm_source=git)** | Greater Chicago Area | On Site | Oct 04 |
+| **[Pinnova](https://www.linkedin.com/company/87987033)** | **[Quality Engineering Intern](https://jobright.ai/jobs/info/68e1750c1852e62f007f2bf0?utm_campaign=1048&utm_source=git)** | Waller, TX | Remote | Oct 04 |
+| **[Stanley Martin Homes](http://stanleymartin.com)** | **[Construction Intern](https://jobright.ai/jobs/info/68e174f11852e62f007f2be6?utm_campaign=1048&utm_source=git)** | Chantilly, VA | On Site | Oct 04 |
+| **[Meridian Forge](https://www.linkedin.com/company/108612717)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/68e174921852e62f007f2bc6?utm_campaign=1048&utm_source=git)** | Lancaster, PA | Remote | Oct 04 |
+| **[Informuta](https://informuta.com)** | **[Laboratory Intern](https://jobright.ai/jobs/info/68e172f3b99ec3563b0d7496?utm_campaign=1048&utm_source=git)** | New Orleans, LA | On Site | Oct 04 |
+| **[Davis School District](https://www.davis.k12.ut.us/)** | **[Energy/Security Technician](https://jobright.ai/jobs/info/68e15e75b99ec3563b0d726d?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Oct 04 |
 | **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Student Intern - Architecture Co-Op](https://jobright.ai/jobs/info/68e15657f758fe1f97e54ff0?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Oct 04 |
 | **[Blount Fine Foods](http://blountfinefoods.com)** | **[Continuous Improvement Intern](https://jobright.ai/jobs/info/68e15650f758fe1f97e54fe8?utm_campaign=1048&utm_source=git)** | McKinney, TX | On Site | Oct 04 |
 | **[NorthWestern Energy](http://northwesternenergy.com)** | **[Hydro Safety Intern](https://jobright.ai/jobs/info/68e156371852e62f007f289f?utm_campaign=1048&utm_source=git)** | Butte, MT | On Site | Oct 04 |
@@ -101,8 +109,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/68e127301852e62f007f1ea7?utm_campaign=1048&utm_source=git)** | Missoula, MT | On Site | Oct 04 |
 | ↳ | **[Mechanical Intern](https://jobright.ai/jobs/info/68e126d31852e62f007f1da5?utm_campaign=1048&utm_source=git)** | Great Falls, MT | On Site | Oct 04 |
 | **[RJMedex](https://rjmedex.com/)** | **[Robotic - Mechanical Engineer & AI Developer Intern to FT](https://jobright.ai/jobs/info/68e126321852e62f007f1c1d?utm_campaign=1048&utm_source=git)** | Columbia, MD | On Site | Oct 04 |
-| **[Cushing Terrell](https://cushingterrell.com/)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/68e1256cf758fe1f97e541c6?utm_campaign=1048&utm_source=git)** | Boise, ID | On Site | Oct 04 |
-| ↳ | **[Mechanical Intern](https://jobright.ai/jobs/info/68e1256cf758fe1f97e541c5?utm_campaign=1048&utm_source=git)** | Kalispell, MT | On Site | Oct 04 |
+| **[Cushing Terrell](https://cushingterrell.com/)** | **[Mechanical Intern](https://jobright.ai/jobs/info/68e1256cf758fe1f97e541c5?utm_campaign=1048&utm_source=git)** | Kalispell, MT | On Site | Oct 04 |
+| ↳ | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/68e1256cf758fe1f97e541c6?utm_campaign=1048&utm_source=git)** | Boise, ID | On Site | Oct 04 |
 | ↳ | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/68e1255a1852e62f007f1a04?utm_campaign=1048&utm_source=git)** | Missoula, MT | On Site | Oct 04 |
 | ↳ | **[Fire Protection Intern](https://jobright.ai/jobs/info/68e12527f758fe1f97e54160?utm_campaign=1048&utm_source=git)** | Helena, MT | On Site | Oct 04 |
 | ↳ | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/68e12514f758fe1f97e54155?utm_campaign=1048&utm_source=git)** | Billings, MT | On Site | Oct 04 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CHS Inc.](http://www.chsinc.com)** | **[Agronomy Intern](https://jobright.ai/jobs/info/68c44f50e471ef3ce16d4f23?utm_campaign=1048&utm_source=git)** | Circle, MT | On Site | Oct 04 |
 | ↳ | **[Operations Intern](https://jobright.ai/jobs/info/68c41e86e396b25cb5c65a23?utm_campaign=1048&utm_source=git)** | Oslo, MN | On Site | Oct 04 |
 | **[KCI](http://www.kci.com/)** | **[Structural Engineer Intern](https://jobright.ai/jobs/info/68c4875fe471ef3ce16d71ad?utm_campaign=1048&utm_source=git)** | Baltimore, MD | On Site | Oct 04 |
-| **[CHS Inc.](http://www.chsinc.com)** | **[Agronomy Intern](https://jobright.ai/jobs/info/68c514b1c96a22563ece70e5?utm_campaign=1048&utm_source=git)** | New Salem, ND | On Site | Oct 04 |
-| ↳ | **[Agronomy Intern](https://jobright.ai/jobs/info/68c42ad814bb275ce0191490?utm_campaign=1048&utm_source=git)** | Washburn, ND | On Site | Oct 04 |
-| **[The Marzetti Company](http://www.tmarzetticompany.com/)** | **[Operations Manufacturing Internship - Summer 2026](https://jobright.ai/jobs/info/688c05d6906ac06e1d1d0296?utm_campaign=1048&utm_source=git)** | College Park, GA | On Site | Oct 04 |
-| **[CHS Inc.](http://www.chsinc.com)** | **[Agronomy Operations Intern](https://jobright.ai/jobs/info/68c5083cc96a22563ece665a?utm_campaign=1048&utm_source=git)** | Herman, MN | On Site | Oct 04 |
-| ↳ | **[Agronomy Operations Intern](https://jobright.ai/jobs/info/68c43edd14bb275ce0191d13?utm_campaign=1048&utm_source=git)** | Lamoure, ND | On Site | Oct 04 |
-| ↳ | **[Agronomy Operations Intern](https://jobright.ai/jobs/info/68c43ec414bb275ce0191cf5?utm_campaign=1048&utm_source=git)** | Long Prairie, MN | On Site | Oct 04 |
-| ↳ | **[Operations Intern](https://jobright.ai/jobs/info/68c8f1de983e6768bc553e45?utm_campaign=1048&utm_source=git)** | Thief River Falls, MN | On Site | Oct 04 |
-| **[KCI](http://www.kci.com/)** | **[Structural Engineer Intern](https://jobright.ai/jobs/info/68c4861214bb275ce0194582?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | On Site | Oct 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
