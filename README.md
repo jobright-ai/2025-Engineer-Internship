@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nutrien](https://www.nutrien.com/)** | **[Intern - Retail Field, Agronomy - Northern High Plains Division](https://jobright.ai/jobs/info/68e1e8acf758fe1f97e569a0?utm_campaign=1048&utm_source=git)** | Fort Morgan, CO | On Site | Oct 04 |
+| **[SEMCOG Technologies](https:semcog.ai)** | **[Remote AI & Tech Internship Program](https://jobright.ai/jobs/info/68e1e4fe1852e62f007f417b?utm_campaign=1048&utm_source=git)** | United States | Remote | Oct 04 |
+| **[Price Industries](https://www.priceindustries.com)** | **[Intern - Manufacturing Engineer - Summer 2026](https://jobright.ai/jobs/info/68e1e4caf758fe1f97e5673e?utm_campaign=1048&utm_source=git)** | Suwanee, GA | On Site | Oct 04 |
+| **[Kuraray America, Inc.](https://www.kuraray.us.com)** | **[Environmental Intern (HSES), Summer 2026](https://jobright.ai/jobs/info/68e1db8c1852e62f007f3aa0?utm_campaign=1048&utm_source=git)** | Pasadena, TX | On Site | Oct 04 |
+| **[ADM](http://www.adm.com)** | **[Continuous Improvement (CI) Intern - Erlanger, KY](https://jobright.ai/jobs/info/68e1d45f1852e62f007f39b4?utm_campaign=1048&utm_source=git)** | Erlanger, KY | On Site | Oct 04 |
 | **[EmbodyX](https://www.embodyx.io)** | **[Machine Learning Engineer Intern (Unpaid)](https://jobright.ai/jobs/info/68e1cef6f758fe1f97e55f78?utm_campaign=1048&utm_source=git)** | Belmont, CA | On Site | Oct 04 |
 | **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Civil Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68e1ce261852e62f007f38b5?utm_campaign=1048&utm_source=git)** | Rapid City, SD | On Site | Oct 04 |
 | **[Kuraray America, Inc.](https://www.kuraray.us.com)** | **[Environmental Intern (HSES), Summer 2026](https://jobright.ai/jobs/info/68e1c004b99ec3563b0d7f8e?utm_campaign=1048&utm_source=git)** | Pasadena,TX,US | On Site | Oct 04 |
@@ -97,21 +102,18 @@ For a complete list, click the following sortable link below:
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Energy/Security Technician](https://jobright.ai/jobs/info/68e15e75b99ec3563b0d726d?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Oct 04 |
 | **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Student Intern - Architecture Co-Op](https://jobright.ai/jobs/info/68e15657f758fe1f97e54ff0?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Oct 04 |
 | **[Blount Fine Foods](http://blountfinefoods.com)** | **[Continuous Improvement Intern](https://jobright.ai/jobs/info/68e15650f758fe1f97e54fe8?utm_campaign=1048&utm_source=git)** | McKinney, TX | On Site | Oct 04 |
-| **[NorthWestern Energy](http://northwesternenergy.com)** | **[Safety Intern](https://jobright.ai/jobs/info/68e155ddf758fe1f97e54fbb?utm_campaign=1048&utm_source=git)** | Butte, MT | On Site | Oct 04 |
-| ↳ | **[Hydro Safety Intern](https://jobright.ai/jobs/info/68e155ab1852e62f007f287b?utm_campaign=1048&utm_source=git)** | Great Falls, MT | On Site | Oct 04 |
-| **[Iron Clave](https://www.linkedin.com/company/108610804)** | **[Engineering Internship](https://jobright.ai/jobs/info/68e1529d1852e62f007f2875?utm_campaign=1048&utm_source=git)** | Washington, United States | Remote | Oct 04 |
 | **[AMETEK Engineered Medical Components (EMC)](https://www.ametekemc.com)** | **[Intern - Imaging Application Engineer](https://jobright.ai/jobs/info/68e152811852e62f007f286e?utm_campaign=1048&utm_source=git)** | Wayne, NJ | On Site | Oct 04 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 CMC Biologics Drug Substance (PhD) Intern (Cell Culture Development)](https://jobright.ai/jobs/info/68e14aa41852e62f007f2752?utm_campaign=1048&utm_source=git)** | South San Francisco, CA | Hybrid | Oct 04 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Electrical Engineer Intern - Substation](https://jobright.ai/jobs/info/68e14a981852e62f007f274b?utm_campaign=1048&utm_source=git)** | Walnut Creek, CA | Hybrid | Oct 04 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 BioCMC (Chemistry, Manufacturing, and Control) Drug Substance Intern (Master's)](https://jobright.ai/jobs/info/68e14a4d1852e62f007f271b?utm_campaign=1048&utm_source=git)** | South San Francisco, CA | On Site | Oct 04 |
-| **[Black & Veatch](http://bv.com/Home)** | **[Electrical Engineer Intern - Substation](https://jobright.ai/jobs/info/68e14a201852e62f007f2704?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | Hybrid | Oct 04 |
-| ↳ | **[Electrical Engineer Intern - Substation](https://jobright.ai/jobs/info/68e14a201852e62f007f2705?utm_campaign=1048&utm_source=git)** | Houston, TX | Hybrid | Oct 04 |
+| **[Black & Veatch](http://bv.com/Home)** | **[Electrical Engineer Intern - Substation](https://jobright.ai/jobs/info/68e14a201852e62f007f2705?utm_campaign=1048&utm_source=git)** | Houston, TX | Hybrid | Oct 04 |
+| ↳ | **[Electrical Engineer Intern - Substation](https://jobright.ai/jobs/info/68e14a201852e62f007f2704?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | Hybrid | Oct 04 |
 | **[Nutanix](http://www.nutanix.com)** | **[Systems Reliability Engineer Intern, San Jose, CA (Summer 2026 - Local Undergraduates Only)](https://jobright.ai/jobs/info/68e14a15f758fe1f97e54e32?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Oct 04 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Electrical Engineer Intern - Substation](https://jobright.ai/jobs/info/68e14a131852e62f007f26fb?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Oct 04 |
 | ↳ | **[Electrical Engineer Intern - Substation](https://jobright.ai/jobs/info/68e149f8f758fe1f97e54e26?utm_campaign=1048&utm_source=git)** | Tualatin, OR | Hybrid | Oct 04 |
 | **[Structonix](structonix.us)** | **[Electrical Engineering Intern - IT](https://jobright.ai/jobs/info/68e149e61852e62f007f26e3?utm_campaign=1048&utm_source=git)** | Pennsylvania, United States | Remote | Oct 04 |
-| **[Black & Veatch](http://bv.com/Home)** | **[Electrical Engineer Intern - Underground T-Line](https://jobright.ai/jobs/info/68e149c01852e62f007f26cb?utm_campaign=1048&utm_source=git)** | Tualatin, OR | Hybrid | Oct 04 |
-| ↳ | **[Electrical Engineer Intern - Underground T-Line](https://jobright.ai/jobs/info/68e149c01852e62f007f26cc?utm_campaign=1048&utm_source=git)** | Overland Park, KS | Hybrid | Oct 04 |
+| **[Black & Veatch](http://bv.com/Home)** | **[Electrical Engineer Intern - Underground T-Line](https://jobright.ai/jobs/info/68e149c01852e62f007f26cc?utm_campaign=1048&utm_source=git)** | Overland Park, KS | Hybrid | Oct 04 |
+| ↳ | **[Electrical Engineer Intern - Underground T-Line](https://jobright.ai/jobs/info/68e149c01852e62f007f26cb?utm_campaign=1048&utm_source=git)** | Tualatin, OR | Hybrid | Oct 04 |
 | ↳ | **[Electrical Engineer Intern - Substation](https://jobright.ai/jobs/info/68e149aa1852e62f007f26c1?utm_campaign=1048&utm_source=git)** | Denver, CO | Hybrid | Oct 04 |
 | ↳ | **[Electrical Engineer Intern - Water & Wastewater](https://jobright.ai/jobs/info/68e1499d1852e62f007f26b6?utm_campaign=1048&utm_source=git)** | Cary, NC | Hybrid | Oct 04 |
 | ↳ | **[Electrical Engineer Intern - Substation](https://jobright.ai/jobs/info/68e149761852e62f007f269f?utm_campaign=1048&utm_source=git)** | Chattanooga, TN | Hybrid | Oct 04 |
@@ -136,8 +138,8 @@ For a complete list, click the following sortable link below:
 | **[Cushing Terrell](https://cushingterrell.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/68e127361852e62f007f1eb4?utm_campaign=1048&utm_source=git)** | Bozeman, MT | On Site | Oct 04 |
 | ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/68e127301852e62f007f1ea7?utm_campaign=1048&utm_source=git)** | Missoula, MT | On Site | Oct 04 |
 | ↳ | **[Mechanical Intern](https://jobright.ai/jobs/info/68e126d31852e62f007f1da5?utm_campaign=1048&utm_source=git)** | Great Falls, MT | On Site | Oct 04 |
-| ↳ | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/68e1256cf758fe1f97e541c6?utm_campaign=1048&utm_source=git)** | Boise, ID | On Site | Oct 04 |
 | ↳ | **[Mechanical Intern](https://jobright.ai/jobs/info/68e1256cf758fe1f97e541c5?utm_campaign=1048&utm_source=git)** | Kalispell, MT | On Site | Oct 04 |
+| ↳ | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/68e1256cf758fe1f97e541c6?utm_campaign=1048&utm_source=git)** | Boise, ID | On Site | Oct 04 |
 | ↳ | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/68e1255a1852e62f007f1a04?utm_campaign=1048&utm_source=git)** | Missoula, MT | On Site | Oct 04 |
 | ↳ | **[Fire Protection Intern](https://jobright.ai/jobs/info/68e12527f758fe1f97e54160?utm_campaign=1048&utm_source=git)** | Helena, MT | On Site | Oct 04 |
 | ↳ | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/68e12514f758fe1f97e54155?utm_campaign=1048&utm_source=git)** | Billings, MT | On Site | Oct 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Foley Power Solutions](https://foleypowersolutions.com)** | **[Intern Technician - Park City Seasonal](https://jobright.ai/jobs/info/68e11ba11852e62f007f15e4?utm_campaign=1048&utm_source=git)** | Park City, KS | On Site | Oct 04 |
 | **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[2026 Mechanical Engineering Intern](https://jobright.ai/jobs/info/68e11b5ef758fe1f97e53d0c?utm_campaign=1048&utm_source=git)** | Lancaster, PA | Remote | Oct 04 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Summer Internship 2026 - Security](https://jobright.ai/jobs/info/68e11b20f758fe1f97e53cec?utm_campaign=1048&utm_source=git)** | Eden Prairie, MN | Remote | Oct 04 |
-| **[Johnson & Johnson MedTech](https://www.jnjmedicaldevices.com/)** | **[2026 Jax R&D Internship (STEM, Eng/Chem)](https://jobright.ai/jobs/info/68e11aa11852e62f007f1519?utm_campaign=1048&utm_source=git)** | Jacksonville, FL | On Site | Oct 04 |
-| **[Jacobs](http://www.jacobs.com)** | **[Health, Safety, and Environmental (HSE) Field Intern - Summer 2026](https://jobright.ai/jobs/info/68c45efae471ef3ce16d58da?utm_campaign=1048&utm_source=git)** | Richmond, VA | On Site | Oct 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
