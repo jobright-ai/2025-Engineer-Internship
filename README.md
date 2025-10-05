@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Process Improvement Specialist Intern](https://jobright.ai/jobs/info/68e222811852e62f007f62bd?utm_campaign=1048&utm_source=git)** | Portland, OR US | Hybrid | Oct 05 |
+| ↳ | **[Mechanical Product Design Engineering Intern](https://jobright.ai/jobs/info/68e221dd1852e62f007f5ff9?utm_campaign=1048&utm_source=git)** | Portland, OR US | Hybrid | Oct 05 |
+| ↳ | **[Powertrain Software Validation Intern](https://jobright.ai/jobs/info/68e221c9f758fe1f97e585be?utm_campaign=1048&utm_source=git)** | Portland, OR US | Hybrid | Oct 05 |
+| ↳ | **[AI Documentation Integration Intern – Autonomous Cascadia](https://jobright.ai/jobs/info/68e22137f758fe1f97e583af?utm_campaign=1048&utm_source=git)** | Portland, OR US | Hybrid | Oct 05 |
+| ↳ | **[Mechanical Product Validation Engineering Intern](https://jobright.ai/jobs/info/68e2211c1852e62f007f5d23?utm_campaign=1048&utm_source=git)** | Portland, OR US | Hybrid | Oct 05 |
+| ↳ | **[Systems Engineering Intern](https://jobright.ai/jobs/info/68e220aeb99ec3563b0da531?utm_campaign=1048&utm_source=git)** | Portland, OR US | Hybrid | Oct 05 |
+| **[EmbodyX](https://www.embodyx.io)** | **[VLA Engineer Intern (Unpaid)](https://jobright.ai/jobs/info/68e221d61852e62f007f5fe4?utm_campaign=1048&utm_source=git)** | Belmont, CA | On Site | Oct 04 |
 | **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Manufacturing Engineer Intern](https://jobright.ai/jobs/info/68e1f754b99ec3563b0d9532?utm_campaign=1048&utm_source=git)** | Cleveland, NC US | On Site | Oct 04 |
 | ↳ | **[IT Developer Analyst Intern](https://jobright.ai/jobs/info/68e1f74db99ec3563b0d952d?utm_campaign=1048&utm_source=git)** | Gastonia, NC US | On Site | Oct 04 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Electrical Systems Intern - Ditch Witch](https://jobright.ai/jobs/info/68e1f6c7b99ec3563b0d93cb?utm_campaign=1048&utm_source=git)** | Noble County, OK | On Site | Oct 04 |
@@ -68,13 +75,13 @@ For a complete list, click the following sortable link below:
 | **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Civil Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68e1ce261852e62f007f38b5?utm_campaign=1048&utm_source=git)** | Rapid City, SD | On Site | Oct 04 |
 | **[Kuraray America, Inc.](https://www.kuraray.us.com)** | **[Environmental Intern (HSES), Summer 2026](https://jobright.ai/jobs/info/68e1c004b99ec3563b0d7f8e?utm_campaign=1048&utm_source=git)** | Pasadena,TX,US | On Site | Oct 04 |
 | **[Flagship Pioneering](http://flagshippioneering.com)** | **[Intern, Physical Sciences Team - Flow Chemistry](https://jobright.ai/jobs/info/68da7c740b832179ca4ade21?utm_campaign=1048&utm_source=git)** | Cambridge, MA USA | On Site | Oct 04 |
+| **[Skyworks LLC](http://skyworksllc.com)** | **[Systems Engineer Winter/Spring Co-Op (Jan '26 - June '26)](https://jobright.ai/jobs/info/68e21d55b99ec3563b0da318?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Oct 04 |
 | **[Airbuild Inc](https://www.airbuildinc.com)** | **[Wastewater Engineering Intern](https://jobright.ai/jobs/info/68e1a7adb99ec3563b0d7d79?utm_campaign=1048&utm_source=git)** | United States | Remote | Oct 04 |
 | **[Skild AI](https://www.skild.ai)** | **[Machine Learning Intern](https://jobright.ai/jobs/info/68e1a26f1852e62f007f3450?utm_campaign=1048&utm_source=git)** | San Mateo, Pittsburgh | On Site | Oct 04 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship (2025/2026) / West Chicago, IL](https://jobright.ai/jobs/info/68e19aabb99ec3563b0d7c72?utm_campaign=1048&utm_source=git)** | West Chicago, IL | On Site | Oct 04 |
 | ↳ | **[Arborist Trainee Internship (2025/2026) / Near North Shore (Wheeling), IL](https://jobright.ai/jobs/info/68e19a9fb99ec3563b0d7c6f?utm_campaign=1048&utm_source=git)** | Wheeling, IL | On Site | Oct 04 |
 | ↳ | **[Arborist Trainee Internship (2025/2026) / Naperville, IL](https://jobright.ai/jobs/info/68e198dd1852e62f007f33a4?utm_campaign=1048&utm_source=git)** | Naperville, IL | On Site | Oct 04 |
 | ↳ | **[Arborist Trainee Internship (2025/2026) / East Dundee, IL](https://jobright.ai/jobs/info/68e198d91852e62f007f33a3?utm_campaign=1048&utm_source=git)** | Dundee, IL | On Site | Oct 04 |
-| **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[Innovation Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68e1965df758fe1f97e55a6f?utm_campaign=1048&utm_source=git)** | Detroit, MI | On Site | Oct 04 |
 | **[Skild AI](https://www.skild.ai)** | **[Machine Learning Intern](https://jobright.ai/jobs/info/68e19326f758fe1f97e55a14?utm_campaign=1048&utm_source=git)** | San Mateo, CA | On Site | Oct 04 |
 | **[General Infomatics, Inc. (GI)](https://www.generalinfomatics.com)** | **[STEM - Paid Internship Opportunity Supporting the DoD TRMCi (Summer 2026) - Electronic Proving Ground (EPG), AZ](https://jobright.ai/jobs/info/68e190b3b99ec3563b0d7b8e?utm_campaign=1048&utm_source=git)** | Prescott, AZ | On Site | Oct 04 |
 | ↳ | **[STEM - Paid Internship Opportunity Supporting the DoD TRMCi (Summer 2026) - JITC- Ft. Meade, MD](https://jobright.ai/jobs/info/68e18df41852e62f007f30ee?utm_campaign=1048&utm_source=git)** | Fort George G. Meade, MD | On Site | Oct 04 |
@@ -85,7 +92,6 @@ For a complete list, click the following sortable link below:
 | **[Passaic Valley Sewerage Commission](http://www.nj.gov/pvsc)** | **[Process Control Engineering and Regulatory Compliance Intern](https://jobright.ai/jobs/info/68e186edf758fe1f97e55641?utm_campaign=1048&utm_source=git)** | Newark, NJ | On Site | Oct 04 |
 | **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[Industrial Engineering Intern (BPE) - Summer 2026](https://jobright.ai/jobs/info/68e185e21852e62f007f2f18?utm_campaign=1048&utm_source=git)** | Detroit, MI | On Site | Oct 04 |
 | **[General Infomatics, Inc. (GI)](https://www.generalinfomatics.com)** | **[STEM - Paid Internship Opportunity Supporting the DoD TRMCi (Summer 2026) - Holloman AFB – NM](https://jobright.ai/jobs/info/68e182eff758fe1f97e55550?utm_campaign=1048&utm_source=git)** | Holloman Air Force Base, NM | On Site | Oct 04 |
-| **[Haleon](http://www.haleon.com/)** | **[2026 Co-Op: Assistant Microbiologist (12 months, January 2026 start)](https://jobright.ai/jobs/info/68e182d2b99ec3563b0d76c8?utm_campaign=1048&utm_source=git)** | Richmond, VA | On Site | Oct 04 |
 | **[Align Communications & Creative](https://www.linkedin.com/company/7601299)** | **[Part Time - Fall Intern (Data Center)](https://jobright.ai/jobs/info/68e182cab99ec3563b0d76c4?utm_campaign=1048&utm_source=git)** | Spartanburg, SC | On Site | Oct 04 |
 | **[Sanofi](https://www.sanofi.com)** | **[Medicinal Chemistry, Integrated Drug Discovery Summer 2026 Intern](https://jobright.ai/jobs/info/68e1822e1852e62f007f2ea2?utm_campaign=1048&utm_source=git)** | Cambridge, MA | On Site | Oct 04 |
 | ↳ | **[2026 Summer Intern – FFIP Business Systems](https://jobright.ai/jobs/info/68e181e91852e62f007f2e73?utm_campaign=1048&utm_source=git)** | Swiftwater, PA | On Site | Oct 04 |
@@ -113,8 +119,8 @@ For a complete list, click the following sortable link below:
 | **[Black & Veatch](http://bv.com/Home)** | **[Electrical Engineer Intern - Substation](https://jobright.ai/jobs/info/68e14a131852e62f007f26fb?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Oct 04 |
 | ↳ | **[Electrical Engineer Intern - Substation](https://jobright.ai/jobs/info/68e149f8f758fe1f97e54e26?utm_campaign=1048&utm_source=git)** | Tualatin, OR | Hybrid | Oct 04 |
 | **[Structonix](structonix.us)** | **[Electrical Engineering Intern - IT](https://jobright.ai/jobs/info/68e149e61852e62f007f26e3?utm_campaign=1048&utm_source=git)** | Pennsylvania, United States | Remote | Oct 04 |
-| **[Black & Veatch](http://bv.com/Home)** | **[Electrical Engineer Intern - Underground T-Line](https://jobright.ai/jobs/info/68e149c01852e62f007f26cb?utm_campaign=1048&utm_source=git)** | Tualatin, OR | Hybrid | Oct 04 |
-| ↳ | **[Electrical Engineer Intern - Underground T-Line](https://jobright.ai/jobs/info/68e149c01852e62f007f26cc?utm_campaign=1048&utm_source=git)** | Overland Park, KS | Hybrid | Oct 04 |
+| **[Black & Veatch](http://bv.com/Home)** | **[Electrical Engineer Intern - Underground T-Line](https://jobright.ai/jobs/info/68e149c01852e62f007f26cc?utm_campaign=1048&utm_source=git)** | Overland Park, KS | Hybrid | Oct 04 |
+| ↳ | **[Electrical Engineer Intern - Underground T-Line](https://jobright.ai/jobs/info/68e149c01852e62f007f26cb?utm_campaign=1048&utm_source=git)** | Tualatin, OR | Hybrid | Oct 04 |
 | ↳ | **[Electrical Engineer Intern - Substation](https://jobright.ai/jobs/info/68e149aa1852e62f007f26c1?utm_campaign=1048&utm_source=git)** | Denver, CO | Hybrid | Oct 04 |
 | ↳ | **[Electrical Engineer Intern - Water & Wastewater](https://jobright.ai/jobs/info/68e1499d1852e62f007f26b6?utm_campaign=1048&utm_source=git)** | Cary, NC | Hybrid | Oct 04 |
 | ↳ | **[Electrical Engineer Intern - Substation](https://jobright.ai/jobs/info/68e149761852e62f007f269f?utm_campaign=1048&utm_source=git)** | Chattanooga, TN | Hybrid | Oct 04 |
@@ -138,8 +144,8 @@ For a complete list, click the following sortable link below:
 | **[Cushing Terrell](https://cushingterrell.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/68e127361852e62f007f1eb4?utm_campaign=1048&utm_source=git)** | Bozeman, MT | On Site | Oct 04 |
 | ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/68e127301852e62f007f1ea7?utm_campaign=1048&utm_source=git)** | Missoula, MT | On Site | Oct 04 |
 | ↳ | **[Mechanical Intern](https://jobright.ai/jobs/info/68e126d31852e62f007f1da5?utm_campaign=1048&utm_source=git)** | Great Falls, MT | On Site | Oct 04 |
-| ↳ | **[Mechanical Intern](https://jobright.ai/jobs/info/68e1256cf758fe1f97e541c5?utm_campaign=1048&utm_source=git)** | Kalispell, MT | On Site | Oct 04 |
 | ↳ | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/68e1256cf758fe1f97e541c6?utm_campaign=1048&utm_source=git)** | Boise, ID | On Site | Oct 04 |
+| ↳ | **[Mechanical Intern](https://jobright.ai/jobs/info/68e1256cf758fe1f97e541c5?utm_campaign=1048&utm_source=git)** | Kalispell, MT | On Site | Oct 04 |
 | ↳ | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/68e1255a1852e62f007f1a04?utm_campaign=1048&utm_source=git)** | Missoula, MT | On Site | Oct 04 |
 | ↳ | **[Fire Protection Intern](https://jobright.ai/jobs/info/68e12527f758fe1f97e54160?utm_campaign=1048&utm_source=git)** | Helena, MT | On Site | Oct 04 |
 | ↳ | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/68e12514f758fe1f97e54155?utm_campaign=1048&utm_source=git)** | Billings, MT | On Site | Oct 04 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Commissioning Intern](https://jobright.ai/jobs/info/68e1220eb99ec3563b0d61b6?utm_campaign=1048&utm_source=git)** | Billings, MT | On Site | Oct 04 |
 | ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/68e121e2b99ec3563b0d617b?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Oct 04 |
 | **[Jacobs](http://www.jacobs.com)** | **[Health, Safety, and Environmental (HSE) Field Intern - Summer 2026](https://jobright.ai/jobs/info/68cd32301ad6b16f02896575?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Oct 04 |
-| ↳ | **[Health, Safety, and Environmental (HSE) Field Intern - Summer 2026](https://jobright.ai/jobs/info/68c4660e14bb275ce0192fa2?utm_campaign=1048&utm_source=git)** | Conshohocken, PA | On Site | Oct 04 |
-| ↳ | **[Health, Safety, and Environmental (HSE) Field Intern - Summer 2026](https://jobright.ai/jobs/info/68c779ebdb52c07d2884aed2?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Oct 04 |
-| ↳ | **[Mechanical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68c4b10c7279451d6a036d35?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | Oct 04 |
-| **[Foley Power Solutions](https://foleypowersolutions.com)** | **[Intern Technician - Park City Seasonal](https://jobright.ai/jobs/info/68e11ba11852e62f007f15e4?utm_campaign=1048&utm_source=git)** | Park City, KS | On Site | Oct 04 |
-| **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[2026 Mechanical Engineering Intern](https://jobright.ai/jobs/info/68e11b5ef758fe1f97e53d0c?utm_campaign=1048&utm_source=git)** | Lancaster, PA | Remote | Oct 04 |
-| **[C.H. Robinson](http://www.chrobinson.com)** | **[Summer Internship 2026 - Security](https://jobright.ai/jobs/info/68e11b20f758fe1f97e53cec?utm_campaign=1048&utm_source=git)** | Eden Prairie, MN | Remote | Oct 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
