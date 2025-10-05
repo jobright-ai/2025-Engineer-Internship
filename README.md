@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Manufacturing Engineer Intern](https://jobright.ai/jobs/info/68e240bab99ec3563b0dbfce?utm_campaign=1048&utm_source=git)** | Cleveland, NC | Hybrid | Oct 05 |
+| ↳ | **[Mechanical Product Design Engineering Intern](https://jobright.ai/jobs/info/68e2349ff758fe1f97e598ae?utm_campaign=1048&utm_source=git)** | Portland, OR | Hybrid | Oct 05 |
+| ↳ | **[Mechanical Product Validation Engineering Intern](https://jobright.ai/jobs/info/68e23423f758fe1f97e59804?utm_campaign=1048&utm_source=git)** | Portland, OR | Hybrid | Oct 05 |
+| **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[Plastics Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68e233b91852e62f007f7202?utm_campaign=1048&utm_source=git)** | Detroit, MI | On Site | Oct 05 |
+| **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[AI Documentation Integration Intern – Autonomous Cascadia](https://jobright.ai/jobs/info/68e233afb99ec3563b0dba02?utm_campaign=1048&utm_source=git)** | Portland, OR | Hybrid | Oct 05 |
+| ↳ | **[Systems Engineering Intern](https://jobright.ai/jobs/info/68e233601852e62f007f7196?utm_campaign=1048&utm_source=git)** | Portland, OR | Hybrid | Oct 05 |
+| ↳ | **[IT Developer Analyst Intern](https://jobright.ai/jobs/info/68e232bfb99ec3563b0db8f7?utm_campaign=1048&utm_source=git)** | Gastonia, NC | Hybrid | Oct 05 |
+| ↳ | **[Powertrain Software Validation Intern](https://jobright.ai/jobs/info/68e232bdf758fe1f97e596cc?utm_campaign=1048&utm_source=git)** | Portland, OR | Hybrid | Oct 05 |
+| **[The Whiting-Turner Contracting Company](http://www.whiting-turner.com/)** | **[Construction Intern](https://jobright.ai/jobs/info/68e232701852e62f007f7080?utm_campaign=1048&utm_source=git)** | Joppa, MD | On Site | Oct 05 |
+| **[Haleon](http://www.haleon.com/)** | **[2026 Co-Op: Packaging Operations (6 months, January 2026 start)](https://jobright.ai/jobs/info/68e22e54f758fe1f97e5940b?utm_campaign=1048&utm_source=git)** | Oak Hill, NY | On Site | Oct 05 |
 | **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Process Improvement Specialist Intern](https://jobright.ai/jobs/info/68e222811852e62f007f62bd?utm_campaign=1048&utm_source=git)** | Portland, OR US | Hybrid | Oct 05 |
 | ↳ | **[Mechanical Product Design Engineering Intern](https://jobright.ai/jobs/info/68e221dd1852e62f007f5ff9?utm_campaign=1048&utm_source=git)** | Portland, OR US | Hybrid | Oct 05 |
 | ↳ | **[Powertrain Software Validation Intern](https://jobright.ai/jobs/info/68e221c9f758fe1f97e585be?utm_campaign=1048&utm_source=git)** | Portland, OR US | Hybrid | Oct 05 |
@@ -110,6 +120,10 @@ For a complete list, click the following sortable link below:
 | **[Blount Fine Foods](http://blountfinefoods.com)** | **[Continuous Improvement Intern](https://jobright.ai/jobs/info/68e15650f758fe1f97e54fe8?utm_campaign=1048&utm_source=git)** | McKinney, TX | On Site | Oct 04 |
 | **[AMETEK Engineered Medical Components (EMC)](https://www.ametekemc.com)** | **[Intern - Imaging Application Engineer](https://jobright.ai/jobs/info/68e152811852e62f007f286e?utm_campaign=1048&utm_source=git)** | Wayne, NJ | On Site | Oct 04 |
 | **[NorthWestern Energy](http://northwesternenergy.com)** | **[Hydro Safety Intern](https://jobright.ai/jobs/info/68e1f17e1852e62f007f48dc?utm_campaign=1048&utm_source=git)** | Helena, MT | On Site | Oct 04 |
+| ↳ | **[Safety Intern](https://jobright.ai/jobs/info/68e22e54f758fe1f97e5940e?utm_campaign=1048&utm_source=git)** | Butte, MT | On Site | Oct 04 |
+| ↳ | **[Hydro Safety Intern](https://jobright.ai/jobs/info/68e227e91852e62f007f677e?utm_campaign=1048&utm_source=git)** | Butte, MT | On Site | Oct 04 |
+| ↳ | **[Safety Intern](https://jobright.ai/jobs/info/68e228281852e62f007f6827?utm_campaign=1048&utm_source=git)** | Helena, MT | On Site | Oct 04 |
+| ↳ | **[Hydro Safety Intern](https://jobright.ai/jobs/info/68e2370a1852e62f007f7346?utm_campaign=1048&utm_source=git)** | Great Falls, MT | On Site | Oct 04 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 CMC Biologics Drug Substance (PhD) Intern (Cell Culture Development)](https://jobright.ai/jobs/info/68e14aa41852e62f007f2752?utm_campaign=1048&utm_source=git)** | South San Francisco, CA | Hybrid | Oct 04 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Electrical Engineer Intern - Substation](https://jobright.ai/jobs/info/68e14a981852e62f007f274b?utm_campaign=1048&utm_source=git)** | Walnut Creek, CA | Hybrid | Oct 04 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 BioCMC (Chemistry, Manufacturing, and Control) Drug Substance Intern (Master's)](https://jobright.ai/jobs/info/68e14a4d1852e62f007f271b?utm_campaign=1048&utm_source=git)** | South San Francisco, CA | On Site | Oct 04 |
@@ -118,9 +132,8 @@ For a complete list, click the following sortable link below:
 | **[Nutanix](http://www.nutanix.com)** | **[Systems Reliability Engineer Intern, San Jose, CA (Summer 2026 - Local Undergraduates Only)](https://jobright.ai/jobs/info/68e14a15f758fe1f97e54e32?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Oct 04 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Electrical Engineer Intern - Substation](https://jobright.ai/jobs/info/68e14a131852e62f007f26fb?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Oct 04 |
 | ↳ | **[Electrical Engineer Intern - Substation](https://jobright.ai/jobs/info/68e149f8f758fe1f97e54e26?utm_campaign=1048&utm_source=git)** | Tualatin, OR | Hybrid | Oct 04 |
-| **[Structonix](structonix.us)** | **[Electrical Engineering Intern - IT](https://jobright.ai/jobs/info/68e149e61852e62f007f26e3?utm_campaign=1048&utm_source=git)** | Pennsylvania, United States | Remote | Oct 04 |
-| **[Black & Veatch](http://bv.com/Home)** | **[Electrical Engineer Intern - Underground T-Line](https://jobright.ai/jobs/info/68e149c01852e62f007f26cc?utm_campaign=1048&utm_source=git)** | Overland Park, KS | Hybrid | Oct 04 |
 | ↳ | **[Electrical Engineer Intern - Underground T-Line](https://jobright.ai/jobs/info/68e149c01852e62f007f26cb?utm_campaign=1048&utm_source=git)** | Tualatin, OR | Hybrid | Oct 04 |
+| ↳ | **[Electrical Engineer Intern - Underground T-Line](https://jobright.ai/jobs/info/68e149c01852e62f007f26cc?utm_campaign=1048&utm_source=git)** | Overland Park, KS | Hybrid | Oct 04 |
 | ↳ | **[Electrical Engineer Intern - Substation](https://jobright.ai/jobs/info/68e149aa1852e62f007f26c1?utm_campaign=1048&utm_source=git)** | Denver, CO | Hybrid | Oct 04 |
 | ↳ | **[Electrical Engineer Intern - Water & Wastewater](https://jobright.ai/jobs/info/68e1499d1852e62f007f26b6?utm_campaign=1048&utm_source=git)** | Cary, NC | Hybrid | Oct 04 |
 | ↳ | **[Electrical Engineer Intern - Substation](https://jobright.ai/jobs/info/68e149761852e62f007f269f?utm_campaign=1048&utm_source=git)** | Chattanooga, TN | Hybrid | Oct 04 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cushing Terrell](https://cushingterrell.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/68e127361852e62f007f1eb4?utm_campaign=1048&utm_source=git)** | Bozeman, MT | On Site | Oct 04 |
 | ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/68e127301852e62f007f1ea7?utm_campaign=1048&utm_source=git)** | Missoula, MT | On Site | Oct 04 |
 | ↳ | **[Mechanical Intern](https://jobright.ai/jobs/info/68e126d31852e62f007f1da5?utm_campaign=1048&utm_source=git)** | Great Falls, MT | On Site | Oct 04 |
-| ↳ | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/68e1256cf758fe1f97e541c6?utm_campaign=1048&utm_source=git)** | Boise, ID | On Site | Oct 04 |
-| ↳ | **[Mechanical Intern](https://jobright.ai/jobs/info/68e1256cf758fe1f97e541c5?utm_campaign=1048&utm_source=git)** | Kalispell, MT | On Site | Oct 04 |
-| ↳ | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/68e1255a1852e62f007f1a04?utm_campaign=1048&utm_source=git)** | Missoula, MT | On Site | Oct 04 |
-| ↳ | **[Fire Protection Intern](https://jobright.ai/jobs/info/68e12527f758fe1f97e54160?utm_campaign=1048&utm_source=git)** | Helena, MT | On Site | Oct 04 |
-| ↳ | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/68e12514f758fe1f97e54155?utm_campaign=1048&utm_source=git)** | Billings, MT | On Site | Oct 04 |
-| ↳ | **[Land Surveyor Technician Intern](https://jobright.ai/jobs/info/68e124b5f758fe1f97e540df?utm_campaign=1048&utm_source=git)** | Missoula, MT | On Site | Oct 04 |
-| ↳ | **[Mechanical Intern](https://jobright.ai/jobs/info/68e12481f758fe1f97e540a8?utm_campaign=1048&utm_source=git)** | Helena, MT | On Site | Oct 04 |
-| ↳ | **[Alternative Energy Intern](https://jobright.ai/jobs/info/68e12310b99ec3563b0d62df?utm_campaign=1048&utm_source=git)** | Missoula, MT | On Site | Oct 04 |
-| ↳ | **[Medium Voltage/Distribution Electrical Engineering Intern](https://jobright.ai/jobs/info/68e12305b99ec3563b0d62d8?utm_campaign=1048&utm_source=git)** | Billings, MT | On Site | Oct 04 |
-| ↳ | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/68e122dab99ec3563b0d6298?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Oct 04 |
-| ↳ | **[Commissioning Intern](https://jobright.ai/jobs/info/68e1220eb99ec3563b0d61b6?utm_campaign=1048&utm_source=git)** | Billings, MT | On Site | Oct 04 |
-| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/68e121e2b99ec3563b0d617b?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Oct 04 |
-| **[Jacobs](http://www.jacobs.com)** | **[Health, Safety, and Environmental (HSE) Field Intern - Summer 2026](https://jobright.ai/jobs/info/68cd32301ad6b16f02896575?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Oct 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
