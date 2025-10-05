@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Foley Power Solutions](https://foleypowersolutions.com)** | **[Intern Technician - Park City Seasonal](https://jobright.ai/jobs/info/68e26477b99ec3563b0dc364?utm_campaign=1048&utm_source=git)** | Park City, KS | On Site | Oct 05 |
+| **[OHM Advisors](http://ohm-advisors.com)** | **[Civil Engineering Intern (Hiring for May 2026) - Michigan](https://jobright.ai/jobs/info/68a8c071d627244576e35431?utm_campaign=1048&utm_source=git)** | Auburn Hills, MI | On Site | Oct 05 |
 | **[MacLean-Fogg Company](https://macleanfogg.com)** | **[Engineering - Manufacturing Management Program (July 2026)](https://jobright.ai/jobs/info/68e25cc1b99ec3563b0dc2f5?utm_campaign=1048&utm_source=git)** | Mundelein, IL | On Site | Oct 05 |
 | **[Meta](https://www.meta.com)** | **[Research Scientist Intern, Haptic Research (PhD)](https://jobright.ai/jobs/info/68e25714f758fe1f97e5a113?utm_campaign=1048&utm_source=git)** | Redmond, WA | On Site | Oct 05 |
 | ↳ | **[Research Scientist Intern, Smart Glasses in Wearables AI (PhD)](https://jobright.ai/jobs/info/68e1ed89b99ec3563b0d8f33?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Oct 05 |
@@ -67,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Industrial Engineering Intern- Summer 2026- Smyrna, TN](https://jobright.ai/jobs/info/68e24c5b1852e62f007f7972?utm_campaign=1048&utm_source=git)** | Smyrna, TN | On Site | Oct 05 |
 | **[Dover Food Retail](https://www.dovercorporation.com/our-markets/refrigeration-and-food-equipment/)** | **[Intern, Product Engineer](https://jobright.ai/jobs/info/68e24bf81852e62f007f7951?utm_campaign=1048&utm_source=git)** | Conyers, GA | On Site | Oct 05 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Corporate Security Intern- Summer 2026- Franklin, TN](https://jobright.ai/jobs/info/68e24892f758fe1f97e59f6a?utm_campaign=1048&utm_source=git)** | Franklin, TN | On Site | Oct 05 |
-| **[Central Contra Costa Sanitary District](https://www.centralsan.org/)** | **[STUDENT INTERNS - ENGINEERING](https://jobright.ai/jobs/info/68e24883f758fe1f97e59f63?utm_campaign=1048&utm_source=git)** | Martinez, CA | On Site | Oct 05 |
 | **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Manufacturing Engineer Intern](https://jobright.ai/jobs/info/68e240bab99ec3563b0dbfce?utm_campaign=1048&utm_source=git)** | Cleveland, NC | Hybrid | Oct 05 |
 | ↳ | **[Mechanical Product Design Engineering Intern](https://jobright.ai/jobs/info/68e2349ff758fe1f97e598ae?utm_campaign=1048&utm_source=git)** | Portland, OR | Hybrid | Oct 05 |
 | ↳ | **[Mechanical Product Validation Engineering Intern](https://jobright.ai/jobs/info/68e23423f758fe1f97e59804?utm_campaign=1048&utm_source=git)** | Portland, OR | Hybrid | Oct 05 |
@@ -120,17 +121,14 @@ For a complete list, click the following sortable link below:
 | **[LEVITON MANUFACTURING](https://www.linkedin.com/company/9602682)** | **[Intern, Tooling](https://jobright.ai/jobs/info/68e180ed1852e62f007f2da4?utm_campaign=1048&utm_source=git)** | West Jefferson, NC | On Site | Oct 04 |
 | **[Sanofi](https://www.sanofi.com)** | **[Summer or Fall 2026 Co-op_Intern - Global Market Access, Immunology](https://jobright.ai/jobs/info/68e17ec1b99ec3563b0d7641?utm_campaign=1048&utm_source=git)** | Cambridge, MA | On Site | Oct 04 |
 | **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[2026 Mechanical Engineering Intern](https://jobright.ai/jobs/info/68e175b4f758fe1f97e5532e?utm_campaign=1048&utm_source=git)** | Hilliard, OH | Remote | Oct 04 |
-| **[MechNova](mechnova.us)** | **[Industrial Engineering Intern](https://jobright.ai/jobs/info/68e17574f758fe1f97e55318?utm_campaign=1048&utm_source=git)** | Waller County, TX | Remote | Oct 04 |
 | **[2IM Group, LLC](https://www.2imgroup.com)** | **[Vegetation Management & Restoration Ecology Intern](https://jobright.ai/jobs/info/68e175321852e62f007f2c00?utm_campaign=1048&utm_source=git)** | Greater Chicago Area | On Site | Oct 04 |
 | **[Stanley Martin Homes](http://stanleymartin.com)** | **[Construction Intern](https://jobright.ai/jobs/info/68e174f11852e62f007f2be6?utm_campaign=1048&utm_source=git)** | Chantilly, VA | On Site | Oct 04 |
-| **[Meridian Forge](https://www.linkedin.com/company/108612717)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/68e174921852e62f007f2bc6?utm_campaign=1048&utm_source=git)** | Lancaster, PA | Remote | Oct 04 |
 | **[Informuta](https://informuta.com)** | **[Laboratory Intern](https://jobright.ai/jobs/info/68e172f3b99ec3563b0d7496?utm_campaign=1048&utm_source=git)** | New Orleans, LA | On Site | Oct 04 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Energy/Security Technician](https://jobright.ai/jobs/info/68e15e75b99ec3563b0d726d?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Oct 04 |
 | **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Student Intern - Architecture Co-Op](https://jobright.ai/jobs/info/68e15657f758fe1f97e54ff0?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Oct 04 |
 | **[Blount Fine Foods](http://blountfinefoods.com)** | **[Continuous Improvement Intern](https://jobright.ai/jobs/info/68e15650f758fe1f97e54fe8?utm_campaign=1048&utm_source=git)** | McKinney, TX | On Site | Oct 04 |
-| **[AMETEK Engineered Medical Components (EMC)](https://www.ametekemc.com)** | **[Intern - Imaging Application Engineer](https://jobright.ai/jobs/info/68e152811852e62f007f286e?utm_campaign=1048&utm_source=git)** | Wayne, NJ | On Site | Oct 04 |
-| **[NorthWestern Energy](http://northwesternenergy.com)** | **[Hydro Safety Intern](https://jobright.ai/jobs/info/68e1f17e1852e62f007f48dc?utm_campaign=1048&utm_source=git)** | Helena, MT | On Site | Oct 04 |
-| ↳ | **[Safety Intern](https://jobright.ai/jobs/info/68e22e54f758fe1f97e5940e?utm_campaign=1048&utm_source=git)** | Butte, MT | On Site | Oct 04 |
+| **[AMETEK Paragon Medical](https://www.ametekemc.com)** | **[Intern - Imaging Application Engineer](https://jobright.ai/jobs/info/68e152811852e62f007f286e?utm_campaign=1048&utm_source=git)** | Wayne, NJ | On Site | Oct 04 |
+| **[NorthWestern Energy](http://northwesternenergy.com)** | **[Safety Intern](https://jobright.ai/jobs/info/68e22e54f758fe1f97e5940e?utm_campaign=1048&utm_source=git)** | Butte, MT | On Site | Oct 04 |
 | ↳ | **[Hydro Safety Intern](https://jobright.ai/jobs/info/68e227e91852e62f007f677e?utm_campaign=1048&utm_source=git)** | Butte, MT | On Site | Oct 04 |
 | ↳ | **[Safety Intern](https://jobright.ai/jobs/info/68e228281852e62f007f6827?utm_campaign=1048&utm_source=git)** | Helena, MT | On Site | Oct 04 |
 | ↳ | **[Hydro Safety Intern](https://jobright.ai/jobs/info/68e2370a1852e62f007f7346?utm_campaign=1048&utm_source=git)** | Great Falls, MT | On Site | Oct 04 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Electrical Engineer Intern - Substation](https://jobright.ai/jobs/info/68e1489cb99ec3563b0d6fc0?utm_campaign=1048&utm_source=git)** | Ann Arbor, MI | Hybrid | Oct 04 |
 | **[Northmere Solutions](https://www.linkedin.com/company/104898627)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/68e146041852e62f007f260f?utm_campaign=1048&utm_source=git)** | Pennsylvania, United States | Remote | Oct 04 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[2026 IT Engineer paid intern (Jan and May hires)](https://jobright.ai/jobs/info/68e14064b99ec3563b0d6e58?utm_campaign=1048&utm_source=git)** | Riverton, UT | Hybrid | Oct 04 |
+| **[Black & Veatch](http://bv.com/Home)** | **[Electrical Engineer Intern - Substation](https://jobright.ai/jobs/info/68e13a0bb99ec3563b0d6ce9?utm_campaign=1048&utm_source=git)** | Overland Park, KS | Hybrid | Oct 04 |
+| **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Internship Program: Engineering Technology - Power Electronics](https://jobright.ai/jobs/info/68e1303e1852e62f007f2041?utm_campaign=1048&utm_source=git)** | Torrance, CA | On Site | Oct 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
