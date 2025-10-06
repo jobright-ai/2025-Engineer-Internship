@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[Solution Engineering Internships](https://jobright.ai/jobs/info/68e2f014b99ec3563b0dd274?utm_campaign=1048&utm_source=git)** | Washington, DC | Remote | Oct 05 |
 | **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[Innovation Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68e2e986f758fe1f97e5b05c?utm_campaign=1048&utm_source=git)** | Detroit, MI | On Site | Oct 05 |
 | **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Russia Research Program Internship Spring 2026](https://jobright.ai/jobs/info/68e2d6ddf758fe1f97e5aeca?utm_campaign=1048&utm_source=git)** | Washington, DC | On Site | Oct 05 |
 | **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Structural Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68e2d034f758fe1f97e5ae2a?utm_campaign=1048&utm_source=git)** | Fargo, ND | On Site | Oct 05 |
@@ -71,7 +72,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student Assistant](https://jobright.ai/jobs/info/68e2aecbb99ec3563b0dcb1a?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | Oct 05 |
 | **[Pinnova](https://www.linkedin.com/company/87987033)** | **[2026 Mechanical Engineering Intern](https://jobright.ai/jobs/info/68e2a8c61852e62f007f830c?utm_campaign=1048&utm_source=git)** | Lancaster, PA | Remote | Oct 05 |
 | **[Meridian Forge](https://www.linkedin.com/company/108612717)** | **[2026 Electrical Engineering Intern](https://jobright.ai/jobs/info/68e2a5c8b99ec3563b0dcab7?utm_campaign=1048&utm_source=git)** | Lancaster, PA | Remote | Oct 05 |
-| **[Ferrovias](ferrovias.us)** | **[Industrial Engineering Intern](https://jobright.ai/jobs/info/68e2a1c9f758fe1f97e5a8a1?utm_campaign=1048&utm_source=git)** | Waller, TX | Remote | Oct 05 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Process Chemistry Intern (PhD)](https://jobright.ai/jobs/info/68e29ad9f758fe1f97e5a831?utm_campaign=1048&utm_source=git)** | North Chicago, IL | On Site | Oct 05 |
 | ↳ | **[2026 Biologics Drug Product Development Intern (PhD)](https://jobright.ai/jobs/info/68e28d6ab99ec3563b0dc84b?utm_campaign=1048&utm_source=git)** | South San Francisco, CA | On Site | Oct 05 |
 | ↳ | **[2026 Intern, Bioanalytical and Molecular Assays](https://jobright.ai/jobs/info/68e28d40b99ec3563b0dc837?utm_campaign=1048&utm_source=git)** | Norwood, MA | On Site | Oct 05 |
@@ -79,7 +79,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 R&D, Product & Process Development Engineering Intern](https://jobright.ai/jobs/info/68e289dbb99ec3563b0dc7f2?utm_campaign=1048&utm_source=git)** | Branchburg, NJ | On Site | Oct 05 |
 | ↳ | **[2026 Biologics Developability Intern (PhD)](https://jobright.ai/jobs/info/68e289cab99ec3563b0dc7e9?utm_campaign=1048&utm_source=git)** | Worcester, MA | On Site | Oct 05 |
 | ↳ | **[2026 BioCMC (Chemistry, Manufacturing, and Control) Drug Substance Intern (PhD)](https://jobright.ai/jobs/info/68e289a7f758fe1f97e5a6ac?utm_campaign=1048&utm_source=git)** | South San Francisco, CA | On Site | Oct 05 |
-| **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[Brewing and Manufacturing Internship](https://jobright.ai/jobs/info/68e282b0f758fe1f97e5a5c8?utm_campaign=1048&utm_source=git)** | Houston, TX | Remote | Oct 05 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Electronic Tech Intern (Orlando, FL)](https://jobright.ai/jobs/info/68cf64c2fb49c96ca6ea858d?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | Oct 05 |
 | **[Foley Power Solutions](https://foleypowersolutions.com)** | **[Intern Technician - Park City Seasonal](https://jobright.ai/jobs/info/68e26477b99ec3563b0dc364?utm_campaign=1048&utm_source=git)** | Park City, KS | On Site | Oct 05 |
 | **[OHM Advisors](http://ohm-advisors.com)** | **[Civil Engineering Intern (Hiring for May 2026) - Michigan](https://jobright.ai/jobs/info/68a8c071d627244576e35431?utm_campaign=1048&utm_source=git)** | Auburn Hills, MI | On Site | Oct 05 |
@@ -90,6 +89,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Offensive Security Engineer, Intern](https://jobright.ai/jobs/info/68e1fa45f758fe1f97e574ef?utm_campaign=1048&utm_source=git)** | Bellevue, WA | On Site | Oct 05 |
 | **[CHS Inc.](http://www.chsinc.com)** | **[Feed Intern](https://jobright.ai/jobs/info/68c8fc9a95f5211cd2cecbf9?utm_campaign=1048&utm_source=git)** | Minot, ND | On Site | Oct 05 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2026 Cybersecurity Undergraduate Internship](https://jobright.ai/jobs/info/68e25038f758fe1f97e5a09e?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Oct 05 |
+| **[Qualer, Now a MasterControl Company](https://qualer.com)** | **[DevOps Engineering Intern](https://jobright.ai/jobs/info/68e24f641852e62f007f79d2?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT | On Site | Oct 05 |
 | **[Meta](https://www.meta.com)** | **[Research Scientist Intern, Adaptive Experimentation (PhD)](https://jobright.ai/jobs/info/68e24f521852e62f007f79c3?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Oct 05 |
 | **[Terracon](https://www.terracon.com/about/foundation/)** | **[Terracon Summer Internship & Co-Op Program – Environmental](https://jobright.ai/jobs/info/68deb50a09bda65a4b62d22c?utm_campaign=1048&utm_source=git)** | Fort Collins, CO | On Site | Oct 05 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Industrial Engineering Intern- Summer 2026- Smyrna, TN](https://jobright.ai/jobs/info/68e24c5b1852e62f007f7972?utm_campaign=1048&utm_source=git)** | Smyrna, TN | On Site | Oct 05 |
@@ -145,6 +145,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer/Fall 2026 Co-op/Intern - RNA Bioinformatics Co-op - Vaccines](https://jobright.ai/jobs/info/68e181841852e62f007f2e28?utm_campaign=1048&utm_source=git)** | Waltham, MA | On Site | Oct 04 |
 | ↳ | **[Summer 2026 Intern - Global Clinical Immunology - Vaccine](https://jobright.ai/jobs/info/68e181151852e62f007f2dcd?utm_campaign=1048&utm_source=git)** | Swiftwater, PA | On Site | Oct 04 |
 | **[LEVITON MANUFACTURING](https://www.linkedin.com/company/9602682)** | **[Intern, Tooling](https://jobright.ai/jobs/info/68e180ed1852e62f007f2da4?utm_campaign=1048&utm_source=git)** | West Jefferson, NC | On Site | Oct 04 |
+| **[J.R. Simplot Company](http://www.simplot.com/)** | **[Field Operations Intern (West Idaho)](https://jobright.ai/jobs/info/68dd8c1244d32141e0bf7f54?utm_campaign=1048&utm_source=git)** | Caldwell, ID | On Site | Oct 04 |
 | **[Sanofi](https://www.sanofi.com)** | **[Summer or Fall 2026 Co-op_Intern - Global Market Access, Immunology](https://jobright.ai/jobs/info/68e17ec1b99ec3563b0d7641?utm_campaign=1048&utm_source=git)** | Cambridge, MA | On Site | Oct 04 |
 | **[2IM Group, LLC](https://www.2imgroup.com)** | **[Vegetation Management & Restoration Ecology Intern](https://jobright.ai/jobs/info/68e175321852e62f007f2c00?utm_campaign=1048&utm_source=git)** | Greater Chicago Area | On Site | Oct 04 |
 | **[Stanley Martin Homes](http://stanleymartin.com)** | **[Construction Intern](https://jobright.ai/jobs/info/68e174f11852e62f007f2be6?utm_campaign=1048&utm_source=git)** | Chantilly, VA | On Site | Oct 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Hydro Safety Intern](https://jobright.ai/jobs/info/68e227e91852e62f007f677e?utm_campaign=1048&utm_source=git)** | Butte, MT | On Site | Oct 04 |
 | ↳ | **[Safety Intern](https://jobright.ai/jobs/info/68e228281852e62f007f6827?utm_campaign=1048&utm_source=git)** | Helena, MT | On Site | Oct 04 |
 | ↳ | **[Hydro Safety Intern](https://jobright.ai/jobs/info/68e2370a1852e62f007f7346?utm_campaign=1048&utm_source=git)** | Great Falls, MT | On Site | Oct 04 |
-| **[BioSpace](http://www.biospace.com/)** | **[2026 CMC Biologics Drug Substance (PhD) Intern (Cell Culture Development)](https://jobright.ai/jobs/info/68e14aa41852e62f007f2752?utm_campaign=1048&utm_source=git)** | South San Francisco, CA | Hybrid | Oct 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
