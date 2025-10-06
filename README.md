@@ -57,6 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Exact Sciences](https://www.exactsciences.com)** | **[Software Engineer (Medical Informatics) - Intern](https://jobright.ai/jobs/info/68e37442b99ec3563b0e0755?utm_campaign=1048&utm_source=git)** | US - CA - San Diego | On Site | Oct 06 |
+| **[Print Magazine](http://www.printmag.com)** | **[Rendering & AI Visualization Intern](https://jobright.ai/jobs/info/68e36d2df758fe1f97e5dc63?utm_campaign=1048&utm_source=git)** | Austin, Texas Metropolitan Area | Remote | Oct 06 |
+| **[Boston Scientific](http://www.bostonscientific.com)** | **[Manufacturing Technician Intern 2026](https://jobright.ai/jobs/info/68e36c3fb99ec3563b0dfb8a?utm_campaign=1048&utm_source=git)** | United States |  N/A | On Site | Oct 06 |
+| **[ByEmployers.com](https://byemployers.com)** | **[Cyber Security Specialist](https://jobright.ai/jobs/info/68e36918f758fe1f97e5d943?utm_campaign=1048&utm_source=git)** | DC-Baltimore Area | On Site | Oct 06 |
+| **[Pella Corporation](http://www.pella.com)** | **[Plant Process Engineering Intern (Sioux Center) - Summer 2026](https://jobright.ai/jobs/info/68e36503f758fe1f97e5d681?utm_campaign=1048&utm_source=git)** | Sioux Center, IA | On Site | Oct 05 |
+| ↳ | **[Plant Process Engineering Intern (Gettysburg, PA) - Summer 2026](https://jobright.ai/jobs/info/68e361fab99ec3563b0df600?utm_campaign=1048&utm_source=git)** | Gettysburg, PA | On Site | Oct 05 |
+| **[Yates Construction](https://www.wgyates.com)** | **[INTERN](https://jobright.ai/jobs/info/68e361bdb99ec3563b0df599?utm_campaign=1048&utm_source=git)** | Las Vegas, NV | On Site | Oct 05 |
+| **[Pella Corporation](http://www.pella.com)** | **[Plant Process Engineering Intern (Carroll, IA) - Summer 2026](https://jobright.ai/jobs/info/68e360941852e62f007fad3b?utm_campaign=1048&utm_source=git)** | Carroll, IA | On Site | Oct 05 |
+| ↳ | **[Plant Process Engineering Intern (Shenandoah, IA) - Summer 2026](https://jobright.ai/jobs/info/68e360771852e62f007fad1a?utm_campaign=1048&utm_source=git)** | Shenandoah, IA | On Site | Oct 05 |
+| ↳ | **[Plant Process Engineering Intern (Pella, IA) - Summer 2026](https://jobright.ai/jobs/info/68e3606e1852e62f007fad08?utm_campaign=1048&utm_source=git)** | Pella, IA | On Site | Oct 05 |
+| ↳ | **[Plant Process Engineering Intern (Fort Worth, TX) - Summer 2026](https://jobright.ai/jobs/info/68e35dc7f758fe1f97e5d3bd?utm_campaign=1048&utm_source=git)** | Fort Worth, TX | On Site | Oct 05 |
+| ↳ | **[Plant Process Engineering Intern (Troy, OH) - Summer 2026](https://jobright.ai/jobs/info/68e35d38f758fe1f97e5d289?utm_campaign=1048&utm_source=git)** | Troy, OH | On Site | Oct 05 |
+| ↳ | **[Data Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/68e35d17f758fe1f97e5d252?utm_campaign=1048&utm_source=git)** | Pella, IA | On Site | Oct 05 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Corporate Engineering Intern](https://jobright.ai/jobs/info/68e35698f758fe1f97e5cedf?utm_campaign=1048&utm_source=git)** | US - WI - Madison | On Site | Oct 05 |
 | ↳ | **[LAS Calibration Lab Intern](https://jobright.ai/jobs/info/68e35669b99ec3563b0def3c?utm_campaign=1048&utm_source=git)** | US - WI - Madison | On Site | Oct 05 |
 | **[RTX](http://www.raytheon.com)** | **[Intern: Summer 2026 - Product Safety, Certification & Validation (Onsite)](https://jobright.ai/jobs/info/68e34900b99ec3563b0dea29?utm_campaign=1048&utm_source=git)** | PW109: West Palm Beach 17900 Beeline Highway, West Palm Beach, FL, 33410 USA | On Site | Oct 05 |
@@ -100,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[Storion Energy](https://storion.com/)** | **[Chemical Engineer Co-Op](https://jobright.ai/jobs/info/68e32d9ff758fe1f97e5b7ec?utm_campaign=1048&utm_source=git)** | Wilmington, MA | On Site | Oct 05 |
 | ↳ | **[Mechanical Engineer Co-Op](https://jobright.ai/jobs/info/68e32b1cb99ec3563b0dd7c0?utm_campaign=1048&utm_source=git)** | Wilmington, MA | On Site | Oct 05 |
 | **[Alliant Engineering, Inc.](http://alliant-inc.com)** | **[Civil Engineering Intern - Land Development](https://jobright.ai/jobs/info/68e323c2f758fe1f97e5b510?utm_campaign=1048&utm_source=git)** | Minneapolis, MN | On Site | Oct 05 |
-| **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[Innovation Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68e2e986f758fe1f97e5b05c?utm_campaign=1048&utm_source=git)** | Detroit, MI | On Site | Oct 05 |
 | **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Russia Research Program Internship Spring 2026](https://jobright.ai/jobs/info/68e2d6ddf758fe1f97e5aeca?utm_campaign=1048&utm_source=git)** | Washington, DC | On Site | Oct 05 |
 | **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Structural Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68e2d034f758fe1f97e5ae2a?utm_campaign=1048&utm_source=git)** | Fargo, ND | On Site | Oct 05 |
 | **[General Infomatics, Inc. (GI)](https://www.generalinfomatics.com)** | **[STEM - Paid Internship Opportunity Supporting the DoD TRMCi (Summer 2026) - Atlantic Undersea Test and Evaluation Center (AUTEC)](https://jobright.ai/jobs/info/68e2cf5ff758fe1f97e5ad8d?utm_campaign=1048&utm_source=git)** | West Palm Beach, FL | On Site | Oct 05 |
@@ -120,6 +132,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 BioCMC (Chemistry, Manufacturing, and Control) Drug Substance Intern (PhD)](https://jobright.ai/jobs/info/68e289a7f758fe1f97e5a6ac?utm_campaign=1048&utm_source=git)** | South San Francisco, CA | On Site | Oct 05 |
 | **[Web Management Consultants Ltd](https://www.webmanagementconsultants.co.uk)** | **[Production Intern](https://jobright.ai/jobs/info/68e33172f758fe1f97e5b9c2?utm_campaign=1048&utm_source=git)** | Lincoln, NE | Hybrid | Oct 05 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Electronic Tech Intern (Orlando, FL)](https://jobright.ai/jobs/info/68cf64c2fb49c96ca6ea858d?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | Oct 05 |
+| **[Swire Coca-Cola, USA](https://www.swirecc.com)** | **[Intern, Manufacturing Process Engineer](https://jobright.ai/jobs/info/68e35d7ff758fe1f97e5d331?utm_campaign=1048&utm_source=git)** | Fruitland, ID | On Site | Oct 05 |
 | **[OHM Advisors](http://ohm-advisors.com)** | **[Civil Engineering Intern (Hiring for May 2026) - Michigan](https://jobright.ai/jobs/info/68a8c071d627244576e35431?utm_campaign=1048&utm_source=git)** | Auburn Hills, MI | On Site | Oct 05 |
 | **[MacLean-Fogg Company](https://macleanfogg.com)** | **[Engineering - Manufacturing Management Program (July 2026)](https://jobright.ai/jobs/info/68e25cc1b99ec3563b0dc2f5?utm_campaign=1048&utm_source=git)** | Mundelein, IL | On Site | Oct 05 |
 | **[Meta](https://www.meta.com)** | **[Research Scientist Intern, Smart Glasses in Wearables AI (PhD)](https://jobright.ai/jobs/info/68e2087b1852e62f007f530b?utm_campaign=1048&utm_source=git)** | Menlo Park, CA | On Site | Oct 05 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IT Developer Analyst Intern](https://jobright.ai/jobs/info/68e232bfb99ec3563b0db8f7?utm_campaign=1048&utm_source=git)** | Gastonia, NC | Hybrid | Oct 05 |
 | ↳ | **[Powertrain Software Validation Intern](https://jobright.ai/jobs/info/68e232bdf758fe1f97e596cc?utm_campaign=1048&utm_source=git)** | Portland, OR | Hybrid | Oct 05 |
 | **[Haleon](http://www.haleon.com/)** | **[2026 Co-Op: Packaging Operations (6 months, January 2026 start)](https://jobright.ai/jobs/info/68e22e54f758fe1f97e5940b?utm_campaign=1048&utm_source=git)** | Oak Hill, NY | On Site | Oct 05 |
-| **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Process Improvement Specialist Intern](https://jobright.ai/jobs/info/68e222811852e62f007f62bd?utm_campaign=1048&utm_source=git)** | Portland, OR US | Hybrid | Oct 05 |
-| ↳ | **[Mechanical Product Design Engineering Intern](https://jobright.ai/jobs/info/68e221dd1852e62f007f5ff9?utm_campaign=1048&utm_source=git)** | Portland, OR US | Hybrid | Oct 05 |
-| ↳ | **[Powertrain Software Validation Intern](https://jobright.ai/jobs/info/68e221c9f758fe1f97e585be?utm_campaign=1048&utm_source=git)** | Portland, OR US | Hybrid | Oct 05 |
-| ↳ | **[AI Documentation Integration Intern – Autonomous Cascadia](https://jobright.ai/jobs/info/68e22137f758fe1f97e583af?utm_campaign=1048&utm_source=git)** | Portland, OR US | Hybrid | Oct 05 |
-| ↳ | **[Mechanical Product Validation Engineering Intern](https://jobright.ai/jobs/info/68e2211c1852e62f007f5d23?utm_campaign=1048&utm_source=git)** | Portland, OR US | Hybrid | Oct 05 |
-| ↳ | **[Systems Engineering Intern](https://jobright.ai/jobs/info/68e220aeb99ec3563b0da531?utm_campaign=1048&utm_source=git)** | Portland, OR US | Hybrid | Oct 05 |
-| **[EmbodyX](https://www.embodyx.io)** | **[VLA Engineer Intern (Unpaid)](https://jobright.ai/jobs/info/68e221d61852e62f007f5fe4?utm_campaign=1048&utm_source=git)** | Belmont, CA | On Site | Oct 04 |
-| **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Manufacturing Engineer Intern](https://jobright.ai/jobs/info/68e1f754b99ec3563b0d9532?utm_campaign=1048&utm_source=git)** | Cleveland, NC US | On Site | Oct 04 |
-| ↳ | **[IT Developer Analyst Intern](https://jobright.ai/jobs/info/68e1f74db99ec3563b0d952d?utm_campaign=1048&utm_source=git)** | Gastonia, NC US | On Site | Oct 04 |
-| **[The Toro Company](https://www.thetorocompany.com)** | **[Electrical Systems Intern - Ditch Witch](https://jobright.ai/jobs/info/68e1f6c7b99ec3563b0d93cb?utm_campaign=1048&utm_source=git)** | Noble County, OK | On Site | Oct 04 |
-| **[Whiterabbit.ai](https://whiterabbit.ai/)** | **[Research Scientist Intern (2025)](https://jobright.ai/jobs/info/68e34b70b99ec3563b0dec22?utm_campaign=1048&utm_source=git)** | Columbus, GA | On Site | Oct 04 |
-| **[耐克森中国](http://www.nexans.com)** | **[Quality Intern](https://jobright.ai/jobs/info/68e3487c1852e62f007fa23b?utm_campaign=1048&utm_source=git)** | Charleston-Huntington | On Site | Oct 04 |
-| **[Salem Public Schools](https://www.salemk12.org/)** | **[Sustainable Farming Intern, INTERNAL SALEM HIGH SCHOOL STUDENTS ONLY [SY 2025-2026]](https://jobright.ai/jobs/info/68e1ee82b99ec3563b0d90fa?utm_campaign=1048&utm_source=git)** | Salem, MA | On Site | Oct 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
