@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DEPCOM Power, Inc](http://www.depcompower.com/)** | **[DEPCOM Summer 2026 Field Engineer Intern](https://jobright.ai/jobs/info/68ea082bcfc08e4908914fd8?utm_campaign=1048&utm_source=git)** | Scottsdale, AZ | On Site | Oct 11 |
+| **[Harbinger](https://harbingermotors.com)** | **[Intern, Quality Engineering](https://jobright.ai/jobs/info/68ea05cecdf8d94b293a4008?utm_campaign=1048&utm_source=git)** | Garden Grove, CA | On Site | Oct 11 |
+| **[Labcorp](https://www.labcorp.com)** | **[Intern - Cancer Diagnostics Research & Development](https://jobright.ai/jobs/info/68ea05ad54fbf903f6a80736?utm_campaign=1048&utm_source=git)** | Baltimore, MD | On Site | Oct 11 |
+| **[Nutanix](http://www.nutanix.com)** | **[Associate Systems Engineer Intern](https://jobright.ai/jobs/info/68e9fc32cdf8d94b293a39ff?utm_campaign=1048&utm_source=git)** | New York, New York | Hybrid | Oct 10 |
+| ↳ | **[Associate Systems Engineer Intern](https://jobright.ai/jobs/info/68e9fbf8cfc08e4908914268?utm_campaign=1048&utm_source=git)** | Washington, District Of Columbia | Hybrid | Oct 10 |
+| ↳ | **[Associate Systems Engineer Intern](https://jobright.ai/jobs/info/68e9fb7954fbf903f6a80046?utm_campaign=1048&utm_source=git)** | San Jose, California | Hybrid | Oct 10 |
+| ↳ | **[Associate Systems Engineer Intern](https://jobright.ai/jobs/info/68e9fb52cdf8d94b293a38d4?utm_campaign=1048&utm_source=git)** | Durham, North Carolina | Hybrid | Oct 10 |
+| ↳ | **[Associate Systems Engineer Intern](https://jobright.ai/jobs/info/68e9fb5254fbf903f6a8000e?utm_campaign=1048&utm_source=git)** | Mclean, Virginia | Hybrid | Oct 10 |
+| **[Yates Construction](https://www.wgyates.com)** | **[INTERN](https://jobright.ai/jobs/info/68e9f23554fbf903f6a7fb3f?utm_campaign=1048&utm_source=git)** | Las Vegas, NV | On Site | Oct 10 |
 | **[Kawasaki Motors Manufacturing Corp., U.S.A.](https://www.kawasakilincoln.com)** | **[Intern, Production (Rail)](https://jobright.ai/jobs/info/68e9e616cdf8d94b293a2ecd?utm_campaign=1048&utm_source=git)** | Lincoln, NE | On Site | Oct 10 |
 | **[Snell Motor Company](http://LandRoverDallas.com)** | **[Technician Interns - Dubiski Career High School](https://jobright.ai/jobs/info/68e9e4a9cdf8d94b293a2dc0?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | Oct 10 |
 | **[The Foth Companies](http://www.foth.com)** | **[Mechanical Engineering Intern- Machine Design (Summer 2026)](https://jobright.ai/jobs/info/68e9e0c654fbf903f6a7f3e3?utm_campaign=1048&utm_source=git)** | Mehoopany, PA | Hybrid | Oct 10 |
@@ -91,7 +100,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Transportation Construction Engineering Intern](https://jobright.ai/jobs/info/68dde4f944d32141e0bfb7a7?utm_campaign=1048&utm_source=git)** | Marshfield, WI | Hybrid | Oct 10 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Applied AI/ML Associate Program - Internship](https://jobright.ai/jobs/info/68e9c928cdf8d94b293a264f?utm_campaign=1048&utm_source=git)** | 383 Madison Ave, New York, NY, 10179, US | On Site | Oct 10 |
 | **[Lucid Motors](http://lucidmotors.com)** | **[Intern, Mechanical Test Engineer, High Voltage Battery, Summer 2026](https://jobright.ai/jobs/info/68e9c8f9cfc08e4908912fce?utm_campaign=1048&utm_source=git)** | Newark, CA | On Site | Oct 10 |
-| **[BayCare Health System](https://baycare.org/bmg)** | **[Imaging Technologist Intern](https://jobright.ai/jobs/info/68e9c8e5cdf8d94b293a262b?utm_campaign=1048&utm_source=git)** | Clearwater, FL | On Site | Oct 10 |
 | **[Herdora](https://herdora.com/)** | **[Member Of Technical Staff (Summer Intern)](https://jobright.ai/jobs/info/68e9c7e254fbf903f6a7ec6c?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Oct 10 |
 | **[Arcwood Environmental](https://www.arcwoodenviro.com)** | **[IT Security Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68e9c7a5cdf8d94b293a24be?utm_campaign=1048&utm_source=git)** | Indianapolis, IN | On Site | Oct 10 |
 | **[Stantec](http://www.stantec.com)** | **[Civil Engineer in Training](https://jobright.ai/jobs/info/68e9c79b54fbf903f6a7ec1c?utm_campaign=1048&utm_source=git)** | Fargo, ND | On Site | Oct 10 |
@@ -113,6 +121,7 @@ For a complete list, click the following sortable link below:
 | **[Sealaska](http://www.sealaska.com/)** | **[Intern 2026 - Natural Resources Intern (Ketchikan)](https://jobright.ai/jobs/info/68e9c017cdf8d94b293a1ffd?utm_campaign=1048&utm_source=git)** | Sealaska Corporation, 1900 First Ave, Ketchikan, Alaska, United States of America | On Site | Oct 10 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Electrical Engineering Intern - Aviation & Federal (Honolulu)](https://jobright.ai/jobs/info/68e9bc98feeb0006c1a56f50?utm_campaign=1048&utm_source=git)** | Honolulu, HI | On Site | Oct 10 |
 | **[County of Los Angeles](https://lacounty.gov/)** | **[VETERAN INTERN, HEAVY MAINTENANCE AND OPERATIONAL SUPPORT](https://jobright.ai/jobs/info/68e9bc50feeb0006c1a56f22?utm_campaign=1048&utm_source=git)** | Los Angeles County, CA | On Site | Oct 10 |
+| **[BayCare Health System](https://baycare.org/bmg)** | **[Imaging Technologist Intern](https://jobright.ai/jobs/info/68e9bb7ffeeb0006c1a56e93?utm_campaign=1048&utm_source=git)** | Clearwater, FL | On Site | Oct 10 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[Occupational Health and Safety Intern - Port of San Francisco (9922)](https://jobright.ai/jobs/info/68e9e159cfc08e4908913719?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Oct 10 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Supplier Quality and Development Intern](https://jobright.ai/jobs/info/68e9bb4465768b6412b1ef7c?utm_campaign=1048&utm_source=git)** | Madison, WI | On Site | Oct 10 |
 | **[Stantec](http://www.stantec.com)** | **[Civil Engineer in Training](https://jobright.ai/jobs/info/68e9bb4065768b6412b1ef7a?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Oct 10 |
@@ -142,19 +151,10 @@ For a complete list, click the following sortable link below:
 | **[American Foods Group](https://www.americanfoodsgroup.com)** | **[GMP Facilities & Process Engineer Intern](https://jobright.ai/jobs/info/68e9b37c0930fe0bc46285df?utm_campaign=1048&utm_source=git)** | US- | On Site | Oct 10 |
 | **[Symbotic](https://bit.ly/m/Symbotic)** | **[Intern- System Field Analyst](https://jobright.ai/jobs/info/68e9b318feeb0006c1a56b7f?utm_campaign=1048&utm_source=git)** | Plainview, TX | On Site | Oct 10 |
 | **[Deluxe](http://www.bydeluxe.com)** | **[AI Strategy & Innovation Intern](https://jobright.ai/jobs/info/68e9b2e2feeb0006c1a56b56?utm_campaign=1048&utm_source=git)** | Burbank, CA | On Site | Oct 10 |
-| **[Kitchell](https://www.kitchell.com/)** | **[Mechanical Engineer Internship 2026](https://jobright.ai/jobs/info/68e9b2d3feeb0006c1a56b4c?utm_campaign=1048&utm_source=git)** | Sacramento, CA | On Site | Oct 10 |
 | **[Illumio](http://www.illumio.com)** | **[Product Security Intern](https://jobright.ai/jobs/info/68e9b21afeeb0006c1a56ac2?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA | On Site | Oct 10 |
 | ↳ | **[Security Engineering Intern](https://jobright.ai/jobs/info/68e9b1f7feeb0006c1a56ab0?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA | On Site | Oct 10 |
 | ↳ | **[Engineering Intern, SRE](https://jobright.ai/jobs/info/68e9b10365768b6412b1eb65?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA | On Site | Oct 10 |
 | **[Herdora](https://herdora.com/)** | **[Member Of Technical Staff (Winter Intern)](https://jobright.ai/jobs/info/68e9cc2454fbf903f6a7ee03?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Oct 10 |
 | **[Carrier](https://www.corporate.carrier.com)** | **[Building Automation Intern - Summer](https://jobright.ai/jobs/info/68e9ae4a0930fe0bc46283e7?utm_campaign=1048&utm_source=git)** | CAM68: ALC - Mass (Chicopee), 260 Griffith Road, Chicopee, MA, 01022 USA | On Site | Oct 10 |
 | **[Promega Corporation ](http://www.promega.com/es)** | **[EH&S Intern](https://jobright.ai/jobs/info/68e9ae4665768b6412b1e968?utm_campaign=1048&utm_source=git)** | Madison, Wisconsin | On Site | Oct 10 |
-| **[Carrier](https://www.corporate.carrier.com)** | **[Building Automation Intern - Summer](https://jobright.ai/jobs/info/68e9ad9b65768b6412b1e8d7?utm_campaign=1048&utm_source=git)** | Clifton, New Jersey, United States Of America | On Site | Oct 10 |
-| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Computer Vision Algorithms](https://jobright.ai/jobs/info/68e9ad630930fe0bc4628301?utm_campaign=1048&utm_source=git)** | Redmond, Washington, United States | Hybrid | Oct 10 |
-| **[City of Bowie, Maryland](http://www.cityofbowie.org)** | **[Historic Properties Intern](https://jobright.ai/jobs/info/68e9ad580930fe0bc46282f4?utm_campaign=1048&utm_source=git)** | Bowie, Maryland, United States | On Site | Oct 10 |
-| **[Ingredion Incorporated](http://ingredion.com)** | **[R&D Intern, Plant Based Proteins](https://jobright.ai/jobs/info/68e9ad54feeb0006c1a56751?utm_campaign=1048&utm_source=git)** | Bridgewater, NJ | Hybrid | Oct 10 |
-| **[Harbinger](https://harbingermotors.com)** | **[Intern, Cybersecurity](https://jobright.ai/jobs/info/68e9ad46feeb0006c1a5673a?utm_campaign=1048&utm_source=git)** | Garden Grove, CA | On Site | Oct 10 |
-| **[Rexel USA](https://www.rexelusa.com/)** | **[Intern](https://jobright.ai/jobs/info/68e5b1961852e62f0081391a?utm_campaign=1048&utm_source=git)** | Solon, OH | On Site | Oct 10 |
-| **[Denark Construction, Inc](http://www.denark.com/)** | **[Commercial Construction Intern](https://jobright.ai/jobs/info/68e9acb565768b6412b1e7fc?utm_campaign=1048&utm_source=git)** | Knoxville, TN | On Site | Oct 10 |
-| **[Lucid Motors](http://lucidmotors.com)** | **[Intern, Cell Engineering, Summer 2026](https://jobright.ai/jobs/info/68e9ac8afeeb0006c1a56643?utm_campaign=1048&utm_source=git)** | Newark, CA | On Site | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
