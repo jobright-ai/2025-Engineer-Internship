@@ -57,9 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MechSpire](https://www.linkedin.com/company/92823876)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/68ea2355db8fbc4015c6564e?utm_campaign=1048&utm_source=git)** | Lancaster, PA | Remote | Oct 11 |
+| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, Cybersecurity Analyst Intern](https://jobright.ai/jobs/info/68ea1eb22730e71fcc137463?utm_campaign=1048&utm_source=git)** | McLean, VA | Hybrid | Oct 11 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Safety Intern - Brigham Young University - Idaho](https://jobright.ai/jobs/info/68ea1e504a45b1233cc2fe1e?utm_campaign=1048&utm_source=git)** | El Paso, TX | On Site | Oct 11 |
+| ↳ | **[VDC Intern - Brigham Young University - Idaho](https://jobright.ai/jobs/info/68ea1d6a2730e71fcc137349?utm_campaign=1048&utm_source=git)** | Calexico, CA | On Site | Oct 11 |
+| ↳ | **[VDC Intern - Brigham Young University - Idaho](https://jobright.ai/jobs/info/68ea1d691e54db0a21816182?utm_campaign=1048&utm_source=git)** | El Paso, TX | On Site | Oct 11 |
+| **[Carrier Climate Solutions Transportation](https://www.carrier.com/refrigeration/en/worldwide/)** | **[Building Automation Intern - Summer](https://jobright.ai/jobs/info/68ea1cf04a45b1233cc2fcd5?utm_campaign=1048&utm_source=git)** | Chicopee, MA | On Site | Oct 11 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Safety Intern - Brigham Young University - Idaho](https://jobright.ai/jobs/info/68ea16ed54fbf903f6a8185d?utm_campaign=1048&utm_source=git)** | Calexico, CA | On Site | Oct 11 |
+| ↳ | **[Safety Intern - Brigham Young University - Idaho](https://jobright.ai/jobs/info/68ea16d4cdf8d94b293a50f1?utm_campaign=1048&utm_source=git)** | Greeley, CO | On Site | Oct 11 |
+| **[Sedron Technologies](http://sedron.com/)** | **[Mechanical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68ea15f854fbf903f6a81711?utm_campaign=1048&utm_source=git)** | Bellingham, WA | On Site | Oct 11 |
+| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Systems Engineer Intern](https://jobright.ai/jobs/info/68ea15a2cdf8d94b293a4f4a?utm_campaign=1048&utm_source=git)** | Lexington, MA | Hybrid | Oct 11 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[VDC Intern - Brigham Young University - Idaho](https://jobright.ai/jobs/info/68ea155d54fbf903f6a81666?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Oct 11 |
+| **[Pratt & Whitney](https://prattwhitney.com/)** | **[Intern: Summer 2026 - Gas Turbine Controls Hardware, Mechanical Engineering (Onsite)](https://jobright.ai/jobs/info/68ea0c4a54fbf903f6a81143?utm_campaign=1048&utm_source=git)** | East Hartford, CT | On Site | Oct 11 |
 | **[DEPCOM Power, Inc](http://www.depcompower.com/)** | **[DEPCOM Summer 2026 Field Engineer Intern](https://jobright.ai/jobs/info/68ea082bcfc08e4908914fd8?utm_campaign=1048&utm_source=git)** | Scottsdale, AZ | On Site | Oct 11 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Quality Engineering](https://jobright.ai/jobs/info/68ea05cecdf8d94b293a4008?utm_campaign=1048&utm_source=git)** | Garden Grove, CA | On Site | Oct 11 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - Cancer Diagnostics Research & Development](https://jobright.ai/jobs/info/68ea05ad54fbf903f6a80736?utm_campaign=1048&utm_source=git)** | Baltimore, MD | On Site | Oct 11 |
+| **[Harbinger](https://harbingermotors.com)** | **[Intern, Cybersecurity](https://jobright.ai/jobs/info/68ea02c3cdf8d94b293a3e50?utm_campaign=1048&utm_source=git)** | Garden Grove, CA | On Site | Oct 11 |
+| **[Labcorp](https://www.labcorp.com)** | **[Intern - IT Database Server Administration](https://jobright.ai/jobs/info/68ea2424db8fbc4015c657b0?utm_campaign=1048&utm_source=git)** | North Carolina, United States | Remote | Oct 10 |
 | **[Nutanix](http://www.nutanix.com)** | **[Associate Systems Engineer Intern](https://jobright.ai/jobs/info/68e9fc32cdf8d94b293a39ff?utm_campaign=1048&utm_source=git)** | New York, New York | Hybrid | Oct 10 |
 | ↳ | **[Associate Systems Engineer Intern](https://jobright.ai/jobs/info/68e9fbf8cfc08e4908914268?utm_campaign=1048&utm_source=git)** | Washington, District Of Columbia | Hybrid | Oct 10 |
 | ↳ | **[Associate Systems Engineer Intern](https://jobright.ai/jobs/info/68e9fb7954fbf903f6a80046?utm_campaign=1048&utm_source=git)** | San Jose, California | Hybrid | Oct 10 |
@@ -143,18 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Reliable Robotics Corporation](http://www.reliable.co/)** | **[Flight Guidance Engineer (Summer 2026 Internship)](https://jobright.ai/jobs/info/68e9b4fc65768b6412b1ecee?utm_campaign=1048&utm_source=git)** | Mountain View, CA | On Site | Oct 10 |
 | **[Viasat](http://www.viasat.com)** | **[Data Engineering Intern (Casual)](https://jobright.ai/jobs/info/68e9b4d965768b6412b1ecce?utm_campaign=1048&utm_source=git)** | Remote - California, California | Remote | Oct 10 |
 | **[St. Vincent’s Health System](https://uabstvincents.org)** | **[Imaging Intern - PRN](https://jobright.ai/jobs/info/68e9b4c565768b6412b1ecb5?utm_campaign=1048&utm_source=git)** | US-AL-Birmingham | On Site | Oct 10 |
-| **[Reliable Robotics Corporation](http://www.reliable.co/)** | **[Flight Control Law Engineer (Summer 2026 Internship)](https://jobright.ai/jobs/info/68e9b4bd65768b6412b1eca9?utm_campaign=1048&utm_source=git)** | Mountain View, CA | On Site | Oct 10 |
-| **[Raytheon](http://www.bbn.com)** | **[Electromagnetic Environmental Effects (E3) Intern](https://jobright.ai/jobs/info/68e9b49a0930fe0bc46286f7?utm_campaign=1048&utm_source=git)** | Tucson, AZ | Hybrid | Oct 10 |
-| **[Reliable Robotics Corporation](http://www.reliable.co/)** | **[Flight Navigation Engineer (Summer 2026 Internship)](https://jobright.ai/jobs/info/68e9b46d65768b6412b1ec4a?utm_campaign=1048&utm_source=git)** | Mountain View, CA | On Site | Oct 10 |
-| ↳ | **[Reliability Engineer (Summer 2026 Internship)](https://jobright.ai/jobs/info/68e9b4400930fe0bc46286a8?utm_campaign=1048&utm_source=git)** | Mountain View, CA | On Site | Oct 10 |
-| ↳ | **[Hardware Test Engineer (Summer 2026 Internship)](https://jobright.ai/jobs/info/68e9b4200930fe0bc4628687?utm_campaign=1048&utm_source=git)** | Mountain View, CA | On Site | Oct 10 |
-| **[American Foods Group](https://www.americanfoodsgroup.com)** | **[GMP Facilities & Process Engineer Intern](https://jobright.ai/jobs/info/68e9b37c0930fe0bc46285df?utm_campaign=1048&utm_source=git)** | US- | On Site | Oct 10 |
-| **[Symbotic](https://bit.ly/m/Symbotic)** | **[Intern- System Field Analyst](https://jobright.ai/jobs/info/68e9b318feeb0006c1a56b7f?utm_campaign=1048&utm_source=git)** | Plainview, TX | On Site | Oct 10 |
-| **[Deluxe](http://www.bydeluxe.com)** | **[AI Strategy & Innovation Intern](https://jobright.ai/jobs/info/68e9b2e2feeb0006c1a56b56?utm_campaign=1048&utm_source=git)** | Burbank, CA | On Site | Oct 10 |
-| **[Illumio](http://www.illumio.com)** | **[Product Security Intern](https://jobright.ai/jobs/info/68e9b21afeeb0006c1a56ac2?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA | On Site | Oct 10 |
-| ↳ | **[Security Engineering Intern](https://jobright.ai/jobs/info/68e9b1f7feeb0006c1a56ab0?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA | On Site | Oct 10 |
-| ↳ | **[Engineering Intern, SRE](https://jobright.ai/jobs/info/68e9b10365768b6412b1eb65?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA | On Site | Oct 10 |
-| **[Herdora](https://herdora.com/)** | **[Member Of Technical Staff (Winter Intern)](https://jobright.ai/jobs/info/68e9cc2454fbf903f6a7ee03?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Oct 10 |
-| **[Carrier](https://www.corporate.carrier.com)** | **[Building Automation Intern - Summer](https://jobright.ai/jobs/info/68e9ae4a0930fe0bc46283e7?utm_campaign=1048&utm_source=git)** | CAM68: ALC - Mass (Chicopee), 260 Griffith Road, Chicopee, MA, 01022 USA | On Site | Oct 10 |
-| **[Promega Corporation ](http://www.promega.com/es)** | **[EH&S Intern](https://jobright.ai/jobs/info/68e9ae4665768b6412b1e968?utm_campaign=1048&utm_source=git)** | Madison, Wisconsin | On Site | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
