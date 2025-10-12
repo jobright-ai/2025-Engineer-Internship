@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Central Contra Costa Sanitary District](https://www.centralsan.org/)** | **[Mechanical Maintenance Intern](https://jobright.ai/jobs/info/68eb64e476a1db7c5985fc7e?utm_campaign=1048&utm_source=git)** | Martinez, CA | On Site | Oct 12 |
 | **[Fort Washington Investment Advisors, Inc.](http://www.fortwashington.com)** | **[Artificial Intelligence Developer Intern (Full Year 2026)](https://jobright.ai/jobs/info/68eb5d1c2f64880ca0b577d7?utm_campaign=1048&utm_source=git)** | US-OH-CINCINNATI | On Site | Oct 12 |
+| **[Canyon AeroConnect](https://www.canyonaeroconnect.com)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/68eb76228369791ef7827324?utm_campaign=1048&utm_source=git)** | Prescott, AZ | On Site | Oct 12 |
 | **[Kuaishou Technology](http://www.kuaishou.com)** | **[Kling AI Creator Community Intern](https://jobright.ai/jobs/info/68eb50708369791ef78257f1?utm_campaign=1048&utm_source=git)** | Los Angeles County, CA | On Site | Oct 11 |
 | **[Agiliti](https://www.agilitihealth.com/)** | **[Biomedical Technician Intern](https://jobright.ai/jobs/info/68eb46cb76a1db7c5985e6f8?utm_campaign=1048&utm_source=git)** | West Milwaukee, WI | On Site | Oct 11 |
 | ↳ | **[Biomedical Technician Intern](https://jobright.ai/jobs/info/68eb42ad76a1db7c5985e5f1?utm_campaign=1048&utm_source=git)** | Beloit, WI | On Site | Oct 11 |
@@ -94,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[NYC Department of Environmental Protection (NYC DEP)](http://nyc.gov/dep)** | **[Environmental Engineering Intern](https://jobright.ai/jobs/info/68ea90732f64880ca0b53789?utm_campaign=1048&utm_source=git)** | Queens, NY | On Site | Oct 11 |
 | **[Carrier](https://www.corporate.carrier.com)** | **[Mechanical Engineering Intern - Summer](https://jobright.ai/jobs/info/68ea8c8476a1db7c5985b78d?utm_campaign=1048&utm_source=git)** | East Syracuse, NY | On Site | Oct 11 |
 | **[Lakeside Foods, Inc.](https://www.lakesidefoods.com)** | **[Field Scout Intern Summer 2026](https://jobright.ai/jobs/info/68ea8b662f64880ca0b53693?utm_campaign=1048&utm_source=git)** | Owatonna, MN | On Site | Oct 11 |
-| **[WestRock Company](http://www.westrock.com)** | **[Manufacturing Engineering Spring Intern/Co-op 2026](https://jobright.ai/jobs/info/68ea8afe8369791ef78224ca?utm_campaign=1048&utm_source=git)** | Roanoke, AL | On Site | Oct 11 |
 | **[Carrier](https://www.corporate.carrier.com)** | **[Building Automation Intern - Summer](https://jobright.ai/jobs/info/68ea8a418369791ef7822494?utm_campaign=1048&utm_source=git)** | Chicopee, MA | On Site | Oct 11 |
 | **[Terracon](https://www.terracon.com/about/foundation/)** | **[Engineering Intern](https://jobright.ai/jobs/info/68ea891c76a1db7c5985b72c?utm_campaign=1048&utm_source=git)** | Williamsburg, VA | On Site | Oct 11 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Security Data Analyst Intern](https://jobright.ai/jobs/info/68ea86bf2f64880ca0b535f2?utm_campaign=1048&utm_source=git)** | Waltham, MA | On Site | Oct 11 |
@@ -106,6 +107,7 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[Summer 2026 Intern- Bachelors- Biology, Biomedical or Chemical Engineering, Chemistry, or Related](https://jobright.ai/jobs/info/68ea7c692f64880ca0b53431?utm_campaign=1048&utm_source=git)** | Tarrytown, NY | On Site | Oct 11 |
 | **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[Proposal Engineer Intern - Spring 2026](https://jobright.ai/jobs/info/68ea798176a1db7c5985b39f?utm_campaign=1048&utm_source=git)** | Cleveland, OH | On Site | Oct 11 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer 2026 Intern- Masters/PhD- Biology, Biomedical or Chemical Engineering, Chemistry, or](https://jobright.ai/jobs/info/68ea77d28369791ef7822197?utm_campaign=1048&utm_source=git)** | Tarrytown, NY | On Site | Oct 11 |
+| **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Instrumentation & Controls Engineering Intern - Nuclear (Summer 2026)](https://jobright.ai/jobs/info/68eb62df76a1db7c5985faee?utm_campaign=1048&utm_source=git)** | Richmond, VA | Hybrid | Oct 11 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Applied AI/ML Associate Program - Internship](https://jobright.ai/jobs/info/68ea73fa76a1db7c5985b2d0?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Oct 11 |
 | **[Horton, Inc.](http://hortonww.com)** | **[Quality Intern (Summer 2026)](https://jobright.ai/jobs/info/68ea730a76a1db7c5985b1aa?utm_campaign=1048&utm_source=git)** | Westminster, SC | On Site | Oct 11 |
 | **[Momentive](https://www.momentive.com/)** | **[Summer 2026 Applications Lab Intern - Hardcoats Development](https://jobright.ai/jobs/info/68e804f609580a2fe57f2080?utm_campaign=1048&utm_source=git)** | Waterford, NY | On Site | Oct 11 |
@@ -145,6 +147,7 @@ For a complete list, click the following sortable link below:
 | **[fairlife, LLC](http://www.fairlife.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/68b291a4f4e41a61efd86a98?utm_campaign=1048&utm_source=git)** | Coopersville, MI | On Site | Oct 11 |
 | ↳ | **[Engineering Intern](https://jobright.ai/jobs/info/68b296bdf4e41a61efd86d5d?utm_campaign=1048&utm_source=git)** | Goodyear, AZ | On Site | Oct 11 |
 | ↳ | **[Continuous Improvement Intern](https://jobright.ai/jobs/info/68b29ce7f4e41a61efd87093?utm_campaign=1048&utm_source=git)** | Coopersville, MI | On Site | Oct 11 |
+| **[Jacobs](http://www.jacobs.com)** | **[Civil Engineering / Traffic Intern - Summer 2026](https://jobright.ai/jobs/info/68d79342295f8e37655de242?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | On Site | Oct 11 |
 | **[Michael Baker International](http://mbakerintl.com/)** | **[Planning Intern (Summer 2026)](https://jobright.ai/jobs/info/68cdb729e23def7af55be7f5?utm_campaign=1048&utm_source=git)** | Harrisburg, PA | Hybrid | Oct 11 |
 | **[Deluxe](http://www.bydeluxe.com)** | **[AI Strategy & Innovation Intern](https://jobright.ai/jobs/info/68e9eb64cfc08e490891399c?utm_campaign=1048&utm_source=git)** | Burbank, CA | On Site | Oct 11 |
 | **[Walbridge](http://www.walbridge.com)** | **[Construction Intern - Summer 2026](https://jobright.ai/jobs/info/68eaf0e28369791ef7823439?utm_campaign=1048&utm_source=git)** | New York, United States | On Site | Oct 11 |
@@ -152,9 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Mott MacDonald](https://www.mottmac.com/hungary)** | **[Electrical Engineering Internship - 2026](https://jobright.ai/jobs/info/68ce998b846f0b04af67b76e?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | On Site | Oct 11 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/68ea49892f64880ca0b51c0e?utm_campaign=1048&utm_source=git)** | Ocala, FL | On Site | Oct 11 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Vehicle Quality Engineering Intern- Summer 2026- Smyrna, TN](https://jobright.ai/jobs/info/68cd5e691ad6b16f02898d78?utm_campaign=1048&utm_source=git)** | Smyrna, TN | On Site | Oct 11 |
+| **[Walbridge](http://www.walbridge.com)** | **[Construction Intern - Summer 2026](https://jobright.ai/jobs/info/68eb647a76a1db7c5985fc2b?utm_campaign=1048&utm_source=git)** | Florida, United States | On Site | Oct 11 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Manufacturing Engineer Intern - Ditch Witch](https://jobright.ai/jobs/info/68ea45b88369791ef78209b5?utm_campaign=1048&utm_source=git)** | Noble County, OK | On Site | Oct 11 |
-| **[GE Vernova](https://www.gevernova.com)** | **[Power System Intern - AI/ML - Summer 2026](https://jobright.ai/jobs/info/68b09f9313563e782a9f7e6b?utm_campaign=1048&utm_source=git)** | Bellevue, WA | On Site | Oct 11 |
-| **[Southwire Company](http://southwire.com)** | **[Spark Grid Technology Research Intern](https://jobright.ai/jobs/info/68cdd3d4e23def7af55bf943?utm_campaign=1048&utm_source=git)** | Atlanta, GA | Hybrid | Oct 11 |
-| **[American Century Investments](https://www.americancentury.com)** | **[Sustainable Research Intern](https://jobright.ai/jobs/info/68cda777b2a74e1837eda604?utm_campaign=1048&utm_source=git)** | Kansas City, MO | On Site | Oct 11 |
-| **[Meta](https://www.meta.com)** | **[Research Scientist Intern, Video Recommendations (PhD)](https://jobright.ai/jobs/info/68cda951b2a74e1837eda9cd?utm_campaign=1048&utm_source=git)** | Menlo Park, CA | On Site | Oct 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
