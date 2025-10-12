@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Catena, LLC](https://www.catena-nano.com)** | **[Organic Chemist Intern](https://jobright.ai/jobs/info/68eadf0c76a1db7c5985c621?utm_campaign=1048&utm_source=git)** | Evansville, IN | On Site | Oct 11 |
+| **[McKinstry](http://www.mckinstry.com)** | **[Building Energy Intern](https://jobright.ai/jobs/info/68eade822f64880ca0b54566?utm_campaign=1048&utm_source=git)** | Madison, WI | On Site | Oct 11 |
+| **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Engineering Co-Op (January - June 2026)](https://jobright.ai/jobs/info/68e69133ae2b894b1d71b6a8?utm_campaign=1048&utm_source=git)** | Pittsfield, MA | Hybrid | Oct 11 |
+| **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[Innovation Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68ead38d2f64880ca0b54466?utm_campaign=1048&utm_source=git)** | Detroit, MI | On Site | Oct 11 |
 | **[CORRE, INC.](http://correinc.com)** | **[Civil Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68eacc512f64880ca0b5438b?utm_campaign=1048&utm_source=git)** | Madison, WI | On Site | Oct 11 |
 | **[Laclede Chain Manufacturing Company LLC](https://lacledechain.com/)** | **[IT Systems Intern](https://jobright.ai/jobs/info/68eac8712f64880ca0b542f4?utm_campaign=1048&utm_source=git)** | Maryville, MO | On Site | Oct 11 |
 | **[CORRE, INC.](http://correinc.com)** | **[Civil Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68eac6858369791ef7822fe7?utm_campaign=1048&utm_source=git)** | Eau Claire, WI | On Site | Oct 11 |
@@ -68,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Infinity Systems Engineering](http://infinity.aero/)** | **[Structural Engineering Intern - Summer 2026 (May-August)](https://jobright.ai/jobs/info/68eabc1776a1db7c5985c0b4?utm_campaign=1048&utm_source=git)** | Peachtree Corners, GA | On Site | Oct 11 |
 | **[United Rentals Life](http://jobs.unitedrentals.com)** | **[Intern Diesel Mechanic (Paid)](https://jobright.ai/jobs/info/68eab12d8369791ef7822b64?utm_campaign=1048&utm_source=git)** | Nashville, TN | On Site | Oct 11 |
 | **[GCON Inc.](https://www.gconinc.com)** | **[Construction Engineer Summer Internship- Oregon](https://jobright.ai/jobs/info/68eaae338369791ef7822aff?utm_campaign=1048&utm_source=git)** | Hillsboro, OR | On Site | Oct 11 |
-| **[MechNova](mechnova.us)** | **[Automation Engineering Intern Summer 2026](https://jobright.ai/jobs/info/68eaab4e76a1db7c5985bccb?utm_campaign=1048&utm_source=git)** | Houston, TX | Remote | Oct 11 |
 | **[Structonix](structonix.us)** | **[Mechanical Engineering Internship Opportunities](https://jobright.ai/jobs/info/68eaa47f76a1db7c5985bacf?utm_campaign=1048&utm_source=git)** | Sidney, OH | Remote | Oct 11 |
 | **[C&S Wholesale Grocers](http://www.cswg.com)** | **[Industrial Engineer Intern- Summer 2026](https://jobright.ai/jobs/info/68eaa1e18369791ef7822769?utm_campaign=1048&utm_source=git)** | United States | Hybrid | Oct 11 |
 | **[PwC](http://pwc.com)** | **[Accelerated Solutions Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e6cc5f1852e62f0081eabf?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Oct 11 |
@@ -149,12 +152,9 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[VDC Intern - Brigham Young University - Idaho](https://jobright.ai/jobs/info/68ea36f44ae33307d3eda6bd?utm_campaign=1048&utm_source=git)** | Los Alamos, NM | On Site | Oct 11 |
 | ↳ | **[VDC Intern - Brigham Young University](https://jobright.ai/jobs/info/68ea36654ae33307d3eda5a9?utm_campaign=1048&utm_source=git)** | Cheyenne, WY | On Site | Oct 11 |
 | ↳ | **[VDC Intern - Brigham Young University - Idaho](https://jobright.ai/jobs/info/68ea3650db8fbc4015c6631d?utm_campaign=1048&utm_source=git)** | Yuma, AZ | On Site | Oct 11 |
-| **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/68cb3a0eefdec76df36ba677?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Oct 11 |
+| **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Survey Intern](https://jobright.ai/jobs/info/68b20099bc187f64e1bd8a54?utm_campaign=1048&utm_source=git)** | Plano, TX | On Site | Oct 11 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/68cb3a0eefdec76df36ba677?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Oct 11 |
 | ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/68b1fd2f1ade4306aa633a1c?utm_campaign=1048&utm_source=git)** | Fort Worth, TX | On Site | Oct 11 |
 | ↳ | **[Survey Field Intern](https://jobright.ai/jobs/info/68b20582bc187f64e1bd8c60?utm_campaign=1048&utm_source=git)** | Westminster, CO | On Site | Oct 11 |
 | ↳ | **[Land Planning Intern](https://jobright.ai/jobs/info/68b1fc171ade4306aa633983?utm_campaign=1048&utm_source=git)** | Fort Worth, TX | On Site | Oct 11 |
-| **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Internship/Co-Op, Structural Engineering - Spring and/or Summer 2026](https://jobright.ai/jobs/info/689f5e4083d13d1f5b6c60a6?utm_campaign=1048&utm_source=git)** | Washington, District of Columbia, United States | On Site | Oct 11 |
-| **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Transmission and Distribution Internship – Power Division (Civil, Electrical, Mechanical)](https://jobright.ai/jobs/info/68b2006ebc187f64e1bd8a38?utm_campaign=1048&utm_source=git)** | Lake Mary, FL | On Site | Oct 11 |
-| ↳ | **[Survey Intern](https://jobright.ai/jobs/info/68b1fa1c1ade4306aa633679?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Oct 11 |
-| ↳ | **[Survey Field Intern](https://jobright.ai/jobs/info/68b206d2bc187f64e1bd8d5a?utm_campaign=1048&utm_source=git)** | Minnetonka, MN | On Site | Oct 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
