@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northmere Solutions](https://www.linkedin.com/company/104898627)** | **[Environmental Intern](https://jobright.ai/jobs/info/68ebaa7f8369791ef7828098?utm_campaign=1048&utm_source=git)** | Waller, TX | Remote | Oct 12 |
+| **[AZCO](http://www.azco-inc.com)** | **[Prefabrication Intern - AZCO (Appleton)](https://jobright.ai/jobs/info/68b1fdcff4e41a61efd8175b?utm_campaign=1048&utm_source=git)** | Appleton, WI | On Site | Oct 12 |
+| **[Jacobs](http://www.jacobs.com)** | **[Civil Engineering / Transportation Intern - Summer 2026](https://jobright.ai/jobs/info/68b1f5cbf4e41a61efd80fe7?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | On Site | Oct 12 |
+| **[Foley Power Solutions](https://foleypowersolutions.com)** | **[Intern Technician - Park City ThinkBIG Electric Power Generation (EPG) 2026](https://jobright.ai/jobs/info/68eba65776a1db7c598611c7?utm_campaign=1048&utm_source=git)** | Park City, KS | On Site | Oct 12 |
+| **[MacLean-Fogg Company](https://macleanfogg.com)** | **[Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68eba58776a1db7c59861174?utm_campaign=1048&utm_source=git)** | Mundelein, IL | On Site | Oct 12 |
+| **[Thornton Tomasetti](http://www.thorntontomasetti.com)** | **[Structural Engineer Intern](https://jobright.ai/jobs/info/68cecaf4846f0b04af67ceda?utm_campaign=1048&utm_source=git)** | Miami, FL | On Site | Oct 12 |
 | **[Milliken Chemical](https://www.milliken.com/en-us/businesses/chemical)** | **[Cushman Intern](https://jobright.ai/jobs/info/68eb960b76a1db7c59860ebb?utm_campaign=1048&utm_source=git)** | Williamston, SC | On Site | Oct 12 |
 | **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Internship, Civil/Structural 2026](https://jobright.ai/jobs/info/689589c44ed2ea559ca56d01?utm_campaign=1048&utm_source=git)** | Newport Beach, CA | On Site | Oct 12 |
 | **[SANMINA-SCI TECHNOLOGY INDIA PRIVATE LIMITED](http://www.sanmina.com)** | **[Production Machining Intern](https://jobright.ai/jobs/info/68eb8cfb76a1db7c59860d3c?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Oct 12 |
@@ -73,9 +79,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Survey Field Intern](https://jobright.ai/jobs/info/68ba6ba36105227d1189dd38?utm_campaign=1048&utm_source=git)** | Charlotte, NC | On Site | Oct 12 |
 | ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/68b24685bc187f64e1bda2fd?utm_campaign=1048&utm_source=git)** | Tulsa, OK | On Site | Oct 12 |
 | ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/68b1f3acf4e41a61efd80e71?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | Oct 12 |
+| **[Elevance Health](https://www.elevancehealth.com)** | **[Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/68eba02876a1db7c59860fbc?utm_campaign=1048&utm_source=git)** | Richmond, VA | Hybrid | Oct 12 |
+| ↳ | **[Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/68eba6302f64880ca0b59254?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Oct 12 |
 | **[Cirrus Logic](https://cirrus.com/)** | **[Spring Intern - Digital Design Engineer](https://jobright.ai/jobs/info/689849945574fd6bc0c76cd9?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Oct 12 |
 | **[Central Contra Costa Sanitary District](https://www.centralsan.org/)** | **[Mechanical Maintenance Intern](https://jobright.ai/jobs/info/68eb64e476a1db7c5985fc7e?utm_campaign=1048&utm_source=git)** | Martinez, CA | On Site | Oct 12 |
 | **[Fort Washington Investment Advisors, Inc.](http://www.fortwashington.com)** | **[Artificial Intelligence Developer Intern (Full Year 2026)](https://jobright.ai/jobs/info/68eb5d1c2f64880ca0b577d7?utm_campaign=1048&utm_source=git)** | US-OH-CINCINNATI | On Site | Oct 12 |
+| **[Boston Scientific](http://www.bostonscientific.com)** | **[Data Engineering Intern](https://jobright.ai/jobs/info/68e84181c72beb74cb31cf52?utm_campaign=1048&utm_source=git)** | Maple Grove, MN | Hybrid | Oct 12 |
 | **[Canyon AeroConnect](https://www.canyonaeroconnect.com)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/68eb76228369791ef7827324?utm_campaign=1048&utm_source=git)** | Prescott, AZ | On Site | Oct 12 |
 | **[Kuaishou Technology](http://www.kuaishou.com)** | **[Kling AI Creator Community Intern](https://jobright.ai/jobs/info/68eb50708369791ef78257f1?utm_campaign=1048&utm_source=git)** | Los Angeles County, CA | On Site | Oct 11 |
 | **[Agiliti](https://www.agilitihealth.com/)** | **[Biomedical Technician Intern](https://jobright.ai/jobs/info/68eb46cb76a1db7c5985e6f8?utm_campaign=1048&utm_source=git)** | West Milwaukee, WI | On Site | Oct 11 |
@@ -88,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Summer 2026 Advanced Technology Intern](https://jobright.ai/jobs/info/68eafcfc8369791ef7823544?utm_campaign=1048&utm_source=git)** | US-TX-Carrollton | On Site | Oct 11 |
 | **[City of San Antonio](http://www.sanantonio.gov)** | **[Edwards Aquifer Protection Program Intern (Unpaid)](https://jobright.ai/jobs/info/68eafaa02f64880ca0b54705?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Oct 11 |
 | **[Foley Power Solutions](https://foleypowersolutions.com)** | **[Intern Technician - Topeka ThinkBIG Electric Power Generation (EPG) 2026](https://jobright.ai/jobs/info/68eaf43576a1db7c5985c76b?utm_campaign=1048&utm_source=git)** | Topeka, KS | On Site | Oct 11 |
-| ↳ | **[Intern Technician - Park City ThinkBIG Electric Power Generation (EPG) 2026](https://jobright.ai/jobs/info/68eaf3948369791ef782344b?utm_campaign=1048&utm_source=git)** | Park City, KS | On Site | Oct 11 |
 | **[LaunchCapital](http://www.launchcapital.com)** | **[Electrical Engineering Intern (Winter/Spring 2026)](https://jobright.ai/jobs/info/68eb1f002f64880ca0b55061?utm_campaign=1048&utm_source=git)** | Somerville, MA | On Site | Oct 11 |
 | **[Terracon](https://www.terracon.com/about/foundation/)** | **[Terracon Summer Internship & Co-Op Program – Civil, Environmental, Geotechnical, Construction Materials & Facilities](https://jobright.ai/jobs/info/68e6e6aeae2b894b1d71f72f?utm_campaign=1048&utm_source=git)** | Midvale, UT | On Site | Oct 11 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68e6edb6ae2b894b1d71fbde?utm_campaign=1048&utm_source=git)** | Lubbock, TX | On Site | Oct 11 |
@@ -134,7 +142,6 @@ For a complete list, click the following sortable link below:
 | **[Molex](http://www.molex.com)** | **[Molex Engineering Internship Program 2026](https://jobright.ai/jobs/info/68cd6c6cb2a74e1837ed69c4?utm_campaign=1048&utm_source=git)** | Allen, TX | On Site | Oct 11 |
 | **[Phillips Medisize](http://phillipsmedisize.com)** | **[Phillips Medisize Environmental Health and Safety Internship Program 2026](https://jobright.ai/jobs/info/68b17065e45862482170ee0d?utm_campaign=1048&utm_source=git)** | New Richmond, WI | On Site | Oct 11 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Quality Engineering Intern](https://jobright.ai/jobs/info/68e734041852e62f0082328f?utm_campaign=1048&utm_source=git)** | New York Mills, MN | On Site | Oct 11 |
-| **[Ferrovias](ferrovias.us)** | **[Electrical Engineering Intern - IT](https://jobright.ai/jobs/info/68ea6aaa76a1db7c5985ae16?utm_campaign=1048&utm_source=git)** | Pennsylvania, United States | Remote | Oct 11 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Diagnostics Intern](https://jobright.ai/jobs/info/68eb51562f64880ca0b56bd6?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Oct 11 |
 | **[Molex](http://www.molex.com)** | **[Molex Engineering Internship Program 2026](https://jobright.ai/jobs/info/68b17a6f1ade4306aa630220?utm_campaign=1048&utm_source=git)** | Conway, AR | On Site | Oct 11 |
 | **[Jacobs](http://www.jacobs.com)** | **[Mechanical Engineering Intern (Energy/Power) - Summer 2026](https://jobright.ai/jobs/info/68cda7071ad6b16f0289cf36?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Oct 11 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Community Partners](https://www.enterprisecommunity.org/)** | **[Intern, Enterprise Green Communities](https://jobright.ai/jobs/info/68ea5ed076a1db7c5985a91c?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Oct 11 |
 | ↳ | **[Intern, Enterprise Green Communities](https://jobright.ai/jobs/info/68ea5dce76a1db7c5985a7d1?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Oct 11 |
 | ↳ | **[Intern, Enterprise Green Communities](https://jobright.ai/jobs/info/68ea5d562f64880ca0b52855?utm_campaign=1048&utm_source=git)** | Cleveland, OH | On Site | Oct 11 |
-| ↳ | **[Intern, Enterprise Green Communities](https://jobright.ai/jobs/info/68ea5d4476a1db7c5985a70b?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Oct 11 |
-| ↳ | **[Intern, Enterprise Green Communities](https://jobright.ai/jobs/info/68ea5d222f64880ca0b52810?utm_campaign=1048&utm_source=git)** | New Orleans, LA | On Site | Oct 11 |
-| ↳ | **[Intern, Enterprise Green Communities](https://jobright.ai/jobs/info/68ea5ce82f64880ca0b527ca?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Oct 11 |
-| ↳ | **[Intern, Enterprise Green Communities](https://jobright.ai/jobs/info/68ea5ca12f64880ca0b52777?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | Oct 11 |
-| **[Siemens](https://www.siemens.com/)** | **[Energy Market Modeling & Optimization for Smart Grids - Internship](https://jobright.ai/jobs/info/68ea5c3c8369791ef7821477?utm_campaign=1048&utm_source=git)** | Princeton, NJ | On Site | Oct 11 |
-| **[Enterprise Community Partners](https://www.enterprisecommunity.org/)** | **[Intern, Enterprise Green Communities](https://jobright.ai/jobs/info/68ea5c388369791ef7821471?utm_campaign=1048&utm_source=git)** | Washington, DC | On Site | Oct 11 |
-| **[Jacobs](http://www.jacobs.com)** | **[Mechanical Engineering Intern (Energy/Power) - Summer 2026](https://jobright.ai/jobs/info/68cda78ce23def7af55bd772?utm_campaign=1048&utm_source=git)** | Cary, NC | On Site | Oct 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
