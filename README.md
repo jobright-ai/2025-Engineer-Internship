@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Collision Technician Trainee (Winter 2026)](https://jobright.ai/jobs/info/68ebedf976a1db7c598618f5?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | Oct 12 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[AIS R&D Systems Engineer Intern (Mechatronics)](https://jobright.ai/jobs/info/68ebeaf776a1db7c598618c5?utm_campaign=1048&utm_source=git)** | Arden Hills, MN | On Site | Oct 12 |
 | ↳ | **[MN Operations Manufacturing Intern 2026](https://jobright.ai/jobs/info/68ebea5e8369791ef78286b6?utm_campaign=1048&utm_source=git)** | Maple Grove, MN | On Site | Oct 12 |
 | ↳ | **[MN Quality Engineering Intern](https://jobright.ai/jobs/info/68ebe8382f64880ca0b5995b?utm_campaign=1048&utm_source=git)** | Maple Grove, MN | On Site | Oct 12 |
@@ -66,8 +67,7 @@ For a complete list, click the following sortable link below:
 | **[MechSpire](https://www.linkedin.com/company/92823876)** | **[Mechanical Engineering Internship Opportunities](https://jobright.ai/jobs/info/68ebe13e2f64880ca0b598ef?utm_campaign=1048&utm_source=git)** | Sidney, OH | Remote | Oct 12 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Research & Development Engineering Intern](https://jobright.ai/jobs/info/68ebdf878369791ef782862c?utm_campaign=1048&utm_source=git)** | Maple Grove, MN | Hybrid | Oct 12 |
 | ↳ | **[Equipment Engineering Mechanical Engineer Intern 2026](https://jobright.ai/jobs/info/68ebdf5176a1db7c59861801?utm_campaign=1048&utm_source=git)** | Maple Grove, MN | On Site | Oct 12 |
-| **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Business AI Analyst](https://jobright.ai/jobs/info/68ebdf4c76a1db7c598617ff?utm_campaign=1048&utm_source=git)** | Holmdel, NJ | Remote | Oct 12 |
-| **[Boston Scientific](http://www.bostonscientific.com)** | **[AIS R&D Leads Sustaining Engineer Intern](https://jobright.ai/jobs/info/68ebdba076a1db7c598617cc?utm_campaign=1048&utm_source=git)** | Arden Hills, MN | On Site | Oct 12 |
+| ↳ | **[AIS R&D Leads Sustaining Engineer Intern](https://jobright.ai/jobs/info/68ebdba076a1db7c598617cc?utm_campaign=1048&utm_source=git)** | Arden Hills, MN | On Site | Oct 12 |
 | ↳ | **[AIS R&D Systems Engineer Intern (EE)](https://jobright.ai/jobs/info/68ebdb5c8369791ef78285b6?utm_campaign=1048&utm_source=git)** | Arden Hills, MN | On Site | Oct 12 |
 | ↳ | **[Cardiac Monitoring Technician - Internship/Apprenticeship](https://jobright.ai/jobs/info/68ebda8c8369791ef782859c?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Oct 12 |
 | **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[Proposal Engineer Intern - Spring 2026](https://jobright.ai/jobs/info/68ebda5c8369791ef782858e?utm_campaign=1048&utm_source=git)** | Cleveland, OH | Remote | Oct 12 |
@@ -84,8 +84,8 @@ For a complete list, click the following sortable link below:
 | **[Kiewit](http://www.kiewit.com)** | **[Engineering Intern - Kiewit Mining Group 2026](https://jobright.ai/jobs/info/68b1f5f0f4e41a61efd81003?utm_campaign=1048&utm_source=git)** | Lone Tree, CO | On Site | Oct 12 |
 | ↳ | **[Engineering Intern - Kiewit Mining Group 2026](https://jobright.ai/jobs/info/68b1eee0bc187f64e1bd7f0a?utm_campaign=1048&utm_source=git)** | Tok, AK | On Site | Oct 12 |
 | **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Structural Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68ebbc0b2f64880ca0b59574?utm_campaign=1048&utm_source=git)** | Grand Forks, ND | On Site | Oct 12 |
-| ↳ | **[Water Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68ebbb6f76a1db7c59861494?utm_campaign=1048&utm_source=git)** | Billings, MT | On Site | Oct 12 |
 | ↳ | **[Civil Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68ebbb6f76a1db7c59861493?utm_campaign=1048&utm_source=git)** | Rapid City, SD | On Site | Oct 12 |
+| ↳ | **[Water Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68ebbb6f76a1db7c59861494?utm_campaign=1048&utm_source=git)** | Billings, MT | On Site | Oct 12 |
 | ↳ | **[Civil Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68ebbb6d8369791ef78282c2?utm_campaign=1048&utm_source=git)** | Fargo, ND | On Site | Oct 12 |
 | **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/68ebbb5b8369791ef78282b9?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 12 |
 | **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Lead & Copper Inventory Internship - Summer 2026](https://jobright.ai/jobs/info/68ebbb1476a1db7c59861465?utm_campaign=1048&utm_source=git)** | Grand Forks, ND | On Site | Oct 12 |
@@ -97,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[Jacobs](http://www.jacobs.com)** | **[Civil Engineering / Transportation Intern - Summer 2026](https://jobright.ai/jobs/info/68b1f5cbf4e41a61efd80fe7?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | On Site | Oct 12 |
 | **[Foley Power Solutions](https://foleypowersolutions.com)** | **[Intern Technician - Park City ThinkBIG Electric Power Generation (EPG) 2026](https://jobright.ai/jobs/info/68eba65776a1db7c598611c7?utm_campaign=1048&utm_source=git)** | Park City, KS | On Site | Oct 12 |
 | ↳ | **[Intern Technician - Topeka ThinkBIG Electric Power Generation (EPG) 2026](https://jobright.ai/jobs/info/68eba64076a1db7c598611c0?utm_campaign=1048&utm_source=git)** | Topeka, KS | On Site | Oct 12 |
-| **[MacLean-Fogg Company](https://macleanfogg.com)** | **[Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68eba58776a1db7c59861174?utm_campaign=1048&utm_source=git)** | Mundelein, IL | On Site | Oct 12 |
 | **[Walbridge](http://www.walbridge.com)** | **[Construction Intern - Summer 2026](https://jobright.ai/jobs/info/68dfa2946be63b6ec997211a?utm_campaign=1048&utm_source=git)** | Georgia, United States | On Site | Oct 12 |
 | **[Thornton Tomasetti](http://www.thorntontomasetti.com)** | **[Structural Engineer Intern](https://jobright.ai/jobs/info/68cecaf4846f0b04af67ceda?utm_campaign=1048&utm_source=git)** | Miami, FL | On Site | Oct 12 |
 | **[Milliken Chemical](https://www.milliken.com/en-us/businesses/chemical)** | **[Cushman Intern](https://jobright.ai/jobs/info/68eb960b76a1db7c59860ebb?utm_campaign=1048&utm_source=git)** | Williamston, SC | On Site | Oct 12 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[NYC Department of Environmental Protection (NYC DEP)](http://nyc.gov/dep)** | **[Environmental Engineering Intern](https://jobright.ai/jobs/info/68ea90732f64880ca0b53789?utm_campaign=1048&utm_source=git)** | Queens, NY | On Site | Oct 11 |
 | **[Carrier](https://www.corporate.carrier.com)** | **[Mechanical Engineering Intern - Summer](https://jobright.ai/jobs/info/68ea8c8476a1db7c5985b78d?utm_campaign=1048&utm_source=git)** | East Syracuse, NY | On Site | Oct 11 |
 | **[Lakeside Foods, Inc.](https://www.lakesidefoods.com)** | **[Field Scout Intern Summer 2026](https://jobright.ai/jobs/info/68ea8b662f64880ca0b53693?utm_campaign=1048&utm_source=git)** | Owatonna, MN | On Site | Oct 11 |
+| **[Carrier](https://www.corporate.carrier.com)** | **[Building Automation Intern - Summer](https://jobright.ai/jobs/info/68ea8a418369791ef7822494?utm_campaign=1048&utm_source=git)** | Chicopee, MA | On Site | Oct 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
