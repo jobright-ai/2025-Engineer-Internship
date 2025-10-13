@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Niagara Bottling](http://www.NiagaraWater.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68ca3e14f61c922772a75881?utm_campaign=1048&utm_source=git)** | Diamond Bar, CA | On Site | Oct 13 |
+| **[Sorcerer](https://sorcerer.earth/)** | **[Engineering Intern (Spring 2026)](https://jobright.ai/jobs/info/68ecb8e01eecd439f43fd8c4?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Oct 13 |
+| **[Ace Precision Machining ](http://aceprecision.com)** | **[Manufacturing Intern / Youth Apprenticeship](https://jobright.ai/jobs/info/68ecb646d4b0106e703eca5b?utm_campaign=1048&utm_source=git)** | Oconomowoc, WI | On Site | Oct 13 |
+| **[ADTEK Engineers](http://adtekengineers.com)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/68ecb616d4b0106e703eca3b?utm_campaign=1048&utm_source=git)** | Upper Marlboro, MD | On Site | Oct 13 |
+| **[Moody's Corporation](http://www.moodys.com)** | **[Data Visualization Engineer Intern](https://jobright.ai/jobs/info/68ecb609d4b0106e703eca33?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Oct 13 |
+| **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Structural Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68ecb5fcd4b0106e703eca2c?utm_campaign=1048&utm_source=git)** | Fargo, ND | On Site | Oct 13 |
+| **[ADTEK Engineers](http://adtekengineers.com)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/68ecb5a2d4b0106e703ec9f7?utm_campaign=1048&utm_source=git)** | Frederick, MD | On Site | Oct 13 |
+| **[empirical Foods](https://empiricalfoods.com/)** | **[Design Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68ecb21d1eecd439f43fd701?utm_campaign=1048&utm_source=git)** | US-SD-Dakota Dunes | On Site | Oct 13 |
+| **[General Dynamics Electric Boat](http://www.gdeb.com/)** | **[COLUMBIA Design & Engineering Program Office - 2026 Summer Internship](https://jobright.ai/jobs/info/68ecb21bc26b9574506f6da4?utm_campaign=1048&utm_source=git)** | US-CT-Groton | On Site | Oct 13 |
+| ↳ | **[COLUMBIA Design & Engineering Program Office - 2026 Summer Internship](https://jobright.ai/jobs/info/68ecb1ed1eecd439f43fd6ec?utm_campaign=1048&utm_source=git)** | EB Groton Shipyard | On Site | Oct 13 |
+| **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[Plastics Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68ecb115c26b9574506f6d62?utm_campaign=1048&utm_source=git)** | Detroit, MI | On Site | Oct 13 |
 | **[Shive-Hattery](http://shive-hattery.com)** | **[Intern- Civil Engineer](https://jobright.ai/jobs/info/68ecb0e11eecd439f43fd6a4?utm_campaign=1048&utm_source=git)** | Madison, WI | Hybrid | Oct 13 |
 | **[Intel Corporation](http://www.intel.com)** | **[Facilities Services - Intern, Graduate](https://jobright.ai/jobs/info/68eca52bc26b9574506f603b?utm_campaign=1048&utm_source=git)** | Folsom, CA | On Site | Oct 13 |
 | **[National Grid](https://www.nationalgrid.com)** | **[Summer 2026 Intern Program: Engineering Majors (Albany, NY)](https://jobright.ai/jobs/info/68eca513c26b9574506f5ff7?utm_campaign=1048&utm_source=git)** | Albany, NY | On Site | Oct 13 |
@@ -131,10 +142,12 @@ For a complete list, click the following sortable link below:
 | **[Horton, Inc.](http://hortonww.com)** | **[Quality Intern (Summer 2026)](https://jobright.ai/jobs/info/68ebc3c48369791ef782839f?utm_campaign=1048&utm_source=git)** | Westminster, SC | On Site | Oct 12 |
 | **[Kiewit](http://www.kiewit.com)** | **[Engineering Intern - Kiewit Mining Group 2026](https://jobright.ai/jobs/info/68b1f5f0f4e41a61efd81003?utm_campaign=1048&utm_source=git)** | Lone Tree, CO | On Site | Oct 12 |
 | ↳ | **[Engineering Intern - Kiewit Mining Group 2026](https://jobright.ai/jobs/info/68b1eee0bc187f64e1bd7f0a?utm_campaign=1048&utm_source=git)** | Tok, AK | On Site | Oct 12 |
+| **[The Whiting-Turner Contracting Company](http://www.whiting-turner.com/)** | **[Construction Intern](https://jobright.ai/jobs/info/68ecc64b6740d11dc54a8464?utm_campaign=1048&utm_source=git)** | Fort Washington, PA | On Site | Oct 12 |
+| **[Momentive](https://www.momentive.com/)** | **[Summer 2026 Global Continuous Improvement & Quality (CIQ) Intern](https://jobright.ai/jobs/info/68dec4ab44d32141e0c02180?utm_campaign=1048&utm_source=git)** | Friendly, WV | On Site | Oct 12 |
 | **[POWER Engineers](http://www.powereng.com)** | **[Civil/Structural Engineering (OH T-Lines) Intern - Summer 2026](https://jobright.ai/jobs/info/68e76bb115da181e7e4ecb61?utm_campaign=1048&utm_source=git)** | Birmingham, AL | On Site | Oct 12 |
 | **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Structural Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68ebbc0b2f64880ca0b59574?utm_campaign=1048&utm_source=git)** | Grand Forks, ND | On Site | Oct 12 |
-| ↳ | **[Water Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68ebbb6f76a1db7c59861494?utm_campaign=1048&utm_source=git)** | Billings, MT | On Site | Oct 12 |
 | ↳ | **[Civil Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68ebbb6f76a1db7c59861493?utm_campaign=1048&utm_source=git)** | Rapid City, SD | On Site | Oct 12 |
+| ↳ | **[Water Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68ebbb6f76a1db7c59861494?utm_campaign=1048&utm_source=git)** | Billings, MT | On Site | Oct 12 |
 | ↳ | **[Civil Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68ebbb6d8369791ef78282c2?utm_campaign=1048&utm_source=git)** | Fargo, ND | On Site | Oct 12 |
 | ↳ | **[Lead & Copper Inventory Internship - Summer 2026](https://jobright.ai/jobs/info/68ebbb1476a1db7c59861465?utm_campaign=1048&utm_source=git)** | Grand Forks, ND | On Site | Oct 12 |
 | ↳ | **[Civil Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68ebb6e78369791ef7828210?utm_campaign=1048&utm_source=git)** | Bismarck, ND | On Site | Oct 12 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Structural Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68ec92e61eecd439f43fa9c2?utm_campaign=1048&utm_source=git)** | Fargo, ND | On Site | Oct 12 |
 | ↳ | **[Water/Wastewater Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68ec8fdf1eecd439f43f9efa?utm_campaign=1048&utm_source=git)** | Maple Grove, MN | On Site | Oct 12 |
 | ↳ | **[Rural Water Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68eca2591eecd439f43fc133?utm_campaign=1048&utm_source=git)** | Williston, ND | On Site | Oct 12 |
-| **[AZCO](http://www.azco-inc.com)** | **[Prefabrication Intern - AZCO (Appleton)](https://jobright.ai/jobs/info/68b1fdcff4e41a61efd8175b?utm_campaign=1048&utm_source=git)** | Appleton, WI | On Site | Oct 12 |
-| **[Jacobs](http://www.jacobs.com)** | **[Civil Engineering / Transportation Intern - Summer 2026](https://jobright.ai/jobs/info/68b1f5cbf4e41a61efd80fe7?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | On Site | Oct 12 |
-| **[Mott MacDonald](https://www.mottmac.com/hungary)** | **[Civil Engineering Internship - 2026](https://jobright.ai/jobs/info/68b24368f4e41a61efd83039?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | On Site | Oct 12 |
-| **[Walbridge](http://www.walbridge.com)** | **[Construction Intern - Summer 2026](https://jobright.ai/jobs/info/68dfa2946be63b6ec997211a?utm_campaign=1048&utm_source=git)** | Georgia, United States | On Site | Oct 12 |
-| **[Thornton Tomasetti](http://www.thorntontomasetti.com)** | **[Structural Engineer Intern](https://jobright.ai/jobs/info/68cecaf4846f0b04af67ceda?utm_campaign=1048&utm_source=git)** | Miami, FL | On Site | Oct 12 |
-| **[Milliken Chemical](https://www.milliken.com/en-us/businesses/chemical)** | **[Cushman Intern](https://jobright.ai/jobs/info/68eb960b76a1db7c59860ebb?utm_campaign=1048&utm_source=git)** | Williamston, SC | On Site | Oct 12 |
-| **[Meta](https://www.meta.com)** | **[Research Scientist Intern, Monetization Generative AI - LLM (PhD)](https://jobright.ai/jobs/info/68cee853dbd9fb154ede3880?utm_campaign=1048&utm_source=git)** | Menlo Park, CA | On Site | Oct 12 |
-| **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Internship, Civil/Structural 2026](https://jobright.ai/jobs/info/689589c44ed2ea559ca56d01?utm_campaign=1048&utm_source=git)** | Newport Beach, CA | On Site | Oct 12 |
-| **[GALLO](http://www.gallocareers.com)** | **[Winemaking & Spirits Distillation Internship 2026 July - December](https://jobright.ai/jobs/info/68eb8c0e8369791ef7827a6a?utm_campaign=1048&utm_source=git)** | Livingston, CA | On Site | Oct 12 |
-| **[Alaska Regional Hospital](https://alaskaregional.com/)** | **[Imaging Student Intern PRN](https://jobright.ai/jobs/info/68eb86d02f64880ca0b58acc?utm_campaign=1048&utm_source=git)** | Anchorage, AK | On Site | Oct 12 |
-| **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Internship/Co-op, Fire Protection 2026](https://jobright.ai/jobs/info/6895892f4ed2ea559ca56cdc?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Oct 12 |
-| **[Elevance Health](https://www.elevancehealth.com)** | **[Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/68eb85cd8369791ef782782a?utm_campaign=1048&utm_source=git)** | Mason, OH | Hybrid | Oct 12 |
-| **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Civil (Transmission) Engineering Intern](https://jobright.ai/jobs/info/68c79d0d7d0db4114273e768?utm_campaign=1048&utm_source=git)** | Lansdale, PA | On Site | Oct 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
