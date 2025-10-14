@@ -57,6 +57,33 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[techolution](http://techolution.com)** | **[Artificial Intelligence Intern](https://jobright.ai/jobs/info/68ee5480d078b81ad1607574?utm_campaign=1048&utm_source=git)** | NYC Metro Area | Hybrid | Oct 14 |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Operations Engineer - Intern](https://jobright.ai/jobs/info/68ee525ee0db924225803362?utm_campaign=1048&utm_source=git)** | Texas | Hybrid | Oct 14 |
+| **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program-ADA QA Specialist-SWACC](https://jobright.ai/jobs/info/68ee51d846e5b153e5a5732c?utm_campaign=1048&utm_source=git)** | Washington, DC | On Site | Oct 14 |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[System Engineer Intern](https://jobright.ai/jobs/info/68ee50ccd078b81ad1606d33?utm_campaign=1048&utm_source=git)** | Alabama | On Site | Oct 14 |
+| **[Raytheon](http://www.bbn.com)** | **[2026 Intern - Raytheon RF Design Electrical Engineer(Onsite)](https://jobright.ai/jobs/info/68ee4fb1d078b81ad16069ab?utm_campaign=1048&utm_source=git)** | Tucson, AZ | On Site | Oct 14 |
+| ↳ | **[2026 Intern - Raytheon RF Antenna & Radome Design Engineer(Onsite)](https://jobright.ai/jobs/info/68ee4f85d078b81ad1606913?utm_campaign=1048&utm_source=git)** | Tucson, AZ | On Site | Oct 14 |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Aeronautical Engineer Intern (Flight Test Engineering) - Intern](https://jobright.ai/jobs/info/68ee4e21e0db9242258029ab?utm_campaign=1048&utm_source=git)** | Maryland | On Site | Oct 14 |
+| **[360 SOC, Inc.](https://360soc.com/)** | **[SOC Analyst Internship](https://jobright.ai/jobs/info/68ee4af9e0db924225802463?utm_campaign=1048&utm_source=git)** | United States | Remote | Oct 14 |
+| **[Foley Power Solutions](https://foleypowersolutions.com)** | **[Intern Technician - Topeka ThinkBIG Electric Power Generation (EPG) 2026](https://jobright.ai/jobs/info/68ee4643e0db924225801b25?utm_campaign=1048&utm_source=git)** | Topeka, KS | On Site | Oct 14 |
+| **[ArchKey Solutions](https://www.archkey.com)** | **[Construction Management Intern - Technologies](https://jobright.ai/jobs/info/68ee428f46e5b153e5a552ff?utm_campaign=1048&utm_source=git)** | DC-Baltimore Area | On Site | Oct 14 |
+| **[Rutherford + Chekene](http://www.ruthchek.com)** | **[Summer Internship: Structural Engineering—Building Systems Group](https://jobright.ai/jobs/info/68ee427746e5b153e5a552ea?utm_campaign=1048&utm_source=git)** | Sacramento, CA | On Site | Oct 14 |
+| **[ArchKey Solutions](https://www.archkey.com)** | **[Construction Management Intern - Technologies](https://jobright.ai/jobs/info/68ee425546e5b153e5a552d0?utm_campaign=1048&utm_source=git)** | Greater St. Louis | On Site | Oct 14 |
+| ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/68ee423546e5b153e5a552bd?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area | On Site | Oct 14 |
+| ↳ | **[Construction Management Intern - Fire & Life Safety](https://jobright.ai/jobs/info/68ee417046e5b153e5a55235?utm_campaign=1048&utm_source=git)** | Greater St. Louis | On Site | Oct 14 |
+| ↳ | **[Construction Management Intern - Fire & Life Safety](https://jobright.ai/jobs/info/68ee417046e5b153e5a55234?utm_campaign=1048&utm_source=git)** | Greater St. Louis | On Site | Oct 14 |
+| ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/68ee4120d078b81ad1604ffc?utm_campaign=1048&utm_source=git)** | Twin Cities Area | On Site | Oct 14 |
+| ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/68ee40fae0db924225800d6d?utm_campaign=1048&utm_source=git)** | Fargo, ND | On Site | Oct 14 |
+| ↳ | **[Construction Management Intern - Technologies](https://jobright.ai/jobs/info/68ee40bee0db924225800cca?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area | On Site | Oct 14 |
+| ↳ | **[Construction Management Intern - Technologies](https://jobright.ai/jobs/info/68ee4081e0db924225800c78?utm_campaign=1048&utm_source=git)** | United States | Remote | Oct 14 |
+| ↳ | **[Construction Management Intern - Technologies](https://jobright.ai/jobs/info/68ee407ad078b81ad1604f25?utm_campaign=1048&utm_source=git)** | Twin Cities Area | On Site | Oct 14 |
+| ↳ | **[Electrical Design Intern](https://jobright.ai/jobs/info/68ee406fd078b81ad1604efa?utm_campaign=1048&utm_source=git)** | DC-Baltimore Area | On Site | Oct 14 |
+| ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/68ee405bd078b81ad1604eb6?utm_campaign=1048&utm_source=git)** | Twin Cities Area | On Site | Oct 14 |
+| **[Rutherford + Chekene](http://www.ruthchek.com)** | **[Summer Internship: Structural Engineering](https://jobright.ai/jobs/info/68ee3ff1d078b81ad1604d90?utm_campaign=1048&utm_source=git)** | Sacramento, CA | On Site | Oct 14 |
+| **[Mott MacDonald](https://www.mottmac.com/hungary)** | **[Water Engineering Internship - 2026](https://jobright.ai/jobs/info/68d1d5a3a54edb3bf3e1689a?utm_campaign=1048&utm_source=git)** | Freehold, NJ | On Site | Oct 14 |
+| **[Carollo Engineers](http://www.carollo.com)** | **[Civil/Environmental Engineering Intern](https://jobright.ai/jobs/info/68d1b3358c62e63bc7fceb7b?utm_campaign=1048&utm_source=git)** | Arlington, VA | On Site | Oct 14 |
+| **[MacLean-Fogg Company](https://macleanfogg.com)** | **[Environmental, Health & Safety (EHS) Internship (Summer 2026)](https://jobright.ai/jobs/info/68ee3c8646e5b153e5a547d4?utm_campaign=1048&utm_source=git)** | Mooresville, NC | On Site | Oct 14 |
+| **[JIO ROBOTICS Academy](www.jiorobotics.com)** | **[Master Graduates Robotics Engineers with Excellent  ROS2 Experience Mandatory ONSITE Only](https://jobright.ai/jobs/info/68ee3a88e0db9242258002fd?utm_campaign=1048&utm_source=git)** | Columbia, MD | On Site | Oct 14 |
 | **[DISH TV](https://www.dish.com)** | **[Spacecraft Operations Intern](https://jobright.ai/jobs/info/68e419911852e62f0080148b?utm_campaign=1048&utm_source=git)** | Gilbert, AZ | On Site | Oct 14 |
 | **[Mativ](https://mativ.com)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/68d1ad9017554c2d9eede881?utm_campaign=1048&utm_source=git)** | Munising, MI | On Site | Oct 14 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Process Engineer 2](https://jobright.ai/jobs/info/689a4bc883d13d1f5b697d58?utm_campaign=1048&utm_source=git)** | Olathe, KS | On Site | Oct 14 |
@@ -82,6 +109,7 @@ For a complete list, click the following sortable link below:
 | **[ALLETE](http://allete.com)** | **[Internship - Engineering](https://jobright.ai/jobs/info/68ee2354e0db9242257fce74?utm_campaign=1048&utm_source=git)** | Cohasset, MN | On Site | Oct 14 |
 | **[DOWL](http://dowl.com)** | **[Survey Intern](https://jobright.ai/jobs/info/68d51dfa24b1ee4c7b664073?utm_campaign=1048&utm_source=git)** | Lake Oswego, OR | On Site | Oct 14 |
 | **[ALLETE](http://allete.com)** | **[Internship - Distribution Engineering](https://jobright.ai/jobs/info/68ee1f67e0db9242257fc38a?utm_campaign=1048&utm_source=git)** | Eveleth, MN | On Site | Oct 14 |
+| **[IBM](http://www.ibm.com)** | **[Intern 2026: Quantum Security tooling](https://jobright.ai/jobs/info/68e33e4af758fe1f97e5c3d9?utm_campaign=1048&utm_source=git)** | Albany, NY | On Site | Oct 14 |
 | **[Trust Automation, Inc.](https://trustautomation.com)** | **[Industrial Engineering Intern](https://jobright.ai/jobs/info/68ee193c70b66e2345d43f7f?utm_campaign=1048&utm_source=git)** | San Luis Obispo, CA | On Site | Oct 14 |
 | **[Federal Office for Defence Procurement armasuisse](https://www.ar.admin.ch/en/home.html)** | **[Internship Uncrewed and Autonomous Systems](https://jobright.ai/jobs/info/68ee192070b66e2345d43f61?utm_campaign=1048&utm_source=git)** | Washington, United States | Hybrid | Oct 14 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[2026 Summer Intern PhD Student - Chemical Process Development](https://jobright.ai/jobs/info/68ee18e170b66e2345d43f12?utm_campaign=1048&utm_source=git)** | New Brunswick, NJ | Hybrid | Oct 14 |
@@ -129,32 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[ASIC/FPGA Design Intern](https://jobright.ai/jobs/info/68edf4206335d3323612d746?utm_campaign=1048&utm_source=git)** | Possible | On Site | Oct 13 |
 | ↳ | **[ASIC/FPGA Design Intern -- Early-Career](https://jobright.ai/jobs/info/68edf40e81fdd1626d3a0f42?utm_campaign=1048&utm_source=git)** | Possible | On Site | Oct 13 |
 | ↳ | **[ASIC/FPGA Design Intern -- Early-Career](https://jobright.ai/jobs/info/68edf3836335d3323612d579?utm_campaign=1048&utm_source=git)** | California | On Site | Oct 13 |
-| ↳ | **[ASIC/FPGA Design Intern](https://jobright.ai/jobs/info/68edf2db70b66e2345d4255c?utm_campaign=1048&utm_source=git)** | California | On Site | Oct 13 |
-| **[City of Lancaster](https://www.cityoflancasterca.org)** | **[Internship - Water/Lead Lines](https://jobright.ai/jobs/info/68edef286335d3323612d3a0?utm_campaign=1048&utm_source=git)** | Lancaster, PA | On Site | Oct 13 |
-| **[HDR](http://www.hdrinc.com)** | **[Electrical Intern](https://jobright.ai/jobs/info/68edeea96335d3323612d353?utm_campaign=1048&utm_source=git)** | Kansas City, MO | On Site | Oct 13 |
-| **[Johns Hopkins Applied Physics Laboratory](http://jhuapl.edu/)** | **[2026 Internship - Advanced Sensor Technologies](https://jobright.ai/jobs/info/68edea556335d3323612d137?utm_campaign=1048&utm_source=git)** | Laurel, MD | On Site | Oct 13 |
-| **[Yates Construction](https://www.wgyates.com)** | **[INTERN](https://jobright.ai/jobs/info/68ede98d6335d3323612cfea?utm_campaign=1048&utm_source=git)** | Las Vegas, NV | On Site | Oct 13 |
-| **[Boston Scientific](http://www.bostonscientific.com)** | **[AIS R&D Engineer Intern (ME - Mat Sci)](https://jobright.ai/jobs/info/68ede59e81fdd1626d3a061e?utm_campaign=1048&utm_source=git)** | Arden Hills, MN | On Site | Oct 13 |
-| **[Posillico Civil, Inc.](http://posillicoinc.com)** | **[Martins 2026 Summer Internship-Engineering](https://jobright.ai/jobs/info/68ede57e70b66e2345d41e9e?utm_campaign=1048&utm_source=git)** | Falls Church, VA | On Site | Oct 13 |
-| **[AMETEK Paragon Medical](https://www.ametekemc.com)** | **[Wallingford Engineering Intern](https://jobright.ai/jobs/info/68ede24181fdd1626d3a058c?utm_campaign=1048&utm_source=git)** | Wallingford, CT | On Site | Oct 13 |
-| **[Key Cooperative](https://keycoop.com)** | **[Agronomist Intern](https://jobright.ai/jobs/info/68ede2306335d3323612cdad?utm_campaign=1048&utm_source=git)** | Iowa, United States | On Site | Oct 13 |
-| **[Alpine, an ITW Company](http://alpineitw.com/)** | **[Structural Engineer Intern](https://jobright.ai/jobs/info/68ede1c370b66e2345d41e23?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | Oct 13 |
-| **[Arc](https://arcboats.com)** | **[Vehicle Engineering Intern](https://jobright.ai/jobs/info/68eddb5870b66e2345d41c0b?utm_campaign=1048&utm_source=git)** | Torrance, CA | On Site | Oct 13 |
-| **[Wichita State University](http://www.wichita.edu)** | **[NIAR ATLAS Student Assistant Mechanical Testing](https://jobright.ai/jobs/info/68edd7fe70b66e2345d41b11?utm_campaign=1048&utm_source=git)** | Wichita, KS | On Site | Oct 13 |
-| **[Pacific Defense](https://www.pacific-defense.com/)** | **[Pacific Defense Internship Opportunities - UCLA](https://jobright.ai/jobs/info/68edd76781fdd1626d3a0108?utm_campaign=1048&utm_source=git)** | El Segundo, CA | On Site | Oct 13 |
-| **[Boston Scientific](http://www.bostonscientific.com)** | **[AIS R&D Technical Communications Intern](https://jobright.ai/jobs/info/68edd6b070b66e2345d4191f?utm_campaign=1048&utm_source=git)** | Arden Hills, MN | Hybrid | Oct 13 |
-| ↳ | **[Equipment Engineering Controls Engineer Intern 2026](https://jobright.ai/jobs/info/68edd68e6335d3323612c7ec?utm_campaign=1048&utm_source=git)** | Maple Grove, MN | On Site | Oct 13 |
-| ↳ | **[R&D Technician Intern, Interventional Oncology & Embolization 2026](https://jobright.ai/jobs/info/68edd65370b66e2345d41861?utm_campaign=1048&utm_source=git)** | Maple Grove, MN | On Site | Oct 13 |
-| ↳ | **[AIS R&D Security Engineer Intern](https://jobright.ai/jobs/info/68edd63b81fdd1626d39fd9a?utm_campaign=1048&utm_source=git)** | Arden Hills, MN | On Site | Oct 13 |
-| ↳ | **[ICTx R&D Science and Materials Intern](https://jobright.ai/jobs/info/68edd61a81fdd1626d39fd20?utm_campaign=1048&utm_source=git)** | Maple Grove, MN | Hybrid | Oct 13 |
-| **[Adobe](http://www.adobe.com)** | **[2026 Intern](https://jobright.ai/jobs/info/68edd1ea81fdd1626d39fc3e?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Oct 13 |
-| **[Praxis Packaging Solutions](https://www.praxispackaging.com)** | **[Safety Intern](https://jobright.ai/jobs/info/68edd17970b66e2345d414ef?utm_campaign=1048&utm_source=git)** | Grand Rapids, MI | On Site | Oct 13 |
-| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Configuration Analyst Intern - Redondo Beach CA - R10210917](https://jobright.ai/jobs/info/68edd17870b66e2345d414ee?utm_campaign=1048&utm_source=git)** | Redondo Beach, CA | On Site | Oct 13 |
-| **[Lamp Rynearson](https://lamprynearson.com/)** | **[Design Engineering Intern](https://jobright.ai/jobs/info/68edd1706335d3323612c3f3?utm_campaign=1048&utm_source=git)** | Fort Collins, CO | On Site | Oct 13 |
-| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Operations Manufacturing Engineering Intern - R10210934](https://jobright.ai/jobs/info/68edd16d81fdd1626d39fbea?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Oct 13 |
-| ↳ | **[2026 Systems Safety Engineering Intern- Huntsville AL - R10210900](https://jobright.ai/jobs/info/68edd0f370b66e2345d41470?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | Oct 13 |
-| ↳ | **[2026 Flight Systems Engineering Intern- Roy UT - R10210902](https://jobright.ai/jobs/info/68edd0ce81fdd1626d39fb7f?utm_campaign=1048&utm_source=git)** | Roy, UT | On Site | Oct 13 |
-| **[Encompass Health](http://encompasshealth.com/)** | **[Supply Chain Student Intern (Summer 2026)](https://jobright.ai/jobs/info/68edd09b70b66e2345d413fe?utm_campaign=1048&utm_source=git)** | Birmingham, AL | On Site | Oct 13 |
-| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Security Engineer](https://jobright.ai/jobs/info/68edd0936335d3323612c2e5?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Oct 13 |
-| ↳ | **[2026 Intern - AI Governance](https://jobright.ai/jobs/info/68edd05d6335d3323612c2ab?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Oct 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
