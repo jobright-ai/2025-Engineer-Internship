@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Davis School District](https://www.davis.k12.ut.us/)** | **[Energy/Security Technician](https://jobright.ai/jobs/info/68f1db5ee6870116b1f5da57?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Oct 16 |
+| **[Eyeline Studios](http://www.eyelinestudios.com/)** | **[Research Intern (Fall 2025/Spring 2026)](https://jobright.ai/jobs/info/68f1db52f462172a5a7dd140?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 16 |
+| **[TikTok](https://www.tiktok.com)** | **[Machine Learning Engineer Intern (Infrastructure Platform) - 2026 Start (PhD)](https://jobright.ai/jobs/info/68f1dacdef766b3f0fd1299a?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Oct 16 |
 | **[GFT](https://www.gftinc.com)** | **[Intern - Mechanical Engineering (Buildings & Facilities)](https://jobright.ai/jobs/info/68f1cf7ae6870116b1f5d5e9?utm_campaign=1048&utm_source=git)** | State College, PA | Hybrid | Oct 16 |
 | **[Benesch](https://www.benesch.com)** | **[Bridge Design Internship](https://jobright.ai/jobs/info/68f1cf1aef766b3f0fd1241e?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Oct 16 |
 | ↳ | **[Railroad Track Design - Civil Engineering Internship](https://jobright.ai/jobs/info/68f1cee7e6870116b1f5d4e1?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | Hybrid | Oct 16 |
@@ -121,7 +124,7 @@ For a complete list, click the following sortable link below:
 | **[Raytheon](http://www.bbn.com)** | **[2026 Intern - Raytheon RF Design Electrical Engineer(Onsite)](https://jobright.ai/jobs/info/68f1a188f462172a5a7daca1?utm_campaign=1048&utm_source=git)** | Tucson, AZ | On Site | Oct 16 |
 | **[Bunge](http://www.bunge.com)** | **[Engineering Operations Intern](https://jobright.ai/jobs/info/68f1a16ce6870116b1f5b3e8?utm_campaign=1048&utm_source=git)** | Council Bluffs, IA | On Site | Oct 16 |
 | **[Delve Underground](http://www.delveunderground.com)** | **[Construction Management Intern/Co-Op](https://jobright.ai/jobs/info/68f1a14cef766b3f0fd10357?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Oct 16 |
-| **[Tencent](https://www.tencent.com/)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/68f1a0fde6870116b1f5b3ab?utm_campaign=1048&utm_source=git)** | US-Washington-Bellevue | On Site | Oct 16 |
+| **[Tencent](https://www.tencent.com/)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/68f1a0ddf462172a5a7dabfb?utm_campaign=1048&utm_source=git)** | US-Washington-Bellevue | On Site | Oct 16 |
 | **[Delve Underground](http://www.delveunderground.com)** | **[Civil Engineer Intern/Co-Op](https://jobright.ai/jobs/info/68f1a0bbf462172a5a7dabd3?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Oct 16 |
 | **[IFF](http://iff.com)** | **[Intern (Co-op) Improvement Engineer - Fall](https://jobright.ai/jobs/info/68f1a09ae6870116b1f5b385?utm_campaign=1048&utm_source=git)** | Rockland, ME, USA | On Site | Oct 16 |
 | **[Bunge](http://www.bunge.com)** | **[Engineering Operations Intern](https://jobright.ai/jobs/info/68f1a08af462172a5a7dab97?utm_campaign=1048&utm_source=git)** | Channahon, IL | On Site | Oct 16 |
@@ -141,7 +144,7 @@ For a complete list, click the following sortable link below:
 | **[Delve Underground](http://www.delveunderground.com)** | **[Construction Management Intern/Co-Op](https://jobright.ai/jobs/info/68f1960aef766b3f0fd0fc03?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Oct 16 |
 | **[MNS Engineers, Inc.](http://mnsengineers.com)** | **[Infrastructure Design Intern 2026 (California / Hybrid)](https://jobright.ai/jobs/info/68f195f2e6870116b1f5ab99?utm_campaign=1048&utm_source=git)** | California / Hybrid | Hybrid | Oct 16 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Electrical Integration Intern - Avionics (Winter 2026)](https://jobright.ai/jobs/info/68f19564f462172a5a7da34c?utm_campaign=1048&utm_source=git)** | San Francisco | On Site | Oct 16 |
-| **[Marvell Technology](https://www.marvell.com/)** | **[Hardware Design Intern - Bachelor's Degree](https://jobright.ai/jobs/info/68f1950ae6870116b1f5aa3e?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Oct 16 |
+| **[Marvell Technology](https://www.marvell.com/)** | **[Hardware Design Intern - Bachelor's Degree](https://jobright.ai/jobs/info/68f19528f462172a5a7da299?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Oct 16 |
 | **[Delve Underground](http://www.delveunderground.com)** | **[Civil Engineer Intern/Co-Op](https://jobright.ai/jobs/info/68f19509f462172a5a7da24e?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Oct 16 |
 | **[American Antiquarian Society](https://www.americanantiquarian.org/)** | **[Conservation Internship (Summer 2026)](https://jobright.ai/jobs/info/68f19503f462172a5a7da23e?utm_campaign=1048&utm_source=git)** | Worcester, MA | On Site | Oct 16 |
 | **[Entergy](https://www.entergy.com)** | **[Student Intern, Nuclear Engineering, Summer 2026](https://jobright.ai/jobs/info/68f194d4f462172a5a7da1b9?utm_campaign=1048&utm_source=git)** | Port Gibson, MS | On Site | Oct 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Micron Technology](http://www.micron.com)** | **[AI for DC & Biz process mgmt. Intern](https://jobright.ai/jobs/info/68f18ff3f462172a5a7d9e6a?utm_campaign=1048&utm_source=git)** | Boise, ID | On Site | Oct 16 |
 | **[Didion](https://www.didioninc.com)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/68f18fecf462172a5a7d9e64?utm_campaign=1048&utm_source=git)** | Cambria, WI | On Site | Oct 16 |
 | **[ASML](https://www.asml.com)** | **[Internship - Materials Engineering - Summer 2026](https://jobright.ai/jobs/info/68f18fe6f462172a5a7d9e5f?utm_campaign=1048&utm_source=git)** | Wilton Center, CT | On Site | Oct 16 |
-| **[Lucid Motors](http://lucidmotors.com)** | **[Intern, Power Electronics Test Engineer, Summer 2026](https://jobright.ai/jobs/info/68f18f52ef766b3f0fd0f5d1?utm_campaign=1048&utm_source=git)** | Newark, CA | On Site | Oct 16 |
-| **[Entergy](https://www.entergy.com)** | **[Student Intern, Power Delivery Engineering, Summer 2026](https://jobright.ai/jobs/info/68f18f01ef766b3f0fd0f59b?utm_campaign=1048&utm_source=git)** | Little Rock, AR | Hybrid | Oct 16 |
-| **[Didion](https://www.didioninc.com)** | **[Chemical Engineering Intern](https://jobright.ai/jobs/info/68f18aebe6870116b1f5a36c?utm_campaign=1048&utm_source=git)** | Cambria, WI | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
