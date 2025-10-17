@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op – Midstream Natural Gas and NGL Services Mechanical/Chemical/Petroleum/Civil/Electrical Engineering (Summer 2026)](https://jobright.ai/jobs/info/68b894d95b42bc4562825e17?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Oct 17 |
+| ↳ | **[Refining Chemical Engineering Intern/Co-op Summer 2026](https://jobright.ai/jobs/info/68a015cdcc9ee94dc911c069?utm_campaign=1048&utm_source=git)** | Findlay, OH | On Site | Oct 17 |
 | **[HDR](http://www.hdrinc.com)** | **[Roadway Intern (Summer 2026)](https://jobright.ai/jobs/info/68d8b51ced09d95201eb63d0?utm_campaign=1048&utm_source=git)** | Cedar Rapids, IA | On Site | Oct 17 |
 | **[Intuitive](https://www.intuitive.com/)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/68dea2c009bda65a4b62c4fc?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA | On Site | Oct 17 |
 | **[Quiddity](https://quiddity.com)** | **[GIS Intern](https://jobright.ai/jobs/info/68d8b8b6eed6e340d9e1d17c?utm_campaign=1048&utm_source=git)** | Katy, TX | On Site | Oct 17 |
@@ -75,7 +77,8 @@ For a complete list, click the following sortable link below:
 | **[Ajinomoto Foods North America, Inc.](https://ajinomotofoods.com)** | **[Packaging Engineer Co-Op/Intern](https://jobright.ai/jobs/info/68f1fde0b2a7144bf268a3ff?utm_campaign=1048&utm_source=git)** | Ontario, CA | On Site | Oct 17 |
 | **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Civil Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68f1fdafb2a7144bf268a3e5?utm_campaign=1048&utm_source=git)** | Bismarck, ND | On Site | Oct 17 |
 | ↳ | **[Rural Water Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68f1fd90b2a7144bf268a3d1?utm_campaign=1048&utm_source=git)** | Williston, ND | On Site | Oct 17 |
-| ↳ | **[Civil Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68f1f709ef766b3f0fd1408c?utm_campaign=1048&utm_source=git)** | Minot, ND | On Site | Oct 17 |
+| **[Kennedy Jenks](https://www.kennedyjenks.com)** | **[2026 Summer Intern - Electrical Engineer](https://jobright.ai/jobs/info/68e847d0c72beb74cb31d409?utm_campaign=1048&utm_source=git)** | Irvine, CA | Hybrid | Oct 17 |
+| **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Civil Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68f1f709ef766b3f0fd1408c?utm_campaign=1048&utm_source=git)** | Minot, ND | On Site | Oct 17 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Cyber Lab Internship - Fall 2025](https://jobright.ai/jobs/info/68f1f019f462172a5a7de381?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | Oct 17 |
 | **[Coca-Cola Beverages Florida](https://cokeflorida.com)** | **[2026 Summer Intern - Engineering](https://jobright.ai/jobs/info/68f1ec06e6870116b1f5e66c?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | Oct 17 |
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Safety Internship](https://jobright.ai/jobs/info/68f1ebf4e6870116b1f5e642?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | On Site | Oct 17 |
@@ -150,11 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Raytheon](http://www.bbn.com)** | **[2026 Intern - Raytheon RF Design Electrical Engineer(Onsite)](https://jobright.ai/jobs/info/68f1a188f462172a5a7daca1?utm_campaign=1048&utm_source=git)** | Tucson, AZ | On Site | Oct 16 |
 | **[Bunge](http://www.bunge.com)** | **[Engineering Operations Intern](https://jobright.ai/jobs/info/68f1a16ce6870116b1f5b3e8?utm_campaign=1048&utm_source=git)** | Council Bluffs, IA | On Site | Oct 16 |
 | **[Delve Underground](http://www.delveunderground.com)** | **[Construction Management Intern/Co-Op](https://jobright.ai/jobs/info/68f1a14cef766b3f0fd10357?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Oct 16 |
-| **[Tencent](https://www.tencent.com/)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/68f1a0ddf462172a5a7dabfb?utm_campaign=1048&utm_source=git)** | US-Washington-Bellevue | On Site | Oct 16 |
+| **[Tencent](https://www.tencent.com/)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/68f1a0fde6870116b1f5b3ab?utm_campaign=1048&utm_source=git)** | US-Washington-Bellevue | On Site | Oct 16 |
 | **[Delve Underground](http://www.delveunderground.com)** | **[Civil Engineer Intern/Co-Op](https://jobright.ai/jobs/info/68f1a0bbf462172a5a7dabd3?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Oct 16 |
 | **[IFF](http://iff.com)** | **[Intern (Co-op) Improvement Engineer - Fall](https://jobright.ai/jobs/info/68f1a09ae6870116b1f5b385?utm_campaign=1048&utm_source=git)** | Rockland, ME, USA | On Site | Oct 16 |
 | **[Bunge](http://www.bunge.com)** | **[Engineering Operations Intern](https://jobright.ai/jobs/info/68f1a08af462172a5a7dab97?utm_campaign=1048&utm_source=git)** | Channahon, IL | On Site | Oct 16 |
-| **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Design Engineering Intern, Material Science (Summer 2026)(Onsite)](https://jobright.ai/jobs/info/68f19f8af462172a5a7daab4?utm_campaign=1048&utm_source=git)** | Burnsville, MN | On Site | Oct 16 |
-| **[Epirus](https://www.epirusinc.com)** | **[AI/ML Intern](https://jobright.ai/jobs/info/68ce660edbd9fb154eddf2bc?utm_campaign=1048&utm_source=git)** | Torrance, CA | On Site | Oct 16 |
-| ↳ | **[Hardware Test Engineering Intern](https://jobright.ai/jobs/info/68cd21401ad6b16f02895663?utm_campaign=1048&utm_source=git)** | Torrance, CA | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
