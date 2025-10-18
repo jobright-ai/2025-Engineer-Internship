@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Cyber Lab Internship - Fall 2025](https://jobright.ai/jobs/info/68f343b59a65fd3458585cce?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | Oct 18 |
+| **[Benesch](https://www.benesch.com)** | **[Water Resources Internship](https://jobright.ai/jobs/info/68c8acf8f9c6ff7aedf11827?utm_campaign=1048&utm_source=git)** | Lincoln, NE | Hybrid | Oct 18 |
+| **[The GSI Group](http://thegsigroup.com/)** | **[Intern, Protein Technical Services](https://jobright.ai/jobs/info/68f33a2e9a63986de757033f?utm_campaign=1048&utm_source=git)** | Sioux City, IA | On Site | Oct 17 |
+| **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[IoT Intern Summer 2026](https://jobright.ai/jobs/info/68f337f29a65fd3458584d8b?utm_campaign=1048&utm_source=git)** | US-TX-Richardson | On Site | Oct 17 |
+| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Technical Support  (Mechanical Engineering)](https://jobright.ai/jobs/info/68f3373e76a51a4307bcc088?utm_campaign=1048&utm_source=git)** | US-VT-Colchester | On Site | Oct 17 |
+| **[Precision Castparts](http://precast.com)** | **[Co-Op Manufacturing Engineering Internship](https://jobright.ai/jobs/info/68f331d99a65fd3458584b3d?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Oct 17 |
+| **[MTS Systems Corporation](http://www.mts.com)** | **[Field Service Engineer Internship - Greater Detroit Region](https://jobright.ai/jobs/info/68f280fd76a51a4307bc4579?utm_campaign=1048&utm_source=git)** | Ypsilanti, MI | On Site | Oct 17 |
 | **[Teva Pharmaceuticals](https://www.tevapharm.com)** | **[Intern - Binding & Cell Bioassay](https://jobright.ai/jobs/info/68f31b859a63986de756f0fa?utm_campaign=1048&utm_source=git)** | West Chester, PA | On Site | Oct 17 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/68c95e38a0c52d598ea36caa?utm_campaign=1048&utm_source=git)** | Charlotte, North Carolina, United States | Hybrid | Oct 17 |
 | **[Siemens](https://www.siemens.com)** | **[Control & Optimization for Smart Grids - Internship](https://jobright.ai/jobs/info/68f31a169a65fd3458583cd2?utm_campaign=1048&utm_source=git)** | Princeton, NJ | On Site | Oct 17 |
@@ -129,7 +136,6 @@ For a complete list, click the following sortable link below:
 | **[Barnard](http://barnard-inc.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/68f2eba19a65fd3458582072?utm_campaign=1048&utm_source=git)** | US | On Site | Oct 17 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Engineering Support - North Tarrant Area Office](https://jobright.ai/jobs/info/68f2eb6676a51a4307bc94f5?utm_campaign=1048&utm_source=git)** | Euless, TX | Hybrid | Oct 17 |
 | **[HDR](http://www.hdrinc.com)** | **[Transportation Intern - Summer 2026](https://jobright.ai/jobs/info/68f2eb029a63986de756d45a?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | Oct 17 |
-| **[ChampionX](https://www.championx.com)** | **[Supply Chain Manufacturing Co-ops/Intern](https://jobright.ai/jobs/info/68f2e9ff76a51a4307bc943e?utm_campaign=1048&utm_source=git)** | Sugar Land, TX | On Site | Oct 17 |
 | **[Foley Power Solutions](https://foleypowersolutions.com)** | **[Intern Technician - Kansas City ThinkBIG Electric Power Generation (EPG) 2026](https://jobright.ai/jobs/info/68f2e99276a51a4307bc93bc?utm_campaign=1048&utm_source=git)** | Kansas City, MO | On Site | Oct 17 |
 | **[AECOM](http://www.aecom.com/)** | **[Water/Wastewater Engineering Intern](https://jobright.ai/jobs/info/68f2e93876a51a4307bc9364?utm_campaign=1048&utm_source=git)** | Chelmsford, MA | On Site | Oct 17 |
 | **[Grain Millers, Inc.](http://grainmillers.com)** | **[Technical Milling Intern](https://jobright.ai/jobs/info/68e50e371852e62f0080b694?utm_campaign=1048&utm_source=git)** | St Ansgar, IA | On Site | Oct 17 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Continental Fire Sprinkler Company](http://www.continental-fire.com/)** | **[Fire Sprinkler Design Intern - Continental](https://jobright.ai/jobs/info/68f2e1589a65fd345858199e?utm_campaign=1048&utm_source=git)** | Hanover, MD | On Site | Oct 17 |
 | ↳ | **[Fire Sprinkler Design Intern - Continental](https://jobright.ai/jobs/info/68f2e0c39a65fd345858194b?utm_campaign=1048&utm_source=git)** | Omaha, NE | On Site | Oct 17 |
 | **[Lake Shore Cryotronics](http://lakeshore.com)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/68f2dfe99a63986de756cd78?utm_campaign=1048&utm_source=git)** | Westerville, OH | On Site | Oct 17 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Collision Technician Trainee (Winter 2026)](https://jobright.ai/jobs/info/68f2de1f9a63986de756cc6e?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Oct 17 |
-| **[Baptist Health - Central Alabama](https://www.baptistfirst.org/baptist-health-neurosurgery-clinic-and-baptist-health-physical-medicine-rehabilitation-clinic/)** | **[Medical Laboratory Scientist Intern](https://jobright.ai/jobs/info/68f2dc5f76a51a4307bc8c4f?utm_campaign=1048&utm_source=git)** | Montgomery, AL | On Site | Oct 17 |
-| **[Skyworks LLC](http://skyworksllc.com)** | **[Co-Op - Test Engineer](https://jobright.ai/jobs/info/68f3220576a51a4307bcb785?utm_campaign=1048&utm_source=git)** | Newbury Park, CA | On Site | Oct 17 |
-| **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Environmental Intern](https://jobright.ai/jobs/info/68f2db8d76a51a4307bc8bec?utm_campaign=1048&utm_source=git)** | Cary, NC | On Site | Oct 17 |
-| **[Riverside Research](http://riversideresearch.org)** | **[Secure Systems Software Intern](https://jobright.ai/jobs/info/68f2d9ee9a65fd3458581780?utm_campaign=1048&utm_source=git)** | Lexington, MA | On Site | Oct 17 |
-| **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Process Engineer Intern](https://jobright.ai/jobs/info/68f2d78276a51a4307bc8b45?utm_campaign=1048&utm_source=git)** | Marion, OH | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
