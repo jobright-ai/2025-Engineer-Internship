@@ -57,8 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oklahoma City Zoo and Botanical Garden](https://www.okczoo.org)** | **[Nutrition Intern - OKC Zoo](https://jobright.ai/jobs/info/68f55e599a63986de7578e0a?utm_campaign=1048&utm_source=git)** | Oklahoma City, OK | On Site | Oct 19 |
+| ↳ | **[Animal Caretaker Birds Intern - OKC Zoo](https://jobright.ai/jobs/info/68f55dac76a51a4307bd4d20?utm_campaign=1048&utm_source=git)** | Oklahoma, United States | On Site | Oct 19 |
+| **[Central Contra Costa Sanitary District](https://www.centralsan.org/)** | **[STUDENT INTERNS - ENGINEERING](https://jobright.ai/jobs/info/68f558219a65fd345858da22?utm_campaign=1048&utm_source=git)** | Martinez, CA | On Site | Oct 19 |
+| **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[Plant Quality Intern - Summer 2026](https://jobright.ai/jobs/info/68f5542276a51a4307bd4c91?utm_campaign=1048&utm_source=git)** | Detroit, MI | On Site | Oct 19 |
+| **[Deca Defense](https://www.decadefense.com/)** | **[Internship \ Software Engineering / MLOps / Deep Learning Infrastructure](https://jobright.ai/jobs/info/68f550a576a51a4307bd4c43?utm_campaign=1048&utm_source=git)** | United States | Remote | Oct 19 |
+| **[Kennedy Jenks](https://www.kennedyjenks.com)** | **[2026 Summer Intern - Electrical Engineer](https://jobright.ai/jobs/info/68e82ca809580a2fe57f4bef?utm_campaign=1048&utm_source=git)** | Oxnard, CA | Hybrid | Oct 19 |
+| **[Meijer](https://www.meijer.com/)** | **[IT Security Intern- Summer 2026](https://jobright.ai/jobs/info/68f54cb776a51a4307bd4ba5?utm_campaign=1048&utm_source=git)** | Grand Rapids, MI | On Site | Oct 19 |
+| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/68f5461d9a65fd345858d848?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Oct 19 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Quality Intern](https://jobright.ai/jobs/info/68f542169a65fd345858d7d0?utm_campaign=1048&utm_source=git)** | Grand Island, NY | On Site | Oct 19 |
-| **[Deca Defense](https://www.decadefense.com/)** | **[Internship / Software Engineering / MLOps / Deep Learning Infrastructure](https://jobright.ai/jobs/info/68f5412676a51a4307bd4a6d?utm_campaign=1048&utm_source=git)** | United States | Remote | Oct 19 |
 | **[InnoMountain](https://www.innomountain-inc.com/)** | **[Hardware Engineering Intern (Wireless Development)](https://jobright.ai/jobs/info/68f53eb19a65fd345858d782?utm_campaign=1048&utm_source=git)** | United States | Remote | Oct 19 |
 | **[Olsson](https://www.olsson.com)** | **[Mechanical Engineering Internship - Data Centers](https://jobright.ai/jobs/info/68b06cb713563e782a9f6176?utm_campaign=1048&utm_source=git)** | Omaha, NE | Hybrid | Oct 19 |
 | **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[Industrial Engineer Intern](https://jobright.ai/jobs/info/68f528a89a65fd345858d43c?utm_campaign=1048&utm_source=git)** | Ada, OK | Remote | Oct 19 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Henkel](http://www.henkel.com)** | **[Product Development Chemist Intern – Year-Round 2026](https://jobright.ai/jobs/info/68ccfea45954791a1d7027d8?utm_campaign=1048&utm_source=git)** | Irvine, CA | Hybrid | Oct 19 |
 | **[RWJBarnabas Health](https://www.rwjbarnabashealthcareers.org/)** | **[Intern](https://jobright.ai/jobs/info/68cc36187342c7623ae60f4f?utm_campaign=1048&utm_source=git)** | Jersey City, NJ | On Site | Oct 19 |
 | **[Dexter](https://www.dexteraxle.com/)** | **[Supply Chain / Procurement Intern - Summer 2026](https://jobright.ai/jobs/info/68db57cbe19b9e63ba20b068?utm_campaign=1048&utm_source=git)** | Elkhart, IN | On Site | Oct 19 |
-| **[Ecolab](http://www.ecolab.com)** | **[Supply Chain Intern - Engineering and Business Majors](https://jobright.ai/jobs/info/68a0244583d13d1f5b6ce6e0?utm_campaign=1048&utm_source=git)** | City of Industry, CA | On Site | Oct 19 |
-| **[Arm](http://www.arm.com)** | **[Intern Hardware Engineer](https://jobright.ai/jobs/info/68cde9711ad6b16f0289fe2f?utm_campaign=1048&utm_source=git)** | San Jose, CA | Hybrid | Oct 19 |
-| **[Copeland](https://www.copeland.com)** | **[Spring (Jan 5 - May 11) - 2026 Advanced Manufacturing Internship](https://jobright.ai/jobs/info/68cf4f87dbd9fb154ede63c8?utm_campaign=1048&utm_source=git)** | Sidney, OH | On Site | Oct 19 |
-| **[Safran Defense & Space, Inc.](https://www.safran-dsi.com/)** | **[Engineering Internship - Summer 2026 (Space Solutions)](https://jobright.ai/jobs/info/68ce05ad1ad6b16f028a10cb?utm_campaign=1048&utm_source=git)** | Parker, CO | On Site | Oct 19 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/68d45c868c62e63bc7fe8b24?utm_campaign=1048&utm_source=git)** | Marietta, OH | On Site | Oct 19 |
-| ↳ | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/68cde1bdb2a74e1837edd1d9?utm_campaign=1048&utm_source=git)** | Bedford, MA | On Site | Oct 19 |
-| **[Polaris Inc.](https://www.polaris.com)** | **[Intern, Production](https://jobright.ai/jobs/info/682f7ff2f5fecbead929d012?utm_campaign=1048&utm_source=git)** | Roseau, MN | On Site | Oct 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
