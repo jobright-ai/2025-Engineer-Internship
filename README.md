@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Yates Construction](https://www.wgyates.com)** | **[INTERN](https://jobright.ai/jobs/info/68f427019a63986de7574481?utm_campaign=1048&utm_source=git)** | Las Vegas, NV | On Site | Oct 18 |
+| **[Systems Planning & Analysis](http://www.spa.com)** | **[Intern 2025 AUKUS - Technical Degrees](https://jobright.ai/jobs/info/68f4213876a51a4307bd04cf?utm_campaign=1048&utm_source=git)** | Alexandria, VA | On Site | Oct 18 |
+| ↳ | **[Military Operations Intern](https://jobright.ai/jobs/info/68f420e176a51a4307bd04bd?utm_campaign=1048&utm_source=git)** | Alexandria, VA | On Site | Oct 18 |
+| ↳ | **[Program Intern - Summer 2026](https://jobright.ai/jobs/info/68f4208f9a65fd345858914f?utm_campaign=1048&utm_source=git)** | District of Columbia, United States | On Site | Oct 18 |
+| **[DLR Group](http://www.dlrgroup.com/)** | **[Structural Engineering Intern CA](https://jobright.ai/jobs/info/68c9b28d95f5211cd2cf305e?utm_campaign=1048&utm_source=git)** | Los Angeles, California, United States | Hybrid | Oct 18 |
+| **[RF-SMART](http://rfsmart.com/)** | **[Software Support Engineer Internship- Spring 2025](https://jobright.ai/jobs/info/686ff8da06ad7073463ba15e?utm_campaign=1048&utm_source=git)** | Highlands Ranch, Colorado, United States | On Site | Oct 18 |
+| **[Helion](http://www.helionenergy.com)** | **[Nuclear Engineering Summer 2026 Intern](https://jobright.ai/jobs/info/68e93bf665768b6412b19a56?utm_campaign=1048&utm_source=git)** | Everett, WA | On Site | Oct 18 |
 | **[Systems Planning & Analysis](http://www.spa.com)** | **[Military Operations Intern](https://jobright.ai/jobs/info/68f40b8c76a51a4307bd03b3?utm_campaign=1048&utm_source=git)** | Alexandria, Virginia | On Site | Oct 18 |
 | ↳ | **[Intern 2025 AUKUS - Technical Degrees](https://jobright.ai/jobs/info/68f40b369a63986de757433b?utm_campaign=1048&utm_source=git)** | Alexandria, Virginia | On Site | Oct 18 |
 | ↳ | **[Program Intern - Summer 2026](https://jobright.ai/jobs/info/68f40b329a63986de757433a?utm_campaign=1048&utm_source=git)** | Washington, DC, United States | On Site | Oct 18 |
@@ -84,6 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Terracon](https://www.terracon.com/about/foundation/)** | **[Intern](https://jobright.ai/jobs/info/68f3bd999a65fd3458588471?utm_campaign=1048&utm_source=git)** | Sacramento, CA | On Site | Oct 18 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68f3bd7b9a65fd3458588465?utm_campaign=1048&utm_source=git)** | Sacramento, CA | On Site | Oct 18 |
 | **[DuPont](http://www.dupont.com)** | **[2026 Entry Level Engineering Direct Hire Opportunities](https://jobright.ai/jobs/info/68f3bd559a65fd345858844e?utm_campaign=1048&utm_source=git)** | Wilmington, DE | On Site | Oct 18 |
+| **[Terracon](https://www.terracon.com/about/foundation/)** | **[Intern](https://jobright.ai/jobs/info/68f3bd3d9a65fd3458588443?utm_campaign=1048&utm_source=git)** | Lodi, CA | On Site | Oct 18 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Civil Engineer Intern - Water](https://jobright.ai/jobs/info/68d76bd3295f8e37655d873a?utm_campaign=1048&utm_source=git)** | Creve Coeur, MO | Hybrid | Oct 18 |
 | **[Terracon](https://www.terracon.com/about/foundation/)** | **[Construction Materials Testing Intern](https://jobright.ai/jobs/info/68f3bc769a63986de7573719?utm_campaign=1048&utm_source=git)** | Morgantown, WV | On Site | Oct 18 |
 | **[MechNova](mechnova.us)** | **[Electrical Engineering Intern - IT](https://jobright.ai/jobs/info/68f3bc6676a51a4307bcf7be?utm_campaign=1048&utm_source=git)** | Pennsylvania, United States | Remote | Oct 18 |
@@ -103,16 +111,13 @@ For a complete list, click the following sortable link below:
 | **[Black & Veatch](http://bv.com/Home)** | **[Civil Engineer Intern - Water](https://jobright.ai/jobs/info/68d7671661a175619f8cbb22?utm_campaign=1048&utm_source=git)** | Kansas City, MO | Hybrid | Oct 18 |
 | **[DuPont](http://www.dupont.com)** | **[2026 Entry Level Rotational Program: Chemical, Mechanical & Electrical Engineering](https://jobright.ai/jobs/info/68f3babf9a63986de7573645?utm_campaign=1048&utm_source=git)** | Newark, DE | On Site | Oct 18 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Lending Automation Technology & Solutions)](https://jobright.ai/jobs/info/68cc920b16d00d2beeb217fd?utm_campaign=1048&utm_source=git)** | Winchester, VA | On Site | Oct 18 |
-| **[Terracon](https://www.terracon.com/about/foundation/)** | **[Intern](https://jobright.ai/jobs/info/68f3ba7676a51a4307bcf6a4?utm_campaign=1048&utm_source=git)** | Lodi, CA | On Site | Oct 18 |
 | **[DuPont](http://www.dupont.com)** | **[2026 Spring Co-Op: Supply Chain, Logistics, Procurement and Industrial Engineering.](https://jobright.ai/jobs/info/68f3ba7176a51a4307bcf6a3?utm_campaign=1048&utm_source=git)** | Wilmington, DE | On Site | Oct 18 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Network Strategy & Solutions)](https://jobright.ai/jobs/info/68cd9506e23def7af55bc1d1?utm_campaign=1048&utm_source=git)** | Vienna, VA | On Site | Oct 18 |
-| **[MillerKnoll](http://www.millerknoll.com/)** | **[Assistant Design and Construction PM Intern](https://jobright.ai/jobs/info/68f405e09a65fd3458588fcb?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Oct 18 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Civil Engineer Intern - Water](https://jobright.ai/jobs/info/68d76656295f8e37655d7deb?utm_campaign=1048&utm_source=git)** | San Antonio, TX | Hybrid | Oct 18 |
 | ↳ | **[Civil Engineer Intern - Water](https://jobright.ai/jobs/info/68d76bb1295f8e37655d8655?utm_campaign=1048&utm_source=git)** | Oklahoma City, OK | Hybrid | Oct 18 |
 | ↳ | **[Civil Engineer Intern - Water](https://jobright.ai/jobs/info/68d7670f295f8e37655d8127?utm_campaign=1048&utm_source=git)** | Charlotte, TX | Hybrid | Oct 18 |
 | **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Timing Customer Applications Summer Intern (Hardware)-- May'26-Aug '26](https://jobright.ai/jobs/info/689e95bc83d13d1f5b6bdd6f?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Oct 18 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Civil Engineer Intern - Water](https://jobright.ai/jobs/info/68d76bd3295f8e37655d873b?utm_campaign=1048&utm_source=git)** | Columbus, OH | Hybrid | Oct 18 |
-| **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[Mechanical Engineer-Intern](https://jobright.ai/jobs/info/68f3b75276a51a4307bcf655?utm_campaign=1048&utm_source=git)** | Ada, MI | Remote | Oct 18 |
 | **[MercyOne](https://www.mercyone.org/)** | **[RN Intern- Cardiac Cath Lab](https://jobright.ai/jobs/info/68c28a988753a565272fae79?utm_campaign=1048&utm_source=git)** | Mason City, IA | On Site | Oct 18 |
 | **[ABB](https://global.abb/group/en)** | **[Field Application Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/68e43875b99ec3563b0e79be?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Oct 18 |
 | **[MechSpire](https://www.linkedin.com/company/92823876)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/68f3b6f49a65fd345858831a?utm_campaign=1048&utm_source=git)** | Pennsylvania, United States | Remote | Oct 18 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Black & Veatch](http://bv.com/Home)** | **[Civil Engineer Intern - Water](https://jobright.ai/jobs/info/68d76b0861a175619f8ccab6?utm_campaign=1048&utm_source=git)** | Walnut Creek, CA | Hybrid | Oct 18 |
 | **[Momentive](https://www.momentive.com/)** | **[Summer 2026 Graduate (MS/PhD) R&D Intern - Hardcoat Research and Development](https://jobright.ai/jobs/info/68e6aeb11852e62f0081d4f9?utm_campaign=1048&utm_source=git)** | Waterford, NY | On Site | Oct 18 |
 | **[FlatironDragados](http://www.fdcorp.com)** | **[Field Engineer Intern](https://jobright.ai/jobs/info/68d0fd9ff1976376178f15bb?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Oct 18 |
-| **[Ferrovias](ferrovias.us)** | **[2026 Mechanical Engineering Intern](https://jobright.ai/jobs/info/68f3b0189a63986de7573499?utm_campaign=1048&utm_source=git)** | Lancaster, PA | Remote | Oct 18 |
-| **[Kiewit](http://www.kiewit.com)** | **[Field/Office Engineer Intern - South Central District Summer 2026](https://jobright.ai/jobs/info/68f3aff39a65fd34585881d6?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Oct 18 |
-| **[Swinerton](http://www.swinerton.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/68ce911bdbd9fb154ede0d4d?utm_campaign=1048&utm_source=git)** | Raleigh, NC | On Site | Oct 18 |
-| **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Transmission & Distribution Engineer Intern - Grid (Summer 2026)](https://jobright.ai/jobs/info/68eb297a2f64880ca0b558ce?utm_campaign=1048&utm_source=git)** | Charlotte, NC | Hybrid | Oct 18 |
-| **[Black & Veatch](http://bv.com/Home)** | **[Civil Engineer Intern - Water](https://jobright.ai/jobs/info/68d76cc27a37c712687cc85d?utm_campaign=1048&utm_source=git)** | Austin, TX | Hybrid | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
