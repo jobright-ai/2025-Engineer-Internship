@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Electrical Engineering Internship - Spring 2026](https://jobright.ai/jobs/info/68f525ee9a65fd345858d424?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | Oct 19 |
+| ↳ | **[IAE Mechanical Engineering Internship - Spring 2026](https://jobright.ai/jobs/info/68f5218976a51a4307bd46f9?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | Oct 19 |
+| **[Lake Country Power](https://www.lakecountrypower.coop/)** | **[Electrical Lineworker](https://jobright.ai/jobs/info/68f5141376a51a4307bd461b?utm_campaign=1048&utm_source=git)** | Cohasset, MN | On Site | Oct 19 |
+| **[Siemens](https://www.siemens.com)** | **[Protection & Automation Engineering Summer - Fall 2026 Internship](https://jobright.ai/jobs/info/68f50aa676a51a4307bd45ce?utm_campaign=1048&utm_source=git)** | Wendell, NC | On Site | Oct 19 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Civil Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/689fbeecfaa4e875e828adb7?utm_campaign=1048&utm_source=git)** | Washington, DC | Hybrid | Oct 19 |
 | **[Align Technology](http://www.aligntech.com)** | **[Materials Engineer Intern](https://jobright.ai/jobs/info/68cd83651ad6b16f0289ac35?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Oct 19 |
 | ↳ | **[System Analyst ERP - Intern](https://jobright.ai/jobs/info/68d167528c62e63bc7fcaf54?utm_campaign=1048&utm_source=git)** | Morrisville, NC | On Site | Oct 19 |
@@ -131,6 +135,7 @@ For a complete list, click the following sortable link below:
 | **[Shure Incorporated](http://www.shure.com)** | **[Corporate Quality Engineering Intern](https://jobright.ai/jobs/info/68bb7b3e8043103d4f228f31?utm_campaign=1048&utm_source=git)** | Niles, IL | Hybrid | Oct 19 |
 | **[Henkel](http://www.henkel.com)** | **[Application Engineering Intern - Year-Round - 2026](https://jobright.ai/jobs/info/68cf5c40dbd9fb154ede7457?utm_campaign=1048&utm_source=git)** | Madison Heights, MI | On Site | Oct 19 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/68d01690dbd9fb154eded2b0?utm_campaign=1048&utm_source=git)** | Niles, IL | Hybrid | Oct 19 |
+| **[RS&H](http://www.rsandh.com/)** | **[Civil Engineering Intern (Highway) - Summer 2026](https://jobright.ai/jobs/info/689f79c0b3e889632cf076ee?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | Oct 19 |
 | **[Copeland](https://www.copeland.com)** | **[Summer (May 18 - Aug 14) -2026- Advanced Manufacturing Engineering Internship](https://jobright.ai/jobs/info/68bb916c5f38327491870490?utm_campaign=1048&utm_source=git)** | Sidney, OH | On Site | Oct 19 |
 | **[Ecolab](http://www.ecolab.com)** | **[Supply Chain Intern - Engineering and Business Majors](https://jobright.ai/jobs/info/68a0290dfaa4e875e828eece?utm_campaign=1048&utm_source=git)** | Joliet, IL | On Site | Oct 19 |
 | **[Kiewit](http://www.kiewit.com)** | **[Electrical Design Intern - Kiewit Nuclear Solutions](https://jobright.ai/jobs/info/68d87d527796a83635f11837?utm_campaign=1048&utm_source=git)** | Oak Ridge, TN | On Site | Oct 19 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Construction](https://jobright.ai/jobs/info/68dce031ddc10244dd67b36e?utm_campaign=1048&utm_source=git)** | Indianapolis, IN | On Site | Oct 19 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Intern - Test Engineer (Fleet IT), Summer 2026](https://jobright.ai/jobs/info/68bbc3978043103d4f22c5d4?utm_campaign=1048&utm_source=git)** | St Louis, MO | Hybrid | Oct 19 |
 | **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Construction Intern](https://jobright.ai/jobs/info/68cd5c9fe23def7af55b8bf4?utm_campaign=1048&utm_source=git)** | Mobile, AL | On Site | Oct 19 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/68d6ca8ad3fe025a3015c125?utm_campaign=1048&utm_source=git)** | Rockford, IL | On Site | Oct 19 |
-| **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Purchasing](https://jobright.ai/jobs/info/68db513de19b9e63ba20ac23?utm_campaign=1048&utm_source=git)** | Myrtle Beach, SC | On Site | Oct 19 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Quality Intern](https://jobright.ai/jobs/info/68ec7c19d4b0106e703e8358?utm_campaign=1048&utm_source=git)** | Logan, UT | On Site | Oct 19 |
-| ↳ | **[Quality Intern](https://jobright.ai/jobs/info/68d2e43217554c2d9eeeb5e2?utm_campaign=1048&utm_source=git)** | Middleton, WI | On Site | Oct 19 |
-| **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Data Engineering](https://jobright.ai/jobs/info/68cd96c9b2a74e1837ed93ff?utm_campaign=1048&utm_source=git)** | Bentonville, AR | On Site | Oct 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
