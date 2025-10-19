@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Robotics Internship - Spring 2026](https://jobright.ai/jobs/info/68f47c4b9a63986de7575c04?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | Oct 18 |
+| **[Advanced Agrilytics](http://advancedagrilytics.com/)** | **[Field Specialist Intern (Summer 2026)](https://jobright.ai/jobs/info/68f468cc9a65fd345858a110?utm_campaign=1048&utm_source=git)** | United States | On Site | Oct 18 |
 | **[Mercedes-Benz Vans, LLC (Charleston, SC)](https://mbvcharleston.com)** | **[Assembly Production Engineer - Intern](https://jobright.ai/jobs/info/68e2d35c1852e62f007f8831?utm_campaign=1048&utm_source=git)** | Charleston, SC | On Site | Oct 18 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Intern, Agriculture Field Operations](https://jobright.ai/jobs/info/68f455b876a51a4307bd0c2f?utm_campaign=1048&utm_source=git)** | Browns, IL | On Site | Oct 18 |
 | **[Meta](https://www.meta.com)** | **[Research Scientist Intern, Multimodal Eye Tracking Algorithms (PhD)](https://jobright.ai/jobs/info/68f451e39a65fd34585897c2?utm_campaign=1048&utm_source=git)** | Redmond, WA | On Site | Oct 18 |
@@ -104,14 +106,12 @@ For a complete list, click the following sortable link below:
 | **[Axcelis Technologies](http://www.axcelis.com)** | **[Engineering Co-op](https://jobright.ai/jobs/info/68f3f0cc9a65fd3458588c35?utm_campaign=1048&utm_source=git)** | Beverly, MA | On Site | Oct 18 |
 | **[Wind Energy Transmission Texas, LLC](http://www.windenergyoftexas.com)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/68f3eff576a51a4307bcff7f?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Oct 18 |
 | **[TKDA](http://tkda.com)** | **[2026 Summer Intern - Civil Engineering, Aviation](https://jobright.ai/jobs/info/68f3e8669a65fd3458588aac?utm_campaign=1048&utm_source=git)** | MSP - Bloomington, Minnesota | Hybrid | Oct 18 |
-| **[CliquePrize - Local Giveaway Marketing for Small Businesses](https://www.cliqueprize.com)** | **[WordPress Developer College Intern](https://jobright.ai/jobs/info/68f3e06a76a51a4307bcfd71?utm_campaign=1048&utm_source=git)** | United States | Remote | Oct 18 |
-| **[Pinnova](https://www.linkedin.com/company/87987033)** | **[Process Engineer Intern](https://jobright.ai/jobs/info/68f3dcbc76a51a4307bcfc79?utm_campaign=1048&utm_source=git)** | Ada, MI | Remote | Oct 18 |
 | **[Northmere Solutions](https://www.linkedin.com/company/104898627)** | **[Power Electronics Intern - Spring 2026](https://jobright.ai/jobs/info/68f3c7d69a63986de7573888?utm_campaign=1048&utm_source=git)** | Raleigh, NC | Remote | Oct 18 |
 | **[PJ Wallbank Springs, Inc.](https://www.pjws.com)** | **[2026 PJWS Summer Engineering Intern Academy](https://jobright.ai/jobs/info/68f3c43376a51a4307bcf8b9?utm_campaign=1048&utm_source=git)** | Port Huron, MI | On Site | Oct 18 |
 | **[Rehrig Pacific Company](http://www.rehrigpacific.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/68f3c3e89a63986de7573800?utm_campaign=1048&utm_source=git)** | Pleasant Prairie, WI | On Site | Oct 18 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Water Resources Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/68ce395db2a74e1837ee0a05?utm_campaign=1048&utm_source=git)** | Dallas, TX | Hybrid | Oct 18 |
 | **[DuPont](http://www.dupont.com)** | **[2026 Summer Intern/Co-Op: Supply Chain, Logistics, Procurement and Industrial Engineering.](https://jobright.ai/jobs/info/68f3bd9d9a65fd3458588472?utm_campaign=1048&utm_source=git)** | Wilmington, DE | On Site | Oct 18 |
-| **[Terracon](https://www.terracon.com/about/foundation/)** | **[Intern](https://jobright.ai/jobs/info/68f3bd999a65fd3458588471?utm_campaign=1048&utm_source=git)** | Sacramento, CA | On Site | Oct 18 |
+| **[Terracon](https://www.terracon.com/about/foundation/)** | **[Intern](https://jobright.ai/jobs/info/68f3bd7b9a65fd3458588465?utm_campaign=1048&utm_source=git)** | Sacramento, CA | On Site | Oct 18 |
 | **[DuPont](http://www.dupont.com)** | **[2026 Entry Level Engineering Direct Hire Opportunities](https://jobright.ai/jobs/info/68f3bd559a65fd345858844e?utm_campaign=1048&utm_source=git)** | Wilmington, DE | On Site | Oct 18 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Civil Engineer Intern - Water](https://jobright.ai/jobs/info/68d76bd3295f8e37655d873a?utm_campaign=1048&utm_source=git)** | Creve Coeur, MO | Hybrid | Oct 18 |
 | **[Terracon](https://www.terracon.com/about/foundation/)** | **[Construction Materials Testing Intern](https://jobright.ai/jobs/info/68f3bc769a63986de7573719?utm_campaign=1048&utm_source=git)** | Morgantown, WV | On Site | Oct 18 |
