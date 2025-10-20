@@ -57,10 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Selfin (YC F25)](https://selfin.app)** | **[Summer Intern](https://jobright.ai/jobs/info/68f578e99a63986de7578fff?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area | On Site | Oct 19 |
+| **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Intern/Co-Op – Civil/Geotechnical Engineering](https://jobright.ai/jobs/info/68f594709a65fd345858deeb?utm_campaign=1048&utm_source=git)** | Walnut Creek, CA | On Site | Oct 19 |
+| ↳ | **[Intern/Co-Op – Civil/Geotechnical Engineering](https://jobright.ai/jobs/info/68f593e79a65fd345858dec9?utm_campaign=1048&utm_source=git)** | Oakland, CA | On Site | Oct 19 |
+| **[Legrand, North America](http://www.legrand.us)** | **[Maintenance/Tooling Intern](https://jobright.ai/jobs/info/68f58f439a63986de757919e?utm_campaign=1048&utm_source=git)** | Concord, NC | On Site | Oct 19 |
+| ↳ | **[Safety Intern](https://jobright.ai/jobs/info/68f58f2876a51a4307bd50d9?utm_campaign=1048&utm_source=git)** | Concord, NC | On Site | Oct 19 |
+| ↳ | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/68f58efd76a51a4307bd50cc?utm_campaign=1048&utm_source=git)** | Concord, NC | On Site | Oct 19 |
+| ↳ | **[Information Systems Intern](https://jobright.ai/jobs/info/68f58bd79a63986de7579150?utm_campaign=1048&utm_source=git)** | Concord, NC | On Site | Oct 19 |
+| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Summer 2026 Cybersecurity Associate Internship](https://jobright.ai/jobs/info/68f5872976a51a4307bd502b?utm_campaign=1048&utm_source=git)** | USA VA Falls Church | Hybrid | Oct 19 |
+| **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Advanced Technology Intern - Summer 2026](https://jobright.ai/jobs/info/68f587229a63986de75790f1?utm_campaign=1048&utm_source=git)** | US-TX-Carrollton | On Site | Oct 19 |
+| **[Foley Power Solutions](https://foleypowersolutions.com)** | **[Intern Technician - Kansas City ThinkBIG Electric Power Generation (EPG) 2026](https://jobright.ai/jobs/info/68f5820d76a51a4307bd4f99?utm_campaign=1048&utm_source=git)** | Kansas City, MO | On Site | Oct 19 |
+| **[C&S Wholesale Grocers](http://www.cswg.com)** | **[Industrial Engineer Intern- Summer 2026](https://jobright.ai/jobs/info/68f5819676a51a4307bd4f86?utm_campaign=1048&utm_source=git)** | United States | Hybrid | Oct 19 |
 | **[Yates Construction](https://www.wgyates.com)** | **[INTERN](https://jobright.ai/jobs/info/68f578c79a63986de7578ff6?utm_campaign=1048&utm_source=git)** | Las Vegas, NV | On Site | Oct 19 |
 | **[Enviva](https://www.envivabiomass.com)** | **[Forest Management/Fiber Supply Internship - 2026 Summer](https://jobright.ai/jobs/info/68f576429a65fd345858dc68?utm_campaign=1048&utm_source=git)** | Raleigh, NC | On Site | Oct 19 |
-| **[Chimera Rocket Labs](https://chimerarocketlabs.com/)** | **[Data Engineer Intern](https://jobright.ai/jobs/info/68f576269a65fd345858dc62?utm_campaign=1048&utm_source=git)** | United States | Remote | Oct 19 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Intern/Co-Op – Civil/Geotechnical Engineering](https://jobright.ai/jobs/info/68f56ccd9a63986de7578f5b?utm_campaign=1048&utm_source=git)** | US-CA-Oakland | On Site | Oct 19 |
 | ↳ | **[Intern/Co-Op – Civil/Geotechnical Engineering](https://jobright.ai/jobs/info/68f56ccc76a51a4307bd4e84?utm_campaign=1048&utm_source=git)** | US-CA-Walnut Creek | On Site | Oct 19 |
 | **[Klaviyo](http://www.klaviyo.com)** | **[Machine Learning Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/68d2eba417554c2d9eeeb84a?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Oct 19 |
@@ -70,7 +78,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Information Systems Intern](https://jobright.ai/jobs/info/68f564f776a51a4307bd4dc8?utm_campaign=1048&utm_source=git)** | US-NC-Concord | On Site | Oct 19 |
 | **[Oklahoma City Zoo and Botanical Garden](https://www.okczoo.org)** | **[Nutrition Intern - OKC Zoo](https://jobright.ai/jobs/info/68f55e599a63986de7578e0a?utm_campaign=1048&utm_source=git)** | Oklahoma City, OK | On Site | Oct 19 |
 | ↳ | **[Animal Caretaker Birds Intern - OKC Zoo](https://jobright.ai/jobs/info/68f55dac76a51a4307bd4d20?utm_campaign=1048&utm_source=git)** | Oklahoma, United States | On Site | Oct 19 |
-| **[Central Contra Costa Sanitary District](https://www.centralsan.org/)** | **[STUDENT INTERNS - ENGINEERING](https://jobright.ai/jobs/info/68f558219a65fd345858da22?utm_campaign=1048&utm_source=git)** | Martinez, CA | On Site | Oct 19 |
 | **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[Plant Quality Intern - Summer 2026](https://jobright.ai/jobs/info/68f5542276a51a4307bd4c91?utm_campaign=1048&utm_source=git)** | Detroit, MI | On Site | Oct 19 |
 | **[Kennedy Jenks](https://www.kennedyjenks.com)** | **[2026 Summer Intern - Electrical Engineer](https://jobright.ai/jobs/info/68e82ca809580a2fe57f4bef?utm_campaign=1048&utm_source=git)** | Oxnard, CA | Hybrid | Oct 19 |
 | **[Meijer](https://www.meijer.com/)** | **[IT Security Intern- Summer 2026](https://jobright.ai/jobs/info/68f54cb776a51a4307bd4ba5?utm_campaign=1048&utm_source=git)** | Grand Rapids, MI | On Site | Oct 19 |
@@ -119,8 +126,7 @@ For a complete list, click the following sortable link below:
 | **[Ecolab](http://www.ecolab.com)** | **[Supply Chain Intern - Engineering and Business Majors](https://jobright.ai/jobs/info/68a02706cc9ee94dc911d6ed?utm_campaign=1048&utm_source=git)** | Elk Grove Village, IL | On Site | Oct 19 |
 | **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship - Research & Development (BS/MS)](https://jobright.ai/jobs/info/68e60b5e1852e62f00817b9d?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Oct 19 |
 | **[Kiewit](http://www.kiewit.com)** | **[Electrical Design Intern - Kiewit Nuclear Solutions](https://jobright.ai/jobs/info/68d87d507796a83635f11832?utm_campaign=1048&utm_source=git)** | Lenexa, KS | On Site | Oct 19 |
-| **[MechNova](mechnova.us)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/68f4f9a476a51a4307bd4367?utm_campaign=1048&utm_source=git)** | Hilliard, OH | Remote | Oct 19 |
-| **[Kiewit](http://www.kiewit.com)** | **[Instrumentation & Controls Engineer Intern - Kiewit Nuclear Solutions](https://jobright.ai/jobs/info/68d87d5ec9952514e1e95889?utm_campaign=1048&utm_source=git)** | Lenexa, KS | On Site | Oct 19 |
+| ↳ | **[Instrumentation & Controls Engineer Intern - Kiewit Nuclear Solutions](https://jobright.ai/jobs/info/68d87d5ec9952514e1e95889?utm_campaign=1048&utm_source=git)** | Lenexa, KS | On Site | Oct 19 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Security Process Automation)](https://jobright.ai/jobs/info/68bb77305f3832749186f4bf?utm_campaign=1048&utm_source=git)** | Richmond, VA | On Site | Oct 19 |
 | **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship - Research & Development (PhD)](https://jobright.ai/jobs/info/687edd26764c3d7411c46c90?utm_campaign=1048&utm_source=git)** | Collegeville, PA | On Site | Oct 19 |
 | **[Kiewit](http://www.kiewit.com)** | **[Structural Engineer Intern - Kiewit Nuclear Solutions](https://jobright.ai/jobs/info/68d87d397796a83635f117fe?utm_campaign=1048&utm_source=git)** | Oak Ridge, TN | On Site | Oct 19 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GRUNDFOS](https://grundfos.to/socialmedia)** | **[Associate Application Engineer/Intern (Temporary Contract)](https://jobright.ai/jobs/info/68d85e6bc9952514e1e94fda?utm_campaign=1048&utm_source=git)** | Aurora, IL | On Site | Oct 19 |
 | **[Ecolab](http://www.ecolab.com)** | **[Supply Chain Intern - Engineering and Business Majors](https://jobright.ai/jobs/info/68cd7927b2a74e1837ed7536?utm_campaign=1048&utm_source=git)** | McDonough, GA | On Site | Oct 19 |
 | **[Kiewit](http://www.kiewit.com)** | **[Instrumentation & Controls Engineer Intern - Kiewit Nuclear Solutions](https://jobright.ai/jobs/info/68d883db295f8e37655e7ee8?utm_campaign=1048&utm_source=git)** | Oak Ridge, TN | On Site | Oct 19 |
-| **[Shure Incorporated](http://www.shure.com)** | **[Corporate Quality Engineering Intern](https://jobright.ai/jobs/info/68bb7b3e8043103d4f228f31?utm_campaign=1048&utm_source=git)** | Niles, IL | Hybrid | Oct 19 |
-| **[Henkel](http://www.henkel.com)** | **[Application Engineering Intern - Year-Round - 2026](https://jobright.ai/jobs/info/68cf5c40dbd9fb154ede7457?utm_campaign=1048&utm_source=git)** | Madison Heights, MI | On Site | Oct 19 |
-| **[Shure Incorporated](http://www.shure.com)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/68d01690dbd9fb154eded2b0?utm_campaign=1048&utm_source=git)** | Niles, IL | Hybrid | Oct 19 |
-| **[RS&H](http://www.rsandh.com/)** | **[Civil Engineering Intern (Highway) - Summer 2026](https://jobright.ai/jobs/info/689f79c0b3e889632cf076ee?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | Oct 19 |
-| **[Copeland](https://www.copeland.com)** | **[Summer (May 18 - Aug 14) -2026- Advanced Manufacturing Engineering Internship](https://jobright.ai/jobs/info/68bb916c5f38327491870490?utm_campaign=1048&utm_source=git)** | Sidney, OH | On Site | Oct 19 |
-| **[Ecolab](http://www.ecolab.com)** | **[Supply Chain Intern - Engineering and Business Majors](https://jobright.ai/jobs/info/68a0290dfaa4e875e828eece?utm_campaign=1048&utm_source=git)** | Joliet, IL | On Site | Oct 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
