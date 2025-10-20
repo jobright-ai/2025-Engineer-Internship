@@ -57,7 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Intern/Co-Op – Civil/Geotechnical Engineering](https://jobright.ai/jobs/info/68f594709a65fd345858deeb?utm_campaign=1048&utm_source=git)** | Walnut Creek, CA | On Site | Oct 19 |
+| **[Nutrien](https://www.nutrien.com/)** | **[Intern, Agriculture Field Operations](https://jobright.ai/jobs/info/68f5af8576a51a4307bd5a54?utm_campaign=1048&utm_source=git)** | Browns, IL | On Site | Oct 19 |
+| **[Fortrea](https://www.fortrea.com)** | **[Intern - Laboratory Pre-Analytical Services](https://jobright.ai/jobs/info/68f5abed9a63986de757994a?utm_campaign=1048&utm_source=git)** | Indianapolis IN | On Site | Oct 19 |
+| **[Apple](https://www.apple.com)** | **[FY26 Facilities Maintenance Internship](https://jobright.ai/jobs/info/68f5a75a76a51a4307bd55bb?utm_campaign=1048&utm_source=git)** | Austin, Texas, United States | On Site | Oct 19 |
+| **[Kennedy Jenks](https://www.kennedyjenks.com)** | **[2026 Summer Intern - Electrical Engineer](https://jobright.ai/jobs/info/68e82cb709580a2fe57f4c06?utm_campaign=1048&utm_source=git)** | Murrieta, CA | Hybrid | Oct 19 |
+| ↳ | **[2026 Summer Intern - Electrical Engineer](https://jobright.ai/jobs/info/68e82f54c4895107182c38bc?utm_campaign=1048&utm_source=git)** | San Diego, CA | Hybrid | Oct 19 |
+| **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[General Cybersecurity Intern -CIPHER- Spring 2026](https://jobright.ai/jobs/info/68f59e129a63986de7579419?utm_campaign=1048&utm_source=git)** | Atlanta, GA | Hybrid | Oct 19 |
+| **[CVR Energy, Inc.](http://www.cvrenergy.com)** | **[Intern](https://jobright.ai/jobs/info/68f5966a76a51a4307bd518e?utm_campaign=1048&utm_source=git)** | Coffeyville, KS | On Site | Oct 19 |
+| **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Intern/Co-Op – Civil/Geotechnical Engineering](https://jobright.ai/jobs/info/68f596089a63986de7579230?utm_campaign=1048&utm_source=git)** | Davis, CA | On Site | Oct 19 |
+| ↳ | **[Intern/Co-Op – Civil/Geotechnical Engineering](https://jobright.ai/jobs/info/68f594709a65fd345858deeb?utm_campaign=1048&utm_source=git)** | Walnut Creek, CA | On Site | Oct 19 |
 | ↳ | **[Intern/Co-Op – Civil/Geotechnical Engineering](https://jobright.ai/jobs/info/68f593e79a65fd345858dec9?utm_campaign=1048&utm_source=git)** | Oakland, CA | On Site | Oct 19 |
 | **[Legrand, North America](http://www.legrand.us)** | **[Maintenance/Tooling Intern](https://jobright.ai/jobs/info/68f58f439a63986de757919e?utm_campaign=1048&utm_source=git)** | Concord, NC | On Site | Oct 19 |
 | ↳ | **[Safety Intern](https://jobright.ai/jobs/info/68f58f2876a51a4307bd50d9?utm_campaign=1048&utm_source=git)** | Concord, NC | On Site | Oct 19 |
@@ -68,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[Foley Power Solutions](https://foleypowersolutions.com)** | **[Intern Technician - Kansas City ThinkBIG Electric Power Generation (EPG) 2026](https://jobright.ai/jobs/info/68f5820d76a51a4307bd4f99?utm_campaign=1048&utm_source=git)** | Kansas City, MO | On Site | Oct 19 |
 | **[C&S Wholesale Grocers](http://www.cswg.com)** | **[Industrial Engineer Intern- Summer 2026](https://jobright.ai/jobs/info/68f5819676a51a4307bd4f86?utm_campaign=1048&utm_source=git)** | United States | Hybrid | Oct 19 |
 | **[Yates Construction](https://www.wgyates.com)** | **[INTERN](https://jobright.ai/jobs/info/68f578c79a63986de7578ff6?utm_campaign=1048&utm_source=git)** | Las Vegas, NV | On Site | Oct 19 |
-| **[Enviva](https://www.envivabiomass.com)** | **[Forest Management/Fiber Supply Internship - 2026 Summer](https://jobright.ai/jobs/info/68f576429a65fd345858dc68?utm_campaign=1048&utm_source=git)** | Raleigh, NC | On Site | Oct 19 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Intern/Co-Op – Civil/Geotechnical Engineering](https://jobright.ai/jobs/info/68f56ccd9a63986de7578f5b?utm_campaign=1048&utm_source=git)** | US-CA-Oakland | On Site | Oct 19 |
 | ↳ | **[Intern/Co-Op – Civil/Geotechnical Engineering](https://jobright.ai/jobs/info/68f56ccc76a51a4307bd4e84?utm_campaign=1048&utm_source=git)** | US-CA-Walnut Creek | On Site | Oct 19 |
 | **[Klaviyo](http://www.klaviyo.com)** | **[Machine Learning Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/68d2eba417554c2d9eeeb84a?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Oct 19 |
@@ -83,9 +90,7 @@ For a complete list, click the following sortable link below:
 | **[Meijer](https://www.meijer.com/)** | **[IT Security Intern- Summer 2026](https://jobright.ai/jobs/info/68f54cb776a51a4307bd4ba5?utm_campaign=1048&utm_source=git)** | Grand Rapids, MI | On Site | Oct 19 |
 | **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/68f5461d9a65fd345858d848?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Oct 19 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Quality Intern](https://jobright.ai/jobs/info/68f542169a65fd345858d7d0?utm_campaign=1048&utm_source=git)** | Grand Island, NY | On Site | Oct 19 |
-| **[InnoMountain](https://www.innomountain-inc.com/)** | **[Hardware Engineering Intern (Wireless Development)](https://jobright.ai/jobs/info/68f53eb19a65fd345858d782?utm_campaign=1048&utm_source=git)** | United States | Remote | Oct 19 |
 | **[Olsson](https://www.olsson.com)** | **[Mechanical Engineering Internship - Data Centers](https://jobright.ai/jobs/info/68b06cb713563e782a9f6176?utm_campaign=1048&utm_source=git)** | Omaha, NE | Hybrid | Oct 19 |
-| **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[Industrial Engineer Intern](https://jobright.ai/jobs/info/68f528a89a65fd345858d43c?utm_campaign=1048&utm_source=git)** | Ada, OK | Remote | Oct 19 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Electrical Engineering Internship - Spring 2026](https://jobright.ai/jobs/info/68f525ee9a65fd345858d424?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | Oct 19 |
 | **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[2026 Electrical Engineering Intern](https://jobright.ai/jobs/info/68f525c676a51a4307bd4722?utm_campaign=1048&utm_source=git)** | Lancaster, PA | Remote | Oct 19 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Mechanical Engineering Internship - Spring 2026](https://jobright.ai/jobs/info/68f5218976a51a4307bd46f9?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | Oct 19 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pepper Construction Group](http://www.pepperconstruction.com)** | **[Construction Quality Intern - Summer 2026 (Chicagoland)](https://jobright.ai/jobs/info/68bb93a65f3832749187067c?utm_campaign=1048&utm_source=git)** | Des Plaines, IL | On Site | Oct 19 |
 | **[Kiewit](http://www.kiewit.com)** | **[Structural Design Intern - Kiewit Nuclear Solutions](https://jobright.ai/jobs/info/68d8836dc9952514e1e9599e?utm_campaign=1048&utm_source=git)** | Lenexa, KS | On Site | Oct 19 |
 | **[Henkel](http://www.henkel.com)** | **[Application Engineering Intern – Summer 2026](https://jobright.ai/jobs/info/68ce37beb2a74e1837ee0764?utm_campaign=1048&utm_source=git)** | Bridgewater, NJ | On Site | Oct 19 |
-| **[Charter Steel](http://www.chartersteel.com/)** | **[Materials Engineer Intern - Year-Round](https://jobright.ai/jobs/info/68bb78626105227d118a6343?utm_campaign=1048&utm_source=git)** | Cleveland, OH | On Site | Oct 19 |
-| **[Kiewit](http://www.kiewit.com)** | **[Structural Design Intern - Kiewit Nuclear Solutions](https://jobright.ai/jobs/info/68d87d46c9952514e1e95850?utm_campaign=1048&utm_source=git)** | Oak Ridge, TN | On Site | Oct 19 |
-| **[GRUNDFOS](https://grundfos.to/socialmedia)** | **[Associate Application Engineer/Intern (Temporary Contract)](https://jobright.ai/jobs/info/68d85e6bc9952514e1e94fda?utm_campaign=1048&utm_source=git)** | Aurora, IL | On Site | Oct 19 |
-| **[Ecolab](http://www.ecolab.com)** | **[Supply Chain Intern - Engineering and Business Majors](https://jobright.ai/jobs/info/68cd7927b2a74e1837ed7536?utm_campaign=1048&utm_source=git)** | McDonough, GA | On Site | Oct 19 |
-| **[Kiewit](http://www.kiewit.com)** | **[Instrumentation & Controls Engineer Intern - Kiewit Nuclear Solutions](https://jobright.ai/jobs/info/68d883db295f8e37655e7ee8?utm_campaign=1048&utm_source=git)** | Oak Ridge, TN | On Site | Oct 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
