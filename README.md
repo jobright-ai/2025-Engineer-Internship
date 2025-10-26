@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Water Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68fdd2bb0ab3b222462a4d2a?utm_campaign=1048&utm_source=git)** | Billings, MT | On Site | Oct 26 |
+| **[Yugabyte](https://www.yugabyte.com)** | **[Intern, Software Engineer (Core Database)](https://jobright.ai/jobs/info/68ce6d53fb49c96ca6ea0604?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA | On Site | Oct 26 |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Classified Cyber Security Intern / Orlando, FL](https://jobright.ai/jobs/info/68fdc5ade0c73b3a11194a1c?utm_campaign=1048&utm_source=git)** | Possible | On Site | Oct 25 |
+| **[Mechronix](mechronix.us)** | **[Industrial Engineering Intern](https://jobright.ai/jobs/info/68fdc25ee0c73b3a111949ea?utm_campaign=1048&utm_source=git)** | Waller, TX | Remote | Oct 25 |
+| **[Meridian Forge](https://www.linkedin.com/company/108612717)** | **[Intern, Electrical Engineering, Summer 2026](https://jobright.ai/jobs/info/68fdbc55e04ac838fb5b173e?utm_campaign=1048&utm_source=git)** | Newark, CA | Remote | Oct 25 |
+| **[Interstates](http://interstates.com)** | **[Apprentice Electrician Tech College Intern - Sioux Falls, SD](https://jobright.ai/jobs/info/68e3bb4f1852e62f007fd85c?utm_campaign=1048&utm_source=git)** | Sioux Falls, SD | On Site | Oct 25 |
 | **[OpenR&D](https://www.theopenrnd.com/)** | **[Raw Material Database Coordinator (Intern/Temp)](https://jobright.ai/jobs/info/68fda1dc0ab3b222462a3bf8?utm_campaign=1048&utm_source=git)** | New York, United States | Remote | Oct 25 |
 | **[Syensqo](https://www.syensqo.com)** | **[Foundations for the Future Rotational Development Program - Industrial 1](https://jobright.ai/jobs/info/68fd9fb2e0c73b3a11193fad?utm_campaign=1048&utm_source=git)** | Greenville, TX | Remote | Oct 25 |
 | ↳ | **[Foundations for the Future Rotational Development Program - Industrial 1](https://jobright.ai/jobs/info/68fd9d4e0ab3b222462a3a7c?utm_campaign=1048&utm_source=git)** | Havre de Grace, MD | Remote | Oct 25 |
@@ -74,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Acquired Data Solutions, Inc.](https://www.acquireddatasolutions.com)** | **[Intern: Test Integration Engineer](https://jobright.ai/jobs/info/68fd75e30ab3b222462a1e9b?utm_campaign=1048&utm_source=git)** | Rockville, MD | On Site | Oct 25 |
 | **[Broadcast Management Group, Inc.](https://www.broadcastmgmt.com)** | **[Broadcast Engineer Intern](https://jobright.ai/jobs/info/68fd7235e04ac838fb5af139?utm_campaign=1048&utm_source=git)** | Washington, DC | On Site | Oct 25 |
 | **[Nightly](https://nightlyhq.com/)** | **[AI Intern](https://jobright.ai/jobs/info/68fd6bace0c73b3a1119210a?utm_campaign=1048&utm_source=git)** | United States | Remote | Oct 25 |
-| **[C&S Wholesale Grocers](http://www.cswg.com)** | **[Industrial Engineer Intern- Summer 2026](https://jobright.ai/jobs/info/68fd6adee04ac838fb5af03b?utm_campaign=1048&utm_source=git)** | United States | Hybrid | Oct 25 |
 | **[RS&H](http://www.rsandh.com/)** | **[Civil Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68fd63d00ab3b222462a1c66?utm_campaign=1048&utm_source=git)** | Verona, VA | On Site | Oct 25 |
 | **[Interstates](http://interstates.com)** | **[Manufacturing Intern](https://jobright.ai/jobs/info/68e053b7b99ec3563b0cea8a?utm_campaign=1048&utm_source=git)** | Fort Collins, CO | On Site | Oct 25 |
 | **[Samsung Semiconductor](https://www.samsung.com/us/samsungsemiconductor)** | **[Intern, DRAM Process Integration Engineer](https://jobright.ai/jobs/info/68fd529ee0c73b3a11191c27?utm_campaign=1048&utm_source=git)** | San Jose, CA, US | On Site | Oct 25 |
@@ -106,7 +111,6 @@ For a complete list, click the following sortable link below:
 | **[Skyworks LLC](http://skyworksllc.com)** | **[RF IC Design/Development Co-Op (June '26 - Dec '26)](https://jobright.ai/jobs/info/68fd5a85e04ac838fb5aee13?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Oct 25 |
 | **[Rosendin](https://www.rosendin.com)** | **[Internship - Supply Chain](https://jobright.ai/jobs/info/68fd11c7e0c73b3a111911ab?utm_campaign=1048&utm_source=git)** | Sterling, VA | On Site | Oct 25 |
 | **[Analog Devices](http://www.analog.com)** | **[Robot Learning Intern (PhD)](https://jobright.ai/jobs/info/68fd0e2ce04ac838fb5ae0ee?utm_campaign=1048&utm_source=git)** | US, MA, Boston | On Site | Oct 25 |
-| **[Career Launch Recruitment Solutions](https://www.linkedin.com/company/104165626)** | **[Intern, Supply Chain, Summer 2026](https://jobright.ai/jobs/info/68fd0db6e0c73b3a11191101?utm_campaign=1048&utm_source=git)** | Newark, CA | On Site | Oct 25 |
 | **[Kansas Department of Transportation (KDOT)](https://www.ksdot.gov)** | **[ENGINEERING INTERN- REQS-217868/217865](https://jobright.ai/jobs/info/68fd0b45e04ac838fb5ae0cf?utm_campaign=1048&utm_source=git)** | Kechi, KS | On Site | Oct 25 |
 | **[City of New York](http://www1.nyc.gov)** | **[BOB-Civil Engineer Intern](https://jobright.ai/jobs/info/68fd06f7e0c73b3a111910b0?utm_campaign=1048&utm_source=git)** | All, MO | On Site | Oct 25 |
 | **[Duininck](https://www.duininck.com/)** | **[Heavy Equipment Mechanic Intern](https://jobright.ai/jobs/info/68fd068be0c73b3a11191084?utm_campaign=1048&utm_source=git)** | Spicer, MN | On Site | Oct 25 |
@@ -114,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Intern - Salt Lake City](https://jobright.ai/jobs/info/68fd067ce0c73b3a1119107d?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT | On Site | Oct 25 |
 | **[TKDA](http://tkda.com)** | **[2026 Summer Intern - Structural Engineering, Bridge](https://jobright.ai/jobs/info/68fd0456e04ac838fb5ae00c?utm_campaign=1048&utm_source=git)** | MSP - Bloomington, Minnesota | Hybrid | Oct 25 |
 | **[Carrier](https://www.corporate.carrier.com)** | **[Building Automation Intern - Summer](https://jobright.ai/jobs/info/68fcff710ab3b222462a0bc7?utm_campaign=1048&utm_source=git)** | Kennesaw, GA | On Site | Oct 25 |
-| **[Ferrovias](ferrovias.us)** | **[2026 Mechanical Engineering Intern](https://jobright.ai/jobs/info/68fcfea7e0c73b3a11190f88?utm_campaign=1048&utm_source=git)** | Hilliard, OH | Remote | Oct 25 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[2026 - Engineering Intern 2 - 25475](https://jobright.ai/jobs/info/68c4bba27279451d6a03716d?utm_campaign=1048&utm_source=git)** | Dayton, OH | On Site | Oct 25 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Plumbing Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68c45e90e396b25cb5c6756e?utm_campaign=1048&utm_source=git)** | San Antonio, TX | Hybrid | Oct 25 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[2026- Engineering Intern 3 - 25473](https://jobright.ai/jobs/info/68c4bced7279451d6a0372b9?utm_campaign=1048&utm_source=git)** | Dayton, OH | On Site | Oct 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Electrical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68c45f6de471ef3ce16d5945?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Oct 25 |
 | **[Ferrovias](ferrovias.us)** | **[Advanced Manufacturing Engineering Internship Opportunities](https://jobright.ai/jobs/info/68fce957e0c73b3a11190b05?utm_campaign=1048&utm_source=git)** | Sidney, OH | Remote | Oct 25 |
 | **[M/I Homes, Inc.](http://www.mihomes.com/)** | **[Construction Intern - Minneapolis Summer 2026](https://jobright.ai/jobs/info/68c493b7e396b25cb5c6963f?utm_campaign=1048&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 25 |
-| **[Henkel](http://www.henkel.com)** | **[Product Development & Optimization Intern – Summer 2026](https://jobright.ai/jobs/info/68c4ad857279451d6a036b97?utm_campaign=1048&utm_source=git)** | Bridgewater, NJ | On Site | Oct 25 |
-| **[ARCO a Family of Construction Companies](https://thearcoway.com)** | **[Construction Safety Intern (Summer 2026)](https://jobright.ai/jobs/info/68a7bae733dd7158bbca8f82?utm_campaign=1048&utm_source=git)** | King of Prussia, PA | On Site | Oct 25 |
-| **[Cook Medical](http://www.cookmedical.com)** | **[COOK Medical Summer 2026 R&D Engineering Co-op](https://jobright.ai/jobs/info/68e093c81852e62f007ec3f9?utm_campaign=1048&utm_source=git)** | Bloomington, IN | Hybrid | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
