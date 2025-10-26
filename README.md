@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stonebrook Exterior](https://stonebrookexterior.com)** | **[Construction Internships](https://jobright.ai/jobs/info/68fd7a220ab3b222462a1f57?utm_campaign=1048&utm_source=git)** | Lincoln, NE | On Site | Oct 25 |
+| **[Acquired Data Solutions, Inc.](https://www.acquireddatasolutions.com)** | **[Intern: Test Integration Engineer](https://jobright.ai/jobs/info/68fd75e30ab3b222462a1e9b?utm_campaign=1048&utm_source=git)** | Rockville, MD | On Site | Oct 25 |
+| **[Broadcast Management Group, Inc.](https://www.broadcastmgmt.com)** | **[Broadcast Engineer Intern](https://jobright.ai/jobs/info/68fd7235e04ac838fb5af139?utm_campaign=1048&utm_source=git)** | Washington, DC | On Site | Oct 25 |
+| **[Nightly](https://nightlyhq.com/)** | **[AI Intern](https://jobright.ai/jobs/info/68fd6bace0c73b3a1119210a?utm_campaign=1048&utm_source=git)** | United States | Remote | Oct 25 |
+| **[C&S Wholesale Grocers](http://www.cswg.com)** | **[Industrial Engineer Intern- Summer 2026](https://jobright.ai/jobs/info/68fd6adee04ac838fb5af03b?utm_campaign=1048&utm_source=git)** | United States | Hybrid | Oct 25 |
 | **[RS&H](http://www.rsandh.com/)** | **[Civil Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68fd63d00ab3b222462a1c66?utm_campaign=1048&utm_source=git)** | Verona, VA | On Site | Oct 25 |
 | **[Interstates](http://interstates.com)** | **[Manufacturing Intern](https://jobright.ai/jobs/info/68e053b7b99ec3563b0cea8a?utm_campaign=1048&utm_source=git)** | Fort Collins, CO | On Site | Oct 25 |
 | **[Samsung Semiconductor](https://www.samsung.com/us/samsungsemiconductor)** | **[Intern, DRAM Process Integration Engineer](https://jobright.ai/jobs/info/68fd529ee0c73b3a11191c27?utm_campaign=1048&utm_source=git)** | San Jose, CA, US | On Site | Oct 25 |
@@ -97,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[TKDA](http://tkda.com)** | **[2026 Summer Intern - Structural Engineering, Bridge](https://jobright.ai/jobs/info/68fd0456e04ac838fb5ae00c?utm_campaign=1048&utm_source=git)** | MSP - Bloomington, Minnesota | Hybrid | Oct 25 |
 | **[Carrier](https://www.corporate.carrier.com)** | **[Building Automation Intern - Summer](https://jobright.ai/jobs/info/68fcff710ab3b222462a0bc7?utm_campaign=1048&utm_source=git)** | Kennesaw, GA | On Site | Oct 25 |
 | **[Ferrovias](ferrovias.us)** | **[2026 Mechanical Engineering Intern](https://jobright.ai/jobs/info/68fcfea7e0c73b3a11190f88?utm_campaign=1048&utm_source=git)** | Hilliard, OH | Remote | Oct 25 |
-| **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[Intern, Power Electronics Engineer, Summer 2026](https://jobright.ai/jobs/info/68fcfaea0ab3b222462a0b39?utm_campaign=1048&utm_source=git)** | Newark, CA | Remote | Oct 25 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[2026 - Engineering Intern 2 - 25475](https://jobright.ai/jobs/info/68c4bba27279451d6a03716d?utm_campaign=1048&utm_source=git)** | Dayton, OH | On Site | Oct 25 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Plumbing Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68c45e90e396b25cb5c6756e?utm_campaign=1048&utm_source=git)** | San Antonio, TX | Hybrid | Oct 25 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[2026- Engineering Intern 3 - 25473](https://jobright.ai/jobs/info/68c4bced7279451d6a0372b9?utm_campaign=1048&utm_source=git)** | Dayton, OH | On Site | Oct 25 |
@@ -124,8 +128,8 @@ For a complete list, click the following sortable link below:
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Transmission & Distribution Engineer Intern - Grid (Summer 2026)](https://jobright.ai/jobs/info/68eb75408369791ef7827243?utm_campaign=1048&utm_source=git)** | Fort Worth, TX | Hybrid | Oct 25 |
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Process Engineering Intern](https://jobright.ai/jobs/info/68cfdd5e846f0b04af68588f?utm_campaign=1048&utm_source=git)** | Salem, OR | Hybrid | Oct 25 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Summer 2026 Internship- Cybersecurity, Technology Risk and Privacy Advisory](https://jobright.ai/jobs/info/68fced1ae0c73b3a11190bab?utm_campaign=1048&utm_source=git)** | Tysons Corner, VA | On Site | Oct 25 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Plumbing Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68c8e63b983e6768bc553762?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Oct 25 |
-| ↳ | **[Electrical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68d0d8fc17bd5d3415aa7006?utm_campaign=1048&utm_source=git)** | St Louis, MO | Hybrid | Oct 25 |
+| **[WSP in the U.S.](http://www.ccrd.com)** | **[Electrical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68d0d8fc17bd5d3415aa7006?utm_campaign=1048&utm_source=git)** | St Louis, MO | Hybrid | Oct 25 |
+| ↳ | **[Plumbing Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68c8e63b983e6768bc553762?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Oct 25 |
 | ↳ | **[Electrical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68c79af5db52c07d2884ce8b?utm_campaign=1048&utm_source=git)** | Houston, TX | Hybrid | Oct 25 |
 | **[Barr Engineering Co.](http://www.barr.com)** | **[Internship – Environmental Scientist (Hybrid)](https://jobright.ai/jobs/info/68cfc7f1fb49c96ca6eab700?utm_campaign=1048&utm_source=git)** | Grand Rapids, MI | Hybrid | Oct 25 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Early Career Mechanical Engineer - Buildings](https://jobright.ai/jobs/info/68cf4f3dfb49c96ca6ea6e94?utm_campaign=1048&utm_source=git)** | Columbia, MD | Hybrid | Oct 25 |
@@ -133,7 +137,6 @@ For a complete list, click the following sortable link below:
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Mechanical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68c793bedb52c07d2884c600?utm_campaign=1048&utm_source=git)** | St Louis, MO | Hybrid | Oct 25 |
 | **[Cryptic Vector](https://www.crypticvector.com)** | **[Cyber Engineer/Software Developer Intern](https://jobright.ai/jobs/info/68e04ae5f758fe1f97e4bfc8?utm_campaign=1048&utm_source=git)** | Liberty Township, OH | On Site | Oct 25 |
 | **[Arconic](https://www.arconic.com)** | **[Intern – COE Smart Manufacturing (Summer 2026)](https://jobright.ai/jobs/info/68c4b18c7279451d6a036dc8?utm_campaign=1048&utm_source=git)** | Springdale, AR | On Site | Oct 25 |
-| **[Bel Brands USA Foodservice](http://belbrandsfoodservice.com/)** | **[Packaging Engineer Intern - Traverse City - January 2026](https://jobright.ai/jobs/info/68fce988e0c73b3a11190b1d?utm_campaign=1048&utm_source=git)** | Traverse City, MI | On Site | Oct 25 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Electrical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68c452c0e396b25cb5c66e88?utm_campaign=1048&utm_source=git)** | Kansas City, MO | Hybrid | Oct 25 |
 | ↳ | **[Electrical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68c45f6de471ef3ce16d5945?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Oct 25 |
 | **[Ferrovias](ferrovias.us)** | **[Advanced Manufacturing Engineering Internship Opportunities](https://jobright.ai/jobs/info/68fce957e0c73b3a11190b05?utm_campaign=1048&utm_source=git)** | Sidney, OH | Remote | Oct 25 |
@@ -143,7 +146,6 @@ For a complete list, click the following sortable link below:
 | **[Cook Medical](http://www.cookmedical.com)** | **[COOK Medical Summer 2026 R&D Engineering Co-op](https://jobright.ai/jobs/info/68e093c81852e62f007ec3f9?utm_campaign=1048&utm_source=git)** | Bloomington, IN | Hybrid | Oct 25 |
 | **[Dassault Falcon Jet](http://www.dassaultfalcon.com)** | **[Summer Intern - Electrical Engineering](https://jobright.ai/jobs/info/68e0163ab99ec3563b0cb955?utm_campaign=1048&utm_source=git)** | Arkansas, United States | On Site | Oct 25 |
 | **[Henkel](http://www.henkel.com)** | **[Application Engineering Intern, Printed Electronics – Summer 2026](https://jobright.ai/jobs/info/68c305425001f8077bf60400?utm_campaign=1048&utm_source=git)** | Bridgewater, NJ | On Site | Oct 25 |
-| **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Enterprise Data & Architecture (Hybrid)](https://jobright.ai/jobs/info/68fce874e04ac838fb5ada51?utm_campaign=1048&utm_source=git)** | Raleigh, NC | Hybrid | Oct 25 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Plumbing Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68c45e53e471ef3ce16d5837?utm_campaign=1048&utm_source=git)** | Dallas, TX | Hybrid | Oct 25 |
 | **[American Electric Power](http://aep.com)** | **[Engineering Intern - West Virginia](https://jobright.ai/jobs/info/68daf1f00dffed6f83d2b0fc?utm_campaign=1048&utm_source=git)** | Beckley, WV | On Site | Oct 25 |
 | **[POWER Engineers](http://www.powereng.com)** | **[Overhead Transmission Line Design Intern - Spring 2026](https://jobright.ai/jobs/info/68e049761852e62f007e9ca0?utm_campaign=1048&utm_source=git)** | Freeport, ME | On Site | Oct 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Cybersecurity](https://jobright.ai/jobs/info/68df28775ab4977c2e9511ac?utm_campaign=1048&utm_source=git)** | Irving, TX | Hybrid | Oct 25 |
 | **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship - Research & Development (AS/BS)](https://jobright.ai/jobs/info/687edce6764c3d7411c46c6c?utm_campaign=1048&utm_source=git)** | Freeport, TX | On Site | Oct 25 |
 | **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Construction Services Intern](https://jobright.ai/jobs/info/68fce6750ab3b222462a0589?utm_campaign=1048&utm_source=git)** | Bismarck, ND | On Site | Oct 25 |
-| **[BeamSphere](beamsphere.us)** | **[Quality Intern- Spring 2026](https://jobright.ai/jobs/info/68fce658e04ac838fb5ad930?utm_campaign=1048&utm_source=git)** | Florence, SC | Remote | Oct 25 |
-| **[Packaging Corporation of America](http://packagingcorp.com)** | **[Summer 2026 Environmental Engineering Intern](https://jobright.ai/jobs/info/68ded82809bda65a4b62e39e?utm_campaign=1048&utm_source=git)** | De Ridder, LA | On Site | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
