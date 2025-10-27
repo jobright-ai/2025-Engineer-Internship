@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Deca Defense](https://www.decadefense.com/)** | **[Internship: Software Engineering / MLOps / Deep Learning Infrastructure /](https://jobright.ai/jobs/info/68feb4f3e04ac838fb5b4941?utm_campaign=1048&utm_source=git)** | United States | Remote | Oct 26 |
+| **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[PTS Engineering Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/68feaf1f0ab3b222462a7534?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Oct 26 |
+| **[Structonix](structonix.us)** | **[2026 Mechanical Engineering Intern](https://jobright.ai/jobs/info/68feaf040ab3b222462a7530?utm_campaign=1048&utm_source=git)** | Hilliard, OH | Remote | Oct 26 |
+| **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Chassis Engineering Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/68feae22e04ac838fb5b48ee?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Oct 26 |
+| **[The Upskill Academy](www.theupskill.academy)** | **[AI Internship Program](https://jobright.ai/jobs/info/68fe9e73e04ac838fb5b47e9?utm_campaign=1048&utm_source=git)** | United States | Remote | Oct 26 |
+| **[Boston Scientific](http://www.bostonscientific.com)** | **[PI R&D Engineering Intern](https://jobright.ai/jobs/info/68fe9c990ab3b222462a742a?utm_campaign=1048&utm_source=git)** | Maple Grove, MN | Hybrid | Oct 26 |
+| ↳ | **[Supplier Quality Engineering Intern](https://jobright.ai/jobs/info/68fe99800ab3b222462a7405?utm_campaign=1048&utm_source=git)** | Arden Hills, MN | Hybrid | Oct 26 |
+| ↳ | **[Peripheral Interventions R&D Engineering Intern](https://jobright.ai/jobs/info/68fe97f7e0c73b3a111977f6?utm_campaign=1048&utm_source=git)** | Maple Grove, MN | Hybrid | Oct 26 |
 | **[Meridian Forge](https://www.linkedin.com/company/108612717)** | **[Hardware Development Engineer Co-Op](https://jobright.ai/jobs/info/68fe8c910ab3b222462a72df?utm_campaign=1048&utm_source=git)** | Mayfield Heights, OH | Remote | Oct 26 |
 | **[Broadcast Management Group, Inc.](https://www.broadcastmgmt.com)** | **[Broadcast Engineer Intern](https://jobright.ai/jobs/info/68fe88850ab3b222462a726d?utm_campaign=1048&utm_source=git)** | Washington, DC | On Site | Oct 26 |
 | **[Seagate Technology](http://www.seagate.com)** | **[VLSI Design and Verification Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/68f6a6d876a51a4307bdcd03?utm_campaign=1048&utm_source=git)** | Longmont, CO | On Site | Oct 26 |
@@ -72,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[GlobalFoundries](https://gf.com/)** | **[Technology Development & Process Integration Engineering Intern, Silicon Photonics (Summer 2026)](https://jobright.ai/jobs/info/68fe7b56e0c73b3a111973dc?utm_campaign=1048&utm_source=git)** | Malta, NY | On Site | Oct 26 |
 | **[Dragonfly Pond Works](https://www.dragonflypondworks.com/)** | **[Summer Internship - Stormwater](https://jobright.ai/jobs/info/68fe7b32e0c73b3a111973cb?utm_campaign=1048&utm_source=git)** | Chesapeake, VA | On Site | Oct 26 |
 | **[GlobalFoundries](https://gf.com/)** | **[Advanced Manufacturing Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68fe7acd0ab3b222462a6ff1?utm_campaign=1048&utm_source=git)** | Malta, NY | On Site | Oct 26 |
+| ↳ | **[Advanced Manufacturing Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68fe7ab7e04ac838fb5b43b5?utm_campaign=1048&utm_source=git)** | Malta, NY | On Site | Oct 26 |
 | ↳ | **[Process Integration Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68e3c859b99ec3563b0e28ae?utm_campaign=1048&utm_source=git)** | Malta, NY | On Site | Oct 26 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Analog Design](https://jobright.ai/jobs/info/68fe770d0ab3b222462a6f4d?utm_campaign=1048&utm_source=git)** | Rhode Island, United States | On Site | Oct 26 |
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Data Engineer Intern (Early Career) - S&P Global](https://jobright.ai/jobs/info/68fe72e2e04ac838fb5b4266?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Oct 26 |
@@ -127,7 +136,6 @@ For a complete list, click the following sortable link below:
 | **[Black & Veatch](http://bv.com/Home)** | **[Electrical Engineer Intern - Substation](https://jobright.ai/jobs/info/68e149aa1852e62f007f26c1?utm_campaign=1048&utm_source=git)** | Denver, CO | Hybrid | Oct 26 |
 | **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship - Digital Innovation – Cross-functional (Ph.D)](https://jobright.ai/jobs/info/68ce66b6846f0b04af679731?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Oct 26 |
 | **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Storage Infrastructure Summer Intern](https://jobright.ai/jobs/info/68ca3278d4187c55157a7bcb?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Oct 26 |
-| **[Ferrovias](ferrovias.us)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/68fe33e5e04ac838fb5b3cb0?utm_campaign=1048&utm_source=git)** | Pennsylvania, United States | Remote | Oct 26 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Structural Intern](https://jobright.ai/jobs/info/6795e6b9524ef30deb0b82fa?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Oct 26 |
 | **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship - Digital Innovation – Cross-functional (Ph.D)](https://jobright.ai/jobs/info/68cdb8a3e23def7af55be9ba?utm_campaign=1048&utm_source=git)** | Midland, MI | On Site | Oct 26 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Diagnostics Intern](https://jobright.ai/jobs/info/68eb871276a1db7c59860a87?utm_campaign=1048&utm_source=git)** | Kansas City, MO | On Site | Oct 26 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Barton Malow](http://www.bartonmalow.com)** | **[Construction Internship Program (LEAPS) - Summer 2026 (Virginia)](https://jobright.ai/jobs/info/68c482cee471ef3ce16d6f02?utm_campaign=1048&utm_source=git)** | Richmond, VA | On Site | Oct 26 |
 | **[Aperture LLC](https://www.aperturellc.com/)** | **[Intern- Accident Reconstruction](https://jobright.ai/jobs/info/68c467cce396b25cb5c678a1?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | Oct 26 |
 | **[Armstrong World Industries](https://www.armstrongceilings.com)** | **[R&D Mechanical Engineer Intern Job](https://jobright.ai/jobs/info/68cd311eb2a74e1837ed3afe?utm_campaign=1048&utm_source=git)** | Lancaster, PA | On Site | Oct 26 |
-| **[Constellation](https://www.constellationenergy.com/)** | **[Power Engineering Intern - MD](https://jobright.ai/jobs/info/68c4d79231e5763f188e40e0?utm_campaign=1048&utm_source=git)** | Darlington, MD | On Site | Oct 26 |
-| ↳ | **[2026 Strategic/Systems Engineering Intern - Pottstown, PA](https://jobright.ai/jobs/info/68ca7b5e06a34016008c8f09?utm_campaign=1048&utm_source=git)** | Pottstown, PA | On Site | Oct 26 |
-| **[Pape-Dawson](http://pape-dawson.com)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/68371730f0633bb026b4348b?utm_campaign=1048&utm_source=git)** | Fort Myers, FL | On Site | Oct 26 |
-| **[Jacobs](http://www.jacobs.com)** | **[Health, Safety, and Environmental (HSE) Field Intern - Summer 2026](https://jobright.ai/jobs/info/68cd32301ad6b16f02896575?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Oct 26 |
-| **[Constellation](https://www.constellationenergy.com/)** | **[2026 NMP Programs Engineering Intern - Oswego, NY](https://jobright.ai/jobs/info/68c5d0f27d0db411427351c4?utm_campaign=1048&utm_source=git)** | Oswego, NY | On Site | Oct 26 |
-| **[Patterson-Kelley](http://harscopk.com)** | **[Product Engineering Intern](https://jobright.ai/jobs/info/68fe263be0c73b3a11196b4b?utm_campaign=1048&utm_source=git)** | Michigan City, IN | On Site | Oct 26 |
-| ↳ | **[Engineering Lab Intern](https://jobright.ai/jobs/info/68fe24e5e0c73b3a11196af4?utm_campaign=1048&utm_source=git)** | Michigan City, IN | On Site | Oct 26 |
-| **[Pond & Company](https://www.pondco.com)** | **[Mechanical Engineer Intern (Spring, Summer 2025)](https://jobright.ai/jobs/info/68ce38bab2a74e1837ee08eb?utm_campaign=1048&utm_source=git)** | Peachtree Corners, GA | On Site | Oct 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
