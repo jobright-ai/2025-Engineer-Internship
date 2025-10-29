@@ -57,16 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Pattern AI Labs](https://www.linkedin.com/company/102532703)** | **[Artificial Intelligence Intern](https://jobright.ai/jobs/info/6901aa96f8ce7a040fdc1d63?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Oct 28 |
+| **[Ducommun Incorporated](http://www.ducommun.com)** | **[Manufacturing Engineer Intern](https://jobright.ai/jobs/info/6901c2914539ea1f21422cd1?utm_campaign=1048&utm_source=git)** | Appleton, WI, US | On Site | Oct 29 |
+| **[Worthington Enterprises](https://www.worthingtonenterprises.com/)** | **[Quality Intern](https://jobright.ai/jobs/info/6901c1d8d5259a1b3cff7b11?utm_campaign=1048&utm_source=git)** | Westerville, OH | On Site | Oct 29 |
+| **[City of Ontario](https://ontarioca.gov)** | **[Fleet Services Intern](https://jobright.ai/jobs/info/6901bf644539ea1f21422c2d?utm_campaign=1048&utm_source=git)** | Ontario, CA | On Site | Oct 29 |
+| **[ITW](http://www.itw.com/)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/6901b7554539ea1f2142285a?utm_campaign=1048&utm_source=git)** | Pocahontas, AR | On Site | Oct 28 |
+| **[Ducommun Incorporated](http://www.ducommun.com)** | **[Manufacturing Engineer Intern](https://jobright.ai/jobs/info/6901b6ef4539ea1f21422835?utm_campaign=1048&utm_source=git)** | Appleton, WI | On Site | Oct 28 |
+| **[Verus Aerospace](https://verusaerospace.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6901b530f8ce7a040fdc223d?utm_campaign=1048&utm_source=git)** | Anaheim, CA | On Site | Oct 28 |
+| **[Hawaiian Electric](https://www.hawaiianelectric.com/)** | **[Summer Intern - Electrification of Transportation - Market Research](https://jobright.ai/jobs/info/6901b375f8ce7a040fdc2174?utm_campaign=1048&utm_source=git)** | Hawaii, United States | On Site | Oct 28 |
+| ↳ | **[Summer Intern - Electrification of Transportation - Customer Support](https://jobright.ai/jobs/info/6901af1d4539ea1f21422504?utm_campaign=1048&utm_source=git)** | Hawaii, United States | On Site | Oct 28 |
+| **[Ducommun Incorporated](http://www.ducommun.com)** | **[Test Engineering Intern](https://jobright.ai/jobs/info/6901ad47d5259a1b3cff7251?utm_campaign=1048&utm_source=git)** | Appleton, WI | On Site | Oct 28 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Product Security Engineer](https://jobright.ai/jobs/info/6901a9554539ea1f214221ee?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Hybrid | Oct 28 |
 | **[Hawaiian Electric](https://www.hawaiianelectric.com/)** | **[Summer Intern - System Operation Planning](https://jobright.ai/jobs/info/6901a6d5d5259a1b3cff6ff7?utm_campaign=1048&utm_source=git)** | Hawaii, United States | On Site | Oct 28 |
 | ↳ | **[Summer Intern - Environmental - Power Supply](https://jobright.ai/jobs/info/6901a5e3f8ce7a040fdc1b36?utm_campaign=1048&utm_source=git)** | Hawaii, United States | On Site | Oct 28 |
+| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Transportation - Department of Highways](https://jobright.ai/jobs/info/68f679889a65fd3458593937?utm_campaign=1048&utm_source=git)** | Frankfort, KY | On Site | Oct 28 |
 | **[Prologis](http://www.prologis.com)** | **[Intern, Mobility](https://jobright.ai/jobs/info/6901a1ebd5259a1b3cff6d6f?utm_campaign=1048&utm_source=git)** | San Francisco, California | On Site | Oct 28 |
 | **[Sundt Construction](https://www.sundt.com/foundation)** | **[Building Group Intern - Estimating](https://jobright.ai/jobs/info/6901a0994539ea1f21421e95?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Oct 28 |
 | **[Bartlett Tree Experts](http://www.bartlett.com)** | **[Arboriculture Internship](https://jobright.ai/jobs/info/6901a07b4539ea1f21421e88?utm_campaign=1048&utm_source=git)** | Sewell, NJ | On Site | Oct 28 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - SOLIDWORKS DEVOPS Engineer](https://jobright.ai/jobs/info/69019efff8ce7a040fdc17c6?utm_campaign=1048&utm_source=git)** | Waltham, MA | Hybrid | Oct 28 |
 | **[Prologis](http://www.prologis.com)** | **[Intern, IT](https://jobright.ai/jobs/info/69019e89f8ce7a040fdc1794?utm_campaign=1048&utm_source=git)** | Denver, Colorado | On Site | Oct 28 |
-| **[PV Pros, Inc. (Acquired by Pure Power Engineering)](https://pvpros.com)** | **[Solar Engineering Co-Op - Spring 2026](https://jobright.ai/jobs/info/69019d41f8ce7a040fdc16fc?utm_campaign=1048&utm_source=git)** | Hoboken, NJ | On Site | Oct 28 |
 | **[Whiterabbit.ai](https://whiterabbit.ai/)** | **[Research Scientist Intern (2025)](https://jobright.ai/jobs/info/69019ce84539ea1f21421cc6?utm_campaign=1048&utm_source=git)** | Green Bay, WI | On Site | Oct 28 |
 | **[IHG Hotels & Resorts](https://www.ihgplc.com/)** | **[Intern-AI Transformation](https://jobright.ai/jobs/info/69019cdef8ce7a040fdc16d4?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Oct 28 |
 | **[Granite Construction](https://www.graniteconstruction.com)** | **[Plant Engineer Intern](https://jobright.ai/jobs/info/69019c7ed5259a1b3cff6af0?utm_campaign=1048&utm_source=git)** | Sparks, NV | On Site | Oct 28 |
@@ -106,6 +114,7 @@ For a complete list, click the following sortable link below:
 | **[Meta](https://www.meta.com)** | **[Digital Design Engineering Intern](https://jobright.ai/jobs/info/690186c24539ea1f21420ecb?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA | On Site | Oct 28 |
 | **[Republic Airways](http://www.rjet.com)** | **[Industrial Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68a372c61ab5f8579e8a599e?utm_campaign=1048&utm_source=git)** | Indianapolis, IN | On Site | Oct 28 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Summer Internship - Materials & Process Engineering](https://jobright.ai/jobs/info/690186994539ea1f21420ea3?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Oct 28 |
+| **[PV Pros, Inc. (Acquired by Pure Power Engineering)](https://pvpros.com)** | **[Solar Engineering Co-Op - Spring 2026](https://jobright.ai/jobs/info/69019d41f8ce7a040fdc16fc?utm_campaign=1048&utm_source=git)** | Hoboken, NJ | On Site | Oct 28 |
 | **[Jacobs](http://www.jacobs.com)** | **[Civil Engineering Intern (Geotechnical Design) - Summer 2026](https://jobright.ai/jobs/info/690185f14539ea1f21420de1?utm_campaign=1048&utm_source=git)** | Portland, OR | On Site | Oct 28 |
 | **[ABB](https://global.abb/group/en)** | **[Manufacturing Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/6901859c4539ea1f21420d8c?utm_campaign=1048&utm_source=git)** | Albuquerque, NM | On Site | Oct 28 |
 | ↳ | **[Manufacturing Process Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/6901854ad5259a1b3cff5c04?utm_campaign=1048&utm_source=git)** | Bartlesville, OK | On Site | Oct 28 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Prologis](http://www.prologis.com)** | **[Intern, ESG](https://jobright.ai/jobs/info/6901747e4539ea1f21420305?utm_campaign=1048&utm_source=git)** | Denver, Colorado | On Site | Oct 28 |
 | **[Bobyard](https://bobyard.com)** | **[Computer Vision Research Engineer Internship (International - France)](https://jobright.ai/jobs/info/690173b1d5259a1b3cff5180?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Oct 28 |
 | **[Coffman Engineers](http://www.coffman.com/)** | **[Bridge and Structure Engineering Intern](https://jobright.ai/jobs/info/6901735df8ce7a040fdbfc3e?utm_campaign=1048&utm_source=git)** | Spokane, WA | On Site | Oct 28 |
-| **[IPG Photonics](http://www.ipgphotonics.com)** | **[Process Engineer Intern](https://jobright.ai/jobs/info/69017310d5259a1b3cff5105?utm_campaign=1048&utm_source=git)** | Oxford, MA, 01540, United States | On Site | Oct 28 |
-| **[Salas O'Brien](http://www.salasobrien.com/about/)** | **[Mechanical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/6901725dd5259a1b3cff5080?utm_campaign=1048&utm_source=git)** | Bloomfield, CT | On Site | Oct 28 |
-| **[Draper](https://www.draper.com)** | **[Electro-Mechanical Instrument Summer Intern](https://jobright.ai/jobs/info/6901716b4539ea1f21420163?utm_campaign=1048&utm_source=git)** | Cambridge, MA | On Site | Oct 28 |
-| **[Prologis](http://www.prologis.com)** | **[Intern, Energy](https://jobright.ai/jobs/info/690170cc4539ea1f21420117?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Oct 28 |
-| **[Salas O'Brien](http://www.salasobrien.com/about/)** | **[Building Envelope Commissioning Intern - Summer 2026](https://jobright.ai/jobs/info/690170794539ea1f214200e9?utm_campaign=1048&utm_source=git)** | Bloomfield, CT | On Site | Oct 28 |
-| **[Prologis](http://www.prologis.com)** | **[Intern, Energy](https://jobright.ai/jobs/info/69017071d5259a1b3cff4f5d?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Oct 28 |
-| **[Crescent Electric Supply Company](http://www.cesco.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/69017010f8ce7a040fdbfb68?utm_campaign=1048&utm_source=git)** | Columbus, OH | On Site | Oct 28 |
-| **[ABB](https://global.abb/group/en)** | **[Internship (f/m/d) - Generative AI for Network Observability](https://jobright.ai/jobs/info/68f3598e9a63986de7571ae7?utm_campaign=1048&utm_source=git)** | Location, WV | On Site | Oct 28 |
-| **[Prologis](http://www.prologis.com)** | **[Intern, ESG](https://jobright.ai/jobs/info/69016f684539ea1f21420061?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
