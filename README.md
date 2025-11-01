@@ -57,6 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lumafield](https://www.lumafield.com)** | **[Engineering Intern, DevOps](https://jobright.ai/jobs/info/68ff72500ab3b222462ab33c?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Oct 31 |
+| **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Biophysical Modeling Intern](https://jobright.ai/jobs/info/69058ef963502c0aded7c30b?utm_campaign=1048&utm_source=git)** | Boston, MA | Hybrid | Oct 31 |
+| ↳ | **[2026 Summer Internship Program: Pharmacovigilance (PV) Operations Intern](https://jobright.ai/jobs/info/69058e1463502c0aded7c2b2?utm_campaign=1048&utm_source=git)** | United States | Remote | Oct 31 |
+| ↳ | **[2026 Summer Internship Program: QCP & PMx Intern](https://jobright.ai/jobs/info/69058d62122e8474c78da054?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | Oct 31 |
+| ↳ | **[2026 Summer Internship Program: GI2 Drug Discovery Unit – Inflammatory Bowel Disease (IBD) Group](https://jobright.ai/jobs/info/69058d55122e8474c78da051?utm_campaign=1048&utm_source=git)** | Cambridge, MA | On Site | Oct 31 |
+| **[Siemens](https://www.siemens.com)** | **[Protection & Automation Technician Internship Program](https://jobright.ai/jobs/info/69058d0063502c0aded7c24e?utm_campaign=1048&utm_source=git)** | Wendell, NC | On Site | Oct 31 |
+| **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: RWD-RWE Conversion Programming Intern](https://jobright.ai/jobs/info/69058cf4ff462851feffe88d?utm_campaign=1048&utm_source=git)** | Cambridge, MA | On Site | Oct 31 |
+| ↳ | **[2026 U.S Summer Internship Program: Oral Drug Product Development (ODPD)](https://jobright.ai/jobs/info/69058cd4ff462851feffe882?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | Oct 31 |
+| ↳ | **[2026 Summer Internship Program: Pharmacovigilance (PV) Operations Intern](https://jobright.ai/jobs/info/69058beeff462851feffe818?utm_campaign=1048&utm_source=git)** | Boston, MA | Remote | Oct 31 |
+| **[Siemens](https://www.siemens.com)** | **[Database Operations (DbOps) Intern](https://jobright.ai/jobs/info/6905898c122e8474c78d9e54?utm_campaign=1048&utm_source=git)** | Raleigh, NC | Hybrid | Oct 31 |
+| **[SEnergy](http://se-texas.com)** | **[Engineering Intern- Summer](https://jobright.ai/jobs/info/6905852bff462851feffe2b3?utm_campaign=1048&utm_source=git)** | Boerne, TX | On Site | Oct 31 |
+| **[Viasat](http://www.viasat.com)** | **[Manufacturing Engineering Intern, Antenna Systems](https://jobright.ai/jobs/info/68edcd9781fdd1626d39f9ea?utm_campaign=1048&utm_source=git)** | Duluth, GA | Hybrid | Oct 31 |
+| **[IBM](http://www.ibm.com)** | **[Intern 2026: AI and Agentic Security Intern](https://jobright.ai/jobs/info/690583deff462851feffe1c0?utm_campaign=1048&utm_source=git)** | Albany, NY | On Site | Oct 31 |
 | **[Peak Energy](https://www.peakenergy.com)** | **[Mechanical Design Intern](https://jobright.ai/jobs/info/69058228122e8474c78d99c3?utm_campaign=1048&utm_source=git)** | Burlingame, CA | On Site | Oct 31 |
 | **[Ohio EPA](http://www.epa.ohio.gov/)** | **[2025 Surface Water Permitting Intern (20047873, 20047889)](https://jobright.ai/jobs/info/6903e6c8d64a22104aa94c2b?utm_campaign=1048&utm_source=git)** | Columbus, OH | On Site | Oct 31 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Intern, Agriculture Field Operations](https://jobright.ai/jobs/info/690581cf63502c0aded7bb5b?utm_campaign=1048&utm_source=git)** | Browns, IL | On Site | Oct 31 |
@@ -123,8 +136,7 @@ For a complete list, click the following sortable link below:
 | **[SAS](http://www.sas.com)** | **[Summer 2026 - Network Analytics Intern (Master's/PhD)](https://jobright.ai/jobs/info/69055eb5122e8474c78d8857?utm_campaign=1048&utm_source=git)** | North Carolina | Hybrid | Oct 31 |
 | **[Dorman Products](https://www.dormanproducts.com/)** | **[Cyber Security Intern](https://jobright.ai/jobs/info/69055e5f63502c0aded7a992?utm_campaign=1048&utm_source=git)** | Colmar, PA | Hybrid | Oct 31 |
 | **[SRF Consulting Group](http://srfconsulting.com)** | **[Project Controls Internship](https://jobright.ai/jobs/info/69055d7663502c0aded7a8dd?utm_campaign=1048&utm_source=git)** | Minneapolis,MN,US | On Site | Oct 31 |
-| **[SEnergy](http://se-texas.com)** | **[Engineering Intern- Summer](https://jobright.ai/jobs/info/69055c9a63502c0aded7a872?utm_campaign=1048&utm_source=git)** | Boerne, TX | On Site | Oct 31 |
-| **[SRF Consulting Group](http://srfconsulting.com)** | **[Project Controls Internship](https://jobright.ai/jobs/info/69055c70122e8474c78d8700?utm_campaign=1048&utm_source=git)** | Minneapolis, MN | On Site | Oct 31 |
+| ↳ | **[Project Controls Internship](https://jobright.ai/jobs/info/69055c70122e8474c78d8700?utm_campaign=1048&utm_source=git)** | Minneapolis, MN | On Site | Oct 31 |
 | **[NextEra Energy Resources](https://www.nexteraenergyresources.com/)** | **[IT AI Solutions Analyst (Power Generation) - College Intern](https://jobright.ai/jobs/info/69055c2a122e8474c78d86d6?utm_campaign=1048&utm_source=git)** | Palm Beach Gardens, FL | On Site | Oct 31 |
 | **[Florida Power & Light](https://www.fpl.com/)** | **[IT Automation Engineer - College Intern](https://jobright.ai/jobs/info/69055beaff462851feffcd5d?utm_campaign=1048&utm_source=git)** | Palm Beach Gardens, FL | On Site | Oct 31 |
 | **[GeoComply](https://www.geocomply.com)** | **[IT Automation Intern - Winter 2026](https://jobright.ai/jobs/info/69055ad3122e8474c78d867d?utm_campaign=1048&utm_source=git)** | Las Vegas, NV | Hybrid | Oct 31 |
@@ -144,17 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Tesla](https://www.tesla.com)** | **[Internship, Data Engineer, Energy (Winter/Spring 2026)](https://jobright.ai/jobs/info/69054e4163502c0aded7a43d?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Oct 31 |
 | **[MacArthur Foundation](http://www.macfound.org)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/69054e2663502c0aded7a431?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Oct 31 |
 | **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[Summer 2026 Continuous Improvement (Engineer) Intern](https://jobright.ai/jobs/info/69054e07122e8474c78d82cb?utm_campaign=1048&utm_source=git)** | Spartanburg, SC | On Site | Oct 31 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[AI Strategy Intern, S3 and Facilities - Spring 2026](https://jobright.ai/jobs/info/69054cb6122e8474c78d8265?utm_campaign=1048&utm_source=git)** | Culver City, California | On Site | Oct 31 |
-| **[C3 Integrated Solutions](https://www.c3isit.com/)** | **[SOC Analyst Internship Program](https://jobright.ai/jobs/info/69054aa1122e8474c78d822d?utm_campaign=1048&utm_source=git)** | Baton Rouge, LA | Remote | Oct 31 |
-| **[Herc Rentals](http://www.HercRentals.com)** | **[Mechanic Intern](https://jobright.ai/jobs/info/69054a5a122e8474c78d820f?utm_campaign=1048&utm_source=git)** | Winterville, NC | On Site | Oct 31 |
-| **[GuidePoint Security](https://www.guidepointsecurity.com/)** | **[Cloud Security Intern (GPSU)](https://jobright.ai/jobs/info/69054a41ff462851feffc8c0?utm_campaign=1048&utm_source=git)** | Reston, VA | Remote | Oct 31 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Collision Technician Trainee (Winter 2026)](https://jobright.ai/jobs/info/69054a1f122e8474c78d81f0?utm_campaign=1048&utm_source=git)** | McClellan Park, CA | On Site | Oct 31 |
-| ↳ | **[Internship, Service Technician Trainee (Winter 2026)](https://jobright.ai/jobs/info/69054a08ff462851feffc8ac?utm_campaign=1048&utm_source=git)** | Santa Fe, NM | On Site | Oct 31 |
-| **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Analog Design](https://jobright.ai/jobs/info/69054941122e8474c78d8178?utm_campaign=1048&utm_source=git)** | Rhode Island, United States | On Site | Oct 31 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Collision Technician Trainee (Winter 2026)](https://jobright.ai/jobs/info/69054877ff462851feffc7a6?utm_campaign=1048&utm_source=git)** | Los Gatos, CA | On Site | Oct 31 |
-| **[Cushing Terrell](https://cushingterrell.com/)** | **[Water/Wastewater Intern](https://jobright.ai/jobs/info/6905483c122e8474c78d80a1?utm_campaign=1048&utm_source=git)** | Bozeman, MT | On Site | Oct 31 |
-| **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern- Engineering (Test)](https://jobright.ai/jobs/info/6905469063502c0aded7a129?utm_campaign=1048&utm_source=git)** | Chandler, AZ | On Site | Oct 31 |
-| **[GALLO](http://www.gallocareers.com)** | **[Gallo Vineyards Operations Internship 2026 June - December](https://jobright.ai/jobs/info/68ce032ce23def7af55c13af?utm_campaign=1048&utm_source=git)** | Napa, CA | On Site | Oct 31 |
-| **[The University of Georgia](http://www.ai.uga.edu)** | **[Research Professional Weather Network](https://jobright.ai/jobs/info/69054544ff462851feffc726?utm_campaign=1048&utm_source=git)** | Athens, GA | On Site | Oct 31 |
-| **[Meta](https://www.meta.com)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/6905450e122e8474c78d8030?utm_campaign=1048&utm_source=git)** | Redmond, WA | On Site | Oct 31 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[AI Strategy Intern, S3 and Facilities - Spring 2026](https://jobright.ai/jobs/info/69054c37122e8474c78d823c?utm_campaign=1048&utm_source=git)** | Culver City, California | On Site | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
