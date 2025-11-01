@@ -57,16 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wright State University](http://www.wright.edu/)** | **[Raider Immersion Intern - Team Member (6 positions)](https://jobright.ai/jobs/info/69067c96ff462851fe004b23?utm_campaign=1048&utm_source=git)** | Dayton, OH | On Site | Nov 01 |
+| **[Holmes US](http://holmesstructures.com)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/690677f4122e8474c78e022d?utm_campaign=1048&utm_source=git)** | Portland, OR | On Site | Nov 01 |
+| **[Hargrove Engineers & Constructors](https://www.hargrove-epc.com/)** | **[E&I Engineering Intern](https://jobright.ai/jobs/info/6906730e63502c0aded824f5?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Nov 01 |
+| ↳ | **[Electrical Design Intern](https://jobright.ai/jobs/info/6906727563502c0aded824c7?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Nov 01 |
+| **[Holmes US](http://holmesstructures.com)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/69067196ff462851fe0049d5?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Nov 01 |
+| **[Marvell Technology](https://www.marvell.com/)** | **[Advanced Packaging SI/PI Engineer Intern - Bachelors Degree](https://jobright.ai/jobs/info/69067155122e8474c78e0183?utm_campaign=1048&utm_source=git)** | Boise, ID | On Site | Nov 01 |
+| **[STR](https://www.str.us/)** | **[Cyber Summer Internship](https://jobright.ai/jobs/info/68cd527a1ad6b16f02897c99?utm_campaign=1048&utm_source=git)** | Melbourne, FL | On Site | Nov 01 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[2026 Mechanical Engineering Intern](https://jobright.ai/jobs/info/69066f2f63502c0aded82458?utm_campaign=1048&utm_source=git)** | Hilliard, OH | Remote | Nov 01 |
+| **[Glow Beauty on Demand](https://glowbeautyondemand.co/)** | **[Technology - Chief Data Office (CDO) Intern](https://jobright.ai/jobs/info/69066bba122e8474c78e0039?utm_campaign=1048&utm_source=git)** | New York, United States | On Site | Nov 01 |
+| **[Holmes US](http://holmesstructures.com)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/69066ba3ff462851fe0048cb?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Nov 01 |
 | **[GlobalFoundries](https://gf.com/)** | **[Electrical Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6906643aff462851fe0047b6?utm_campaign=1048&utm_source=git)** | Malta, NY | On Site | Nov 01 |
 | **[HMH](https://hmhw.com/)** | **[Controls Lab Automation Engineering Intern](https://jobright.ai/jobs/info/6906619a63502c0aded821db?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Nov 01 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[AI Strategy Intern, S3 and Facilities - Spring 2026](https://jobright.ai/jobs/info/6906615c63502c0aded821d1?utm_campaign=1048&utm_source=git)** | Culver City, CA | On Site | Nov 01 |
 | ↳ | **[Graduate Intern, Information Security – Spring 2026](https://jobright.ai/jobs/info/6906611e63502c0aded821c1?utm_campaign=1048&utm_source=git)** | Culver City, CA | On Site | Nov 01 |
 | **[Parametrix](https://www.parametrix.com/)** | **[Internship Opportunities - Summer 2026](https://jobright.ai/jobs/info/69065f3b122e8474c78dfdde?utm_campaign=1048&utm_source=git)** | Coeur d'Alene, ID | Hybrid | Nov 01 |
-| **[Philips](https://www.usa.philips.com)** | **[Intern - Advanced Manufacturing Engineer - Plymouth, MN - Summer 2026](https://jobright.ai/jobs/info/6906579fff462851fe00455b?utm_campaign=1048&utm_source=git)** | Plymouth, MA | On Site | Nov 01 |
-| **[Hargrove Engineers & Constructors](https://www.hargrove-epc.com/)** | **[E&I Engineering Intern](https://jobright.ai/jobs/info/6906522fff462851fe0044ab?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Nov 01 |
 | **[PlayStation](https://www.playstation.com/)** | **[AI Engineer Intern - Master's](https://jobright.ai/jobs/info/68ef2b2f230ae70a14c41316?utm_campaign=1048&utm_source=git)** | United States of America | On Site | Nov 01 |
 | **[Waymo](https://waymo.com)** | **[2026 Summer Intern, MS/PhD, Systems Engineer, Rider Comfort](https://jobright.ai/jobs/info/69014f55d5259a1b3cff414a?utm_campaign=1048&utm_source=git)** | Mountain View, CA, USA | On Site | Nov 01 |
-| **[Hargrove Engineers & Constructors](https://www.hargrove-epc.com/)** | **[Electrical Design Intern](https://jobright.ai/jobs/info/6906495fff462851fe00437b?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Nov 01 |
 | **[Yates Construction](https://www.wgyates.com)** | **[INTERN](https://jobright.ai/jobs/info/6906481b122e8474c78dfa61?utm_campaign=1048&utm_source=git)** | Las Vegas, NV | On Site | Nov 01 |
 | **[Mechronix](mechronix.us)** | **[Proposal Engineer Intern - Spring 2026](https://jobright.ai/jobs/info/69063de5ff462851fe00419c?utm_campaign=1048&utm_source=git)** | Cleveland, OH | Remote | Nov 01 |
 | **[Carrier](https://www.corporate.carrier.com)** | **[Building Automation Systems Engineer Intern - Summer](https://jobright.ai/jobs/info/69063d17ff462851fe004157?utm_campaign=1048&utm_source=git)** | Muncie, IN | On Site | Nov 01 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Structural Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/68cd95c0b2a74e1837ed921b?utm_campaign=1048&utm_source=git)** | Buffalo, NY | Hybrid | Nov 01 |
 | **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/68af19e31f0a2a568a05f08c?utm_campaign=1048&utm_source=git)** | Louisville, Kentucky, United States | On Site | Nov 01 |
 | **[Kiewit](http://www.kiewit.com)** | **[Field/Office Engineer Intern - Southeast - Summer 2026](https://jobright.ai/jobs/info/68e89aaacc49a84b7e107f36?utm_campaign=1048&utm_source=git)** | Peachtree City, GA | On Site | Nov 01 |
-| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Electric Distribution Design, Technical Intern -St. Paul/Newport, MN](https://jobright.ai/jobs/info/69061d50ff462851fe0037b2?utm_campaign=1048&utm_source=git)** | Newport, MN | On Site | Nov 01 |
-| **[NVIDIA](https://www.nvidia.com)** | **[PhD Research Intern, AI for Climate and Weather Simulation - 2026](https://jobright.ai/jobs/info/68e9d24654fbf903f6a7f02a?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Nov 01 |
-| **[Kiewit](http://www.kiewit.com)** | **[Field/Office Engineer Intern - Underground District - Summer 2026](https://jobright.ai/jobs/info/689509a88c6d6b4426776d30?utm_campaign=1048&utm_source=git)** | Omaha, NE | On Site | Nov 01 |
-| **[Honeywell](http://www.honeywell.com)** | **[Aerospace/Aeronautical Engineering - Summer 2026 Intern (US Person)](https://jobright.ai/jobs/info/68d36f96f0d9af73038e2427?utm_campaign=1048&utm_source=git)** | United States | Remote | Nov 01 |
-| **[STV](http://www.stvinc.com/)** | **[Summer 2026 - Buildings Intern](https://jobright.ai/jobs/info/69061cee122e8474c78deef0?utm_campaign=1048&utm_source=git)** | New York, NY | Hybrid | Nov 01 |
-| **[Stratus®](https://www.stratusteam.com)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6901a2fbf8ce7a040fdc18c6?utm_campaign=1048&utm_source=git)** | Roanoke, VA | On Site | Nov 01 |
-| **[Molex](http://www.molex.com)** | **[Molex Engineering Internship Program 2026](https://jobright.ai/jobs/info/68cd5ed9e23def7af55b909c?utm_campaign=1048&utm_source=git)** | Rochester Hills, MI | On Site | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
