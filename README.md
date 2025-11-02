@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Analog Design](https://jobright.ai/jobs/info/690704eb122e8474c78e1f67?utm_campaign=1048&utm_source=git)** | Rhode Island, United States | On Site | Nov 02 |
+| **[Structonix](structonix.us)** | **[Power Electronics Intern - Spring 2026](https://jobright.ai/jobs/info/6907048bff462851fe0067f5?utm_campaign=1048&utm_source=git)** | Raleigh, NC | Remote | Nov 02 |
+| **[C&S Wholesale Grocers](http://www.cswg.com)** | **[Industrial Engineer Intern- Summer 2026](https://jobright.ai/jobs/info/6906fc68122e8474c78e1cc8?utm_campaign=1048&utm_source=git)** | United States | Hybrid | Nov 01 |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Mechanical Engineering Internship - Spring 2026](https://jobright.ai/jobs/info/6906f930ff462851fe00653d?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | Nov 01 |
+| ↳ | **[IAE Electrical Engineering Internship - Spring 2026](https://jobright.ai/jobs/info/6906f57563502c0aded83f86?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | Nov 01 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Energy/Security Technician](https://jobright.ai/jobs/info/6906f1b1ff462851fe0062d5?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Nov 01 |
-| **[City of Ontario](https://ontarioca.gov)** | **[Fleet Services Intern](https://jobright.ai/jobs/info/6906d148122e8474c78e1093?utm_campaign=1048&utm_source=git)** | Ontario, CA | On Site | Nov 01 |
 | **[Syensqo](https://www.syensqo.com)** | **[Foundations for the Future Rotational Development Program - Industrial 1](https://jobright.ai/jobs/info/6906ce4dff462851fe005738?utm_campaign=1048&utm_source=git)** | Orange, CA | Remote | Nov 01 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Quantum Computing Algorithms Intern](https://jobright.ai/jobs/info/6906c84b122e8474c78e0d62?utm_campaign=1048&utm_source=git)** | Frederick, MD | On Site | Nov 01 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Intern, Agriculture Field Operations](https://jobright.ai/jobs/info/6906c694ff462851fe005467?utm_campaign=1048&utm_source=git)** | Browns, IL | On Site | Nov 01 |
@@ -88,7 +92,7 @@ For a complete list, click the following sortable link below:
 | **[PlayStation](https://www.playstation.com/)** | **[Machine Learning GPU Inference Optimization Intern - Master's](https://jobright.ai/jobs/info/68ef2b07230ae70a14c412d2?utm_campaign=1048&utm_source=git)** | United States of America | On Site | Nov 01 |
 | **[Wright State University](http://www.wright.edu/)** | **[Raider Immersion Intern - Team Member (6 positions)](https://jobright.ai/jobs/info/69067c96ff462851fe004b23?utm_campaign=1048&utm_source=git)** | Dayton, OH | On Site | Nov 01 |
 | **[Holmes US](http://holmesstructures.com)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/690677f4122e8474c78e022d?utm_campaign=1048&utm_source=git)** | Portland, OR | On Site | Nov 01 |
-| **[Hargrove Engineers & Constructors](https://www.hargrove-epc.com/)** | **[Electrical Design Intern](https://jobright.ai/jobs/info/6906727563502c0aded824c7?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Nov 01 |
+| **[Hargrove Engineers & Constructors](https://www.hargrove-epc.com/)** | **[E&I Engineering Intern](https://jobright.ai/jobs/info/6906730e63502c0aded824f5?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Nov 01 |
 | **[Holmes US](http://holmesstructures.com)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/69067196ff462851fe0049d5?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Nov 01 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Advanced Packaging SI/PI Engineer Intern - Bachelors Degree](https://jobright.ai/jobs/info/69067155122e8474c78e0183?utm_campaign=1048&utm_source=git)** | Boise, ID | On Site | Nov 01 |
 | **[STR](https://www.str.us/)** | **[Cyber Summer Internship](https://jobright.ai/jobs/info/68cd527a1ad6b16f02897c99?utm_campaign=1048&utm_source=git)** | Melbourne, FL | On Site | Nov 01 |
@@ -99,9 +103,10 @@ For a complete list, click the following sortable link below:
 | **[HMH](https://hmhw.com/)** | **[Controls Lab Automation Engineering Intern](https://jobright.ai/jobs/info/6906619a63502c0aded821db?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Nov 01 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[AI Strategy Intern, S3 and Facilities - Spring 2026](https://jobright.ai/jobs/info/6906615c63502c0aded821d1?utm_campaign=1048&utm_source=git)** | Culver City, CA | On Site | Nov 01 |
 | ↳ | **[Graduate Intern, Information Security – Spring 2026](https://jobright.ai/jobs/info/6906611e63502c0aded821c1?utm_campaign=1048&utm_source=git)** | Culver City, CA | On Site | Nov 01 |
-| **[Hargrove Engineers & Constructors](https://www.hargrove-epc.com/)** | **[E&I Engineering Intern](https://jobright.ai/jobs/info/6906522fff462851fe0044ab?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Nov 01 |
+| **[Parametrix](https://www.parametrix.com/)** | **[Internship Opportunities - Summer 2026](https://jobright.ai/jobs/info/690707a5122e8474c78e200c?utm_campaign=1048&utm_source=git)** | Coeur d'Alene, ID | Hybrid | Nov 01 |
 | **[PlayStation](https://www.playstation.com/)** | **[AI Engineer Intern - Master's](https://jobright.ai/jobs/info/68ef2b2f230ae70a14c41316?utm_campaign=1048&utm_source=git)** | United States of America | On Site | Nov 01 |
 | **[Waymo](https://waymo.com)** | **[2026 Summer Intern, MS/PhD, Systems Engineer, Rider Comfort](https://jobright.ai/jobs/info/69014f55d5259a1b3cff414a?utm_campaign=1048&utm_source=git)** | Mountain View, CA, USA | On Site | Nov 01 |
+| **[Hargrove Engineers & Constructors](https://www.hargrove-epc.com/)** | **[Electrical Design Intern](https://jobright.ai/jobs/info/6906495fff462851fe00437b?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Nov 01 |
 | **[Yates Construction](https://www.wgyates.com)** | **[INTERN](https://jobright.ai/jobs/info/6906481b122e8474c78dfa61?utm_campaign=1048&utm_source=git)** | Las Vegas, NV | On Site | Nov 01 |
 | **[Mechronix](mechronix.us)** | **[Proposal Engineer Intern - Spring 2026](https://jobright.ai/jobs/info/69063de5ff462851fe00419c?utm_campaign=1048&utm_source=git)** | Cleveland, OH | Remote | Nov 01 |
 | **[Carrier](https://www.corporate.carrier.com)** | **[Building Automation Systems Engineer Intern - Summer](https://jobright.ai/jobs/info/69063d17ff462851fe004157?utm_campaign=1048&utm_source=git)** | Muncie, IN | On Site | Nov 01 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[U.S. Tsubaki Power Transmission, LLC](http://ustsubaki.com)** | **[Intern, Engineering Co-Op Spring 2026](https://jobright.ai/jobs/info/6906223863502c0aded8154b?utm_campaign=1048&utm_source=git)** | Sandusky, OH | On Site | Nov 01 |
 | **[RS&H](http://www.rsandh.com/)** | **[Civil Field Engineering Inspection Intern (Summer 26)](https://jobright.ai/jobs/info/68b0fa12e815524ae11fa432?utm_campaign=1048&utm_source=git)** | Virginia Beach City County, VA | On Site | Nov 01 |
 | **[STV](http://www.stvinc.com/)** | **[Summer 2026 - Civil Engineering Intern](https://jobright.ai/jobs/info/68ce0abcb2a74e1837edecf2?utm_campaign=1048&utm_source=git)** | San Antonio, TX | Hybrid | Nov 01 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Electrical Engineering Co-Op - Spring/Summer 2026](https://jobright.ai/jobs/info/68e96bfd0930fe0bc462592e?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | Hybrid | Nov 01 |
-| **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Process Engineer Intern](https://jobright.ai/jobs/info/68e994bd0930fe0bc46277c6?utm_campaign=1048&utm_source=git)** | Rocky Mount, VA | On Site | Nov 01 |
-| **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[Supply Chain Materials Internship](https://jobright.ai/jobs/info/6906217b122e8474c78df107?utm_campaign=1048&utm_source=git)** | Sidney, OH | Remote | Nov 01 |
-| **[Skanska](http://skanska.com)** | **[Intern - Project Engineer](https://jobright.ai/jobs/info/68e9643865768b6412b1b76b?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | Nov 01 |
-| **[Phillips Medisize](http://phillipsmedisize.com)** | **[Phillips Medisize Engineering Internship Program 2026](https://jobright.ai/jobs/info/68b159d604557a6c207bcda9?utm_campaign=1048&utm_source=git)** | New Richmond, WI | On Site | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
