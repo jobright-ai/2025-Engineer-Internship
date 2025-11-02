@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Structonix](structonix.us)** | **[Hardware Development Engineer Co-Op](https://jobright.ai/jobs/info/6907a6a6ff462851fe00a663?utm_campaign=1048&utm_source=git)** | Mayfield Heights, OH | Remote | Nov 02 |
 | **[Yates Construction](https://www.wgyates.com)** | **[INTERN](https://jobright.ai/jobs/info/6907996aff462851fe00a53b?utm_campaign=1048&utm_source=git)** | Las Vegas, NV | On Site | Nov 02 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Robotics Internship - Spring 2026](https://jobright.ai/jobs/info/6907996aff462851fe00a53c?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | Nov 02 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Civil Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68d65f82894705799a2eb50d?utm_campaign=1048&utm_source=git)** | Bristol, PA | Hybrid | Nov 02 |
@@ -101,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[Kiewit](http://www.kiewit.com)** | **[Engineering Intern - Kiewit Mining Group 2026](https://jobright.ai/jobs/info/68b1f5f0f4e41a61efd81003?utm_campaign=1048&utm_source=git)** | Lone Tree, CO | On Site | Nov 02 |
 | **[Mechronix](mechronix.us)** | **[Quality Intern- Spring 2026](https://jobright.ai/jobs/info/6907839e122e8474c78e57fd?utm_campaign=1048&utm_source=git)** | Florence, SC | Remote | Nov 02 |
 | **[Honeywell](http://www.honeywell.com)** | **[Mechanical Engineering - Summer 2026 Intern (US Person Required)](https://jobright.ai/jobs/info/690758a3122e8474c78e4150?utm_campaign=1048&utm_source=git)** | United States | Remote | Nov 02 |
-| **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[Intern, Controls Engineering, Summer 2026](https://jobright.ai/jobs/info/6907837bff462851fe00a0a5?utm_campaign=1048&utm_source=git)** | Newark, CA | Remote | Nov 02 |
 | **[Lockwood, Andrews & Newnam, Inc. (LAN)](http://lan-inc.com)** | **[Intern, Wastewater - Summer 2026](https://jobright.ai/jobs/info/68b2c61ff4e41a61efd87e82?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Nov 02 |
 | **[Honeywell](http://www.honeywell.com)** | **[Electrical Engineering - Summer 2026 Intern (US Person Required)](https://jobright.ai/jobs/info/69076db063502c0aded86f90?utm_campaign=1048&utm_source=git)** | United States | Remote | Nov 02 |
 | **[Henkel](http://www.henkel.com)** | **[R&D Product Development Intern, Laundry – Summer 2026](https://jobright.ai/jobs/info/68b289e61ade4306aa637e62?utm_campaign=1048&utm_source=git)** | Trumbull, CT | On Site | Nov 02 |
@@ -129,8 +129,8 @@ For a complete list, click the following sortable link below:
 | **[TYLin](http://www.tylin.com)** | **[Intern Engineering Designer, Water](https://jobright.ai/jobs/info/68d5805f63d77d6f6f3ef852?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Nov 02 |
 | **[Henkel](http://www.henkel.com)** | **[Facilities and North America Real Estate Intern – Summer 2026](https://jobright.ai/jobs/info/68b3db43bc187f64e1be1edc?utm_campaign=1048&utm_source=git)** | Stamford, CT | Hybrid | Nov 02 |
 | **[Cargill](https://www.cargill.com/home)** | **[Mining Engineer Co-op May 2026 - Multiple U.S. Locations](https://jobright.ai/jobs/info/68b1eb43f4e41a61efd80b2f?utm_campaign=1048&utm_source=git)** | Cleveland, OH | On Site | Nov 02 |
-| **[STV](http://www.stvinc.com/)** | **[Summer 2026 - Civil Engineering Intern](https://jobright.ai/jobs/info/68ce057c1ad6b16f028a1047?utm_campaign=1048&utm_source=git)** | Greater Richmond Region | Hybrid | Nov 02 |
-| ↳ | **[Summer 2026 - Civil Engineering Intern](https://jobright.ai/jobs/info/68ce1179b2a74e1837edf0c5?utm_campaign=1048&utm_source=git)** | Washington, DC | Hybrid | Nov 02 |
+| **[STV](http://www.stvinc.com/)** | **[Summer 2026 - Civil Engineering Intern](https://jobright.ai/jobs/info/68ce1179b2a74e1837edf0c5?utm_campaign=1048&utm_source=git)** | Washington, DC | Hybrid | Nov 02 |
+| ↳ | **[Summer 2026 - Civil Engineering Intern](https://jobright.ai/jobs/info/68ce057c1ad6b16f028a1047?utm_campaign=1048&utm_source=git)** | Greater Richmond Region | Hybrid | Nov 02 |
 | **[Jacobs](http://www.jacobs.com)** | **[Civil Engineering / Traffic Intern - Summer 2026](https://jobright.ai/jobs/info/68d790bd7a37c712687d11c5?utm_campaign=1048&utm_source=git)** | Madison, WI | On Site | Nov 02 |
 | **[Midmark Corporation](http://www.midmark.com/)** | **[Mechanical Engineering Co-Op - Spring 2026](https://jobright.ai/jobs/info/685dfe3bbee2fb40984e7ef2?utm_campaign=1048&utm_source=git)** | Versailles, OH | On Site | Nov 02 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Civil Engineering Intern (Minneapolis)](https://jobright.ai/jobs/info/68b53356f4e41a61efd8eabf?utm_campaign=1048&utm_source=git)** | Minneapolis, MN | On Site | Nov 02 |
