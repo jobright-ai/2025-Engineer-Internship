@@ -57,10 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[McDermott International, Ltd](http://www.mcdermott.com)** | **[Intern](https://jobright.ai/jobs/info/6906932b122e8474c78e042b?utm_campaign=1048&utm_source=git)** | Houston, TX, United States | On Site | Nov 01 |
+| **[Auriga Space](https://www.aurigaspace.com/)** | **[Electrical Manufacturing Intern](https://jobright.ai/jobs/info/69068f8663502c0aded82727?utm_campaign=1048&utm_source=git)** | LA Metro Area | Hybrid | Nov 01 |
+| **[Terracon](https://www.terracon.com/about/foundation/)** | **[Intern](https://jobright.ai/jobs/info/68fe47dc0ab3b222462a6b35?utm_campaign=1048&utm_source=git)** | Woodbridge, VA | On Site | Nov 01 |
+| **[Trusted Concepts, Inc.](http://trustedconcepts.com)** | **[Summer Research Intern](https://jobright.ai/jobs/info/6906888dff462851fe004bc7?utm_campaign=1048&utm_source=git)** | Arlington, VA | On Site | Nov 01 |
+| **[PlayStation](https://www.playstation.com/)** | **[Machine Learning GPU Inference Optimization Intern - Master's](https://jobright.ai/jobs/info/68ef2b07230ae70a14c412d2?utm_campaign=1048&utm_source=git)** | United States of America | On Site | Nov 01 |
+| **[InnoMountain](https://www.innomountain-inc.com/)** | **[Hardware System Engineering Internship (5G R&D)](https://jobright.ai/jobs/info/6906832a63502c0aded82675?utm_campaign=1048&utm_source=git)** | United States | Remote | Nov 01 |
 | **[Wright State University](http://www.wright.edu/)** | **[Raider Immersion Intern - Team Member (6 positions)](https://jobright.ai/jobs/info/69067c96ff462851fe004b23?utm_campaign=1048&utm_source=git)** | Dayton, OH | On Site | Nov 01 |
 | **[Holmes US](http://holmesstructures.com)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/690677f4122e8474c78e022d?utm_campaign=1048&utm_source=git)** | Portland, OR | On Site | Nov 01 |
 | **[Hargrove Engineers & Constructors](https://www.hargrove-epc.com/)** | **[E&I Engineering Intern](https://jobright.ai/jobs/info/6906730e63502c0aded824f5?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Nov 01 |
-| ↳ | **[Electrical Design Intern](https://jobright.ai/jobs/info/6906727563502c0aded824c7?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Nov 01 |
 | **[Holmes US](http://holmesstructures.com)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/69067196ff462851fe0049d5?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Nov 01 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Advanced Packaging SI/PI Engineer Intern - Bachelors Degree](https://jobright.ai/jobs/info/69067155122e8474c78e0183?utm_campaign=1048&utm_source=git)** | Boise, ID | On Site | Nov 01 |
 | **[STR](https://www.str.us/)** | **[Cyber Summer Internship](https://jobright.ai/jobs/info/68cd527a1ad6b16f02897c99?utm_campaign=1048&utm_source=git)** | Melbourne, FL | On Site | Nov 01 |
@@ -74,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Parametrix](https://www.parametrix.com/)** | **[Internship Opportunities - Summer 2026](https://jobright.ai/jobs/info/69065f3b122e8474c78dfdde?utm_campaign=1048&utm_source=git)** | Coeur d'Alene, ID | Hybrid | Nov 01 |
 | **[PlayStation](https://www.playstation.com/)** | **[AI Engineer Intern - Master's](https://jobright.ai/jobs/info/68ef2b2f230ae70a14c41316?utm_campaign=1048&utm_source=git)** | United States of America | On Site | Nov 01 |
 | **[Waymo](https://waymo.com)** | **[2026 Summer Intern, MS/PhD, Systems Engineer, Rider Comfort](https://jobright.ai/jobs/info/69014f55d5259a1b3cff414a?utm_campaign=1048&utm_source=git)** | Mountain View, CA, USA | On Site | Nov 01 |
+| **[Hargrove Engineers & Constructors](https://www.hargrove-epc.com/)** | **[Electrical Design Intern](https://jobright.ai/jobs/info/6906495fff462851fe00437b?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Nov 01 |
 | **[Yates Construction](https://www.wgyates.com)** | **[INTERN](https://jobright.ai/jobs/info/6906481b122e8474c78dfa61?utm_campaign=1048&utm_source=git)** | Las Vegas, NV | On Site | Nov 01 |
 | **[Mechronix](mechronix.us)** | **[Proposal Engineer Intern - Spring 2026](https://jobright.ai/jobs/info/69063de5ff462851fe00419c?utm_campaign=1048&utm_source=git)** | Cleveland, OH | Remote | Nov 01 |
 | **[Carrier](https://www.corporate.carrier.com)** | **[Building Automation Systems Engineer Intern - Summer](https://jobright.ai/jobs/info/69063d17ff462851fe004157?utm_campaign=1048&utm_source=git)** | Muncie, IN | On Site | Nov 01 |
@@ -131,6 +137,7 @@ For a complete list, click the following sortable link below:
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Process Engineer Intern](https://jobright.ai/jobs/info/68e994bd0930fe0bc46277c6?utm_campaign=1048&utm_source=git)** | Rocky Mount, VA | On Site | Nov 01 |
 | **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[Supply Chain Materials Internship](https://jobright.ai/jobs/info/6906217b122e8474c78df107?utm_campaign=1048&utm_source=git)** | Sidney, OH | Remote | Nov 01 |
 | **[Skanska](http://skanska.com)** | **[Intern - Project Engineer](https://jobright.ai/jobs/info/68e9643865768b6412b1b76b?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | Nov 01 |
+| **[Northmere Solutions](https://www.linkedin.com/company/104898627)** | **[Intern, Supply Chain, Summer 2026](https://jobright.ai/jobs/info/6906212b122e8474c78df0f3?utm_campaign=1048&utm_source=git)** | Casa Grande, AZ | Remote | Nov 01 |
 | **[Phillips Medisize](http://phillipsmedisize.com)** | **[Phillips Medisize Engineering Internship Program 2026](https://jobright.ai/jobs/info/68b159d604557a6c207bcda9?utm_campaign=1048&utm_source=git)** | New Richmond, WI | On Site | Nov 01 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Quality Process Intern](https://jobright.ai/jobs/info/68e9958af195760c354aae3b?utm_campaign=1048&utm_source=git)** | Sacramento, CA | On Site | Nov 01 |
 | **[Regal Rexnord](https://www.regalrexnord.com)** | **[Engineering Internship](https://jobright.ai/jobs/info/68e987a80930fe0bc4626dfb?utm_campaign=1048&utm_source=git)** | Simi Valley, CA | On Site | Nov 01 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Reliability Engineer Intern](https://jobright.ai/jobs/info/68e98da765768b6412b1d6c2?utm_campaign=1048&utm_source=git)** | Kearney, MO | On Site | Nov 01 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Plumbing & Fire Protection Engineering Co-Op - Spring/Summer 2026](https://jobright.ai/jobs/info/68e96dfef195760c354a9072?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | Hybrid | Nov 01 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Cloud Reliability & Efficiency](https://jobright.ai/jobs/info/68eca37ed4b0106e703eb589?utm_campaign=1048&utm_source=git)** | Redmond, WA | Hybrid | Nov 01 |
-| **[Danfoss](https://www.danfoss.com)** | **[Intern, Manufacturing Engineering](https://jobright.ai/jobs/info/68e98d000930fe0bc46270dc?utm_campaign=1048&utm_source=git)** | Easley, SC | On Site | Nov 01 |
-| **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Quality Process Intern](https://jobright.ai/jobs/info/68e98e410930fe0bc46272b8?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | Nov 01 |
-| **[NVIDIA](https://www.nvidia.com)** | **[PhD Research Intern, AI for Climate and Weather Simulation - 2026](https://jobright.ai/jobs/info/68e9e05ccfc08e490891364b?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Nov 01 |
-| **[Sharp Business USA](https://business.sharpusa.com)** | **[AI Process Automation Intern](https://jobright.ai/jobs/info/68cd98a3b2a74e1837ed98b6?utm_campaign=1048&utm_source=git)** | Montvale, NJ | On Site | Nov 01 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Structural Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/68cd95c0b2a74e1837ed921b?utm_campaign=1048&utm_source=git)** | Buffalo, NY | Hybrid | Nov 01 |
-| **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/68af19e31f0a2a568a05f08c?utm_campaign=1048&utm_source=git)** | Louisville, Kentucky, United States | On Site | Nov 01 |
-| **[Kiewit](http://www.kiewit.com)** | **[Field/Office Engineer Intern - Southeast - Summer 2026](https://jobright.ai/jobs/info/68e89aaacc49a84b7e107f36?utm_campaign=1048&utm_source=git)** | Peachtree City, GA | On Site | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
