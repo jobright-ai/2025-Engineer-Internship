@@ -57,18 +57,30 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stantec](http://www.stantec.com)** | **[Water Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69083dc6ff462851fe00d42d?utm_campaign=1048&utm_source=git)** | 3133 West Frye Road Suite 300, Chandler, AZ, 85226, US | On Site | Nov 02 |
+| **[Nexus Engineering Group](http://nexusegroup.com)** | **[Civil/Structural Engineer Internship or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/69083042122e8474c78e8545?utm_campaign=1048&utm_source=git)** | Cleveland, OH | On Site | Nov 02 |
+| ↳ | **[Civil/Structural Engineer Internship or Co-Op (Spring 2026)](https://jobright.ai/jobs/info/69083042122e8474c78e8542?utm_campaign=1048&utm_source=git)** | Maumee, OH | On Site | Nov 02 |
+| ↳ | **[Civil/Structural Engineer Internship or Co-Op (Spring 2026)](https://jobright.ai/jobs/info/6908301d63502c0aded8aa1c?utm_campaign=1048&utm_source=git)** | Cleveland, OH | On Site | Nov 02 |
+| ↳ | **[Civil/Structural Engineer Internship or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6908301663502c0aded8aa14?utm_campaign=1048&utm_source=git)** | Maumee, OH | On Site | Nov 02 |
+| ↳ | **[Electrical Engineering Internship or Co-Op (Spring 2026)](https://jobright.ai/jobs/info/69083009122e8474c78e8533?utm_campaign=1048&utm_source=git)** | Maumee, OH | On Site | Nov 02 |
+| ↳ | **[Chemical Process Engineering Internship or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/69082fd7122e8474c78e8523?utm_campaign=1048&utm_source=git)** | Cleveland, OH | On Site | Nov 02 |
+| ↳ | **[Electrical/Instrumentation & Controls Engineering Internship or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/69082fcd63502c0aded8a9ff?utm_campaign=1048&utm_source=git)** | Maumee, OH | On Site | Nov 02 |
+| ↳ | **[Electrical Engineering Internship or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/69082fac63502c0aded8a9f8?utm_campaign=1048&utm_source=git)** | Cleveland, OH | On Site | Nov 02 |
+| ↳ | **[Instrumentation & Controls Engineer Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/69082fa963502c0aded8a9f5?utm_campaign=1048&utm_source=git)** | Cleveland, OH | On Site | Nov 02 |
+| ↳ | **[Electrical Engineering Internship or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/69082f9363502c0aded8a9ee?utm_campaign=1048&utm_source=git)** | Oak Brook, IL | On Site | Nov 02 |
+| ↳ | **[Electrical Engineering Internship or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/69082f8063502c0aded8a9e9?utm_campaign=1048&utm_source=git)** | Maumee, OH | On Site | Nov 02 |
+| ↳ | **[Instrumentation & Controls Engineer Intern or Co-Op (Spring 2026)](https://jobright.ai/jobs/info/69082f7d122e8474c78e8500?utm_campaign=1048&utm_source=git)** | Cleveland, OH | On Site | Nov 02 |
+| ↳ | **[Electrical Engineering Internship or Co-Op (Spring 2026)](https://jobright.ai/jobs/info/69082f6463502c0aded8a9de?utm_campaign=1048&utm_source=git)** | Cleveland, OH | On Site | Nov 02 |
+| ↳ | **[Electrical/Instrumentation & Controls Engineering Internship or Co-Op (Spring 2026)](https://jobright.ai/jobs/info/69082f38ff462851fe00cd40?utm_campaign=1048&utm_source=git)** | Maumee, OH | On Site | Nov 02 |
 | **[ABB](https://global.abb/group/en)** | **[Manufacturing Engineering Intern Hackettstown, NJ - Summer 2026](https://jobright.ai/jobs/info/68ed393b70b66e2345d3b95b?utm_campaign=1048&utm_source=git)** | Hackettstown, NJ | On Site | Nov 02 |
 | **[Huntsman Corporation](https://www.huntsman.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/68c0d6578e65e77df55c4f85?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Nov 02 |
-| **[Nutrien](https://www.nutrien.com/)** | **[Intern, Agriculture Field Operations](https://jobright.ai/jobs/info/690819c2122e8474c78e7de0?utm_campaign=1048&utm_source=git)** | Browns, IL | On Site | Nov 02 |
 | **[OpenR&D](https://www.theopenrnd.com/)** | **[Formulation Chemist – Information Technology (Intern/Temp)](https://jobright.ai/jobs/info/69080a50122e8474c78e7a5c?utm_campaign=1048&utm_source=git)** | New York, United States | Remote | Nov 02 |
 | **[GlobalFoundries](https://gf.com/)** | **[Electrical Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6908060b122e8474c78e78f1?utm_campaign=1048&utm_source=git)** | Malta, NY | On Site | Nov 02 |
 | **[Whitestone Associates, Inc.](http://whitestoneassoc.com)** | **[Intern - Geotechnical](https://jobright.ai/jobs/info/6908031d122e8474c78e7877?utm_campaign=1048&utm_source=git)** | Rochester, NY | On Site | Nov 02 |
-| ↳ | **[Intern - Geotechnical](https://jobright.ai/jobs/info/690802f0122e8474c78e7848?utm_campaign=1048&utm_source=git)** | Rocky Hill, CT | On Site | Nov 02 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Analog Design](https://jobright.ai/jobs/info/690800de63502c0aded89c72?utm_campaign=1048&utm_source=git)** | Rhode Island, United States | On Site | Nov 02 |
 | **[Patterson-Kelley](http://harscopk.com)** | **[Environmental Health & Safety Intern](https://jobright.ai/jobs/info/690800a763502c0aded89c47?utm_campaign=1048&utm_source=git)** | Bennettsville, SC | On Site | Nov 02 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/68c991d695f5211cd2cf1923?utm_campaign=1048&utm_source=git)** | Denver, Colorado, United States | Hybrid | Nov 02 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Futures Lab (Fall 2025)](https://jobright.ai/jobs/info/6907e0e063502c0aded8978a?utm_campaign=1048&utm_source=git)** | Washington, DC | Hybrid | Nov 02 |
-| **[MechNova](mechnova.us)** | **[Brewing and Manufacturing Internship](https://jobright.ai/jobs/info/6907d09463502c0aded893d3?utm_campaign=1048&utm_source=git)** | Houston, TX | Remote | Nov 02 |
 | **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[Innovation Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/6907c93263502c0aded8927d?utm_campaign=1048&utm_source=git)** | Detroit, MI | On Site | Nov 02 |
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Data Engineer, Internship (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/6907c8ef63502c0aded8925e?utm_campaign=1048&utm_source=git)** | Quincy, MA | On Site | Nov 02 |
 | ↳ | **[Data Engineer, Internship (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/6903da37d64a22104aa93ff4?utm_campaign=1048&utm_source=git)** | Princeton, NJ | On Site | Nov 02 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ServiceNow](http://www.servicenow.com)** | **[ServiceNow Security Organization (SSO) - Associate Security Risk Analyst Intern](https://jobright.ai/jobs/info/68f1dac2ef766b3f0fd12993?utm_campaign=1048&utm_source=git)** | San Diego, CA | Hybrid | Nov 02 |
 | **[Henkel](http://www.henkel.com)** | **[R&D Engineering Intern – Fall 2026](https://jobright.ai/jobs/info/68cf6be4fb49c96ca6ea87a6?utm_campaign=1048&utm_source=git)** | United States | Remote | Nov 02 |
 | **[Momentive](https://www.momentive.com/)** | **[Summer 2026 EHS Intern](https://jobright.ai/jobs/info/68f167f8ef766b3f0fd0d964?utm_campaign=1048&utm_source=git)** | Friendly, WV | On Site | Nov 02 |
-| **[TYLin](http://www.tylin.com)** | **[Intern Engineering Designer, Water](https://jobright.ai/jobs/info/68d5805f63d77d6f6f3ef852?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Nov 02 |
-| **[Henkel](http://www.henkel.com)** | **[Facilities and North America Real Estate Intern – Summer 2026](https://jobright.ai/jobs/info/68b3db43bc187f64e1be1edc?utm_campaign=1048&utm_source=git)** | Stamford, CT | Hybrid | Nov 02 |
-| **[Cargill](https://www.cargill.com/home)** | **[Mining Engineer Co-op May 2026 - Multiple U.S. Locations](https://jobright.ai/jobs/info/68b1eb43f4e41a61efd80b2f?utm_campaign=1048&utm_source=git)** | Cleveland, OH | On Site | Nov 02 |
-| **[STV](http://www.stvinc.com/)** | **[Summer 2026 - Civil Engineering Intern](https://jobright.ai/jobs/info/68ce057c1ad6b16f028a1047?utm_campaign=1048&utm_source=git)** | Greater Richmond Region | Hybrid | Nov 02 |
-| ↳ | **[Summer 2026 - Civil Engineering Intern](https://jobright.ai/jobs/info/68ce1179b2a74e1837edf0c5?utm_campaign=1048&utm_source=git)** | Washington, DC | Hybrid | Nov 02 |
-| **[Jacobs](http://www.jacobs.com)** | **[Civil Engineering / Traffic Intern - Summer 2026](https://jobright.ai/jobs/info/68d790bd7a37c712687d11c5?utm_campaign=1048&utm_source=git)** | Madison, WI | On Site | Nov 02 |
-| **[Midmark Corporation](http://www.midmark.com/)** | **[Mechanical Engineering Co-Op - Spring 2026](https://jobright.ai/jobs/info/685dfe3bbee2fb40984e7ef2?utm_campaign=1048&utm_source=git)** | Versailles, OH | On Site | Nov 02 |
-| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Civil Engineering Intern (Minneapolis)](https://jobright.ai/jobs/info/68b53356f4e41a61efd8eabf?utm_campaign=1048&utm_source=git)** | Minneapolis, MN | On Site | Nov 02 |
-| ↳ | **[Structural Engineering Intern (Kansas City)](https://jobright.ai/jobs/info/68b0931e2d46f6396cae6a1c?utm_campaign=1048&utm_source=git)** | Kansas City, MO | On Site | Nov 02 |
-| **[Amazon](https://amazon.com)** | **[Amazon Robotics - 2026 Process Engineer Intern/Co-op, Robotics Manufacturing and Technical Operations](https://jobright.ai/jobs/info/68cdffb51ad6b16f028a0abb?utm_campaign=1048&utm_source=git)** | North Reading, MA | On Site | Nov 02 |
-| **[Cargill](https://www.cargill.com/home)** | **[Mining Engineer Co-op May 2026 - Multiple U.S. Locations](https://jobright.ai/jobs/info/68b2c92cbc187f64e1bdf16e?utm_campaign=1048&utm_source=git)** | Lansing, NY | On Site | Nov 02 |
-| **[Dawn Foods Global](https://www.dawnfoods.com)** | **[EHS Intern](https://jobright.ai/jobs/info/68cde0d4b2a74e1837edd0be?utm_campaign=1048&utm_source=git)** | Michigan, United States | On Site | Nov 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
