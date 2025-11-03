@@ -57,13 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UC Irvine](http://uci.edu)** | **[Undergraduate Internship Opportunity in Computer Science and Earth Science (UIO-CS-ES)](https://jobright.ai/jobs/info/6907ee73ff462851fe00bdc7?utm_campaign=1048&utm_source=git)** | Irvine, CA | Hybrid | Nov 02 |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Futures Lab (Fall 2025)](https://jobright.ai/jobs/info/6907e0e063502c0aded8978a?utm_campaign=1048&utm_source=git)** | Washington, DC | Hybrid | Nov 02 |
 | **[MechNova](mechnova.us)** | **[Brewing and Manufacturing Internship](https://jobright.ai/jobs/info/6907d09463502c0aded893d3?utm_campaign=1048&utm_source=git)** | Houston, TX | Remote | Nov 02 |
 | **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[Innovation Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/6907c93263502c0aded8927d?utm_campaign=1048&utm_source=git)** | Detroit, MI | On Site | Nov 02 |
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Data Engineer, Internship (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/6907c8ef63502c0aded8925e?utm_campaign=1048&utm_source=git)** | Quincy, MA | On Site | Nov 02 |
 | ↳ | **[Data Engineer, Internship (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/6903da37d64a22104aa93ff4?utm_campaign=1048&utm_source=git)** | Princeton, NJ | On Site | Nov 02 |
 | ↳ | **[Summer Intern - S&P Global](https://jobright.ai/jobs/info/6903adf0d64a22104aa91a61?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Nov 02 |
 | ↳ | **[Data Engineer, Internship (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/6903d509ff462851fefef77d?utm_campaign=1048&utm_source=git)** | Clifton, NJ | On Site | Nov 02 |
+| **[State Street](http://www.statestreet.com)** | **[Privilege Access Management, Internship (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/6901f00a98707b2b0fe6ba4a?utm_campaign=1048&utm_source=git)** | Quincy, MA | On Site | Nov 02 |
 | **[Hadron Energy, Inc.](https://www.hadronenergy.com/)** | **[Engineer Intern](https://jobright.ai/jobs/info/6907c44cff462851fe00b451?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area | On Site | Nov 02 |
+| **[ABB](https://global.abb/group/en)** | **[Production Intern](https://jobright.ai/jobs/info/68f35db976a51a4307bcddb6?utm_campaign=1048&utm_source=git)** | Location, WV | On Site | Nov 02 |
 | **[Continental Properties](http://www.cproperties.com/)** | **[Paid Construction Management Intern](https://jobright.ai/jobs/info/6907bcdf122e8474c78e6612?utm_campaign=1048&utm_source=git)** | Menomonee Falls, WI | On Site | Nov 02 |
 | **[Arizona State University](http://www.asu.edu)** | **[MESH Management Intern](https://jobright.ai/jobs/info/6907ba7363502c0aded88a05?utm_campaign=1048&utm_source=git)** | Tempe, AZ | On Site | Nov 02 |
 | **[Trenton Systems](https://www.trentonsystems.com/)** | **[Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/6907b942122e8474c78e6445?utm_campaign=1048&utm_source=git)** | Duluth, GA | On Site | Nov 02 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Henkel](http://www.henkel.com)** | **[Application Engineering Intern – Summer 2026](https://jobright.ai/jobs/info/68b55f0fbc187f64e1be6865?utm_campaign=1048&utm_source=git)** | Rocky Hill, CT | On Site | Nov 02 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer Intern - Mass Spectrometry](https://jobright.ai/jobs/info/6907783063502c0aded8781e?utm_campaign=1048&utm_source=git)** | Bridgewater, NJ | On Site | Nov 02 |
 | **[Henkel](http://www.henkel.com)** | **[Application Engineering Intern – Summer 2026](https://jobright.ai/jobs/info/68b1e02a1ade4306aa63272d?utm_campaign=1048&utm_source=git)** | Bridgewater, NJ | On Site | Nov 02 |
-| **[Walter P Moore](http://www.walterpmoore.com)** | **[Structural Intern](https://jobright.ai/jobs/info/67622545b9969c2eae7060e3?utm_campaign=1048&utm_source=git)** | Charlotte, NC | On Site | Nov 02 |
-| **[Jacobs](http://www.jacobs.com)** | **[Mechanical Engineering Intern (Energy/Power) - Summer 2026](https://jobright.ai/jobs/info/68cda4ebe23def7af55bd2a0?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Nov 02 |
-| **[Henkel](http://www.henkel.com)** | **[Engineering Co-op / Intern – Spring 2026](https://jobright.ai/jobs/info/68b2362ff4e41a61efd82bd5?utm_campaign=1048&utm_source=git)** | Brandon, SD | On Site | Nov 02 |
-| **[Amazon](https://amazon.com)** | **[Amazon Robotics - 2026 Industrial Engineer Intern/Co-op, Robotics Manufacturing and Technical Operations](https://jobright.ai/jobs/info/68cdff97b2a74e1837ede1cd?utm_campaign=1048&utm_source=git)** | Westborough, MA | On Site | Nov 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
