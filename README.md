@@ -148,8 +148,8 @@ For a complete list, click the following sortable link below:
 | **[Kleinfelder](http://www.kleinfelder.com/)** | **[Civil Internship](https://jobright.ai/jobs/info/68efbae2de50091dbfa4fdd2?utm_campaign=1048&utm_source=git)** | Augusta, GA | On Site | Nov 06 |
 | **[Niagara Bottling](http://www.NiagaraWater.com)** | **[Manufacturing Intern - Pennsylvania](https://jobright.ai/jobs/info/68ce20aae23def7af55c25b6?utm_campaign=1048&utm_source=git)** | Diamond Bar, CA | On Site | Nov 06 |
 | **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Site Design Engineering Intern](https://jobright.ai/jobs/info/68b8e4565b42bc4562828bc7?utm_campaign=1048&utm_source=git)** | Minnetonka, MN | On Site | Nov 06 |
-| **[HDR](http://www.hdrinc.com)** | **[Power Intern](https://jobright.ai/jobs/info/68d458fa8c62e63bc7fe8520?utm_campaign=1048&utm_source=git)** | Greater Bismarck Area | On Site | Nov 06 |
-| ↳ | **[Water Engineering Intern](https://jobright.ai/jobs/info/68cd7b0ee23def7af55ba92c?utm_campaign=1048&utm_source=git)** | Missoula, MT | On Site | Nov 06 |
+| **[HDR](http://www.hdrinc.com)** | **[Water Engineering Intern](https://jobright.ai/jobs/info/68cd7b0ee23def7af55ba92c?utm_campaign=1048&utm_source=git)** | Missoula, MT | On Site | Nov 06 |
+| ↳ | **[Power Intern](https://jobright.ai/jobs/info/68d458fa8c62e63bc7fe8520?utm_campaign=1048&utm_source=git)** | Greater Bismarck Area | On Site | Nov 06 |
 | **[JR Automation](https://www.jrautomation.com/)** | **[Controls Engineering Internship/Co-op](https://jobright.ai/jobs/info/68efc61978ba1621431e03e9?utm_campaign=1048&utm_source=git)** | Holland, MI | On Site | Nov 06 |
 | **[HDR](http://www.hdrinc.com)** | **[Water Resources Intern](https://jobright.ai/jobs/info/68eff4d478ba1621431e13c5?utm_campaign=1048&utm_source=git)** | Gig Harbor, WA | On Site | Nov 06 |
 | ↳ | **[Transportation Intern](https://jobright.ai/jobs/info/68b90a015b42bc4562829e87?utm_campaign=1048&utm_source=git)** | Paducah, KY | On Site | Nov 06 |
