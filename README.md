@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bose Corporation](https://www.bose.com/en_us/index.html)** | **[Audio Machine Learning Intern](https://jobright.ai/jobs/info/690eef6744146d3b6ec58c75?utm_campaign=1048&utm_source=git)** | Germany, PA | On Site | Nov 07 |
+| **[Memorial Sloan Kettering Cancer Center](http://www.mskcc.org)** | **[Data Management Summer Intern](https://jobright.ai/jobs/info/690eef19221b890c27812ae2?utm_campaign=1048&utm_source=git)** | New York, United States | Remote | Nov 07 |
+| **[Pinterest Engineering](https://www.pinterestcareers.com/)** | **[PhD Machine Learning Internship 2026 (USA)](https://jobright.ai/jobs/info/68d1943ecece431f8b5855d2?utm_campaign=1048&utm_source=git)** | San Francisco, CA, US | On Site | Nov 07 |
+| **[Bose Corporation](https://www.bose.com/en_us/index.html)** | **[Audio Machine Learning Intern](https://jobright.ai/jobs/info/690ee541221b890c278127bb?utm_campaign=1048&utm_source=git)** | Middlesex County, MA | On Site | Nov 07 |
 | **[Hilti North America](http://www.hilti.com)** | **[Technical Services Intern (Civil or Structural Engineering) - Summer 2026](https://jobright.ai/jobs/info/68f7131f9a63986de7584ca1?utm_campaign=1048&utm_source=git)** | Plano, TX | On Site | Nov 07 |
-| **[Philips](https://www.usa.philips.com)** | **[Intern-Toxicology-Murrysville, PA-Summer 2026](https://jobright.ai/jobs/info/690ed49bd046ab6061d0194c?utm_campaign=1048&utm_source=git)** | Murrysville, PA | On Site | Nov 07 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Sterilization Quality Engineer Summer Intern 2026](https://jobright.ai/jobs/info/690ed055d046ab6061d0163d?utm_campaign=1048&utm_source=git)** | Coventry, RI | On Site | Nov 07 |
 | **[Siemens](https://www.siemens.com)** | **[Cybersecurity Intern US- 2026](https://jobright.ai/jobs/info/690ed030221b890c27811e09?utm_campaign=1048&utm_source=git)** | Raleigh, NC | Remote | Nov 07 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship: Global Product Production Forensic Laboratory Intern](https://jobright.ai/jobs/info/690ecf0c221b890c27811db2?utm_campaign=1048&utm_source=git)** | Lexington, MA | On Site | Nov 07 |
@@ -133,7 +136,6 @@ For a complete list, click the following sortable link below:
 | **[Wing](https://www.wing.com/)** | **[Guidance, Navigation, Control Software Engineering Intern, Summer 2026](https://jobright.ai/jobs/info/690eb56dd046ab6061d00614?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Nov 07 |
 | **[HNTB](http://www.hntb.com/)** | **[Environmental Planning Intern - Summer 2026](https://jobright.ai/jobs/info/690eb361d046ab6061d00508?utm_campaign=1048&utm_source=git)** | Santa Ana, CA | On Site | Nov 07 |
 | **[IBM](http://www.ibm.com)** | **[Developer Intern 2026 - (Baton Rouge, LA)](https://jobright.ai/jobs/info/690eb2d9221b890c27810cff?utm_campaign=1048&utm_source=git)** | Baton Rouge, LA | Hybrid | Nov 07 |
-| **[Ideogram](https://ideogram.ai)** | **[Research Engineer / Research Scientist Intern](https://jobright.ai/jobs/info/690eb2ca221b890c27810cf6?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Nov 07 |
 | **[Crane Company](http://www.craneco.com/)** | **[Application Specialist Intern](https://jobright.ai/jobs/info/690eb29f221b890c27810cde?utm_campaign=1048&utm_source=git)** | Marion, NC | On Site | Nov 07 |
 | **[Raytheon](http://www.bbn.com)** | **[2026 Intern-Raytheon Mechanical Engineer (Onsite)](https://jobright.ai/jobs/info/690eb1a3221b890c27810bed?utm_campaign=1048&utm_source=git)** | McKinney, TX | On Site | Nov 07 |
 | **[Zoox](https://www.zoox.com/)** | **[Data Engineer Intern](https://jobright.ai/jobs/info/690eb17b44146d3b6ec56d72?utm_campaign=1048&utm_source=git)** | Foster City, CA | Hybrid | Nov 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Assistant Construction Manager Intern](https://jobright.ai/jobs/info/690ea78c221b890c27810532?utm_campaign=1048&utm_source=git)** | Fort Washington, PA | On Site | Nov 07 |
 | **[Peak Energy](https://www.peakenergy.com)** | **[Test Engineer Intern, ESS - Winter 2026](https://jobright.ai/jobs/info/68f80737ec6dbe7073fd079d?utm_campaign=1048&utm_source=git)** | Burlingame, CA | On Site | Nov 07 |
 | **[CN](http://www.cn.ca)** | **[Intern, Mechanical Reliability - Indigenous](https://jobright.ai/jobs/info/690ea664221b890c2781042b?utm_campaign=1048&utm_source=git)** | , Ontario, CA | On Site | Nov 07 |
-| **[UTHealth Houston](https://www.uth.edu)** | **[Postdoctoral Research Fellow - Internal Medicine - Medical Genetics](https://jobright.ai/jobs/info/690ea620d046ab6061cffba4?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Nov 07 |
-| **[Intel Corporation](http://www.intel.com)** | **[Clocking Design Graduate Intern 2026 US Intern](https://jobright.ai/jobs/info/690ea5c244146d3b6ec5660c?utm_campaign=1048&utm_source=git)** | Austin, TX | Hybrid | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
