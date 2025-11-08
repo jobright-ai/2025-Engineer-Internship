@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Adept Technologies](https://adept-tech.us/)** | **[Bilingual (English–Canadian French) Intern / Entry-Level Associate – Conversational AI](https://jobright.ai/jobs/info/690f95eebb519377733e9279?utm_campaign=1048&utm_source=git)** | United States | Remote | Nov 08 |
+| **[Mechronix](mechronix.us)** | **[Brewing and Manufacturing Internship](https://jobright.ai/jobs/info/690f8aaf183be660d2675a5b?utm_campaign=1048&utm_source=git)** | Riverside, CA | Remote | Nov 08 |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Robotics Internship - Spring 2026](https://jobright.ai/jobs/info/690f8a90988c2b7b4ec4e682?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | Nov 08 |
+| ↳ | **[IAE Electrical Engineering Internship - Spring 2026](https://jobright.ai/jobs/info/690f8575988c2b7b4ec4e572?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | Nov 08 |
+| **[Fairmount Technologies LLC](http://www.fairmounttech.com)** | **[PLC Controls Intern](https://jobright.ai/jobs/info/690f8392bb519377733e8da1?utm_campaign=1048&utm_source=git)** | Derby, KS | On Site | Nov 08 |
+| ↳ | **[Mechanical & PDME Intern](https://jobright.ai/jobs/info/690f831e988c2b7b4ec4e477?utm_campaign=1048&utm_source=git)** | Derby, KS | On Site | Nov 08 |
 | **[Rehlko](https://www.rehlko.com/)** | **[Residential Test Labs Intern](https://jobright.ai/jobs/info/690f7dca183be660d26756ea?utm_campaign=1048&utm_source=git)** | Sheboygan, WI | On Site | Nov 08 |
 | **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[Intern, Vehicle Engineering, Summer 2026](https://jobright.ai/jobs/info/690f7b1ebb519377733e8c25?utm_campaign=1048&utm_source=git)** | Newark, CA | Remote | Nov 08 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/68f3082576a51a4307bca4d4?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Nov 08 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kiewit](http://www.kiewit.com)** | **[Field/Office Engineer Intern - South Central District Summer 2026](https://jobright.ai/jobs/info/6909409bbcccf20de59d945b?utm_campaign=1048&utm_source=git)** | Little Rock, AR | On Site | Nov 08 |
 | ↳ | **[Field/Office Engineer Intern - South Central District Summer 2026](https://jobright.ai/jobs/info/68fcb09f0ab3b2224629e961?utm_campaign=1048&utm_source=git)** | Westlake, TX | On Site | Nov 08 |
 | ↳ | **[Field/Office Engineer Intern - South Central District Summer 2026](https://jobright.ai/jobs/info/68fb43549e8e925ac6c8a22f?utm_campaign=1048&utm_source=git)** | Grapevine, TX | On Site | Nov 08 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Water Resources Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/68ce395db2a74e1837ee0a05?utm_campaign=1048&utm_source=git)** | Dallas, TX | Hybrid | Nov 08 |
-| **[Shure Incorporated](http://www.shure.com)** | **[Process Engineering Intern](https://jobright.ai/jobs/info/68cb8871ba798c1a501d13c4?utm_campaign=1048&utm_source=git)** | Niles, IL | Hybrid | Nov 08 |
-| **[Kiewit](http://www.kiewit.com)** | **[Field/Office Engineer Intern - South Central District Summer 2026](https://jobright.ai/jobs/info/69081d91122e8474c78e7f33?utm_campaign=1048&utm_source=git)** | Laredo, TX | On Site | Nov 08 |
-| **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Transmission & Distribution Engineer Intern - Grid (Summer 2026)](https://jobright.ai/jobs/info/68eb297a2f64880ca0b558ce?utm_campaign=1048&utm_source=git)** | Charlotte, NC | Hybrid | Nov 08 |
-| ↳ | **[Transmission & Distribution Engineer Intern - Grid (Summer 2026)](https://jobright.ai/jobs/info/68d3975f8c62e63bc7fe341a?utm_campaign=1048&utm_source=git)** | Chattanooga, TN | Hybrid | Nov 08 |
-| **[Kiewit](http://www.kiewit.com)** | **[Field/Office Engineer Intern - South Central District Summer 2026](https://jobright.ai/jobs/info/68fb19dc9e8e925ac6c88afd?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | Nov 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
