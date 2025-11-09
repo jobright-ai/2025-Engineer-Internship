@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nutrien](https://www.nutrien.com/)** | **[Intern, Agriculture Field Operations](https://jobright.ai/jobs/info/69100450bb519377733ea2f2?utm_campaign=1048&utm_source=git)** | Browns, IL | On Site | Nov 08 |
+| **[STR](https://www.str.us/)** | **[DevSecOps MS/PhD Summer Internship](https://jobright.ai/jobs/info/68c1e2f1233c7d3e64d058bc?utm_campaign=1048&utm_source=git)** | Woburn, MA | On Site | Nov 08 |
+| **[DLR Group](http://www.dlrgroup.com/)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/68c991d695f5211cd2cf1923?utm_campaign=1048&utm_source=git)** | Denver, Colorado, United States | Hybrid | Nov 08 |
+| **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Water Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/690ffa29bb519377733ea10a?utm_campaign=1048&utm_source=git)** | Billings, MT | On Site | Nov 08 |
+| ↳ | **[Civil Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/690ffa28988c2b7b4ec4f85c?utm_campaign=1048&utm_source=git)** | Fargo, ND | On Site | Nov 08 |
+| ↳ | **[Construction Services Intern](https://jobright.ai/jobs/info/690ff998bb519377733ea0e3?utm_campaign=1048&utm_source=git)** | Bismarck, ND | On Site | Nov 08 |
+| ↳ | **[Rural Water Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/690ff894183be660d2676ba2?utm_campaign=1048&utm_source=git)** | Williston, ND | On Site | Nov 08 |
+| ↳ | **[Civil Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/690ff827183be660d2676b82?utm_campaign=1048&utm_source=git)** | Rapid City, SD | On Site | Nov 08 |
+| ↳ | **[Water/Wastewater Engineering Internship](https://jobright.ai/jobs/info/690ff7a4183be660d2676b5f?utm_campaign=1048&utm_source=git)** | Sioux Falls, SD | On Site | Nov 08 |
+| **[Verdantas](https://www.verdantas.com)** | **[Environmental Scientist Internship](https://jobright.ai/jobs/info/690ff71b183be660d2676b25?utm_campaign=1048&utm_source=git)** | Middletown, CT | Hybrid | Nov 08 |
+| **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Structural Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/690ff701988c2b7b4ec4f768?utm_campaign=1048&utm_source=git)** | Grand Forks, ND | On Site | Nov 08 |
+| ↳ | **[Structural Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/690ff498bb519377733ea007?utm_campaign=1048&utm_source=git)** | Fargo, ND | On Site | Nov 08 |
 | **[DestinationNova](destinationnova.org)** | **[Cyber Threat Intelligence Intern (Unpaid)](https://jobright.ai/jobs/info/690ff037183be660d2676a14?utm_campaign=1048&utm_source=git)** | Manhattan, NY | On Site | Nov 08 |
 | **[Alef](https://alef.aero)** | **[Immediate Mechanical Engineering Internship](https://jobright.ai/jobs/info/690fe811bb519377733e9e5c?utm_campaign=1048&utm_source=git)** | Milpitas, CA | On Site | Nov 08 |
 | **[Interstates](http://interstates.com)** | **[Manufacturing Intern](https://jobright.ai/jobs/info/68e053b7b99ec3563b0cea8a?utm_campaign=1048&utm_source=git)** | Fort Collins, CO | On Site | Nov 08 |
@@ -79,11 +91,10 @@ For a complete list, click the following sortable link below:
 | **[Fairmount Technologies LLC](http://www.fairmounttech.com)** | **[PLC Controls Intern](https://jobright.ai/jobs/info/690f8392bb519377733e8da1?utm_campaign=1048&utm_source=git)** | Derby, KS | On Site | Nov 08 |
 | ↳ | **[Mechanical & PDME Intern](https://jobright.ai/jobs/info/690f831e988c2b7b4ec4e477?utm_campaign=1048&utm_source=git)** | Derby, KS | On Site | Nov 08 |
 | **[Rehlko](https://www.rehlko.com/)** | **[Residential Test Labs Intern](https://jobright.ai/jobs/info/690f7dca183be660d26756ea?utm_campaign=1048&utm_source=git)** | Sheboygan, WI | On Site | Nov 08 |
-| **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[Intern, Vehicle Engineering, Summer 2026](https://jobright.ai/jobs/info/690f7b1ebb519377733e8c25?utm_campaign=1048&utm_source=git)** | Newark, CA | Remote | Nov 08 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/68f3082576a51a4307bca4d4?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Nov 08 |
 | **[AV](https://www.avinc.com/)** | **[Summer 2026 Electrical Engineering Intern](https://jobright.ai/jobs/info/68ba3f295f3832749186564c?utm_campaign=1048&utm_source=git)** | Petaluma, CA | On Site | Nov 08 |
-| **[Carrier](https://www.corporate.carrier.com)** | **[Field Engineer Intern - Summer](https://jobright.ai/jobs/info/690f7980988c2b7b4ec4e2a2?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Nov 08 |
 | **[Buro Happold](http://www.burohappold.com)** | **[Plumbing & Fire Protection Intern - New York (Summer 2026)](https://jobright.ai/jobs/info/68f2cb9c76a51a4307bc868e?utm_campaign=1048&utm_source=git)** | New York, United States | Hybrid | Nov 08 |
+| **[Carrier](https://www.corporate.carrier.com)** | **[Field Engineer Intern - Summer](https://jobright.ai/jobs/info/690f789e988c2b7b4ec4e26e?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Nov 08 |
 | **[Microsoft](https://www.microsoft.com)** | **[Data Center Technicians INTERN](https://jobright.ai/jobs/info/68f2ae799a65fd345857f4a8?utm_campaign=1048&utm_source=git)** | Quincy, WA | Hybrid | Nov 08 |
 | **[Kiewit](http://www.kiewit.com)** | **[Field/Office Engineer Intern - South Central District Summer 2026](https://jobright.ai/jobs/info/69093768d046ab6061cd2fb2?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Nov 08 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Civil Engineer Intern - Water](https://jobright.ai/jobs/info/68d76cb7295f8e37655d8d88?utm_campaign=1048&utm_source=git)** | Burlington, MA | Hybrid | Nov 08 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Black & Veatch](http://bv.com/Home)** | **[Civil Engineer Intern - Water](https://jobright.ai/jobs/info/68d76c26295f8e37655d8a8c?utm_campaign=1048&utm_source=git)** | Coral Gables, FL | Hybrid | Nov 08 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Transmission & Distribution Engineer Intern - Grid (Summer 2026)](https://jobright.ai/jobs/info/68bb7dfc5f3832749186f83a?utm_campaign=1048&utm_source=git)** | Lake Mary, FL | Hybrid | Nov 08 |
 | **[ByteDance](http://bytedance.com)** | **[Research Engineer Intern (Doubao (Seed) - Machine Learning System) - 2025 Summer (MS)](https://jobright.ai/jobs/info/690f6ba1bc852e6dc187d514?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Nov 08 |
-| **[Black & Veatch](http://bv.com/Home)** | **[Civil Engineer Intern - Water](https://jobright.ai/jobs/info/68d76bd3295f8e37655d873a?utm_campaign=1048&utm_source=git)** | Creve Coeur, MO | Hybrid | Nov 08 |
-| **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Product Engineer Intern](https://jobright.ai/jobs/info/68f2d75a76a51a4307bc8b36?utm_campaign=1048&utm_source=git)** | Londonderry, NH | On Site | Nov 08 |
-| **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Test Engineering Summer Intern](https://jobright.ai/jobs/info/68f2e49e9a63986de756cf29?utm_campaign=1048&utm_source=git)** | Woburn, MA | On Site | Nov 08 |
-| **[Black & Veatch](http://bv.com/Home)** | **[Civil Engineer Intern - Water](https://jobright.ai/jobs/info/68d7670f295f8e37655d8127?utm_campaign=1048&utm_source=git)** | Charlotte, TX | Hybrid | Nov 08 |
-| ↳ | **[Civil Engineer Intern - Water](https://jobright.ai/jobs/info/68d768a261a175619f8cc14e?utm_campaign=1048&utm_source=git)** | Dallas, TX | Hybrid | Nov 08 |
-| **[Ingredion Incorporated](http://ingredion.com)** | **[Quality Intern](https://jobright.ai/jobs/info/68f2ebea76a51a4307bc952a?utm_campaign=1048&utm_source=git)** | Cedar Rapids, IA | Hybrid | Nov 08 |
-| **[Black & Veatch](http://bv.com/Home)** | **[Civil Engineer Intern - Water](https://jobright.ai/jobs/info/68d7685961a175619f8cbf95?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | Hybrid | Nov 08 |
-| **[FlatironDragados](https://www.fdcorp.com)** | **[Field Engineer Intern](https://jobright.ai/jobs/info/68ba6a7a8043103d4f220648?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Nov 08 |
-| **[Buro Happold](http://www.burohappold.com)** | **[Plumbing & Fire Protection Intern - Los Angeles (Summer 2026)](https://jobright.ai/jobs/info/68f2cafe76a51a4307bc8635?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 08 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Controls Assurance - Asset Based Testing)](https://jobright.ai/jobs/info/68bb79515f3832749186f713?utm_campaign=1048&utm_source=git)** | Vienna, VA | Hybrid | Nov 08 |
-| **[Charter Manufacturing](http://chartermfg.com)** | **[IT Security Intern - Year Round](https://jobright.ai/jobs/info/68a90196d627244576e36d6e?utm_campaign=1048&utm_source=git)** | Mequon, WI | Hybrid | Nov 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
