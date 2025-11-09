@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Laboratory Services Operations Intern](https://jobright.ai/jobs/info/691045fdbb519377733eb4fe?utm_campaign=1048&utm_source=git)** | Middleton, WI | On Site | Nov 08 |
+| **[The GSI Group](http://thegsigroup.com/)** | **[Intern, Design Engineer](https://jobright.ai/jobs/info/69103a0e988c2b7b4ec50937?utm_campaign=1048&utm_source=git)** | Assumption, IL | On Site | Nov 08 |
+| **[Lightmatter](https://lightmatter.co)** | **[Photonics Layout and Design, Intern](https://jobright.ai/jobs/info/690d7ee8d046ab6061cf6b10?utm_campaign=1048&utm_source=git)** | Mountain View, CA | Hybrid | Nov 08 |
+| **[The GSI Group](http://thegsigroup.com/)** | **[Intern, Industrial Engineer](https://jobright.ai/jobs/info/691034fb988c2b7b4ec507fc?utm_campaign=1048&utm_source=git)** | Assumption, IL | On Site | Nov 08 |
+| **[Work4Flow](www.work4flow.com)** | **[ServiceNow Developer Intern](https://jobright.ai/jobs/info/69102b6cbb519377733eaf7b?utm_campaign=1048&utm_source=git)** | United States | Remote | Nov 08 |
 | **[Yates Construction](https://www.wgyates.com)** | **[INTERN](https://jobright.ai/jobs/info/69102b1fbb519377733eaf6f?utm_campaign=1048&utm_source=git)** | Las Vegas, NV | On Site | Nov 08 |
 | **[The Foth Companies](http://www.foth.com)** | **[Mechanical Engineering Intern- Process (Summer 2026)](https://jobright.ai/jobs/info/691027bc183be660d2677928?utm_campaign=1048&utm_source=git)** | Mehoopany, PA | Hybrid | Nov 08 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Energy/Security Technician](https://jobright.ai/jobs/info/69102519183be660d2677903?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Nov 08 |
@@ -78,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Tutor Intelligence](https://tutorintelligence.com/)** | **[Robotics Research Scientist Intern (Winter/Spring 2026)](https://jobright.ai/jobs/info/690fcf04bb519377733e9ccd?utm_campaign=1048&utm_source=git)** | Watertown, MA | On Site | Nov 08 |
 | **[WESTERN MILLING](https://westernmilling.com)** | **[Feed Safety & Quality Intern](https://jobright.ai/jobs/info/690fba7d988c2b7b4ec4f27f?utm_campaign=1048&utm_source=git)** | US-CA-Goshen | On Site | Nov 08 |
 | **[Verdantas](https://www.verdantas.com)** | **[Environmental Scientist Internship](https://jobright.ai/jobs/info/690fb842183be660d2676638?utm_campaign=1048&utm_source=git)** | Middletown CT | Hybrid | Nov 08 |
-| **[Meridian Forge](https://www.linkedin.com/company/108612717)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/690fb7e0bb519377733e9b49?utm_campaign=1048&utm_source=git)** | Pennsylvania, United States | Remote | Nov 08 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Maritime Business Services](https://jobright.ai/jobs/info/690fb442183be660d26765ed?utm_campaign=1048&utm_source=git)** | Seattle, WA | Remote | Nov 08 |
 | **[Northmere Solutions](https://www.linkedin.com/company/104898627)** | **[2026 Mechanical Engineering Intern](https://jobright.ai/jobs/info/690faf39988c2b7b4ec4f144?utm_campaign=1048&utm_source=git)** | Hilliard, OH | Remote | Nov 08 |
 | **[ADL Ventures](http://adlventures.com/)** | **[Intern (Industrialized Construction Project Execution)](https://jobright.ai/jobs/info/690faec2183be660d267650e?utm_campaign=1048&utm_source=git)** | Boston, MA | Hybrid | Nov 08 |
@@ -96,8 +100,8 @@ For a complete list, click the following sortable link below:
 | **[Rehlko](https://www.rehlko.com/)** | **[Residential Test Labs Intern](https://jobright.ai/jobs/info/690f7dca183be660d26756ea?utm_campaign=1048&utm_source=git)** | Sheboygan, WI | On Site | Nov 08 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/68f3082576a51a4307bca4d4?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Nov 08 |
 | **[AV](https://www.avinc.com/)** | **[Summer 2026 Electrical Engineering Intern](https://jobright.ai/jobs/info/68ba3f295f3832749186564c?utm_campaign=1048&utm_source=git)** | Petaluma, CA | On Site | Nov 08 |
-| **[Carrier](https://www.corporate.carrier.com)** | **[Field Engineer Intern - Summer](https://jobright.ai/jobs/info/690f7980988c2b7b4ec4e2a2?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Nov 08 |
 | **[Buro Happold](http://www.burohappold.com)** | **[Plumbing & Fire Protection Intern - New York (Summer 2026)](https://jobright.ai/jobs/info/68f2cb9c76a51a4307bc868e?utm_campaign=1048&utm_source=git)** | New York, United States | Hybrid | Nov 08 |
+| **[Carrier](https://www.corporate.carrier.com)** | **[Field Engineer Intern - Summer](https://jobright.ai/jobs/info/690f789e988c2b7b4ec4e26e?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Nov 08 |
 | **[Microsoft](https://www.microsoft.com)** | **[Data Center Technicians INTERN](https://jobright.ai/jobs/info/68f2ae799a65fd345857f4a8?utm_campaign=1048&utm_source=git)** | Quincy, WA | Hybrid | Nov 08 |
 | **[Kiewit](http://www.kiewit.com)** | **[Field/Office Engineer Intern - South Central District Summer 2026](https://jobright.ai/jobs/info/69093768d046ab6061cd2fb2?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Nov 08 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Civil Engineer Intern - Water](https://jobright.ai/jobs/info/68d76cb7295f8e37655d8d88?utm_campaign=1048&utm_source=git)** | Burlington, MA | Hybrid | Nov 08 |
@@ -131,8 +135,8 @@ For a complete list, click the following sortable link below:
 | **[Momentive](https://www.momentive.com/)** | **[Summer 2026 Graduate (MS/PhD) R&D Intern - Hardcoat Research and Development](https://jobright.ai/jobs/info/68e6aeb11852e62f0081d4f9?utm_campaign=1048&utm_source=git)** | Waterford, NY | On Site | Nov 08 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Water Resources Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/68c62e7f7d0db411427361a8?utm_campaign=1048&utm_source=git)** | San Antonio, TX | Hybrid | Nov 08 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Diagnostics Intern](https://jobright.ai/jobs/info/68eb743f8369791ef7827135?utm_campaign=1048&utm_source=git)** | Charlotte, NC | On Site | Nov 08 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (AI Strategist)](https://jobright.ai/jobs/info/68cd78b21ad6b16f02899eff?utm_campaign=1048&utm_source=git)** | Vienna, VA | Hybrid | Nov 08 |
-| ↳ | **[Summer Associate Internship (Security Governance & Risk - Standards Management)](https://jobright.ai/jobs/info/6908288e122e8474c78e8309?utm_campaign=1048&utm_source=git)** | Vienna, VA | Hybrid | Nov 08 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Security Governance & Risk - Standards Management)](https://jobright.ai/jobs/info/6908288e122e8474c78e8309?utm_campaign=1048&utm_source=git)** | Vienna, VA | Hybrid | Nov 08 |
+| ↳ | **[Summer Associate Internship (AI Strategist)](https://jobright.ai/jobs/info/68cd78b21ad6b16f02899eff?utm_campaign=1048&utm_source=git)** | Vienna, VA | Hybrid | Nov 08 |
 | ↳ | **[Summer Associate Internship (Lending Automation Technology & Solutions)](https://jobright.ai/jobs/info/68cc920b16d00d2beeb217fd?utm_campaign=1048&utm_source=git)** | Winchester, VA | Hybrid | Nov 08 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Civil Engineer Intern - Water](https://jobright.ai/jobs/info/68d76cc0295f8e37655d8db0?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Nov 08 |
 | **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Timing Customer Applications Summer Intern (Hardware)-- May'26-Aug '26](https://jobright.ai/jobs/info/689e95bc83d13d1f5b6bdd6f?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Nov 08 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Autonomy & Robotics Engineering Intern](https://jobright.ai/jobs/info/68ba3f1c5f3832749186563e?utm_campaign=1048&utm_source=git)** | Petaluma, CA | On Site | Nov 08 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Civil Engineer Intern - Water](https://jobright.ai/jobs/info/68d767c47a37c712687cc0bf?utm_campaign=1048&utm_source=git)** | Houston, TX | Hybrid | Nov 08 |
 | ↳ | **[Civil Engineer Intern - Water](https://jobright.ai/jobs/info/68d76d3a7a37c712687ccc66?utm_campaign=1048&utm_source=git)** | Atlanta, GA | Hybrid | Nov 08 |
-| **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Vaccine Business Unit Product Operations Assay Development Intern](https://jobright.ai/jobs/info/690f6c0337acd2126472ec67?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | Nov 08 |
-| **[RaceTrac](http://www.racetrac.com/)** | **[Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68f2920276a51a4307bc4d71?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Nov 08 |
-| **[Black & Veatch](http://bv.com/Home)** | **[Civil Engineer Intern - Water](https://jobright.ai/jobs/info/68d7684a61a175619f8cbf17?utm_campaign=1048&utm_source=git)** | Fort Myers, FL | Hybrid | Nov 08 |
-| **[Cliffton Verge](https://www.linkedin.com/company/108618613)** | **[Power Electronics Intern - Spring 2026](https://jobright.ai/jobs/info/690f6bcdbc852e6dc187d51e?utm_campaign=1048&utm_source=git)** | Raleigh, NC | Remote | Nov 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
