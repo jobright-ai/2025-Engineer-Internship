@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Commercial Tool Group: Commercial Tool & Die, Inc., CG Automation & Fixture, Inc., CG Plastics, Inc.](https://commercialtoolgroup.com)** | **[Controls Engineering Internship](https://jobright.ai/jobs/info/6910ebfb183be660d267a486?utm_campaign=1048&utm_source=git)** | Grand Rapids, MI | On Site | Nov 09 |
+| **[Leonardo DRS](https://www.leonardodrs.com)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/6910e7c3bb519377733ed8f6?utm_campaign=1048&utm_source=git)** | Bridgeton, MO | Hybrid | Nov 09 |
+| ↳ | **[Systems Engineer Intern](https://jobright.ai/jobs/info/6910e68e988c2b7b4ec52ede?utm_campaign=1048&utm_source=git)** | Bridgeton, MO | Hybrid | Nov 09 |
+| ↳ | **[Electrical Engineer Intern](https://jobright.ai/jobs/info/6910e5f7988c2b7b4ec52ebd?utm_campaign=1048&utm_source=git)** | Bridgeton, MO | Hybrid | Nov 09 |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Mechanical Engineering Internship - Spring 2026](https://jobright.ai/jobs/info/6910de48988c2b7b4ec52c85?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | Nov 09 |
+| ↳ | **[IAE Robotics Internship - Spring 2026](https://jobright.ai/jobs/info/6910d835988c2b7b4ec52bd4?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | Nov 09 |
 | **[ECC](https://www.ecc.net/)** | **[Intern - Construction Management / Civil Engineering / Environmental Science](https://jobright.ai/jobs/info/690d79dc221b890c278070f6?utm_campaign=1048&utm_source=git)** | Burlingame, CA | On Site | Nov 09 |
 | **[Sierra Pacific Industries](http://www.spi-ind.com)** | **[Engineer Intern - Design](https://jobright.ai/jobs/info/6910d094bb519377733ed23d?utm_campaign=1048&utm_source=git)** | Medford, WI | On Site | Nov 09 |
 | **[LONG Building Technologies](http://long.com)** | **[Intern - HVAC Service Technician](https://jobright.ai/jobs/info/6910d06ebb519377733ed229?utm_campaign=1048&utm_source=git)** | Littleton, CO | On Site | Nov 09 |
@@ -115,7 +121,6 @@ For a complete list, click the following sortable link below:
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Civil Engineering Intern- MME](https://jobright.ai/jobs/info/68eaeab58369791ef78233ef?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Nov 09 |
 | **[Copeland](https://www.copeland.com)** | **[2026 - Air Management Engineering Internship](https://jobright.ai/jobs/info/69074a98ff462851fe008141?utm_campaign=1048&utm_source=git)** | Sidney, OH | On Site | Nov 09 |
 | **[Dexter](https://www.dexteraxle.com/)** | **[Supply Chain / Procurement Intern - Summer 2026](https://jobright.ai/jobs/info/68db57cbe19b9e63ba20b068?utm_campaign=1048&utm_source=git)** | Elkhart, IN | On Site | Nov 09 |
-| **[Structonix](structonix.us)** | **[Intern, Electrical Engineering, Summer 2026](https://jobright.ai/jobs/info/6910b176bb519377733ecf1d?utm_campaign=1048&utm_source=git)** | Newark, CA | Remote | Nov 09 |
 | **[Charter Steel](http://www.chartersteel.com/)** | **[Materials Engineer Intern - Year-Round](https://jobright.ai/jobs/info/68f9b264cadb2e5a06a67058?utm_campaign=1048&utm_source=git)** | Cleveland, OH | On Site | Nov 09 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Civil Engineering Intern- MME](https://jobright.ai/jobs/info/68f747d2aed0577b7e0503c0?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Nov 09 |
 | ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/68395062991bc0974fbd8cef?utm_campaign=1048&utm_source=git)** | Kansas City, MO | On Site | Nov 09 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[OneFourTwo Design Group](https://142designgroup.com)** | **[Structural Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68f7457cb0edcf159dc78397?utm_campaign=1048&utm_source=git)** | White Plains, NY | On Site | Nov 09 |
 | **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Construction Intern](https://jobright.ai/jobs/info/68cd5c9fe23def7af55b8bf4?utm_campaign=1048&utm_source=git)** | Mobile, AL | On Site | Nov 09 |
 | **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Structural Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/6910a83d183be660d2679962?utm_campaign=1048&utm_source=git)** | Fargo, ND | On Site | Nov 09 |
-| **[Schnabel Engineering](http://schnabel-eng.com)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/68d77a9a267b154f9a2d9e56?utm_campaign=1048&utm_source=git)** | Marquette, MI | On Site | Nov 09 |
-| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Right of Way Intern - Environmental Services, Stakeholder Management Services (Denver)](https://jobright.ai/jobs/info/68bb1afc8043103d4f22586c?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Nov 09 |
-| **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Civil Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/6910a7ad988c2b7b4ec52558?utm_campaign=1048&utm_source=git)** | Fargo, ND | On Site | Nov 09 |
-| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Civil/Structural Engineering Intern - Transmission & Distribution, Transmission (Raleigh)](https://jobright.ai/jobs/info/68bb1c405f3832749186c2b3?utm_campaign=1048&utm_source=git)** | Raleigh, NC | On Site | Nov 09 |
-| **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Water Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/6910a696988c2b7b4ec52505?utm_campaign=1048&utm_source=git)** | Billings, MT | On Site | Nov 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
