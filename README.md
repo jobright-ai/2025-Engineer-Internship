@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[mundane](https://www.mundane.bot/)** | **[mechatronics prototyping intern](https://jobright.ai/jobs/info/69112623988c2b7b4ec53947?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Nov 09 |
+| **[Novant Health](https://www.novanthealth.org/)** | **[Intern](https://jobright.ai/jobs/info/690017a40ab3b222462b1c64?utm_campaign=1048&utm_source=git)** | Charlotte, NC | On Site | Nov 09 |
+| **[mundane](https://www.mundane.bot/)** | **[mechatronics prototyping intern](https://jobright.ai/jobs/info/6911381d988c2b7b4ec53a78?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Nov 09 |
+| **[InnoMountain](https://www.innomountain-inc.com/)** | **[Hardware Engineer Intern (5G System R&D)](https://jobright.ai/jobs/info/69113553988c2b7b4ec53a5f?utm_campaign=1048&utm_source=git)** | United States | Remote | Nov 09 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Futures Lab (Fall 2025)](https://jobright.ai/jobs/info/69111d11988c2b7b4ec5387a?utm_campaign=1048&utm_source=git)** | Washington, DC | Hybrid | Nov 09 |
 | ↳ | **[Intern - Missile Defense Project (Spring 2026)](https://jobright.ai/jobs/info/69111d0b988c2b7b4ec53878?utm_campaign=1048&utm_source=git)** | Washington, DC | On Site | Nov 09 |
 | **[Symbl.ai (Acq. by Invoca)](https://symbl.ai)** | **[ML Engineering Intern - Nebula](https://jobright.ai/jobs/info/68901bfa6a4aac5783cde3d7?utm_campaign=1048&utm_source=git)** | United States | Remote | Nov 09 |
@@ -94,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/68af19e31f0a2a568a05f08c?utm_campaign=1048&utm_source=git)** | Louisville, Kentucky, United States | On Site | Nov 09 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Civil Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/689fbeecfaa4e875e828adb7?utm_campaign=1048&utm_source=git)** | Washington, DC | Hybrid | Nov 09 |
 | ↳ | **[Structural Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/68ce1a6d1ad6b16f028a1d99?utm_campaign=1048&utm_source=git)** | Valhalla, NY | Hybrid | Nov 09 |
-| **[Pinnova](https://www.linkedin.com/company/87987033)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/6910c05f183be660d2679b90?utm_campaign=1048&utm_source=git)** | Chelmsford, MA | Remote | Nov 09 |
 | **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[Process Engineer intern](https://jobright.ai/jobs/info/6910c059183be660d2679b8e?utm_campaign=1048&utm_source=git)** | Ada, MI | Remote | Nov 09 |
 | **[Blue Cross and Blue Shield of Nebraska](https://www.nebraskablue.com)** | **[AI Modern Workplace Intern - Starts Summer 2026](https://jobright.ai/jobs/info/68fdb4cbe0c73b3a11194612?utm_campaign=1048&utm_source=git)** | Omaha, NE | Hybrid | Nov 09 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Transmission & Distribution Engineer Intern - Grid (Summer 2026)](https://jobright.ai/jobs/info/68bb7e9b6105227d118a65d9?utm_campaign=1048&utm_source=git)** | Wilmington, DE | Hybrid | Nov 09 |
@@ -138,7 +139,6 @@ For a complete list, click the following sortable link below:
 | **[Charter Steel](http://www.chartersteel.com/)** | **[Materials Engineer Intern - Year-Round](https://jobright.ai/jobs/info/68f9b264cadb2e5a06a67058?utm_campaign=1048&utm_source=git)** | Cleveland, OH | On Site | Nov 09 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Civil Engineering Intern- MME](https://jobright.ai/jobs/info/68f747d2aed0577b7e0503c0?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Nov 09 |
 | ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/68395062991bc0974fbd8cef?utm_campaign=1048&utm_source=git)** | Kansas City, MO | On Site | Nov 09 |
-| **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[Intern, Firmware Test Development](https://jobright.ai/jobs/info/6910af56183be660d2679a82?utm_campaign=1048&utm_source=git)** | Mequon, WI | Remote | Nov 09 |
 | **[BioSpace](http://www.biospace.com/)** | **[Medical Device & Combo Product Quality Knowledge Management Intern (Graduate)](https://jobright.ai/jobs/info/6910af2c183be660d2679a7a?utm_campaign=1048&utm_source=git)** | North Chicago, IL | On Site | Nov 09 |
 | ↳ | **[2026 Summer Internship Program: Quality Digital (Quality Systems & Validation) Intern](https://jobright.ai/jobs/info/6910aef5988c2b7b4ec52654?utm_campaign=1048&utm_source=git)** | Lexington, MA | On Site | Nov 09 |
 | **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Structural Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/6910ae65183be660d2679a55?utm_campaign=1048&utm_source=git)** | Grand Forks, ND | On Site | Nov 09 |
@@ -152,9 +152,9 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Summer Internship Program: Manufacturing Support Intern](https://jobright.ai/jobs/info/6910acd3183be660d26799ef?utm_campaign=1048&utm_source=git)** | Thousand Oaks, CA | On Site | Nov 09 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Corporate Quality Engineering Intern](https://jobright.ai/jobs/info/68bb7b3e8043103d4f228f31?utm_campaign=1048&utm_source=git)** | Niles, IL | Hybrid | Nov 09 |
 | **[Henkel](http://www.henkel.com)** | **[Product Development Intern, Packaging and Labeling Adhesives – Summer 2026](https://jobright.ai/jobs/info/68bb1b716105227d118a2fcf?utm_campaign=1048&utm_source=git)** | Bridgewater, NJ | On Site | Nov 09 |
-| **[MechNova](mechnova.us)** | **[Test Engineering Intern](https://jobright.ai/jobs/info/6910ac4b183be660d26799cf?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | Remote | Nov 09 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Summer Internship Program: Analytical Development Intern](https://jobright.ai/jobs/info/6910ac46bb519377733ece6b?utm_campaign=1048&utm_source=git)** | Lexington, MA | On Site | Nov 09 |
 | **[Kiewit](http://www.kiewit.com)** | **[Electrical Design Intern - Kiewit Nuclear Solutions](https://jobright.ai/jobs/info/68d87d527796a83635f11837?utm_campaign=1048&utm_source=git)** | Oak Ridge, TN | On Site | Nov 09 |
 | **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[2026 Internship/Co-op, Civil Engineering (WAL)](https://jobright.ai/jobs/info/68f15a2cf462172a5a7d6ed3?utm_campaign=1048&utm_source=git)** | Waltham, Massachusetts, United States | On Site | Nov 09 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 U.S Summer Internship Program: Machine Learning Pipeline Development Intern](https://jobright.ai/jobs/info/6910aba8988c2b7b4ec525d0?utm_campaign=1048&utm_source=git)** | Cambridge, MA | On Site | Nov 09 |
+| ↳ | **[2026 Summer Internship: Global Product Production Forensic Laboratory Intern](https://jobright.ai/jobs/info/6910ab86bb519377733ece43?utm_campaign=1048&utm_source=git)** | Lexington, MA | On Site | Nov 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
