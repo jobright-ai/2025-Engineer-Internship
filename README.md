@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Innophos](http://www.innophos.com/)** | **[Maintenance Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/69117aa6183be660d267c1fc?utm_campaign=1048&utm_source=git)** | Nashville, TN | On Site | Nov 09 |
+| **[Davis School District](https://www.davis.k12.ut.us/)** | **[Energy/Security Technician](https://jobright.ai/jobs/info/69117619183be660d267c00e?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Nov 09 |
+| **[Snackpass](https://www.snackpass.co)** | **[AI Engineering Intern](https://jobright.ai/jobs/info/68d44010ffc1276de3fd8a78?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Nov 09 |
+| **[Olsson](https://www.olsson.com)** | **[Engineering Internship - Fire Protection](https://jobright.ai/jobs/info/68b9e66f5f38327491862109?utm_campaign=1048&utm_source=git)** | Tulsa, OK | Hybrid | Nov 09 |
+| **[Astra](https://astra.com)** | **[Summer 2026 Temp Summer Job/Internship](https://jobright.ai/jobs/info/69116ce5988c2b7b4ec5494b?utm_campaign=1048&utm_source=git)** | Alameda, CA | On Site | Nov 09 |
+| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Automation Engineering Intern](https://jobright.ai/jobs/info/69116553183be660d267bb84?utm_campaign=1048&utm_source=git)** | Chippewa Falls, WI | On Site | Nov 09 |
 | **[InnoMountain](https://www.innomountain-inc.com/)** | **[Hardware Engineering Intern (5G System R&D)](https://jobright.ai/jobs/info/69115cbb988c2b7b4ec543b7?utm_campaign=1048&utm_source=git)** | United States | Remote | Nov 09 |
 | **[Analog Devices](http://www.analog.com)** | **[Communication & Data Transmission Algorithms - PhD Intern](https://jobright.ai/jobs/info/691154c1bb519377733ee898?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | Nov 09 |
 | ↳ | **[Communication & Data Transmission Algorithms - PhD Intern](https://jobright.ai/jobs/info/691151c5988c2b7b4ec53e3a?utm_campaign=1048&utm_source=git)** | US, MA, Boston | On Site | Nov 09 |
@@ -66,7 +72,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Water/Wastewater Engineering Internship](https://jobright.ai/jobs/info/691149a7bb519377733ee5b2?utm_campaign=1048&utm_source=git)** | Sioux Falls, SD | On Site | Nov 09 |
 | ↳ | **[Civil Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/69114967183be660d267b0d4?utm_campaign=1048&utm_source=git)** | Fargo, ND | On Site | Nov 09 |
 | ↳ | **[Construction Services Intern](https://jobright.ai/jobs/info/69114787988c2b7b4ec53cc8?utm_campaign=1048&utm_source=git)** | Bismarck, ND | On Site | Nov 09 |
-| ↳ | **[Water Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/6911475ebb519377733ee531?utm_campaign=1048&utm_source=git)** | Billings, MT | On Site | Nov 09 |
+| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Automation Engineering Intern](https://jobright.ai/jobs/info/6911648a183be660d267bb54?utm_campaign=1048&utm_source=git)** | Chippewa Falls, Wisconsin, United States of America | On Site | Nov 09 |
+| **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Water Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/6911475ebb519377733ee531?utm_campaign=1048&utm_source=git)** | Billings, MT | On Site | Nov 09 |
 | **[Novant Health](https://www.novanthealth.org/)** | **[Intern](https://jobright.ai/jobs/info/690017a40ab3b222462b1c64?utm_campaign=1048&utm_source=git)** | Charlotte, NC | On Site | Nov 09 |
 | **[mundane](https://www.mundane.bot/)** | **[mechatronics prototyping intern](https://jobright.ai/jobs/info/6911381d988c2b7b4ec53a78?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Nov 09 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Futures Lab (Fall 2025)](https://jobright.ai/jobs/info/69111d11988c2b7b4ec5387a?utm_campaign=1048&utm_source=git)** | Washington, DC | Hybrid | Nov 09 |
@@ -86,8 +93,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Systems Engineer Intern](https://jobright.ai/jobs/info/6910e68e988c2b7b4ec52ede?utm_campaign=1048&utm_source=git)** | Bridgeton, MO | Hybrid | Nov 09 |
 | ↳ | **[Electrical Engineer Intern](https://jobright.ai/jobs/info/6910e5f7988c2b7b4ec52ebd?utm_campaign=1048&utm_source=git)** | Bridgeton, MO | Hybrid | Nov 09 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Mechanical Engineering Internship - Spring 2026](https://jobright.ai/jobs/info/6910de48988c2b7b4ec52c85?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | Nov 09 |
-| **[Yates Construction](https://www.wgyates.com)** | **[INTERN](https://jobright.ai/jobs/info/6910d90fbb519377733ed49b?utm_campaign=1048&utm_source=git)** | Las Vegas, NV | On Site | Nov 09 |
-| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Robotics Internship - Spring 2026](https://jobright.ai/jobs/info/6910d835988c2b7b4ec52bd4?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | Nov 09 |
+| ↳ | **[IAE Robotics Internship - Spring 2026](https://jobright.ai/jobs/info/6910d835988c2b7b4ec52bd4?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | Nov 09 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern Program - Identity Analytics Intern](https://jobright.ai/jobs/info/69101aadbb519377733eab68?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Nov 09 |
 | **[ECC](https://www.ecc.net/)** | **[Intern - Construction Management / Civil Engineering / Environmental Science](https://jobright.ai/jobs/info/690d79dc221b890c278070f6?utm_campaign=1048&utm_source=git)** | Burlingame, CA | On Site | Nov 09 |
 | **[Sierra Pacific Industries](http://www.spi-ind.com)** | **[Engineer Intern - Design](https://jobright.ai/jobs/info/6910d094bb519377733ed23d?utm_campaign=1048&utm_source=git)** | Medford, WI | On Site | Nov 09 |
@@ -105,7 +111,6 @@ For a complete list, click the following sortable link below:
 | **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/68af19e31f0a2a568a05f08c?utm_campaign=1048&utm_source=git)** | Louisville, Kentucky, United States | On Site | Nov 09 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Civil Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/689fbeecfaa4e875e828adb7?utm_campaign=1048&utm_source=git)** | Washington, DC | Hybrid | Nov 09 |
 | ↳ | **[Structural Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/68ce1a6d1ad6b16f028a1d99?utm_campaign=1048&utm_source=git)** | Valhalla, NY | Hybrid | Nov 09 |
-| **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[Process Engineer intern](https://jobright.ai/jobs/info/6910c059183be660d2679b8e?utm_campaign=1048&utm_source=git)** | Ada, MI | Remote | Nov 09 |
 | **[Blue Cross and Blue Shield of Nebraska](https://www.nebraskablue.com)** | **[AI Modern Workplace Intern - Starts Summer 2026](https://jobright.ai/jobs/info/68fdb4cbe0c73b3a11194612?utm_campaign=1048&utm_source=git)** | Omaha, NE | Hybrid | Nov 09 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Transmission & Distribution Engineer Intern - Grid (Summer 2026)](https://jobright.ai/jobs/info/68bb7e9b6105227d118a65d9?utm_campaign=1048&utm_source=git)** | Wilmington, DE | Hybrid | Nov 09 |
 | ↳ | **[Transmission & Distribution Engineer Intern - Grid (Summer 2026)](https://jobright.ai/jobs/info/68ca3611f16e3266d2824d26?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Nov 09 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Internship Program: Quality Digital (Quality Systems & Validation) Intern](https://jobright.ai/jobs/info/6910aef5988c2b7b4ec52654?utm_campaign=1048&utm_source=git)** | Lexington, MA | On Site | Nov 09 |
 | **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Structural Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/6910ae65183be660d2679a55?utm_campaign=1048&utm_source=git)** | Grand Forks, ND | On Site | Nov 09 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Summer Internship Program: Manufacturing Sciences Statistical Process Control (SPC) Intern](https://jobright.ai/jobs/info/6910adf6bb519377733ececb?utm_campaign=1048&utm_source=git)** | Lexington, MA | On Site | Nov 09 |
-| ↳ | **[2026 U.S. Summer Internship Program: Manufacturing Implementation Engineer Intern](https://jobright.ai/jobs/info/6910adb4183be660d2679a38?utm_campaign=1048&utm_source=git)** | Social Circle, GA | On Site | Nov 09 |
-| ↳ | **[Manufacturing Sciences – Downstream Intern](https://jobright.ai/jobs/info/6910adb3183be660d2679a37?utm_campaign=1048&utm_source=git)** | Brooklyn Park, MN | On Site | Nov 09 |
-| ↳ | **[2026 U.S Summer Internship Program: Documentation & Artificial Intelligence Intern](https://jobright.ai/jobs/info/6910adb1183be660d2679a35?utm_campaign=1048&utm_source=git)** | Social Circle, GA | On Site | Nov 09 |
-| ↳ | **[2026 Summer Internship Program: Global Supply Chain Analyst Intern](https://jobright.ai/jobs/info/6910ad9fbb519377733eceb2?utm_campaign=1048&utm_source=git)** | Lexington, MA | On Site | Nov 09 |
-| ↳ | **[2026 Product Development QA Intern](https://jobright.ai/jobs/info/6910ad90183be660d2679a30?utm_campaign=1048&utm_source=git)** | North Chicago, IL | On Site | Nov 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
