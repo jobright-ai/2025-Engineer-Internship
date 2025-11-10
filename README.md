@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[mundane](https://www.mundane.bot/)** | **[mechatronics prototyping intern](https://jobright.ai/jobs/info/69112623988c2b7b4ec53947?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Nov 09 |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Futures Lab (Fall 2025)](https://jobright.ai/jobs/info/69111d11988c2b7b4ec5387a?utm_campaign=1048&utm_source=git)** | Washington, DC | Hybrid | Nov 09 |
+| ↳ | **[Intern - Missile Defense Project (Spring 2026)](https://jobright.ai/jobs/info/69111d0b988c2b7b4ec53878?utm_campaign=1048&utm_source=git)** | Washington, DC | On Site | Nov 09 |
+| **[Symbl.ai (Acq. by Invoca)](https://symbl.ai)** | **[ML Engineering Intern - Nebula](https://jobright.ai/jobs/info/68901bfa6a4aac5783cde3d7?utm_campaign=1048&utm_source=git)** | United States | Remote | Nov 09 |
+| **[Manifold](https://www.manifold.ai)** | **[A.I. Engineering Intern/Fellow](https://jobright.ai/jobs/info/6901562ef8ce7a040fdbefb3?utm_campaign=1048&utm_source=git)** | Boston, MA or Remote (NorthAM) | Remote | Nov 09 |
 | **[Daice Labs](https://daicelabs.com/)** | **[AI/ML intern](https://jobright.ai/jobs/info/691105d5988c2b7b4ec5365d?utm_campaign=1048&utm_source=git)** | Boston, MA | Remote | Nov 09 |
 | **[Tutor Intelligence](https://tutorintelligence.com/)** | **[Robotics Research Scientist Intern (Winter/Spring 2026)](https://jobright.ai/jobs/info/69110558bb519377733edf13?utm_campaign=1048&utm_source=git)** | Watertown, MA | On Site | Nov 09 |
 | **[PCL Construction](http://www.pcl.com)** | **[ICT Intern](https://jobright.ai/jobs/info/6910fcc5bb519377733ede10?utm_campaign=1048&utm_source=git)** | Tempe, AZ | On Site | Nov 09 |
@@ -144,7 +149,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Internship Program: Global Supply Chain Analyst Intern](https://jobright.ai/jobs/info/6910ad9fbb519377733eceb2?utm_campaign=1048&utm_source=git)** | Lexington, MA | On Site | Nov 09 |
 | ↳ | **[2026 Product Development QA Intern](https://jobright.ai/jobs/info/6910ad90183be660d2679a30?utm_campaign=1048&utm_source=git)** | North Chicago, IL | On Site | Nov 09 |
 | **[MechNova](mechnova.us)** | **[Power Electronics Intern - Spring 2026](https://jobright.ai/jobs/info/6910ad54183be660d2679a15?utm_campaign=1048&utm_source=git)** | Raleigh, NC | Remote | Nov 09 |
-| **[MechSpire](https://www.linkedin.com/company/92823876)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/6910ace0183be660d26799f2?utm_campaign=1048&utm_source=git)** | Pennsylvania, United States | Remote | Nov 09 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Summer Internship Program: Manufacturing Support Intern](https://jobright.ai/jobs/info/6910acd3183be660d26799ef?utm_campaign=1048&utm_source=git)** | Thousand Oaks, CA | On Site | Nov 09 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Corporate Quality Engineering Intern](https://jobright.ai/jobs/info/68bb7b3e8043103d4f228f31?utm_campaign=1048&utm_source=git)** | Niles, IL | Hybrid | Nov 09 |
 | **[Henkel](http://www.henkel.com)** | **[Product Development Intern, Packaging and Labeling Adhesives – Summer 2026](https://jobright.ai/jobs/info/68bb1b716105227d118a2fcf?utm_campaign=1048&utm_source=git)** | Bridgewater, NJ | On Site | Nov 09 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kiewit](http://www.kiewit.com)** | **[Electrical Design Intern - Kiewit Nuclear Solutions](https://jobright.ai/jobs/info/68d87d527796a83635f11837?utm_campaign=1048&utm_source=git)** | Oak Ridge, TN | On Site | Nov 09 |
 | **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[2026 Internship/Co-op, Civil Engineering (WAL)](https://jobright.ai/jobs/info/68f15a2cf462172a5a7d6ed3?utm_campaign=1048&utm_source=git)** | Waltham, Massachusetts, United States | On Site | Nov 09 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 U.S Summer Internship Program: Machine Learning Pipeline Development Intern](https://jobright.ai/jobs/info/6910aba8988c2b7b4ec525d0?utm_campaign=1048&utm_source=git)** | Cambridge, MA | On Site | Nov 09 |
-| ↳ | **[2026 Summer Internship: Global Product Production Forensic Laboratory Intern](https://jobright.ai/jobs/info/6910ab86bb519377733ece43?utm_campaign=1048&utm_source=git)** | Lexington, MA | On Site | Nov 09 |
-| **[Ferrovias](ferrovias.us)** | **[Proposal Engineer Intern - Spring 2026](https://jobright.ai/jobs/info/6910ab75183be660d26799a9?utm_campaign=1048&utm_source=git)** | Cleveland, OH | Remote | Nov 09 |
-| **[Henkel](http://www.henkel.com)** | **[Application Engineering Intern – Summer 2026](https://jobright.ai/jobs/info/68ce37beb2a74e1837ee0764?utm_campaign=1048&utm_source=git)** | Bridgewater, NJ | On Site | Nov 09 |
-| **[BioSpace](http://www.biospace.com/)** | **[2026 Summer Internship Program: Environmental, Health and Safety (EHS) Intern](https://jobright.ai/jobs/info/6910ab4b988c2b7b4ec525bb?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Nov 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
