@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Radiant](https://radiantnuclear.com)** | **[Summer 2026 Internship - Electrical Engineering](https://jobright.ai/jobs/info/691825b9bcdbf3560c9cefdc?utm_campaign=1048&utm_source=git)** | El Segundo, California, United States | On Site | Nov 14 |
+| **[Benesch](https://www.benesch.com)** | **[Municipal Engineering Internship](https://jobright.ai/jobs/info/68bf08cf5c5d5f14f46d3059?utm_campaign=1048&utm_source=git)** | Lenexa, KS | Hybrid | Nov 14 |
+| **[American Express](http://www.americanexpress.com)** | **[Campus Graduate Summer Internship Program - 2026 Data Engineer, Technology - Sunrise, FL](https://jobright.ai/jobs/info/69181178bcdbf3560c9ce379?utm_campaign=1048&utm_source=git)** | Sunrise, FL | Hybrid | Nov 14 |
 | **[MasTec Power Delivery](https://www.mastec.com/expertise/power-delivery/)** | **[Field Engineer Intern](https://jobright.ai/jobs/info/69180f2715b415636717e4a1?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Nov 14 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - AI Experimentation & Adoption](https://jobright.ai/jobs/info/69180bc445fb6f5ead8a12f5?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Nov 14 |
 | **[Cencora](http://www.cencora.com)** | **[AMRE Technician Intern](https://jobright.ai/jobs/info/691809dcbcdbf3560c9cde8d?utm_campaign=1048&utm_source=git)** | Lockbourne, OH | On Site | Nov 14 |
@@ -89,7 +92,8 @@ For a complete list, click the following sortable link below:
 | **[Meta](https://www.meta.com)** | **[Research Scientist Intern, Robotic Manipulation Modeling and Control (PhD)](https://jobright.ai/jobs/info/6917f371bcdbf3560c9ccf11?utm_campaign=1048&utm_source=git)** | Redmond, WA | On Site | Nov 14 |
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer Data Full Stack Engineer Internship](https://jobright.ai/jobs/info/6917f03145fb6f5ead8a00a8?utm_campaign=1048&utm_source=git)** | California, United States | Hybrid | Nov 14 |
 | **[Meta](https://www.meta.com)** | **[Research Scientist Intern, Computational Photography (PhD)](https://jobright.ai/jobs/info/6917eff815b415636717d001?utm_campaign=1048&utm_source=git)** | Redmond, WA | On Site | Nov 14 |
-| ↳ | **[Research Scientist Intern, Image sensor design and characterization (PhD)](https://jobright.ai/jobs/info/6917ef5a15b415636717cf6b?utm_campaign=1048&utm_source=git)** | Redmond, WA | On Site | Nov 14 |
+| **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Traffic Planning - Civil Engineering Intern](https://jobright.ai/jobs/info/6918265215b415636717f164?utm_campaign=1048&utm_source=git)** | Holmdel, NJ | On Site | Nov 14 |
+| **[Meta](https://www.meta.com)** | **[Research Scientist Intern, Image sensor design and characterization (PhD)](https://jobright.ai/jobs/info/6917ef5a15b415636717cf6b?utm_campaign=1048&utm_source=git)** | Redmond, WA | On Site | Nov 14 |
 | **[Trek Bicycle](https://www.trekbikes.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/6917ef1bbcdbf3560c9ccc1c?utm_campaign=1048&utm_source=git)** | Waterloo, WI | On Site | Nov 14 |
 | ↳ | **[AI Automation Initiatives Intern](https://jobright.ai/jobs/info/6917eec215b415636717cef5?utm_campaign=1048&utm_source=git)** | Waterloo, WI | On Site | Nov 14 |
 | **[National Renewable Energy Laboratory](http://www.nrel.gov)** | **[Graduate (3-12 month) Intern - Artificial Intelligence for Power System Operations](https://jobright.ai/jobs/info/6917ee58bcdbf3560c9ccbba?utm_campaign=1048&utm_source=git)** | United States | Remote | Nov 14 |
@@ -124,7 +128,6 @@ For a complete list, click the following sortable link below:
 | **[Halff](https://www.halff.com/)** | **[Intern, Water Resources](https://jobright.ai/jobs/info/6917e2ebbcdbf3560c9cc552?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | Nov 14 |
 | **[Trek Bicycle](https://www.trekbikes.com/)** | **[AI & Automation Intern](https://jobright.ai/jobs/info/6917e2b515b415636717c744?utm_campaign=1048&utm_source=git)** | Waterloo, Wisconsin | On Site | Nov 14 |
 | **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[2026 Biologics Drug Product Development Intern (PhD)](https://jobright.ai/jobs/info/6917e26d45fb6f5ead89f864?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Nov 14 |
-| **[Hubbell Gas Utility Solutions (HGUS)](https://www.hubbell.com/continentalindustries/en)** | **[Engineering Intern (Summer 2026) - Wilmington, MA](https://jobright.ai/jobs/info/6917e21545fb6f5ead89f81c?utm_campaign=1048&utm_source=git)** | Wilmington, MA | On Site | Nov 14 |
 | **[Secretariat](http://secretariat-intl.com/)** | **[Intern, Engineering Sciences (Summer 2026)](https://jobright.ai/jobs/info/6917e1da15b415636717c6ac?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | Nov 14 |
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, Engineering](https://jobright.ai/jobs/info/6917e1bdbcdbf3560c9cc484?utm_campaign=1048&utm_source=git)** | Buffalo, NY | On Site | Nov 14 |
 | **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[2026 High-Scale Proteomics Intern (PhD)](https://jobright.ai/jobs/info/6917e0e145fb6f5ead89f731?utm_campaign=1048&utm_source=git)** | Worcester, MA | On Site | Nov 14 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Legrand, North America](http://www.legrand.us)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/6917d86015b415636717c1dd?utm_campaign=1048&utm_source=git)** | Mascoutah, IL | On Site | Nov 14 |
 | **[Austin PBS](http://www.austinpbs.org)** | **[Audio Intern](https://jobright.ai/jobs/info/6917f5a215b415636717d350?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Nov 14 |
 | **[Rosendin](https://www.rosendin.com)** | **[Intern (2026)](https://jobright.ai/jobs/info/6917d74d45fb6f5ead89f1bd?utm_campaign=1048&utm_source=git)** | Anaheim, CA | Hybrid | Nov 14 |
-| **[DMA - DuCharme, McMillen & Associates, Inc.](https://www.dmainc.com/)** | **[IT Cybersecurity Intern Summer 2026](https://jobright.ai/jobs/info/6917d51445fb6f5ead89f02c?utm_campaign=1048&utm_source=git)** | Fort Wayne, IN | On Site | Nov 14 |
-| **[Federal Reserve Bank of Dallas](http://www.dallasfed.org/)** | **[Summer Internship - BSR Technology Risk](https://jobright.ai/jobs/info/6917d3b215b415636717bea3?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | Nov 14 |
-| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Industrial Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6917d255bcdbf3560c9cba76?utm_campaign=1048&utm_source=git)** | Moon, PA | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
