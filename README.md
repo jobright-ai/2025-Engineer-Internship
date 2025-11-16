@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amphenol](http://www.amphenol-tcs.com/)** | **[Signal Integrity Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69199d91bcdbf3560c9d6c07?utm_campaign=1048&utm_source=git)** | Nashua, NH | On Site | Nov 16 |
+| **[Frito-Lay](http://www.fritolay.com)** | **[Manufacturing Maintenance Mechanic Intern](https://jobright.ai/jobs/info/69199a61bcdbf3560c9d6aa1?utm_campaign=1048&utm_source=git)** | Fayetteville, TN | On Site | Nov 16 |
+| ↳ | **[Maintenance Mechanic Intern](https://jobright.ai/jobs/info/69199649bcdbf3560c9d694f?utm_campaign=1048&utm_source=git)** | Fayetteville, TN | On Site | Nov 16 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Quality Intern](https://jobright.ai/jobs/info/6919938345fb6f5ead8a9b60?utm_campaign=1048&utm_source=git)** | St Louis, MO | On Site | Nov 16 |
+| **[Eyeline](http://www.eyelinestudios.com/)** | **[Research Intern (Fall 2025/Spring 2026)](https://jobright.ai/jobs/info/69198c9315b41563671863a4?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 16 |
+| **[Aguirre & Fields](http://www.aguirre-fields.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69198c1315b415636718638a?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Nov 16 |
+| **[Interstates](http://interstates.com)** | **[Manufacturing Intern](https://jobright.ai/jobs/info/68dd735fa125e75c422aad01?utm_campaign=1048&utm_source=git)** | Omaha, NE | On Site | Nov 16 |
+| **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Water/Wastewater Engineering Internship](https://jobright.ai/jobs/info/6919847d45fb6f5ead8a90c8?utm_campaign=1048&utm_source=git)** | Sioux Falls, SD | On Site | Nov 15 |
 | **[National HME](http://www.nationalhme.com)** | **[Intern, Mechanical](https://jobright.ai/jobs/info/6919813cbcdbf3560c9d5d00?utm_campaign=1048&utm_source=git)** | Memphis, TN | On Site | Nov 15 |
 | ↳ | **[Intern, Mechanical](https://jobright.ai/jobs/info/6919810e45fb6f5ead8a906f?utm_campaign=1048&utm_source=git)** | Gary, IN | On Site | Nov 15 |
 | **[MARS EXPLORATION](https://intern.marsexploration.in/)** | **[CFD Internships](https://jobright.ai/jobs/info/691958b145fb6f5ead8a83dd?utm_campaign=1048&utm_source=git)** | United States | Remote | Nov 15 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Honeywell](http://www.honeywell.com)** | **[Intern Bachelors AI](https://jobright.ai/jobs/info/6918a60abcdbf3560c9d3181?utm_campaign=1048&utm_source=git)** | Kanata, Ontario, Canada | On Site | Nov 15 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Plumbing Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68cf23f0846f0b04af67f793?utm_campaign=1048&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 15 |
 | ↳ | **[Electrical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68c452c0e396b25cb5c66e88?utm_campaign=1048&utm_source=git)** | Kansas City, MO | Hybrid | Nov 15 |
-| **[Honeywell](http://www.honeywell.com)** | **[Intern Bachelors Mechanical Engineer (SATCOM)](https://jobright.ai/jobs/info/6918a53a15b4156367183410?utm_campaign=1048&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | Nov 15 |
-| **[Henkel](http://www.henkel.com)** | **[Product Development & Optimization Intern – Summer 2026](https://jobright.ai/jobs/info/68c4ad857279451d6a036b97?utm_campaign=1048&utm_source=git)** | Bridgewater, NJ | On Site | Nov 15 |
-| **[Honeywell](http://www.honeywell.com)** | **[Intern Bachelors Electrical Engineer (SATCOM)](https://jobright.ai/jobs/info/6918a42c15b415636718336d?utm_campaign=1048&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | Nov 15 |
-| ↳ | **[Intern Bachelors Cyber Security (SATCOM)](https://jobright.ai/jobs/info/6918a42915b415636718336b?utm_campaign=1048&utm_source=git)** | Kanata, Ontario, Canada | On Site | Nov 15 |
-| **[Henkel](http://www.henkel.com)** | **[Safety, Health, and Environmental Specialist Intern – Summer 2026](https://jobright.ai/jobs/info/68c35c81b8c22d3828471325?utm_campaign=1048&utm_source=git)** | Rocky Hill, CT | Hybrid | Nov 15 |
-| **[RS&H](http://www.rsandh.com/)** | **[Civil Engineering Intern (Highway) - Spring 2026](https://jobright.ai/jobs/info/68cd284fb2a74e1837ed348d?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | Nov 15 |
-| **[Packaging Corporation of America](http://packagingcorp.com)** | **[Summer 2026 Environmental Engineering Intern](https://jobright.ai/jobs/info/68ded82809bda65a4b62e39e?utm_campaign=1048&utm_source=git)** | De Ridder, LA | On Site | Nov 15 |
-| **[Koch](https://www.kochinc.com)** | **[Mechanical Tech Intern](https://jobright.ai/jobs/info/68fbb67a93c49825ab105019?utm_campaign=1048&utm_source=git)** | St James, LA | On Site | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
