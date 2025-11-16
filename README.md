@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northmere Solutions](https://www.linkedin.com/company/104898627)** | **[Electrical Engineering Intern - IT](https://jobright.ai/jobs/info/69190d6a15b415636718436b?utm_campaign=1048&utm_source=git)** | Pennsylvania, United States | Remote | Nov 15 |
+| **[STR](https://www.str.us/)** | **[Cyber Summer Internship](https://jobright.ai/jobs/info/68cd527a1ad6b16f02897c99?utm_campaign=1048&utm_source=git)** | Melbourne, FL | On Site | Nov 15 |
+| **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/68af19e31f0a2a568a05f08c?utm_campaign=1048&utm_source=git)** | Louisville, Kentucky, United States | On Site | Nov 15 |
+| **[MechAxis Dynamics](mechaxisdynamics.us)** | **[Control Engineering Intern](https://jobright.ai/jobs/info/6918fc2abcdbf3560c9d400e?utm_campaign=1048&utm_source=git)** | Ada, MI | Remote | Nov 15 |
+| **[Daice Labs](https://daicelabs.com/)** | **[AI intern](https://jobright.ai/jobs/info/6918f76d15b4156367184226?utm_campaign=1048&utm_source=git)** | Boston, MA | Remote | Nov 15 |
+| **[St. Jude Children's Research Hospital](http://stjude.org)** | **[Research Intern (for Students): Quantum Computing for Chemistry and Drug Discovery](https://jobright.ai/jobs/info/6918f61945fb6f5ead8a732a?utm_campaign=1048&utm_source=git)** | Memphis, TN | Hybrid | Nov 15 |
 | **[City of Irving](https://www.cityofirving.org/2623/Family-Advocacy-Center)** | **[Intern (Part-Time)](https://jobright.ai/jobs/info/6918f3f415b41563671841b6?utm_campaign=1048&utm_source=git)** | Irving, TX | On Site | Nov 15 |
 | **[InnoMountain](https://www.innomountain-inc.com/)** | **[Hardware System Engineering Intern (Wireless 5G R&D)](https://jobright.ai/jobs/info/6918efd3bcdbf3560c9d3efa?utm_campaign=1048&utm_source=git)** | United States | Remote | Nov 15 |
 | **[St. Jude Children's Research Hospital](http://stjude.org)** | **[Deep Learning Research Intern (for Students): AI for Chemistry and Drug Discovery](https://jobright.ai/jobs/info/6918ed9545fb6f5ead8a71c9?utm_campaign=1048&utm_source=git)** | Memphis, TN | Hybrid | Nov 15 |
@@ -116,9 +122,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Mechanical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68c793bedb52c07d2884c600?utm_campaign=1048&utm_source=git)** | St Louis, MO | Hybrid | Nov 15 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Electrical Engineer Intern - Substation](https://jobright.ai/jobs/info/68e13a0bb99ec3563b0d6ce9?utm_campaign=1048&utm_source=git)** | Overland Park, KS | Hybrid | Nov 15 |
 | **[Skanska](http://skanska.com)** | **[Heavy Civil Infrastructure Winter 2025 Intern](https://jobright.ai/jobs/info/68c31e965001f8077bf61368?utm_campaign=1048&utm_source=git)** | Providence, RI | On Site | Nov 15 |
-| **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Enterprise Data & Architecture (Hybrid)](https://jobright.ai/jobs/info/68fce5d1e04ac838fb5ad8f9?utm_campaign=1048&utm_source=git)** | Raleigh, NC | Hybrid | Nov 15 |
 | **[Cargill](https://www.cargill.com/home)** | **[Crop Inputs Retail Summer Intern](https://jobright.ai/jobs/info/6918aac415b4156367183516?utm_campaign=1048&utm_source=git)** | Fairview, Alberta, Canada | On Site | Nov 15 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2026 AI Research Intern](https://jobright.ai/jobs/info/68fc122693c49825ab109765?utm_campaign=1048&utm_source=git)** | Mountain View, CA | On Site | Nov 15 |
+| **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Enterprise Data & Architecture (Hybrid)](https://jobright.ai/jobs/info/68fce874e04ac838fb5ada51?utm_campaign=1048&utm_source=git)** | Raleigh, NC | Hybrid | Nov 15 |
 | **[Samsung Semiconductor](https://www.samsung.com/us/samsungsemiconductor)** | **[Intern, DRAM Device Engineer](https://jobright.ai/jobs/info/68fc077bf55bb021a889f9a6?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Nov 15 |
 | **[RS&H](http://www.rsandh.com/)** | **[Civil Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68fbc76e4129dd33cd13498a?utm_campaign=1048&utm_source=git)** | Glen Allen, VA | On Site | Nov 15 |
 | **[Cargill](https://www.cargill.com/home)** | **[Crop Inputs Retail Summer Intern](https://jobright.ai/jobs/info/6918a7d1bcdbf3560c9d31fd?utm_campaign=1048&utm_source=git)** | Moose Jaw, Saskatchewan, Canada | On Site | Nov 15 |
@@ -137,7 +143,6 @@ For a complete list, click the following sortable link below:
 | **[Honeywell](http://www.honeywell.com)** | **[Intern Bachelors Electrical Engineer (SATCOM)](https://jobright.ai/jobs/info/6918a42c15b415636718336d?utm_campaign=1048&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | Nov 15 |
 | ↳ | **[Intern Bachelors Cyber Security (SATCOM)](https://jobright.ai/jobs/info/6918a42915b415636718336b?utm_campaign=1048&utm_source=git)** | Kanata, Ontario, Canada | On Site | Nov 15 |
 | **[Henkel](http://www.henkel.com)** | **[Safety, Health, and Environmental Specialist Intern – Summer 2026](https://jobright.ai/jobs/info/68c35c81b8c22d3828471325?utm_campaign=1048&utm_source=git)** | Rocky Hill, CT | Hybrid | Nov 15 |
-| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Computer Vision and Deep Learning](https://jobright.ai/jobs/info/68fc3da893c49825ab10b1b5?utm_campaign=1048&utm_source=git)** | Redmond, WA | Hybrid | Nov 15 |
 | **[RS&H](http://www.rsandh.com/)** | **[Civil Engineering Intern (Highway) - Spring 2026](https://jobright.ai/jobs/info/68cd284fb2a74e1837ed348d?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | Nov 15 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Summer 2026 Environmental Engineering Intern](https://jobright.ai/jobs/info/68ded82809bda65a4b62e39e?utm_campaign=1048&utm_source=git)** | De Ridder, LA | On Site | Nov 15 |
 | **[Koch](https://www.kochinc.com)** | **[Mechanical Tech Intern](https://jobright.ai/jobs/info/68fbb67a93c49825ab105019?utm_campaign=1048&utm_source=git)** | St James, LA | On Site | Nov 15 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Samsung Semiconductor](https://www.samsung.com/us/samsungsemiconductor)** | **[Intern, DRAM Process Integration Engineer](https://jobright.ai/jobs/info/68fc08e3f55bb021a889fb7b?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Nov 15 |
 | **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Community Planner Intern](https://jobright.ai/jobs/info/68fbf8ec4129dd33cd136fc3?utm_campaign=1048&utm_source=git)** | Rochester, NY | On Site | Nov 15 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[AI Platform Engineer Intern (Agentic) - Master's Degree](https://jobright.ai/jobs/info/68deefaca125e75c422b867a?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Nov 15 |
-| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Cybersecurity](https://jobright.ai/jobs/info/68df28775ab4977c2e9511ac?utm_campaign=1048&utm_source=git)** | Irving, TX | Hybrid | Nov 15 |
-| **[Fuss & O'Neill](http://www.fando.com)** | **[Internship - Environmental Planning](https://jobright.ai/jobs/info/68c45364e471ef3ce16d51bf?utm_campaign=1048&utm_source=git)** | Boston, MA | Hybrid | Nov 15 |
-| **[STV](http://www.stvinc.com/)** | **[Summer 2026 - Civil Engineering Intern](https://jobright.ai/jobs/info/68c42ea5e471ef3ce16d4121?utm_campaign=1048&utm_source=git)** | Acworth, GA | Hybrid | Nov 15 |
-| **[Mott MacDonald](https://www.mottmac.com/hungary)** | **[DoD SkillBridge Internship](https://jobright.ai/jobs/info/69189f9445fb6f5ead8a6315?utm_campaign=1048&utm_source=git)** | The Woodlands, TX | On Site | Nov 15 |
-| ↳ | **[DoD SkillBridge Internship](https://jobright.ai/jobs/info/69189f7845fb6f5ead8a630c?utm_campaign=1048&utm_source=git)** | Charleston, WV | On Site | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
