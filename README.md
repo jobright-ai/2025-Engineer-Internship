@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National HME](http://www.nationalhme.com)** | **[Intern, Mechanical](https://jobright.ai/jobs/info/6919813cbcdbf3560c9d5d00?utm_campaign=1048&utm_source=git)** | Memphis, TN | On Site | Nov 15 |
+| ↳ | **[Intern, Mechanical](https://jobright.ai/jobs/info/6919810e45fb6f5ead8a906f?utm_campaign=1048&utm_source=git)** | Gary, IN | On Site | Nov 15 |
 | **[MARS EXPLORATION](https://intern.marsexploration.in/)** | **[CFD Internships](https://jobright.ai/jobs/info/691958b145fb6f5ead8a83dd?utm_campaign=1048&utm_source=git)** | United States | Remote | Nov 15 |
 | **[Deeplocal](http://deeplocal.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6919557a45fb6f5ead8a82c5?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | Hybrid | Nov 15 |
 | **[Tenstorrent](http://tenstorrent.com)** | **[Chiplet Security Research Intern](https://jobright.ai/jobs/info/690c3dbe4a1b456627b1720d?utm_campaign=1048&utm_source=git)** | Santa Clara, California, United States | On Site | Nov 15 |
@@ -88,6 +90,7 @@ For a complete list, click the following sortable link below:
 | **[Millstone Weber, LLC](https://www.millstoneweber.com/)** | **[Field Engineer Intern](https://jobright.ai/jobs/info/6918df8245fb6f5ead8a6f58?utm_campaign=1048&utm_source=git)** | Englewood, CO | On Site | Nov 15 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Service Engineering](https://jobright.ai/jobs/info/6918dd31bcdbf3560c9d3b9b?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Nov 15 |
 | **[Millstone Weber, LLC](https://www.millstoneweber.com/)** | **[Field Engineer Intern](https://jobright.ai/jobs/info/6918dcc2bcdbf3560c9d3b7f?utm_campaign=1048&utm_source=git)** | Rapid City, SD | On Site | Nov 15 |
+| **[Parametrix](https://www.parametrix.com/)** | **[Solid Waste Internship - Spring/Summer 2026](https://jobright.ai/jobs/info/69197558bcdbf3560c9d581d?utm_campaign=1048&utm_source=git)** | Silverdale, WA | Hybrid | Nov 15 |
 | **[Peer Consulting Resources Inc.](https://www.peer-consulting.com)** | **[Intern Wireless Test Engineer](https://jobright.ai/jobs/info/6918d4d415b4156367183cca?utm_campaign=1048&utm_source=git)** | Ohio, United States | On Site | Nov 15 |
 | **[The Aerospace Corporation](http://www.aerospace.org)** | **[2026 Enterprise Resiliency Modeling and Simulation Graduate Intern](https://jobright.ai/jobs/info/6918d3cbbcdbf3560c9d3a3d?utm_campaign=1048&utm_source=git)** | Chantilly, VA | On Site | Nov 15 |
 | **[Conexant](http://www.conexant.com/)** | **[2026 Intern - Product Engineering](https://jobright.ai/jobs/info/6918d08d45fb6f5ead8a6d2b?utm_campaign=1048&utm_source=git)** | Cedar Falls, IA | Hybrid | Nov 15 |
@@ -151,10 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Honeywell](http://www.honeywell.com)** | **[Intern Bachelors Electrical Engineer (SATCOM)](https://jobright.ai/jobs/info/6918a42c15b415636718336d?utm_campaign=1048&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | Nov 15 |
 | ↳ | **[Intern Bachelors Cyber Security (SATCOM)](https://jobright.ai/jobs/info/6918a42915b415636718336b?utm_campaign=1048&utm_source=git)** | Kanata, Ontario, Canada | On Site | Nov 15 |
 | **[Henkel](http://www.henkel.com)** | **[Safety, Health, and Environmental Specialist Intern – Summer 2026](https://jobright.ai/jobs/info/68c35c81b8c22d3828471325?utm_campaign=1048&utm_source=git)** | Rocky Hill, CT | Hybrid | Nov 15 |
-| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Computer Vision and Deep Learning](https://jobright.ai/jobs/info/68fc3da893c49825ab10b1b5?utm_campaign=1048&utm_source=git)** | Redmond, WA | Hybrid | Nov 15 |
 | **[RS&H](http://www.rsandh.com/)** | **[Civil Engineering Intern (Highway) - Spring 2026](https://jobright.ai/jobs/info/68cd284fb2a74e1837ed348d?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | Nov 15 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Summer 2026 Environmental Engineering Intern](https://jobright.ai/jobs/info/68ded82809bda65a4b62e39e?utm_campaign=1048&utm_source=git)** | De Ridder, LA | On Site | Nov 15 |
 | **[Koch](https://www.kochinc.com)** | **[Mechanical Tech Intern](https://jobright.ai/jobs/info/68fbb67a93c49825ab105019?utm_campaign=1048&utm_source=git)** | St James, LA | On Site | Nov 15 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Plumbing Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68c45f0ee396b25cb5c6766e?utm_campaign=1048&utm_source=git)** | St Louis, MO | Hybrid | Nov 15 |
-| **[Meta](https://www.meta.com)** | **[Research Scientist Intern, Eye Tracking and Health (PhD)](https://jobright.ai/jobs/info/6918a187bcdbf3560c9d3084?utm_campaign=1048&utm_source=git)** | Redmond, WA | On Site | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
