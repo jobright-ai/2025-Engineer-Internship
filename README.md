@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ferrovias](ferrovias.us)** | **[HVACR Applications Engineer Internship](https://jobright.ai/jobs/info/6919216415b4156367184510?utm_campaign=1048&utm_source=git)** | Sidney, OH | Remote | Nov 15 |
+| **[Tenstorrent](http://tenstorrent.com)** | **[Machine Learning for Physical Design Intern - CPU/AI Hardware](https://jobright.ai/jobs/info/6909ba9ebcccf20de59dd593?utm_campaign=1048&utm_source=git)** | Santa Clara, California, United States | On Site | Nov 15 |
+| **[Tech Verses](techverses.us)** | **[AI Content Evaluation Generalist – Labeling](https://jobright.ai/jobs/info/691913af15b41563671843d0?utm_campaign=1048&utm_source=git)** | Jacksonville, FL | Remote | Nov 15 |
 | **[Northmere Solutions](https://www.linkedin.com/company/104898627)** | **[Electrical Engineering Intern - IT](https://jobright.ai/jobs/info/69190d6a15b415636718436b?utm_campaign=1048&utm_source=git)** | Pennsylvania, United States | Remote | Nov 15 |
 | **[STR](https://www.str.us/)** | **[Cyber Summer Internship](https://jobright.ai/jobs/info/68cd527a1ad6b16f02897c99?utm_campaign=1048&utm_source=git)** | Melbourne, FL | On Site | Nov 15 |
 | **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/68af19e31f0a2a568a05f08c?utm_campaign=1048&utm_source=git)** | Louisville, Kentucky, United States | On Site | Nov 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Regal Rexnord](https://www.regalrexnord.com)** | **[Information Technology Summer Internship](https://jobright.ai/jobs/info/69142f2fd1047e3565d0993e?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | On Site | Nov 15 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Civil Engineer Intern - Energy & Industrial (Summer 2026)](https://jobright.ai/jobs/info/68eba5732f64880ca0b591fc?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Nov 15 |
 | **[Mott MacDonald](https://www.mottmac.com/hungary)** | **[DoD SkillBridge Internship](https://jobright.ai/jobs/info/6918a037bcdbf3560c9d2fe6?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Nov 15 |
-| **[Samsung Semiconductor](https://www.samsung.com/us/samsungsemiconductor)** | **[Intern, DRAM Process Integration Engineer](https://jobright.ai/jobs/info/68fc08e3f55bb021a889fb7b?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Nov 15 |
-| **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Community Planner Intern](https://jobright.ai/jobs/info/68fbf8ec4129dd33cd136fc3?utm_campaign=1048&utm_source=git)** | Rochester, NY | On Site | Nov 15 |
-| **[Marvell Technology](https://www.marvell.com/)** | **[AI Platform Engineer Intern (Agentic) - Master's Degree](https://jobright.ai/jobs/info/68deefaca125e75c422b867a?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
