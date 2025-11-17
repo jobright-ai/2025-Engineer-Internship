@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Davis School District](https://www.davis.k12.ut.us/)** | **[Energy/Security Technician](https://jobright.ai/jobs/info/691ab534bcdbf3560c9d9f9c?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Nov 16 |
+| **[Listen In With KNN](http://www.listeninwithknn.com)** | **[Production Intern](https://jobright.ai/jobs/info/691ab179bcdbf3560c9d9b84?utm_campaign=1048&utm_source=git)** | United States | Remote | Nov 16 |
+| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[HPE Labs - Machine Learning Research Associate (Intern)](https://jobright.ai/jobs/info/69152a5a6f36db06ef04c4ef?utm_campaign=1048&utm_source=git)** | Milpitas, CA | On Site | Nov 16 |
+| ↳ | **[HPE Labs - Systems Architecture Lab Research Associate (Intern)](https://jobright.ai/jobs/info/69151491286ccf0a1512b02d?utm_campaign=1048&utm_source=git)** | Milpitas, CA | On Site | Nov 16 |
+| **[Eyeline](http://www.eyelinestudios.com/)** | **[Research Intern (Fall 2025/Spring 2026)](https://jobright.ai/jobs/info/691aa3e215b41563671899de?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 16 |
+| ↳ | **[Research Intern (Summer 2026)](https://jobright.ai/jobs/info/691aa269bcdbf3560c9d9504?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 16 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Data Engineering Internship](https://jobright.ai/jobs/info/691a980715b4156367189268?utm_campaign=1048&utm_source=git)** | Egg Harbor, NJ | On Site | Nov 16 |
 | **[HDR](http://www.hdrinc.com)** | **[ITS Intern](https://jobright.ai/jobs/info/691a963ebcdbf3560c9d8f1e?utm_campaign=1048&utm_source=git)** | Kansas City, MO | On Site | Nov 16 |
 | **[BlueHalo, an AV company](https://www.bluehalo.com)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/691a9150bcdbf3560c9d8bfd?utm_campaign=1048&utm_source=git)** | Albuquerque, NM | On Site | Nov 16 |
@@ -97,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[Black & Veatch](http://bv.com/Home)** | **[Electrical Engineer Intern - Water & Wastewater](https://jobright.ai/jobs/info/68e148f9b99ec3563b0d6ff8?utm_campaign=1048&utm_source=git)** | Overland Park, KS | Hybrid | Nov 16 |
 | **[UPMC](https://www.upmc.com/)** | **[Student - Pharmacy Intern](https://jobright.ai/jobs/info/686f26f690d7b66951c27b9a?utm_campaign=1048&utm_source=git)** | Altoona, PA | On Site | Nov 16 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Electrical Engineer Intern - Substation](https://jobright.ai/jobs/info/6919f36b15b4156367187acf?utm_campaign=1048&utm_source=git)** | Denver, CO | Hybrid | Nov 16 |
-| ↳ | **[Electrical Engineer Intern - Underground T-Line](https://jobright.ai/jobs/info/6919f36515b4156367187acd?utm_campaign=1048&utm_source=git)** | Overland Park, KS | Hybrid | Nov 16 |
 | ↳ | **[Electrical Engineer Intern - Substation](https://jobright.ai/jobs/info/6919f36545fb6f5ead8aac06?utm_campaign=1048&utm_source=git)** | Bloomington, MN | Hybrid | Nov 16 |
+| ↳ | **[Electrical Engineer Intern - Underground T-Line](https://jobright.ai/jobs/info/6919f36515b4156367187acd?utm_campaign=1048&utm_source=git)** | Overland Park, KS | Hybrid | Nov 16 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Transmission & Distribution Engineer Intern - Grid (Summer 2026)](https://jobright.ai/jobs/info/68cfcd5cfb49c96ca6eabaee?utm_campaign=1048&utm_source=git)** | Hamilton, NJ | Hybrid | Nov 16 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Electrical Engineer Intern - Substation](https://jobright.ai/jobs/info/6919f36245fb6f5ead8aac05?utm_campaign=1048&utm_source=git)** | Ann Arbor, MI | Hybrid | Nov 16 |
 | ↳ | **[Electrical Engineer Intern - Substation](https://jobright.ai/jobs/info/6919f36215b4156367187acc?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Nov 16 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LJA](https://www.lja.com/)** | **[Civil Engineering Intern - Land Development](https://jobright.ai/jobs/info/688bad38906ac06e1d1cd5c2?utm_campaign=1048&utm_source=git)** | Fort Worth, TX | On Site | Nov 16 |
 | **[OHM Advisors](http://ohm-advisors.com)** | **[Civil Engineering Intern (Hiring for May 2026) - Ohio](https://jobright.ai/jobs/info/68a8bd8c758f2e4ac3ff4aa9?utm_campaign=1048&utm_source=git)** | Perrysburg, OH | On Site | Nov 16 |
 | **[Amazon](https://amazon.com)** | **[Summer 2026 Applied Science Internship - Canada, PhD Student Science Recruiting](https://jobright.ai/jobs/info/6919d2b1bcdbf3560c9d7410?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 16 |
-| **[OHM Advisors](http://ohm-advisors.com)** | **[Civil Engineering Intern (Hiring for May 2026) - Ohio](https://jobright.ai/jobs/info/68a8c120d627244576e354b4?utm_campaign=1048&utm_source=git)** | Cleveland, OH | On Site | Nov 16 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Refining Electrical Engineering - Spring 2026](https://jobright.ai/jobs/info/6837cbded6acd3320b72328e?utm_campaign=1048&utm_source=git)** | Martinez, CA | On Site | Nov 16 |
-| **[OHM Advisors](http://ohm-advisors.com)** | **[Civil Engineering Intern (Hiring for May 2026) - Ohio](https://jobright.ai/jobs/info/68ccdb7b77add66568abae7d?utm_campaign=1048&utm_source=git)** | Akron metropolitan area, OH | On Site | Nov 16 |
-| **[Sappi](http://sappi.com)** | **[Electrical Engineering Co-op](https://jobright.ai/jobs/info/6919d22b45fb6f5ead8aa732?utm_campaign=1048&utm_source=git)** | Cloquet, MN | On Site | Nov 16 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Refining Electrical Engineering - Spring 2026](https://jobright.ai/jobs/info/6837b7ab0f53f4eeed5626cb?utm_campaign=1048&utm_source=git)** | Anacortes, WA | On Site | Nov 16 |
-| **[Centennial Contractors Enterprises, Inc.](http://cce-inc.com)** | **[Intern - Stillwater, OK](https://jobright.ai/jobs/info/68e089bbb99ec3563b0d04ba?utm_campaign=1048&utm_source=git)** | Stillwater, OK | On Site | Nov 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
