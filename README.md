@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Focus Loom](https://www.linkedin.com/company/106102351)** | **[Generalist – Labeling and Preference Ranking](https://jobright.ai/jobs/info/691a7e3ebcdbf3560c9d85b5?utm_campaign=1048&utm_source=git)** | Denver, CO | Remote | Nov 16 |
+| **[Elementrailer](http://elementrailer.com)** | **[Electrical Engineer](https://jobright.ai/jobs/info/691a781545fb6f5ead8ab8af?utm_campaign=1048&utm_source=git)** | Bothell, WA | On Site | Nov 16 |
+| **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Analog Design](https://jobright.ai/jobs/info/691a748345fb6f5ead8ab81f?utm_campaign=1048&utm_source=git)** | Rhode Island, United States | On Site | Nov 16 |
+| **[RailWorks Corporation](http://www.railworks.com/)** | **[Construction Field Engineer Intern](https://jobright.ai/jobs/info/691a6a3215b415636718860f?utm_campaign=1048&utm_source=git)** | Green Bay, WI | On Site | Nov 16 |
 | **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[Intern, Vehicle Test and Development, Summer 2026](https://jobright.ai/jobs/info/691a54f0bcdbf3560c9d8256?utm_campaign=1048&utm_source=git)** | Newark, CA | Remote | Nov 16 |
 | **[CN](http://www.cn.ca)** | **[Intern, IT Operations & Technology Enablement-Indigenous- EN](https://jobright.ai/jobs/info/691a520745fb6f5ead8ab5a4?utm_campaign=1048&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 16 |
 | ↳ | **[Intern, Network Operations - Indigenous- EN](https://jobright.ai/jobs/info/691a4f4e15b4156367188449?utm_campaign=1048&utm_source=git)** | Edmonton, Alberta, Canada | Hybrid | Nov 16 |
@@ -70,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Summit](http://summitllc.us)** | **[IT Infrastructure Intern 2026](https://jobright.ai/jobs/info/691a300f45fb6f5ead8ab29d?utm_campaign=1048&utm_source=git)** | Lakeland, FL | Hybrid | Nov 16 |
 | **[Def-Logix, Inc.](https://def-logix.com/)** | **[Junior Network Engineer Intern (Part-Time)](https://jobright.ai/jobs/info/691a281245fb6f5ead8ab144?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Nov 16 |
 | **[Blackstone Energy Services Inc.](https://www.blackstoneenergy.com)** | **[Energy Analyst Intern (4mos Co-op)](https://jobright.ai/jobs/info/691a1b1945fb6f5ead8aafca?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 16 |
-| **[Pinnova](https://www.linkedin.com/company/87987033)** | **[Intern, Mechanical Engineering](https://jobright.ai/jobs/info/691a1aa6bcdbf3560c9d7c52?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | Remote | Nov 16 |
 | **[NeuralQuantum.ai](https://neuralquantum.ai/)** | **[AI & Quantum Systems Apprentice (Redteam Hackathon Selection Event)](https://jobright.ai/jobs/info/691a1a96bcdbf3560c9d7c51?utm_campaign=1048&utm_source=git)** | United States | Remote | Nov 16 |
 | **[InCharge Energy](https://www.inchargeus.com/)** | **[DoD Skillbridge Internship - Hardware Documentation Specialist](https://jobright.ai/jobs/info/691a113415b4156367187dcd?utm_campaign=1048&utm_source=git)** | Chesterfield, VA | On Site | Nov 16 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Mechanical Engineering Internship - Spring 2026](https://jobright.ai/jobs/info/691a1122bcdbf3560c9d7bcd?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | Nov 16 |
@@ -90,15 +93,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Electrical Engineer Intern - Substation](https://jobright.ai/jobs/info/691570ab9c388539cbdf37f7?utm_campaign=1048&utm_source=git)** | Irvine, CA | Hybrid | Nov 16 |
 | **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Storage Infrastructure Summer Intern](https://jobright.ai/jobs/info/68ca3278d4187c55157a7bcb?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Nov 16 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Transmission & Distribution Engineer Intern - Grid (Summer 2026)](https://jobright.ai/jobs/info/68c4c21231e5763f188e343c?utm_campaign=1048&utm_source=git)** | Columbus, OH | Hybrid | Nov 16 |
-| **[Cliffton Verge](https://www.linkedin.com/company/108618613)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/6919f40a45fb6f5ead8aac3e?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | Remote | Nov 16 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Electrical Engineer Intern - Water & Wastewater](https://jobright.ai/jobs/info/68e148f9b99ec3563b0d6ff8?utm_campaign=1048&utm_source=git)** | Overland Park, KS | Hybrid | Nov 16 |
 | **[UPMC](https://www.upmc.com/)** | **[Student - Pharmacy Intern](https://jobright.ai/jobs/info/686f26f690d7b66951c27b9a?utm_campaign=1048&utm_source=git)** | Altoona, PA | On Site | Nov 16 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Electrical Engineer Intern - Substation](https://jobright.ai/jobs/info/6919f36b15b4156367187acf?utm_campaign=1048&utm_source=git)** | Denver, CO | Hybrid | Nov 16 |
 | ↳ | **[Electrical Engineer Intern - Substation](https://jobright.ai/jobs/info/6919f36545fb6f5ead8aac06?utm_campaign=1048&utm_source=git)** | Bloomington, MN | Hybrid | Nov 16 |
 | ↳ | **[Electrical Engineer Intern - Underground T-Line](https://jobright.ai/jobs/info/6919f36515b4156367187acd?utm_campaign=1048&utm_source=git)** | Overland Park, KS | Hybrid | Nov 16 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Transmission & Distribution Engineer Intern - Grid (Summer 2026)](https://jobright.ai/jobs/info/68cfcd5cfb49c96ca6eabaee?utm_campaign=1048&utm_source=git)** | Hamilton, NJ | Hybrid | Nov 16 |
-| **[Black & Veatch](http://bv.com/Home)** | **[Electrical Engineer Intern - Substation](https://jobright.ai/jobs/info/6919f36215b4156367187acc?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Nov 16 |
-| ↳ | **[Electrical Engineer Intern - Substation](https://jobright.ai/jobs/info/6919f36245fb6f5ead8aac05?utm_campaign=1048&utm_source=git)** | Ann Arbor, MI | Hybrid | Nov 16 |
+| **[Black & Veatch](http://bv.com/Home)** | **[Electrical Engineer Intern - Substation](https://jobright.ai/jobs/info/6919f36245fb6f5ead8aac05?utm_campaign=1048&utm_source=git)** | Ann Arbor, MI | Hybrid | Nov 16 |
+| ↳ | **[Electrical Engineer Intern - Substation](https://jobright.ai/jobs/info/6919f36215b4156367187acc?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Nov 16 |
 | **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship - Digital Innovation – Cross-functional (Ph.D)](https://jobright.ai/jobs/info/68cdb8a3e23def7af55be9ba?utm_campaign=1048&utm_source=git)** | Midland, MI | On Site | Nov 16 |
 | ↳ | **[2025-2026 Campus Internship - Digital Innovation – Cross-functional (Ph.D)](https://jobright.ai/jobs/info/68ce66b6846f0b04af679731?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Nov 16 |
 | **[ARCO a Family of Construction Companies](https://thearcoway.com)** | **[Construction Safety Intern (Summer 2026)](https://jobright.ai/jobs/info/68a893a76acf96396f720dc2?utm_campaign=1048&utm_source=git)** | Framingham, MA | On Site | Nov 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sappi](http://sappi.com)** | **[Electrical Engineering Co-op](https://jobright.ai/jobs/info/6919d22b45fb6f5ead8aa732?utm_campaign=1048&utm_source=git)** | Cloquet, MN | On Site | Nov 16 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Refining Electrical Engineering - Spring 2026](https://jobright.ai/jobs/info/6837b7ab0f53f4eeed5626cb?utm_campaign=1048&utm_source=git)** | Anacortes, WA | On Site | Nov 16 |
 | **[Centennial Contractors Enterprises, Inc.](http://cce-inc.com)** | **[Intern - Stillwater, OK](https://jobright.ai/jobs/info/68e089bbb99ec3563b0d04ba?utm_campaign=1048&utm_source=git)** | Stillwater, OK | On Site | Nov 16 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Refining Electrical Engineering - Spring 2026](https://jobright.ai/jobs/info/68cbbf57ba798c1a501d4d93?utm_campaign=1048&utm_source=git)** | Detroit, MI | On Site | Nov 16 |
-| **[KCI](http://www.kci.com/)** | **[Structural Engineer Intern](https://jobright.ai/jobs/info/68c4875fe471ef3ce16d71ad?utm_campaign=1048&utm_source=git)** | Baltimore, MD | On Site | Nov 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
