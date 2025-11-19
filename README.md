@@ -57,9 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Minerals Technologies Inc.](http://www.mineralstech.com)** | **[IT Infrastructure Intern](https://jobright.ai/jobs/info/691d742cbcdbf3560c9f1054?utm_campaign=1048&utm_source=git)** | US-PA-Bethlehem | On Site | Nov 18 |
+| **[ASML](https://www.asml.com)** | **[Internship, SEM Modeling Engineer Summer 2026](https://jobright.ai/jobs/info/691d6e3a0b7dff734150366d?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Nov 18 |
+| **[AT&T](https://www.att.com/)** | **[Cybersecurity Intern](https://jobright.ai/jobs/info/691d6b030b7dff734150354e?utm_campaign=1048&utm_source=git)** | Dallas, Texas | On Site | Nov 18 |
+| **[Traversal](https://www.traversal.com/)** | **[AI Engineer - Intern](https://jobright.ai/jobs/info/691d6a407481340785ed75bf?utm_campaign=1048&utm_source=git)** | New York | On Site | Nov 18 |
+| **[Neusoft](http://www.neusoft.com)** | **[Bluetooth/Wireless Test Regular/Intern(Mandarin)](https://jobright.ai/jobs/info/6916a9756f36db06ef058cd9?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Nov 18 |
+| **[Kinross Gold Corporation](http://kinross.com/)** | **[Intern - Mine Engineer](https://jobright.ai/jobs/info/691d66acbcdbf3560c9f09bc?utm_campaign=1048&utm_source=git)** | Elko, NV | On Site | Nov 18 |
+| **[Blue Origin](http://www.blueorigin.com)** | **[Summer 2026 Engineering Intern - Undergraduate](https://jobright.ai/jobs/info/691d5d4dbcdbf3560c9f0497?utm_campaign=1048&utm_source=git)** | Merritt Island, FL | On Site | Nov 18 |
+| **[Traversal](https://www.traversal.com/)** | **[AI Engineer - Intern](https://jobright.ai/jobs/info/691d5d11bcdbf3560c9f047a?utm_campaign=1048&utm_source=git)** | New York, NY | Hybrid | Nov 18 |
+| **[Neusoft](http://www.neusoft.com)** | **[Bluetooth/Wireless Test Regular/Intern](https://jobright.ai/jobs/info/691d5cfa0b7dff7341502ee0?utm_campaign=1048&utm_source=git)** | Kirkland, WA | On Site | Nov 18 |
+| ↳ | **[Automation Bluetooth/Wireless Test Regular/Intern](https://jobright.ai/jobs/info/691d5caabcdbf3560c9f0448?utm_campaign=1048&utm_source=git)** | Mountain View, CA | On Site | Nov 18 |
 | **[General Dynamics Land Systems](http://www.gdls.com)** | **[Vehicle Protection Systems Engineering Internship](https://jobright.ai/jobs/info/691d56bfbcdbf3560c9f0098?utm_campaign=1048&utm_source=git)** | Sterling Heights, MI | On Site | Nov 18 |
 | **[Blue Origin](http://www.blueorigin.com)** | **[Summer 2026 Engineering Intern - Undergraduate](https://jobright.ai/jobs/info/691d56967481340785ed6b69?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | Nov 18 |
-| ↳ | **[Summer 2026 Engineering Intern - Undergraduate](https://jobright.ai/jobs/info/691d55f60b7dff7341502ac1?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Nov 18 |
+| **[Davis School District](https://www.davis.k12.ut.us/)** | **[Energy/Security Technician](https://jobright.ai/jobs/info/691d7308bcdbf3560c9f0ffa?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Nov 18 |
+| **[Blue Origin](http://www.blueorigin.com)** | **[Summer 2026 Engineering Intern - Undergraduate](https://jobright.ai/jobs/info/691d55f60b7dff7341502ac1?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Nov 18 |
 | ↳ | **[Summer 2026 Engineering Intern - Undergraduate](https://jobright.ai/jobs/info/691d54b40b7dff7341502a32?utm_campaign=1048&utm_source=git)** | Van Horn, TX | On Site | Nov 18 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Supply Chain (Summer 2026)](https://jobright.ai/jobs/info/691d4d777481340785ed6455?utm_campaign=1048&utm_source=git)** | Fremont, CA | On Site | Nov 18 |
 | **[Granite Construction](https://www.graniteconstruction.com)** | **[QC Intern](https://jobright.ai/jobs/info/691d4d720b7dff7341502387?utm_campaign=1048&utm_source=git)** | Salinas, CA | On Site | Nov 18 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Alamos Gold Inc.](http://www.alamosgold.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/691d3f2cbcdbf3560c9eec1a?utm_campaign=1048&utm_source=git)** | Dubreuilville, Ontario, Canada | On Site | Nov 18 |
 | **[Tepa Companies](https://www.tepa.com/)** | **[Construction Intern - Summer 2026](https://jobright.ai/jobs/info/691d210d0b7dff73415000d8?utm_campaign=1048&utm_source=git)** | Warner Robins, GA | Hybrid | Nov 18 |
 | **[Tokyo Electron US](http://www.tel.com)** | **[ATG USCRD Process Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/691d20bd0b7dff73415000c8?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Nov 18 |
-| **[Teradyne](http://www.teradyne.com)** | **[Test Engineering Intern - Spring 2026 (Teradyne, North Reading, MA)](https://jobright.ai/jobs/info/691d20aebcdbf3560c9ed727?utm_campaign=1048&utm_source=git)** | North Reading, MA | On Site | Nov 18 |
-| **[CPL](https://cplteam.com/locations)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/691d209f7481340785ed4129?utm_campaign=1048&utm_source=git)** | Fairport, NY | On Site | Nov 18 |
-| **[HDR](http://www.hdrinc.com)** | **[Power Delivery Intern](https://jobright.ai/jobs/info/691d1fa6bcdbf3560c9ed6be?utm_campaign=1048&utm_source=git)** | Greater Houston | On Site | Nov 18 |
-| **[Blue Origin](http://www.blueorigin.com)** | **[Summer 2026  Engineering Intern - Undergraduate](https://jobright.ai/jobs/info/691d1eff7481340785ed4055?utm_campaign=1048&utm_source=git)** | Space Coast, FL | On Site | Nov 18 |
-| **[Teledyne Technologies Incorporated](http://www.teledyne.com)** | **[College Intern - Technical](https://jobright.ai/jobs/info/691d1ef27481340785ed4047?utm_campaign=1048&utm_source=git)** | Woodridge, IL | On Site | Nov 18 |
-| **[RMS Energy Co, LLC](https://www.rmsenergy.com)** | **[Electrical Design Intern](https://jobright.ai/jobs/info/691d1ed27481340785ed402a?utm_campaign=1048&utm_source=git)** | Wisconsin Rapids, WI | Hybrid | Nov 18 |
-| **[Zoox](https://www.zoox.com/)** | **[Machine Learning Engineer Intern, Autonomy Behavior](https://jobright.ai/jobs/info/691d4886bcdbf3560c9ef6f3?utm_campaign=1048&utm_source=git)** | Foster City, CA | On Site | Nov 18 |
-| **[Progress Rail, A Caterpillar Company](http://www.progressrail.com/)** | **[Experimental Test Engineering Intern](https://jobright.ai/jobs/info/691d1ead0b7dff73414fffc4?utm_campaign=1048&utm_source=git)** | EMD HQ LaGrange, IL - 400 | On Site | Nov 18 |
-| **[Centrisys/CNP](https://www.centrisys-cnp.com)** | **[Lab Intern](https://jobright.ai/jobs/info/691d4db17481340785ed647f?utm_campaign=1048&utm_source=git)** | Kenosha, WI | On Site | Nov 18 |
-| **[SK hynix memory solutions America Inc.](http://www.skhms.com)** | **[SSD Security Firmware Intern - Fall 2025](https://jobright.ai/jobs/info/691d1e4b7481340785ed3fa4?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Nov 18 |
-| **[Blue Origin](http://www.blueorigin.com)** | **[Summer 2026  Engineering Intern - Undergraduate](https://jobright.ai/jobs/info/691d1e12bcdbf3560c9ed5be?utm_campaign=1048&utm_source=git)** | Longmont, CO | On Site | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
