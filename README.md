@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Peak Energy](https://www.peakenergy.com)** | **[Test Engineer Intern, ESS](https://jobright.ai/jobs/info/68db2462e9b48513789b2091?utm_campaign=1048&utm_source=git)** | Burlingame, California | On Site | Nov 20 |
+| **[Lucid Motors](http://lucidmotors.com)** | **[Intern, Cell Engineering, Summer 2026](https://jobright.ai/jobs/info/68e9ac8afeeb0006c1a56643?utm_campaign=1048&utm_source=git)** | Newark, CA | On Site | Nov 19 |
 | **[HNTB](http://www.hntb.com/)** | **[Intern Civil Engineer: Water/Drainage - Summer 2026](https://jobright.ai/jobs/info/691e9e1f09cc522e8773b38e?utm_campaign=1048&utm_source=git)** | Santa Ana, CA (Irvine) | On Site | Nov 19 |
 | ↳ | **[Intern Civil Engineer: Water/Drainage - Summer 2026](https://jobright.ai/jobs/info/691e9d60a49a885af9a29ed8?utm_campaign=1048&utm_source=git)** | Ontario, CA | On Site | Nov 19 |
 | **[General Dynamics](https://www.gd.com)** | **[Optics/RF Intern Engineer](https://jobright.ai/jobs/info/691e930c3f782d2f1afb5e9b?utm_campaign=1048&utm_source=git)** | USA-NJ-Florham Park | Hybrid | Nov 19 |
@@ -82,13 +84,13 @@ For a complete list, click the following sortable link below:
 | **[Oracle](https://www.oracle.com/)** | **[OCI Network Automation Software Intern - OVIP](https://jobright.ai/jobs/info/691e7b8a09cc522e8773a366?utm_campaign=1048&utm_source=git)** | Nashville, TN, United States | On Site | Nov 19 |
 | **[The Aerospace Corporation](http://www.aerospace.org)** | **[2026 Microwave Measurements, Modeling and Simulation Undergrad Intern](https://jobright.ai/jobs/info/691e7b5d09cc522e8773a326?utm_campaign=1048&utm_source=git)** | El Segundo, CA | Hybrid | Nov 19 |
 | **[MediaTek](http://www.mediatek.com)** | **[[2026 Summer] Design Verification Intern](https://jobright.ai/jobs/info/691e7b5309cc522e8773a31a?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Nov 19 |
-| **[Zoetis](https://www.zoetis.com)** | **[Formulations Intern](https://jobright.ai/jobs/info/691e7b4a3f782d2f1afb51b7?utm_campaign=1048&utm_source=git)** | Kalamazoo - Downtown Portage Street | On Site | Nov 19 |
 | **[Cooperative Farmers Elevator](https://www.coopfe.com)** | **[Agronomy Internship](https://jobright.ai/jobs/info/691e7b1509cc522e8773a2c8?utm_campaign=1048&utm_source=git)** | Doon,IA,US | On Site | Nov 19 |
 | **[AECOM](http://www.aecom.com/)** | **[Structural Intern ](https://jobright.ai/jobs/info/691e7a6f3f782d2f1afb50c2?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Nov 19 |
 | **[Base Power Company](https://www.basepowercompany.com)** | **[Hardware Technical Program Management Intern](https://jobright.ai/jobs/info/691e7a173f782d2f1afb505a?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Nov 19 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[FPGA Engineering Internship: Summer 2026](https://jobright.ai/jobs/info/691e79c209cc522e8773a158?utm_campaign=1048&utm_source=git)** | US-PA-Bala Cynwyd (Philadelphia Area) | On Site | Nov 19 |
 | **[C&S Companies](http://www.cscos.com)** | **[Civil Aviation Intern](https://jobright.ai/jobs/info/68f3030076a51a4307bc9f8b?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Nov 19 |
 | **[ Georgia Pacific](gp.com)** | **[2026 Georgia-Pacific Dixie Products Engineering Co-Op](https://jobright.ai/jobs/info/691e795a09cc522e8773a0e2?utm_campaign=1048&utm_source=git)** | Darlington, SC | On Site | Nov 19 |
+| **[Zoetis](https://www.zoetis.com)** | **[Formulations Intern](https://jobright.ai/jobs/info/691e794b3f782d2f1afb4f00?utm_campaign=1048&utm_source=git)** | Kalamazoo - Downtown Portage Street | On Site | Nov 19 |
 | **[Truveta](https://www.truveta.com)** | **[ML PhD Intern - LLMs & Generative AI](https://jobright.ai/jobs/info/691e777709cc522e87739f99?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Nov 19 |
 | **[Jim Myers & Sons, Inc. (JMS)](https://www.jmsequipment.com)** | **[Purchasing Intern (Supply Chain & Procurement)](https://jobright.ai/jobs/info/691e75b03f782d2f1afb4e09?utm_campaign=1048&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Nov 19 |
 | **[Superior](http://superiorgroup.net)** | **[Building Information Modeling (BIM) Internship, Summer 2026](https://jobright.ai/jobs/info/691e75ada49a885af9a28b88?utm_campaign=1048&utm_source=git)** | Columbus, Ohio, United States | On Site | Nov 19 |
@@ -122,6 +124,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Building Information Modeling (BIM) Internship, Summer 2026](https://jobright.ai/jobs/info/691e7adca49a885af9a28eca?utm_campaign=1048&utm_source=git)** | Columbus, OH | On Site | Nov 19 |
 | ↳ | **[Electrical Engineering Internship, Summer 2026](https://jobright.ai/jobs/info/691e80d0a49a885af9a29413?utm_campaign=1048&utm_source=git)** | Columbus, OH | On Site | Nov 19 |
 | ↳ | **[Construction Estimating Internship, Summer 2026](https://jobright.ai/jobs/info/691e5d03a49a885af9a27fce?utm_campaign=1048&utm_source=git)** | Columbus, OH | On Site | Nov 19 |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Cyber Security Engineer Intern](https://jobright.ai/jobs/info/691ec9c0a49a885af9a2ad00?utm_campaign=1048&utm_source=git)** | Pennsylvania | On Site | Nov 19 |
+| ↳ | **[Cyber Security Engineer Intern](https://jobright.ai/jobs/info/691ec9f53f782d2f1afb7180?utm_campaign=1048&utm_source=git)** | Possible | On Site | Nov 19 |
 | **[Corning Incorporated](https://www.corning.com/)** | **[Optical Design Intern - Summer 2026](https://jobright.ai/jobs/info/691e8f8009cc522e8773af6d?utm_campaign=1048&utm_source=git)** | Fairport, NY | On Site | Nov 19 |
 | **[Smith+Nephew](http://www.smith-nephew.com)** | **[Materials Management Purchasing  Buyer Intern (Memphis, TN)](https://jobright.ai/jobs/info/691e59c009cc522e877393d4?utm_campaign=1048&utm_source=git)** | Memphis, TN | On Site | Nov 19 |
 | **[Michael Baker International](http://mbakerintl.com/)** | **[Civil Engineering Intern, Transportation](https://jobright.ai/jobs/info/691e59303f782d2f1afb4152?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | Nov 19 |
@@ -147,14 +151,10 @@ For a complete list, click the following sortable link below:
 | **[New York City Economic Development Corporation](https://edc.nyc)** | **[Summer Intern, Land Use](https://jobright.ai/jobs/info/691e53d109cc522e87739027?utm_campaign=1048&utm_source=git)** | New York, New York, United States | On Site | Nov 19 |
 | **[UES](https://www.teamues.com)** | **[Environmental Intern- Summer 2026](https://jobright.ai/jobs/info/691e53aaa49a885af9a27af1?utm_campaign=1048&utm_source=git)** | Irving, TX | On Site | Nov 19 |
 | **[Oracle](https://www.oracle.com/)** | **[GDI Information Security Analyst Intern - OVIP](https://jobright.ai/jobs/info/691e5372a49a885af9a27ab4?utm_campaign=1048&utm_source=git)** | United States | Remote | Nov 19 |
-| **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[GDI Information Security Analyst Intern - OVIP](https://jobright.ai/jobs/info/691e51c209cc522e87738e6b?utm_campaign=1048&utm_source=git)** | Reston, VA, United States | On Site | Nov 19 |
 | **[Typeface](https://www.typeface.ai)** | **[Product Security Intern](https://jobright.ai/jobs/info/691e518ea49a885af9a2797b?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | Hybrid | Nov 19 |
 | **[Arc](https://arcboats.com)** | **[Electrical Systems Engineering Intern](https://jobright.ai/jobs/info/691e5166a49a885af9a27961?utm_campaign=1048&utm_source=git)** | Torrance, CA | On Site | Nov 19 |
 | **[Oracle](https://www.oracle.com/)** | **[GDI Information Security Analyst Intern - OVIP](https://jobright.ai/jobs/info/691e5136a49a885af9a27923?utm_campaign=1048&utm_source=git)** | Reston, VA | On Site | Nov 19 |
 | ↳ | **[OCI Security Engineer Intern - OVIP](https://jobright.ai/jobs/info/691e50dba49a885af9a278c8?utm_campaign=1048&utm_source=git)** | Nashville, TN, United States | On Site | Nov 19 |
 | **[The Aerospace Corporation](http://www.aerospace.org)** | **[2026 Microwave Measurements, Modeling and Simulation Undergrad Intern](https://jobright.ai/jobs/info/691e50d53f782d2f1afb3b85?utm_campaign=1048&utm_source=git)** | El Segundo, CA | On Site | Nov 19 |
 | **[Chase](https://www.chase.com/)** | **[2026 Forestry Field Office Internship - Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/691e50d209cc522e87738d94?utm_campaign=1048&utm_source=git)** | 93747 Highway 99 S, Junction City, OR, 97448, US | On Site | Nov 19 |
-| **[The Aerospace Corporation](http://www.aerospace.org)** | **[2026 Signal Processing and RF Engineering Grad Intern](https://jobright.ai/jobs/info/691e5048a49a885af9a2787a?utm_campaign=1048&utm_source=git)** | El Segundo, CA | On Site | Nov 19 |
-| **[UES](https://www.teamues.com)** | **[Geotechnical & Construction Materials Testing Intern- Summer 2026](https://jobright.ai/jobs/info/691e4fea3f782d2f1afb3ade?utm_campaign=1048&utm_source=git)** | San Antonio, TX | Hybrid | Nov 19 |
-| **[Textron Aviation](http://txtav.com)** | **[A&P Summer Internship - Indianapolis](https://jobright.ai/jobs/info/691e4f2f09cc522e87738c19?utm_campaign=1048&utm_source=git)** | Indianapolis, IN | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
