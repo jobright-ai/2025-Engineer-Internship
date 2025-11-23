@@ -57,8 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pinnova](https://www.linkedin.com/company/87987033)** | **[Engineering Internship Program - Summer 2026](https://jobright.ai/jobs/info/69237b83c0cefa13343dad8c?utm_campaign=1048&utm_source=git)** | San Jose, CA | Remote | Nov 23 |
+| **[Duininck](https://www.duininck.com/)** | **[Heavy Equipment Mechanic Intern](https://jobright.ai/jobs/info/692377d7c0cefa13343dad42?utm_campaign=1048&utm_source=git)** | Spicer, MN | On Site | Nov 23 |
+| **[Horton, Inc.](http://hortonww.com)** | **[Quality Intern (Industrial Engineer for Summer 2026)](https://jobright.ai/jobs/info/69237736c0cefa13343dad18?utm_campaign=1048&utm_source=git)** | Westminster, SC | On Site | Nov 23 |
+| **[University of Cincinnati](http://researchcompliance.uc.edu/UCTCA.aspx)** | **[Building Maintenance Supt 1-U (Elec)](https://jobright.ai/jobs/info/692375917795cd460c838b1c?utm_campaign=1048&utm_source=git)** | Cincinnati, OH | On Site | Nov 23 |
+| **[Precision Strip, Inc.](http://www.precision-strip.com/)** | **[Electrical Controls Intern](https://jobright.ai/jobs/info/692370ae38cd5478a8d569c3?utm_campaign=1048&utm_source=git)** | Minster, OH | On Site | Nov 23 |
+| **[Interstates](http://interstates.com)** | **[Manufacturing Intern](https://jobright.ai/jobs/info/690d09f8d046ab6061cf1e49?utm_campaign=1048&utm_source=git)** | Sioux Center, IA | On Site | Nov 23 |
+| **[Cliffton Verge](https://www.linkedin.com/company/108618613)** | **[HVACR Applications Engineer Internship](https://jobright.ai/jobs/info/69236708c0cefa13343dab49?utm_campaign=1048&utm_source=git)** | Sidney, OH | On Site | Nov 23 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Applications Engineer](https://jobright.ai/jobs/info/692362bdc0cefa13343daa97?utm_campaign=1048&utm_source=git)** | Rhode Island, United States | On Site | Nov 23 |
-| **[Mechronix](mechronix.us)** | **[Engineering Internship Program - Summer 2026](https://jobright.ai/jobs/info/692362a6c0cefa13343daa8f?utm_campaign=1048&utm_source=git)** | Charleston, SC | Remote | Nov 23 |
 | **[Sunset Automotive Group](https://www.sunsetautogroup.com)** | **[Intern - Assistant Grower](https://jobright.ai/jobs/info/6923627ac0cefa13343daa86?utm_campaign=1048&utm_source=git)** | Morehead, KY | On Site | Nov 23 |
 | **[RJMedex](https://rjmedex.com/)** | **[Sr DevOps Developer with AI-ML-DL skills Intern to Fulltime ONSITE](https://jobright.ai/jobs/info/692361d4c0cefa13343daa5c?utm_campaign=1048&utm_source=git)** | Germantown, MD | On Site | Nov 23 |
 | **[RoboStruct Technologies](robostructtechnologies.us)** | **[Electricial Engineer Intern](https://jobright.ai/jobs/info/69235b4dc0cefa13343da983?utm_campaign=1048&utm_source=git)** | Dalton, GA | Remote | Nov 23 |
@@ -93,11 +99,9 @@ For a complete list, click the following sortable link below:
 | **[STV](http://www.stvinc.com/)** | **[Summer 2026 - Civil Engineering Intern](https://jobright.ai/jobs/info/69158836286ccf0a1512efc8?utm_campaign=1048&utm_source=git)** | Greater Richmond Region | Hybrid | Nov 23 |
 | **[Caddell Construction](http://caddell.com)** | **[Safety Internship](https://jobright.ai/jobs/info/68b771342124650c14022bc0?utm_campaign=1048&utm_source=git)** | Montgomery, Alabama, United States | On Site | Nov 23 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Mechanical Engineer Intern - BS/MS (Gloucester, MA)](https://jobright.ai/jobs/info/69233b347795cd460c8383f6?utm_campaign=1048&utm_source=git)** | Gloucester, MA | On Site | Nov 23 |
-| **[MechNova](mechnova.us)** | **[Systems Engineer Internship, Summer 2026 (42276)](https://jobright.ai/jobs/info/69233a59c0cefa13343da5f4?utm_campaign=1048&utm_source=git)** | Ada Township, MI | Remote | Nov 23 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[Electrical/Software/Controls Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68b2f9ac1ade4306aa63a8d4?utm_campaign=1048&utm_source=git)** | Novi, MI | On Site | Nov 23 |
 | **[Pape-Dawson](http://pape-dawson.com)** | **[Internship Summer 2026 - Surveying](https://jobright.ai/jobs/info/68ca3509f16e3266d2824a06?utm_campaign=1048&utm_source=git)** | Fort Worth, TX | On Site | Nov 23 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Right of Way Intern - Environmental Services, Stakeholder Management Services (Kansas City)](https://jobright.ai/jobs/info/68b1e4e4f4e41a61efd807a0?utm_campaign=1048&utm_source=git)** | Kansas City, MO | On Site | Nov 23 |
-| **[Pinnova](https://www.linkedin.com/company/87987033)** | **[Intern, Test Engineering](https://jobright.ai/jobs/info/692338cb38cd5478a8d563a2?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | Remote | Nov 23 |
 | **[Sierra Pacific Industries](http://www.spi-ind.com)** | **[Engineer Intern - Design](https://jobright.ai/jobs/info/692337a638cd5478a8d56355?utm_campaign=1048&utm_source=git)** | Medford, WI | On Site | Nov 23 |
 | **[Pape-Dawson](http://pape-dawson.com)** | **[Internship Summer 2026 - Surveying](https://jobright.ai/jobs/info/690ac401d046ab6061cdfeb7?utm_campaign=1048&utm_source=git)** | Corpus Christi, TX | On Site | Nov 23 |
 | **[AZCO](http://www.azco-inc.com)** | **[Prefabrication Intern - AZCO (Appleton)](https://jobright.ai/jobs/info/68b1fdcff4e41a61efd8175b?utm_campaign=1048&utm_source=git)** | Appleton, WI | On Site | Nov 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Refining Chemical Engineering Intern/Co-op Summer 2026](https://jobright.ai/jobs/info/68a361741ab5f8579e8a517c?utm_campaign=1048&utm_source=git)** | Martinez, CA | On Site | Nov 23 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Structural Engineering Intern CA](https://jobright.ai/jobs/info/68c9b28d95f5211cd2cf305e?utm_campaign=1048&utm_source=git)** | Los Angeles, California, United States | Hybrid | Nov 23 |
 | **[SpaceX](https://www.spacex.com)** | **[Summer 2026 Engineering Internship/Co-op](https://jobright.ai/jobs/info/69231c16c0cefa13343da311?utm_campaign=1048&utm_source=git)** | Flexible - Any SpaceX Site | On Site | Nov 23 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Refining Mechanical Engineer Spring 2026](https://jobright.ai/jobs/info/68c6546ac96a22563eced576?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Nov 23 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Structural Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/68b0ed1213563e782a9fa6ab?utm_campaign=1048&utm_source=git)** | South Jordan, UT | On Site | Nov 23 |
-| **[Goodfellow Bros.](http://goodfellowbros.com)** | **[Project Engineer Intern – Summer 2026 (Sparks/Reno, NV)](https://jobright.ai/jobs/info/68ce030ee23def7af55c136e?utm_campaign=1048&utm_source=git)** | Reno, NV | On Site | Nov 23 |
-| **[Polaris Inc.](https://www.polaris.com)** | **[Electrical/Software/Controls Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68b2fce6f4e41a61efd886e3?utm_campaign=1048&utm_source=git)** | Roseau, MN | On Site | Nov 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
