@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Kingfish Company](https://www.the-kingfish-company.com/)** | **[Stagiair Technische Dienst](https://jobright.ai/jobs/info/69223761a49a885af9a489c5?utm_campaign=1048&utm_source=git)** | Kats | On Site | Nov 22 |
 | **[Hackensack Meridian Health](https://www.hackensackmeridianhealth.org)** | **[IT Summer Intern, Bio Medical Engineering](https://jobright.ai/jobs/info/69222e9ed1ec2c3565c46ed2?utm_campaign=1048&utm_source=git)** | Edison, NJ | On Site | Nov 22 |
 | **[MechNova](mechnova.us)** | **[Intern, Power Electronics Engineer, Summer 2026](https://jobright.ai/jobs/info/69222a2ad1ec2c3565c46e4c?utm_campaign=1048&utm_source=git)** | Newark, CA | Remote | Nov 22 |
 | **[Cliffton Verge](https://www.linkedin.com/company/108618613)** | **[Process Engineering Intern](https://jobright.ai/jobs/info/692225fed1ec2c3565c46dbd?utm_campaign=1048&utm_source=git)** | Ada, MI | On Site | Nov 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Electrical Engineering Co-Op - Spring/Summer 2026](https://jobright.ai/jobs/info/68e96bfd0930fe0bc462592e?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | Hybrid | Nov 22 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Retail Field Intern - Southern Illinois Division](https://jobright.ai/jobs/info/6921dcf03f782d2f1afd40f8?utm_campaign=1048&utm_source=git)** | Browns, IL | On Site | Nov 22 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Process Engineer Intern](https://jobright.ai/jobs/info/68e994bd0930fe0bc46277c6?utm_campaign=1048&utm_source=git)** | Rocky Mount, VA | On Site | Nov 22 |
-| **[FlatironDragados](https://www.fdcorp.com)** | **[Field Engineer Intern](https://jobright.ai/jobs/info/68e962ec0930fe0bc4625080?utm_campaign=1048&utm_source=git)** | Lumberton, NC | On Site | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
