@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kenvue](https://www.kenvue.com)** | **[Research & Development Internship (May-Aug) 2026](https://jobright.ai/jobs/info/6922b51f7795cd460c836cfb?utm_campaign=1048&utm_source=git)** | Summit, NJ | Hybrid | Nov 22 |
+| **[S&B USA Construction & Fay](https://shikunusa.com)** | **[Heavy Civil Infrastructure Internship Summer 2026 - MD](https://jobright.ai/jobs/info/68d30ad38c62e63bc7fdd313?utm_campaign=1048&utm_source=git)** | Glen Burnie, MD | On Site | Nov 22 |
+| **[bioMérieux](https://www.biomerieux.com)** | **[Intern Continuous Improvement](https://jobright.ai/jobs/info/68f8599e6de2db04dc3de4af?utm_campaign=1048&utm_source=git)** | Durham, NC | On Site | Nov 22 |
+| **[Metafoodx](https://www.metafoodx.com/)** | **[Operations Intern – Auditing, Dashboard Development & AI-Aided Automation](https://jobright.ai/jobs/info/6922a404c0cefa13343d8a95?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Nov 22 |
+| **[SK hynix memory solutions America Inc.](http://www.skhms.com)** | **[SSD Reliability Engineering Intern - Fall 2025](https://jobright.ai/jobs/info/68d70aead3fe025a3015e667?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Nov 22 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Energy/Security Technician](https://jobright.ai/jobs/info/69229a67c0cefa13343d881b?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Nov 22 |
 | **[Lochmueller Group](http://lochgroup.com)** | **[2026 Internship/Entry Level Opportunities](https://jobright.ai/jobs/info/692290e07795cd460c836294?utm_campaign=1048&utm_source=git)** | All Locations | On Site | Nov 22 |
 | **[Toyota Research Institute](http://www.tri.global)** | **[Human Interactive Driving Intern – Uncertainty-Aware Control](https://jobright.ai/jobs/info/6902ffe9ff462851fefe817f?utm_campaign=1048&utm_source=git)** | Los Altos, CA | Hybrid | Nov 22 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Plumbing & Fire Protection Engineering Co-Op - Spring/Summer 2026](https://jobright.ai/jobs/info/68e96dfef195760c354a9072?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | Hybrid | Nov 22 |
 | ↳ | **[Mechanical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68cba156efdec76df36bff48?utm_campaign=1048&utm_source=git)** | Troy, NY | Hybrid | Nov 22 |
 | ↳ | **[Civil Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68cde1ebb2a74e1837edd1fb?utm_campaign=1048&utm_source=git)** | Troy, NY | Hybrid | Nov 22 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[North America Solutions Deployment & Integration (NA SDI) Engineering Operations Summer Intern, 2026](https://jobright.ai/jobs/info/690527a3ff462851feffb125?utm_campaign=1048&utm_source=git)** | Schaumburg, IL | Hybrid | Nov 22 |
-| **[BorgWarner](http://www.borgwarner.com)** | **[Manufacturing Process Engineer Intern](https://jobright.ai/jobs/info/68cce81ed11b445e0bee4285?utm_campaign=1048&utm_source=git)** | Kokomo, IN | On Site | Nov 22 |
-| **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[2026 Summer Engineering Intern-Alamo TN](https://jobright.ai/jobs/info/690c4d8a221b890c277fcd1c?utm_campaign=1048&utm_source=git)** | Alamo, TN | On Site | Nov 22 |
-| **[Bloom Energy](http://www.bloomenergy.com)** | **[Manufacturing Industrial Engineering Intern](https://jobright.ai/jobs/info/69052abeff462851feffb4ca?utm_campaign=1048&utm_source=git)** | Newark, DE | On Site | Nov 22 |
-| **[Barr Engineering Co.](http://www.barr.com)** | **[Internship – Electrical Engineer (Hybrid)](https://jobright.ai/jobs/info/68b0fd016fab621da7b09421?utm_campaign=1048&utm_source=git)** | Ann Arbor, MI | Hybrid | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
