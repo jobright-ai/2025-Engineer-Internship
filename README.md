@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Pinnova](https://www.linkedin.com/company/87987033)** | **[Engineering Internship Program - Summer 2026](https://jobright.ai/jobs/info/69237b83c0cefa13343dad8c?utm_campaign=1048&utm_source=git)** | San Jose, CA | Remote | Nov 23 |
+| **[Terex Corporation](http://www.terex.com)** | **[Electrical Engineering Intern, Part-time, Heil Environmental f390](https://jobright.ai/jobs/info/692394b338cd5478a8d56cc4?utm_campaign=1048&utm_source=git)** | Fort Payne, AL | On Site | Nov 23 |
+| **[McAdams](http://mcadamsco.com)** | **[2026 Summer Internship - Civil Engineering](https://jobright.ai/jobs/info/691e2adc09cc522e87736ffe?utm_campaign=1048&utm_source=git)** | Lewisville, Texas, United States | On Site | Nov 23 |
+| **[Benesch](https://www.benesch.com)** | **[Bridge Design Internship](https://jobright.ai/jobs/info/691cf196bcdbf3560c9eb831?utm_campaign=1048&utm_source=git)** | Portland, ME | Hybrid | Nov 23 |
+| **[BillionToOne](https://www.billiontoone.com)** | **[Oncology AI Associate Intern](https://jobright.ai/jobs/info/68f6d8649a65fd3458597796?utm_campaign=1048&utm_source=git)** | Menlo Park, CA | On Site | Nov 23 |
 | **[Duininck](https://www.duininck.com/)** | **[Heavy Equipment Mechanic Intern](https://jobright.ai/jobs/info/692377d7c0cefa13343dad42?utm_campaign=1048&utm_source=git)** | Spicer, MN | On Site | Nov 23 |
-| **[Horton, Inc.](http://hortonww.com)** | **[Quality Intern (Industrial Engineer for Summer 2026)](https://jobright.ai/jobs/info/69237736c0cefa13343dad18?utm_campaign=1048&utm_source=git)** | Westminster, SC | On Site | Nov 23 |
+| **[Horton, Inc.](http://hortonww.com)** | **[Quality Intern (Industrial Engineer for Summer 2026)](https://jobright.ai/jobs/info/6923770c38cd5478a8d56ac8?utm_campaign=1048&utm_source=git)** | Westminster, SC | On Site | Nov 23 |
 | **[University of Cincinnati](http://researchcompliance.uc.edu/UCTCA.aspx)** | **[Building Maintenance Supt 1-U (Elec)](https://jobright.ai/jobs/info/692375917795cd460c838b1c?utm_campaign=1048&utm_source=git)** | Cincinnati, OH | On Site | Nov 23 |
 | **[Precision Strip, Inc.](http://www.precision-strip.com/)** | **[Electrical Controls Intern](https://jobright.ai/jobs/info/692370ae38cd5478a8d569c3?utm_campaign=1048&utm_source=git)** | Minster, OH | On Site | Nov 23 |
 | **[Interstates](http://interstates.com)** | **[Manufacturing Intern](https://jobright.ai/jobs/info/690d09f8d046ab6061cf1e49?utm_campaign=1048&utm_source=git)** | Sioux Center, IA | On Site | Nov 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Internship Program: Manufacturing Sciences - Analytical Intern](https://jobright.ai/jobs/info/69231d6d7795cd460c838129?utm_campaign=1048&utm_source=git)** | Brooklyn Park, MN | On Site | Nov 23 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Refining Mechanical Engineer Spring 2026](https://jobright.ai/jobs/info/6791977b88811196958f8698?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT | On Site | Nov 23 |
 | ↳ | **[Refining Chemical Engineering Intern/Co-op Summer 2026](https://jobright.ai/jobs/info/68a2f262468ac21d6fabb630?utm_campaign=1048&utm_source=git)** | Catlettsburg, KY | On Site | Nov 23 |
-| ↳ | **[Refining Chemical Engineering Intern/Co-op Summer 2026](https://jobright.ai/jobs/info/68a361741ab5f8579e8a517c?utm_campaign=1048&utm_source=git)** | Martinez, CA | On Site | Nov 23 |
-| **[DLR Group](http://www.dlrgroup.com/)** | **[Structural Engineering Intern CA](https://jobright.ai/jobs/info/68c9b28d95f5211cd2cf305e?utm_campaign=1048&utm_source=git)** | Los Angeles, California, United States | Hybrid | Nov 23 |
-| **[SpaceX](https://www.spacex.com)** | **[Summer 2026 Engineering Internship/Co-op](https://jobright.ai/jobs/info/69231c16c0cefa13343da311?utm_campaign=1048&utm_source=git)** | Flexible - Any SpaceX Site | On Site | Nov 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
