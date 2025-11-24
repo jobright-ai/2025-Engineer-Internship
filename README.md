@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[X-Bow Systems](https://www.xbowsystems.com)** | **[Manufacturing/Multidisciplinary Engineering Internship](https://jobright.ai/jobs/info/6923d3ca7795cd460c8398c6?utm_campaign=1048&utm_source=git)** | Luling, TX | On Site | Nov 23 |
+| **[Nutrien](https://www.nutrien.com/)** | **[Intern - Retail Field, Agronomy - Northern High Plains Division](https://jobright.ai/jobs/info/6923cbc738cd5478a8d5768a?utm_campaign=1048&utm_source=git)** | Fort Morgan, CO | On Site | Nov 23 |
+| **[X-Bow Systems](https://www.xbowsystems.com)** | **[Test Engineering Intern](https://jobright.ai/jobs/info/6923cba4c0cefa13343db705?utm_campaign=1048&utm_source=git)** | Luling, TX | On Site | Nov 23 |
+| **[Waymo](https://waymo.com)** | **[2026 Summer Intern, MS/PhD, Systems Engineer, Rider Comfort](https://jobright.ai/jobs/info/69014f55d5259a1b3cff414a?utm_campaign=1048&utm_source=git)** | Mountain View, CA, USA | On Site | Nov 23 |
+| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6923c1e07795cd460c8391eb?utm_campaign=1048&utm_source=git)** | Lake Los Angeles, CA | Hybrid | Nov 23 |
+| **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Structural Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/6923bd95c0cefa13343db324?utm_campaign=1048&utm_source=git)** | Fargo, ND | On Site | Nov 23 |
 | **[ESTAT Actuation](https://www.estat.tech)** | **[Co-op: Mechanical Engineer - Focus Design](https://jobright.ai/jobs/info/6923b642c0cefa13343db24f?utm_campaign=1048&utm_source=git)** | Glenshaw, PA | On Site | Nov 23 |
 | ↳ | **[Co-op: Materials Engineer - Focus Wear and Durability](https://jobright.ai/jobs/info/6923aba1c0cefa13343db0b7?utm_campaign=1048&utm_source=git)** | Glenshaw, PA | On Site | Nov 23 |
 | **[Skyryse](https://www.skyryse.com/)** | **[Flight Test Instrumentation Intern (Summer 2026)](https://jobright.ai/jobs/info/68f688d59a63986de757f323?utm_campaign=1048&utm_source=git)** | Camarillo, CA | On Site | Nov 23 |
@@ -119,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[Weifield Group Contracting | A LOENBRO Company](http://weifieldcontracting.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/68b0b51f2d46f6396cae7e04?utm_campaign=1048&utm_source=git)** | Fort Collins, CO | On Site | Nov 23 |
 | **[Constellation](https://www.constellationenergy.com/)** | **[2026 Design Engineering Intern - Cordova, IL](https://jobright.ai/jobs/info/68cdb0141ad6b16f0289db65?utm_campaign=1048&utm_source=git)** | Cordova, IL | On Site | Nov 23 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Environmental Engineering Intern - Environmental Services, Environmental Engineering Solid Waste (Kansas City)](https://jobright.ai/jobs/info/68b1e424f4e41a61efd8070a?utm_campaign=1048&utm_source=git)** | Kansas City, MO | On Site | Nov 23 |
-| **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[Co-op, Electrical Engineer (June - December 2026)](https://jobright.ai/jobs/info/69232cb2c0cefa13343da46d?utm_campaign=1048&utm_source=git)** | Chelmsford, MA | Remote | Nov 23 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[Core Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68cff974dbd9fb154edec6c7?utm_campaign=1048&utm_source=git)** | Spirit Lake, IA | On Site | Nov 23 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Environmental Scientist Intern (Kansas City)](https://jobright.ai/jobs/info/68ceaec4dbd9fb154ede21b7?utm_campaign=1048&utm_source=git)** | Kansas City, MO | On Site | Nov 23 |
 | **[Mott MacDonald](https://www.mottmac.com/hungary)** | **[Construction Management Internship - 2026](https://jobright.ai/jobs/info/68ca323dd4187c55157a7b31?utm_campaign=1048&utm_source=git)** | Newark, DE | On Site | Nov 23 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mott MacDonald](https://www.mottmac.com/hungary)** | **[Electrical Engineering Internship - 2026](https://jobright.ai/jobs/info/691aa2f515b41563671898d8?utm_campaign=1048&utm_source=git)** | Lexington, KY | On Site | Nov 23 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Summer Internship Program: Process Engineering Intern](https://jobright.ai/jobs/info/69231f027795cd460c83817e?utm_campaign=1048&utm_source=git)** | Round Lake Beach, IL | On Site | Nov 23 |
 | ↳ | **[Intern-Packaging Process Engineer](https://jobright.ai/jobs/info/6921d14fd1ec2c3565c460f7?utm_campaign=1048&utm_source=git)** | Durham, NC | On Site | Nov 23 |
-| ↳ | **[Grad Intern - R&D Pathology Lab](https://jobright.ai/jobs/info/69231ed47795cd460c838176?utm_campaign=1048&utm_source=git)** | South San Francisco, CA | On Site | Nov 23 |
-| ↳ | **[R&D Inflammation Research - Grad Intern](https://jobright.ai/jobs/info/69231e707795cd460c838169?utm_campaign=1048&utm_source=git)** | South San Francisco, CA | On Site | Nov 23 |
-| ↳ | **[2026 Summer Internship Program: Manufacturing Sciences - Analytical Intern](https://jobright.ai/jobs/info/69231d6d7795cd460c838129?utm_campaign=1048&utm_source=git)** | Brooklyn Park, MN | On Site | Nov 23 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Refining Mechanical Engineer Spring 2026](https://jobright.ai/jobs/info/6791977b88811196958f8698?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT | On Site | Nov 23 |
-| ↳ | **[Refining Chemical Engineering Intern/Co-op Summer 2026](https://jobright.ai/jobs/info/68a2f262468ac21d6fabb630?utm_campaign=1048&utm_source=git)** | Catlettsburg, KY | On Site | Nov 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
