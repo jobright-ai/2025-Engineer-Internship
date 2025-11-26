@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Warren Equipment Company](http://www.warren-equipment.com/)** | **[LDP Summer Intern](https://jobright.ai/jobs/info/6926cc15f0beb07232626644?utm_campaign=1048&utm_source=git)** | Abilene, TX | On Site | Nov 26 |
+| **[City of Irving](https://www.cityofirving.org/2623/Family-Advocacy-Center)** | **[Graduate Intern (Part-Time)](https://jobright.ai/jobs/info/6926cba8f0beb0723262662f?utm_campaign=1048&utm_source=git)** | Irving, TX | On Site | Nov 26 |
+| **[Helion](http://www.helionenergy.com)** | **[Nuclear Engineering Summer 2026 Intern](https://jobright.ai/jobs/info/68e93bf665768b6412b19a56?utm_campaign=1048&utm_source=git)** | Everett, WA | On Site | Nov 26 |
+| **[Warren Equipment Company](http://www.warren-equipment.com/)** | **[LDP Summer Intern](https://jobright.ai/jobs/info/6926c766f0beb072326265a1?utm_campaign=1048&utm_source=git)** | Tulsa, OK | On Site | Nov 26 |
+| **[Linde Engineering](https://www.linde-engineering.com/)** | **[Summer 2026 - Engineering Intern](https://jobright.ai/jobs/info/6926c583f0beb072326264fc?utm_campaign=1048&utm_source=git)** | Orangeburg, NY | On Site | Nov 26 |
+| **[Genies](https://genies.com)** | **[Research Engineer Intern, Speech Generation - Spring 2026](https://jobright.ai/jobs/info/6926c0bbd47de4798ecd8a3b?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Hybrid | Nov 26 |
+| **[Figure](https://www.figure.ai)** | **[Electrical Engineer Intern [Summer 2026]](https://jobright.ai/jobs/info/6926bde5d47de4798ecd898b?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Nov 26 |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Environmental, Health, Safety & Security (Summer 2026)](https://jobright.ai/jobs/info/6926b72af0beb0723262625c?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Nov 26 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com/)** | **[Materials Control Intern – Summer 2026](https://jobright.ai/jobs/info/6926b098d47de4798ecd8724?utm_campaign=1048&utm_source=git)** | Saguenay, Quebec, Canada | On Site | Nov 25 |
 | ↳ | **[Materials Engineering Intern Technician – Summer 2026](https://jobright.ai/jobs/info/6926af5ad47de4798ecd86e5?utm_campaign=1048&utm_source=git)** | Val-d’Or, Quebec, Canada | On Site | Nov 25 |
 | ↳ | **[Materials Quality Control Intern – Summer 2026](https://jobright.ai/jobs/info/6926af40d47de4798ecd86da?utm_campaign=1048&utm_source=git)** | Boucherville, Quebec, Canada | On Site | Nov 25 |
@@ -112,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[Forge Biologics](https://www.forgebiologics.com)** | **[Summer Intern - AAV Manufacturing](https://jobright.ai/jobs/info/69267650f0beb07232625178?utm_campaign=1048&utm_source=git)** | Columbus, OH | On Site | Nov 25 |
 | ↳ | **[Summer Intern - Analytical Development(Protein Assay Development)](https://jobright.ai/jobs/info/692674cd27bf2f41a2c463b9?utm_campaign=1048&utm_source=git)** | Columbus, OH | On Site | Nov 25 |
 | **[PRIME AE Group, Inc.](http://primeeng.com)** | **[Engineering Intern - Water/Wastewater](https://jobright.ai/jobs/info/692674b427bf2f41a2c463ad?utm_campaign=1048&utm_source=git)** | Louisville, KY | On Site | Nov 25 |
-| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/69267428f0beb0723262505f?utm_campaign=1048&utm_source=git)** | Lake Los Angeles, CA | Hybrid | Nov 25 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Hardware Engineering Intern](https://jobright.ai/jobs/info/6926730df0beb07232624fa5?utm_campaign=1048&utm_source=git)** | Sunnyvale, California, United States of America | On Site | Nov 25 |
 | **[Acutis Diagnostics](https://www.acutis.com/)** | **[Remote Toxicology Intern](https://jobright.ai/jobs/info/692672c9f0beb07232624f85?utm_campaign=1048&utm_source=git)** | United States | Remote | Nov 25 |
 | **[Forge Biologics](https://www.forgebiologics.com)** | **[Summer Intern - Process Development (Plasmid)](https://jobright.ai/jobs/info/692672b0d47de4798ecd764d?utm_campaign=1048&utm_source=git)** | Columbus, OH | On Site | Nov 25 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cisco](http://www.cisco.com)** | **[AI Research Scientist I (Intern) United States](https://jobright.ai/jobs/info/6926626c27bf2f41a2c45b85?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Nov 25 |
 | **[Zoox](https://www.zoox.com/)** | **[Data Security Intern](https://jobright.ai/jobs/info/6926624c27bf2f41a2c45b78?utm_campaign=1048&utm_source=git)** | Foster City, CA | Hybrid | Nov 25 |
 | **[Infios](https://www.infios.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6926621327bf2f41a2c45b53?utm_campaign=1048&utm_source=git)** | Canada | Remote | Nov 25 |
-| **[Enel North America](http://www.enelnorthamerica.com/)** | **[Energy Markets Intern](https://jobright.ai/jobs/info/692661e3f0beb072326247dc?utm_campaign=1048&utm_source=git)** | United States | Remote | Nov 25 |
-| **[WPS—A health solutions company](https://www.wpshealthsolutions.com/)** | **[Quality Test Engineer Intern – Summer 2026](https://jobright.ai/jobs/info/692661a6f0beb072326247aa?utm_campaign=1048&utm_source=git)** | Madison, WI | On Site | Nov 25 |
-| **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Mechanical Engineer Intern - Masters (Santa Clara, CA)](https://jobright.ai/jobs/info/6926612ed47de4798ecd6de3?utm_campaign=1048&utm_source=git)** | Santa Clara,CA | On Site | Nov 25 |
-| **[WPS—A health solutions company](https://www.wpshealthsolutions.com/)** | **[IAM Security Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/692660e827bf2f41a2c45ab0?utm_campaign=1048&utm_source=git)** | Georgia, United States | On Site | Nov 25 |
-| **[General Dynamics](https://www.gd.com)** | **[Test Engineer - Intern](https://jobright.ai/jobs/info/692660d027bf2f41a2c45aa1?utm_campaign=1048&utm_source=git)** | USA-AZ-Scottsdale | Hybrid | Nov 25 |
-| **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Process Engineer Intern - Master's (Santa Clara, CA)](https://jobright.ai/jobs/info/69266095f0beb07232624721?utm_campaign=1048&utm_source=git)** | Santa Clara,CA | On Site | Nov 25 |
-| **[WPS—A health solutions company](https://www.wpshealthsolutions.com/)** | **[IAM Security Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/69266076d47de4798ecd6d65?utm_campaign=1048&utm_source=git)** | Madison, WI | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
