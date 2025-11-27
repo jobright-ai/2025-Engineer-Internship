@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[Engineering Internship Program - Summer 2026](https://jobright.ai/jobs/info/6927e1b491ceeb2e8a543cc1?utm_campaign=1048&utm_source=git)** | San Jose, CA | Remote | Nov 26 |
-| **[ReplyQuickAI](https://www.replyquick.ai)** | **[Remote Machine Learning Engineer](https://jobright.ai/jobs/info/6927e10ef0beb0723262eafa?utm_campaign=1048&utm_source=git)** | Sarasota, FL | Remote | Nov 26 |
+| **[DEPCOM Power, Inc](http://www.depcompower.com/)** | **[DEPCOM Summer 2026 Electrical Engineer Intern](https://jobright.ai/jobs/info/6927f3cdd47de4798ece1548?utm_campaign=1048&utm_source=git)** | Bedminster, NJ | On Site | Nov 26 |
+| **[Coca-Cola Beverages Florida](https://cokeflorida.com)** | **[2026 Summer Intern - Sustainability & EHSS](https://jobright.ai/jobs/info/6927f0acf0beb0723262edfd?utm_campaign=1048&utm_source=git)** | Tampa, FL | Hybrid | Nov 26 |
+| **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - Sports Turf Managment](https://jobright.ai/jobs/info/6927f082f0beb0723262edef?utm_campaign=1048&utm_source=git)** | Sioux Falls, SD | On Site | Nov 26 |
+| **[DEPCOM Power, Inc](http://www.depcompower.com/)** | **[DEPCOM Summer 2026 Electrical Engineer Intern](https://jobright.ai/jobs/info/6927ed08f0beb0723262ed93?utm_campaign=1048&utm_source=git)** | Scottsdale, AZ | On Site | Nov 26 |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Mechanical Engineering Internship - Spring 2026](https://jobright.ai/jobs/info/6927eccfd47de4798ece1450?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | Nov 26 |
+| ↳ | **[IAE Electrical Engineering Internship - Spring 2026](https://jobright.ai/jobs/info/6927ec8cf0beb0723262ed60?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | Nov 26 |
 | **[S&B USA Construction & Fay](https://shikunusa.com)** | **[Heavy Civil Infrastructure Internship Summer 2026 - VA](https://jobright.ai/jobs/info/68d30de5f0d9af73038de938?utm_campaign=1048&utm_source=git)** | Chesapeake, Virgnia, United States | On Site | Nov 26 |
 | **[Tenstorrent](http://tenstorrent.com)** | **[Chiplet Security Research Intern](https://jobright.ai/jobs/info/6910fc09bb519377733edddc?utm_campaign=1048&utm_source=git)** | Santa Clara, California, United States | On Site | Nov 26 |
 | **[Tinder](http://www.tinder.com)** | **[Machine Learning Engineer Intern](https://jobright.ai/jobs/info/6920f29c00c9ee50eaec9d08?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | Hybrid | Nov 26 |
@@ -77,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Risk Insights Media](https://riskinsightsmedia.com/)** | **[Data Engineering (unpaid Internship - open to undergraduate students)](https://jobright.ai/jobs/info/6927ca75d47de4798ece084d?utm_campaign=1048&utm_source=git)** | United States | Remote | Nov 26 |
 | **[University of Utah](http://utah.edu)** | **[Web Content Intern](https://jobright.ai/jobs/info/6927c599d47de4798ece055e?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT | On Site | Nov 26 |
 | **[McMillen](https://www.mcmillen.com/)** | **[Engineering Intern - Structural](https://jobright.ai/jobs/info/6927c593d47de4798ece0556?utm_campaign=1048&utm_source=git)** | Portland, OR | On Site | Nov 26 |
-| **[Nutrien](https://www.nutrien.com/)** | **[Retail Field Intern - Southeast Iowa Division](https://jobright.ai/jobs/info/6927c46ef0beb0723262dd8d?utm_campaign=1048&utm_source=git)** | Fairfield, IA | On Site | Nov 26 |
 | **[EM Structural](https://www.emstructural.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/6927c3a6f0beb0723262dcf9?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Nov 26 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Environmental Engineering or Science Intern/Co-Op](https://jobright.ai/jobs/info/6927c34291ceeb2e8a542e35?utm_campaign=1048&utm_source=git)** | Charlotte, NC | On Site | Nov 26 |
 | **[McMillen](https://www.mcmillen.com/)** | **[Engineering Intern - Structural](https://jobright.ai/jobs/info/6927c1eed47de4798ece031c?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Nov 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - INDOT - Traffic - Seymour](https://jobright.ai/jobs/info/6927961f91ceeb2e8a5416a5?utm_campaign=1048&utm_source=git)** | Seymour, IN | On Site | Nov 26 |
 | **[ALSO.](https://ridealso.com)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/692795f991ceeb2e8a541696?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Nov 26 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Environmental Engineering or Science Intern/Co-Op](https://jobright.ai/jobs/info/6927b637d47de4798ecdfd40?utm_campaign=1048&utm_source=git)** | US-NC-Raleigh | On Site | Nov 26 |
-| ↳ | **[Environmental Engineering or Science Intern/Co-Op](https://jobright.ai/jobs/info/6927b5e6f0beb0723262d61b?utm_campaign=1048&utm_source=git)** | US-SC-Greenville | On Site | Nov 26 |
-| **[Rodale Institute](https://rodaleinstitute.org/)** | **[Research Internship - Summer 2026](https://jobright.ai/jobs/info/6927c0f291ceeb2e8a542ccf?utm_campaign=1048&utm_source=git)** | Kutztown, PA | On Site | Nov 26 |
-| **[Groq](http://groq.com)** | **[ASIC Design Intern](https://jobright.ai/jobs/info/6927c578f0beb0723262de45?utm_campaign=1048&utm_source=git)** | Toronto | Hybrid | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
