@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Applications Engineer](https://jobright.ai/jobs/info/6928f7d3d47de4798ece3fc7?utm_campaign=1048&utm_source=git)** | Rhode Island, United States | On Site | Nov 27 |
+| **[Canada Life](https://www.canadalife.co.uk/)** | **[Canada Life + Lime Connect DevOps & Technology Summer Internship & Scholarship Award](https://jobright.ai/jobs/info/6928ecc1f0beb072326317eb?utm_campaign=1048&utm_source=git)** | Winnipeg, Manitoba, Canada | Hybrid | Nov 27 |
+| ↳ | **[Canada Life + Lime Connect DevOps & Technology Summer Internship & Scholarship Award](https://jobright.ai/jobs/info/6928ec88f0beb072326317df?utm_campaign=1048&utm_source=git)** | London, Ontario, Canada | Hybrid | Nov 27 |
+| ↳ | **[Canada Life + Lime Connect DevOps & Technology Summer Internship & Scholarship Award](https://jobright.ai/jobs/info/6928ea53d47de4798ece3e6d?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 27 |
+| **[Uber](http://www.uber.com)** | **[2026 PhD Software Engineer Intern (Machine Learning), United States](https://jobright.ai/jobs/info/6928e99bd47de4798ece3e52?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA | On Site | Nov 27 |
+| **[Lallemand](http://www.lallemand.com)** | **[Field Solutions Internship - Specialty Agriculture](https://jobright.ai/jobs/info/6928e58ef0beb0723263176d?utm_campaign=1048&utm_source=git)** | May, MO | On Site | Nov 27 |
 | **[InnoMountain](https://www.innomountain-inc.com/)** | **[Hardware and System Engineer Intern (5G 6G R&D)](https://jobright.ai/jobs/info/6928e071d47de4798ece3dd4?utm_campaign=1048&utm_source=git)** | United States | Remote | Nov 27 |
 | **[EBC Inc.](http://www.ebcinc.com)** | **[Internship - Estimation (Summer 2026, Vancouver)](https://jobright.ai/jobs/info/6928dd30d47de4798ece3d8f?utm_campaign=1048&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Nov 27 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - EFBAA Site Ops & Maintenance](https://jobright.ai/jobs/info/6928d52ad47de4798ece3cfc?utm_campaign=1048&utm_source=git)** | Pleasanton | On Site | Nov 27 |
@@ -119,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[MechAxis Dynamics](mechaxisdynamics.us)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/69288a3d91ceeb2e8a545cb0?utm_campaign=1048&utm_source=git)** | Dalton, GA | Remote | Nov 27 |
 | **[Hill's Pet Nutrition](https://www.hillspet.com)** | **[2026 Analytical Sciences Lab Intern](https://jobright.ai/jobs/info/68d4390d8c62e63bc7fe6f9a?utm_campaign=1048&utm_source=git)** | Topeka, KS | On Site | Nov 27 |
 | **[CSS Farms, LLC](https://cssfarms.com/)** | **[Intern - Safety](https://jobright.ai/jobs/info/690ccc114a1b456627b1ac0b?utm_campaign=1048&utm_source=git)** | Dalhart, TX | On Site | Nov 27 |
-| **[Ferrovias](ferrovias.us)** | **[Intern, Mechanical Engineering](https://jobright.ai/jobs/info/692889d8d47de4798ece31e5?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | Remote | Nov 27 |
 | **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[Nuclear and Chemical Sciences Division Undergraduate Intern - Summer 2026](https://jobright.ai/jobs/info/68f03417de50091dbfa533b5?utm_campaign=1048&utm_source=git)** | Livermore, CA | On Site | Nov 27 |
 | **[Arconic](https://www.arconic.com)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/691419fce344172248f76f4b?utm_campaign=1048&utm_source=git)** | Davenport, IA | On Site | Nov 27 |
 | **[CN](http://www.cn.ca)** | **[Intern, Engineering - Operation - Indigenous- EN](https://jobright.ai/jobs/info/69288678f0beb07232630ad3?utm_campaign=1048&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Nov 27 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pape-Dawson](http://pape-dawson.com)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/68b88ef007090163b6ba29a8?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | Nov 27 |
 | **[Day & Zimmermann](http://dayzim.com/)** | **[Operations Engineering Summer Intern](https://jobright.ai/jobs/info/68d4a89dfcd3367e8df167f6?utm_campaign=1048&utm_source=git)** | Middletown, IA | On Site | Nov 27 |
 | **[UPS](http://www.ups.com)** | **[2026 Industrial Engineering Summer Intern - Bayonne NJ](https://jobright.ai/jobs/info/68cd5edce23def7af55b90a8?utm_campaign=1048&utm_source=git)** | Bayonne, NJ | On Site | Nov 27 |
-| **[Jacobs](http://www.jacobs.com)** | **[Mechanical Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/690bd718d046ab6061ce878d?utm_campaign=1048&utm_source=git)** | Gainesville, FL | On Site | Nov 27 |
-| **[Valmont Industries, Inc.](http://www.valmont.com)** | **[Data Engineering Intern](https://jobright.ai/jobs/info/68f061ca2e327452a0a4c9f8?utm_campaign=1048&utm_source=git)** | Omaha, NE | On Site | Nov 27 |
-| **[Komatsu](https://www.komatsu.jp)** | **[Automation Engineering Intern](https://jobright.ai/jobs/info/69287ef1f0beb0723263090b?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | On Site | Nov 27 |
-| **[Arconic](https://www.arconic.com)** | **[Metallurgical Engineer Intern](https://jobright.ai/jobs/info/69197566bcdbf3560c9d5859?utm_campaign=1048&utm_source=git)** | Davenport, IA | On Site | Nov 27 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Structural Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/68f01ebd78ba1621431e1fd0?utm_campaign=1048&utm_source=git)** | Herndon, VA | Hybrid | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
