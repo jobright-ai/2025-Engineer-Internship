@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TE Connectivity](http://www.te.com)** | **[Product Engineering Intern](https://jobright.ai/jobs/info/69291b0ef0beb07232631e2f?utm_campaign=1048&utm_source=git)** | Winston-Salem, NC | On Site | Nov 27 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[VDC Intern](https://jobright.ai/jobs/info/69291ad5f0beb07232631e1e?utm_campaign=1048&utm_source=git)** | El Paso, TX | On Site | Nov 27 |
+| **[Roche](http://www.roche.com)** | **[2026 Summer Intern - EFBAA Site Ops & Maintenance](https://jobright.ai/jobs/info/692918b0d47de4798ece446a?utm_campaign=1048&utm_source=git)** | Pleasanton, CA | On Site | Nov 27 |
+| **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Intern - Project Engineering](https://jobright.ai/jobs/info/69290f6dd47de4798ece430a?utm_campaign=1048&utm_source=git)** | Oakville, Ontario, Canada | Hybrid | Nov 27 |
+| **[AMD](http://www.amd.com)** | **[Summer 2026 Long Term AI Solutions Tech Marketing Intern/Co-op](https://jobright.ai/jobs/info/69290deb91ceeb2e8a546dcc?utm_campaign=1048&utm_source=git)** | Kanata, Ontario, Canada | On Site | Nov 27 |
+| **[McDermott International, Ltd](http://www.mcdermott.com)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/692906b9d47de4798ece41e5?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Nov 27 |
+| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/692905eff0beb07232631b8b?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 27 |
+| **[McDermott International, Ltd](http://www.mcdermott.com)** | **[Electrical Intern](https://jobright.ai/jobs/info/6929058df0beb07232631b72?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Nov 27 |
+| ↳ | **[Instrumentation and Control System Intern](https://jobright.ai/jobs/info/69290567f0beb07232631b6a?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Nov 27 |
+| **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Structural Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/6928ffe1d47de4798ece4153?utm_campaign=1048&utm_source=git)** | Grand Forks, ND | On Site | Nov 27 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Applications Engineer](https://jobright.ai/jobs/info/6928f7d3d47de4798ece3fc7?utm_campaign=1048&utm_source=git)** | Rhode Island, United States | On Site | Nov 27 |
 | **[Canada Life](https://www.canadalife.co.uk/)** | **[Canada Life + Lime Connect DevOps & Technology Summer Internship & Scholarship Award](https://jobright.ai/jobs/info/6928ecc1f0beb072326317eb?utm_campaign=1048&utm_source=git)** | Winnipeg, Manitoba, Canada | Hybrid | Nov 27 |
 | ↳ | **[Canada Life + Lime Connect DevOps & Technology Summer Internship & Scholarship Award](https://jobright.ai/jobs/info/6928ec88f0beb072326317df?utm_campaign=1048&utm_source=git)** | London, Ontario, Canada | Hybrid | Nov 27 |
@@ -109,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[Kiewit](http://www.kiewit.com)** | **[Equipment/Mechanical Engineer Intern - Kiewit Mining Group 2026](https://jobright.ai/jobs/info/68b78713f4e41a61efd99b20?utm_campaign=1048&utm_source=git)** | Tok, AK | On Site | Nov 27 |
 | ↳ | **[Equipment/Mechanical Engineer Intern - Kiewit Mining Group 2026](https://jobright.ai/jobs/info/68b788e32124650c1402386e?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Nov 27 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Mechanical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68d48466ffc1276de3fdb8e7?utm_campaign=1048&utm_source=git)** | Tempe, AZ | Hybrid | Nov 27 |
-| **[Kiewit](http://www.kiewit.com)** | **[Field/Office Engineer Intern - Eastern District - Summer 2026](https://jobright.ai/jobs/info/68f0fd34e6870116b1f52837?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Nov 27 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Electrical Engineer Intern - Substation](https://jobright.ai/jobs/info/691acc3315b415636718a993?utm_campaign=1048&utm_source=git)** | Atlanta, GA | Hybrid | Nov 27 |
 | **[Siemens](https://www.siemens.com)** | **[Building Automation Systems Specialist Internship](https://jobright.ai/jobs/info/690c3092221b890c277fc351?utm_campaign=1048&utm_source=git)** | Tempe, AZ | On Site | Nov 27 |
 | **[American Seating Company](https://www.americanseating.com)** | **[Manufacturing Engineer Intern](https://jobright.ai/jobs/info/690e86e5221b890c2780f09f?utm_campaign=1048&utm_source=git)** | Grand Rapids, MI | On Site | Nov 27 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PC Construction Company](https://www.tcbremodelingandconstruction.com/)** | **[Internship](https://jobright.ai/jobs/info/689baaf5faa4e875e826240c?utm_campaign=1048&utm_source=git)** | Newton, NC | On Site | Nov 27 |
 | **[UL Solutions](https://www.ul.com/solutions)** | **[2026 Summer Intern: Electrical Engineering Intern](https://jobright.ai/jobs/info/68bf7c315c5d5f14f46d74ec?utm_campaign=1048&utm_source=git)** | Raleigh, NC | On Site | Nov 27 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Process Engineer Intern](https://jobright.ai/jobs/info/68f02a25de50091dbfa52485?utm_campaign=1048&utm_source=git)** | Lithia Springs, GA | On Site | Nov 27 |
-| **[Relay](https://relaypro.com)** | **[Relay Launchpad Intern - Product Engineering](https://jobright.ai/jobs/info/68f94a266de2db04dc3e7dd5?utm_campaign=1048&utm_source=git)** | Raleigh, NC | On Site | Nov 27 |
-| **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Design Engineer Intern](https://jobright.ai/jobs/info/68f02d419821486c423c9c7b?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Nov 27 |
-| **[MultiCare Health System](http://www.multicare.org)** | **[Mary Bridge Pharmacy Intern Year 1](https://jobright.ai/jobs/info/68d2f4578c62e63bc7fdbf5a?utm_campaign=1048&utm_source=git)** | Tacoma, WA | On Site | Nov 27 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Electrical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/690c02964a1b456627b15241?utm_campaign=1048&utm_source=git)** | San Antonio, TX | Hybrid | Nov 27 |
-| **[Pape-Dawson](http://pape-dawson.com)** | **[Engineer Intern](https://jobright.ai/jobs/info/68d4998b8c62e63bc7feae14?utm_campaign=1048&utm_source=git)** | Bonita Springs, FL | On Site | Nov 27 |
-| **[AbbVie](https://www.abbvie.com)** | **[2026 Engineering Intern](https://jobright.ai/jobs/info/690c6c524a1b456627b1836f?utm_campaign=1048&utm_source=git)** | North Chicago, IL | On Site | Nov 27 |
-| **[Pape-Dawson](http://pape-dawson.com)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/68b88ef007090163b6ba29a8?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | Nov 27 |
-| **[Day & Zimmermann](http://dayzim.com/)** | **[Operations Engineering Summer Intern](https://jobright.ai/jobs/info/68d4a89dfcd3367e8df167f6?utm_campaign=1048&utm_source=git)** | Middletown, IA | On Site | Nov 27 |
-| **[UPS](http://www.ups.com)** | **[2026 Industrial Engineering Summer Intern - Bayonne NJ](https://jobright.ai/jobs/info/68cd5edce23def7af55b90a8?utm_campaign=1048&utm_source=git)** | Bayonne, NJ | On Site | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
