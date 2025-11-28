@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[InnoMountain](https://www.innomountain-inc.com/)** | **[Hardware and System Engineer Intern (5G 6G R&D)](https://jobright.ai/jobs/info/6928e071d47de4798ece3dd4?utm_campaign=1048&utm_source=git)** | United States | Remote | Nov 27 |
+| **[EBC Inc.](http://www.ebcinc.com)** | **[Internship - Estimation (Summer 2026, Vancouver)](https://jobright.ai/jobs/info/6928dd30d47de4798ece3d8f?utm_campaign=1048&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Nov 27 |
+| **[Roche](http://www.roche.com)** | **[2026 Summer Intern - EFBAA Site Ops & Maintenance](https://jobright.ai/jobs/info/6928d52ad47de4798ece3cfc?utm_campaign=1048&utm_source=git)** | Pleasanton | On Site | Nov 27 |
+| **[CN](http://www.cn.ca)** | **[Intern, Bridge Assessment Engineer- EN](https://jobright.ai/jobs/info/6928d2d8f0beb07232631623?utm_campaign=1048&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Nov 27 |
+| ↳ | **[Intern, Environment- EN](https://jobright.ai/jobs/info/6928d11591ceeb2e8a54677e?utm_campaign=1048&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 27 |
+| **[Jacobs](http://www.jacobs.com)** | **[Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/6928c85dd47de4798ece3b99?utm_campaign=1048&utm_source=git)** | Kitchener, Ontario, Canada | On Site | Nov 27 |
+| **[Trench Group](https://trench-group.com/)** | **[AI & ML Developer Intern](https://jobright.ai/jobs/info/6928c7c5f0beb072326314df?utm_campaign=1048&utm_source=git)** | Pickering, Ontario, Canada | On Site | Nov 27 |
+| **[Jacobs](http://www.jacobs.com)** | **[Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/6928c77ff0beb072326314b4?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 27 |
 | **[Ecolab](http://www.ecolab.com)** | **[Intern Mineria - Perú](https://jobright.ai/jobs/info/6928c3fd91ceeb2e8a5465ce?utm_campaign=1048&utm_source=git)** | PER - Lima - Lima | On Site | Nov 27 |
 | **[Lallemand](http://www.lallemand.com)** | **[Research and Development Intern](https://jobright.ai/jobs/info/6928bc47d47de4798ece3a0e?utm_campaign=1048&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 27 |
 | **[Lumentum](https://www.lumentum.com/en)** | **[Optical Verification Technician Intern/Co-op](https://jobright.ai/jobs/info/6928bbbbf0beb0723263134b?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Nov 27 |
@@ -79,8 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Black & Veatch](http://bv.com/Home)** | **[Electrical Engineer Intern - Substation](https://jobright.ai/jobs/info/691acd3715b415636718acbe?utm_campaign=1048&utm_source=git)** | Chattanooga, TN | Hybrid | Nov 27 |
 | **[Kiewit](http://www.kiewit.com)** | **[Engineering Intern - Kiewit Energy Canada - Summer 2026](https://jobright.ai/jobs/info/6928a11e91ceeb2e8a545ff8?utm_campaign=1048&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Nov 27 |
 | ↳ | **[Engineering Intern - Kiewit Energy Canada - Summer 2026](https://jobright.ai/jobs/info/6928a0fbd47de4798ece3541?utm_campaign=1048&utm_source=git)** | Elkford, British Columbia, Canada | On Site | Nov 27 |
-| **[InnoMountain](https://www.innomountain-inc.com/)** | **[Hardware and System Engineer Internship (5G 6G R&D)](https://jobright.ai/jobs/info/6928a0e5f0beb07232630eb6?utm_campaign=1048&utm_source=git)** | United States | Remote | Nov 27 |
-| **[Kiewit](http://www.kiewit.com)** | **[Engineering Intern - Kiewit Energy Canada - Summer 2026](https://jobright.ai/jobs/info/6928a055f0beb07232630e73?utm_campaign=1048&utm_source=git)** | Calgary, Alberta, Canada | On Site | Nov 27 |
+| ↳ | **[Engineering Intern - Kiewit Energy Canada - Summer 2026](https://jobright.ai/jobs/info/6928a055f0beb07232630e73?utm_campaign=1048&utm_source=git)** | Calgary, Alberta, Canada | On Site | Nov 27 |
 | **[Skyryse](https://www.skyryse.com/)** | **[Flight Test Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68f688f49a65fd345859435d?utm_campaign=1048&utm_source=git)** | Camarillo, CA | On Site | Nov 27 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Process Engineering Intern](https://jobright.ai/jobs/info/68f02f44de50091dbfa53165?utm_campaign=1048&utm_source=git)** | Vacaville, CA | On Site | Nov 27 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Data Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/69289cc591ceeb2e8a545f1c?utm_campaign=1048&utm_source=git)** | In-Office | On Site | Nov 27 |
@@ -96,6 +103,7 @@ For a complete list, click the following sortable link below:
 | **[Kiewit](http://www.kiewit.com)** | **[Equipment/Mechanical Engineer Intern - Kiewit Mining Group 2026](https://jobright.ai/jobs/info/68b78713f4e41a61efd99b20?utm_campaign=1048&utm_source=git)** | Tok, AK | On Site | Nov 27 |
 | ↳ | **[Equipment/Mechanical Engineer Intern - Kiewit Mining Group 2026](https://jobright.ai/jobs/info/68b788e32124650c1402386e?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Nov 27 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Mechanical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68d48466ffc1276de3fdb8e7?utm_campaign=1048&utm_source=git)** | Tempe, AZ | Hybrid | Nov 27 |
+| **[Kiewit](http://www.kiewit.com)** | **[Field/Office Engineer Intern - Eastern District - Summer 2026](https://jobright.ai/jobs/info/68f0fd34e6870116b1f52837?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Nov 27 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Electrical Engineer Intern - Substation](https://jobright.ai/jobs/info/691acc3315b415636718a993?utm_campaign=1048&utm_source=git)** | Atlanta, GA | Hybrid | Nov 27 |
 | **[Siemens](https://www.siemens.com)** | **[Building Automation Systems Specialist Internship](https://jobright.ai/jobs/info/690c3092221b890c277fc351?utm_campaign=1048&utm_source=git)** | Tempe, AZ | On Site | Nov 27 |
 | **[American Seating Company](https://www.americanseating.com)** | **[Manufacturing Engineer Intern](https://jobright.ai/jobs/info/690e86e5221b890c2780f09f?utm_campaign=1048&utm_source=git)** | Grand Rapids, MI | On Site | Nov 27 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Komatsu](https://www.komatsu.jp)** | **[Automation Engineering Intern](https://jobright.ai/jobs/info/69287ef1f0beb0723263090b?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | On Site | Nov 27 |
 | **[Arconic](https://www.arconic.com)** | **[Metallurgical Engineer Intern](https://jobright.ai/jobs/info/69197566bcdbf3560c9d5859?utm_campaign=1048&utm_source=git)** | Davenport, IA | On Site | Nov 27 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Structural Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/68f01ebd78ba1621431e1fd0?utm_campaign=1048&utm_source=git)** | Herndon, VA | Hybrid | Nov 27 |
-| **[TotalEnergies](https://ventures.totalenergies.com)** | **[Power Integration Intern (Houston, TX)](https://jobright.ai/jobs/info/690bbc7c221b890c277f77b2?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Nov 27 |
-| **[Introba](https://www.introba.com)** | **[Intern Engineering Designer, Electrical](https://jobright.ai/jobs/info/691de3e4ad5a517034797a47?utm_campaign=1048&utm_source=git)** | Victoria, British Columbia, Canada | Hybrid | Nov 27 |
-| **[Docking Robotics](https://www.linkedin.com/company/101489811)** | **[Robotics Engineering Intern (UNPAID)](https://jobright.ai/jobs/info/69287b89f0beb0723263089f?utm_campaign=1048&utm_source=git)** | Daytona Beach, FL | On Site | Nov 27 |
-| **[Barr Engineering Co.](http://www.barr.com)** | **[Internship – Civil Engineer (Hybrid)](https://jobright.ai/jobs/info/68b786b91ade4306aa64bbff?utm_campaign=1048&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 27 |
-| **[Lumentum](https://www.lumentum.com/en)** | **[Optical Verirfication Technician Intern/Co-op](https://jobright.ai/jobs/info/69287b0191ceeb2e8a545a29?utm_campaign=1048&utm_source=git)** | Canada - Ottawa (Bill Leathem) | On Site | Nov 27 |
-| **[Lyft](https://www.lyft.com/)** | **[Business Systems Engineer Intern, Finance Technology (Summer 2026)](https://jobright.ai/jobs/info/691dc805748c4e1301ec8a4f?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 27 |
-| **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Quality Process Intern](https://jobright.ai/jobs/info/68f0296a78ba1621431e2755?utm_campaign=1048&utm_source=git)** | Rocky Mount, VA | On Site | Nov 27 |
-| **[OHLA USA](https://www.ohla-usa.com)** | **[2025  Field Engineer Intern](https://jobright.ai/jobs/info/683ff0c83ebb1d72b1b1503e?utm_campaign=1048&utm_source=git)** | Montebello, CA | On Site | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
