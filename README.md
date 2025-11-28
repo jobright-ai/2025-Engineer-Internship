@@ -141,7 +141,6 @@ For a complete list, click the following sortable link below:
 | **[Kiewit](http://www.kiewit.com)** | **[Equipment/Mechanical Engineer Intern - Kiewit Mining Group 2026](https://jobright.ai/jobs/info/68b78713f4e41a61efd99b20?utm_campaign=1048&utm_source=git)** | Tok, AK | On Site | Nov 27 |
 | ↳ | **[Equipment/Mechanical Engineer Intern - Kiewit Mining Group 2026](https://jobright.ai/jobs/info/68b788e32124650c1402386e?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Nov 27 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Mechanical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68d48466ffc1276de3fdb8e7?utm_campaign=1048&utm_source=git)** | Tempe, AZ | Hybrid | Nov 27 |
-| **[Kiewit](http://www.kiewit.com)** | **[Field/Office Engineer Intern - Eastern District - Summer 2026](https://jobright.ai/jobs/info/68f0fd34e6870116b1f52837?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Nov 27 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Electrical Engineer Intern - Substation](https://jobright.ai/jobs/info/691acc3315b415636718a993?utm_campaign=1048&utm_source=git)** | Atlanta, GA | Hybrid | Nov 27 |
 | **[Siemens](https://www.siemens.com)** | **[Building Automation Systems Specialist Internship](https://jobright.ai/jobs/info/690c3092221b890c277fc351?utm_campaign=1048&utm_source=git)** | Tempe, AZ | On Site | Nov 27 |
 | **[American Seating Company](https://www.americanseating.com)** | **[Manufacturing Engineer Intern](https://jobright.ai/jobs/info/690e86e5221b890c2780f09f?utm_campaign=1048&utm_source=git)** | Grand Rapids, MI | On Site | Nov 27 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[Nuclear and Chemical Sciences Division Undergraduate Intern - Summer 2026](https://jobright.ai/jobs/info/68f03417de50091dbfa533b5?utm_campaign=1048&utm_source=git)** | Livermore, CA | On Site | Nov 27 |
 | **[Arconic](https://www.arconic.com)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/691419fce344172248f76f4b?utm_campaign=1048&utm_source=git)** | Davenport, IA | On Site | Nov 27 |
 | **[CN](http://www.cn.ca)** | **[Intern, Engineering - Operation - Indigenous- EN](https://jobright.ai/jobs/info/69288678f0beb07232630ad3?utm_campaign=1048&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Nov 27 |
+| ↳ | **[Intern, Network Operations - Indigenous- EN](https://jobright.ai/jobs/info/69288631d47de4798ece317f?utm_campaign=1048&utm_source=git)** | Brampton, Ontario, Canada | Hybrid | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
