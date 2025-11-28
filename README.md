@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GPTZero](https://gptzero.me)** | **[Machine Learning Intern](https://jobright.ai/jobs/info/6929636f66796e3028f8c316?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Nov 28 |
+| **[Wordly](https://www.wordly.ai)** | **[R&D Intern - NLP](https://jobright.ai/jobs/info/692962db66796e3028f8c2c3?utm_campaign=1048&utm_source=git)** | Canada | Remote | Nov 28 |
+| **[Ideogram](https://ideogram.ai)** | **[Research Engineer / Research Scientist Intern](https://jobright.ai/jobs/info/692961a04c474121999c94ed?utm_campaign=1048&utm_source=git)** | United States | Remote | Nov 28 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Field Services Intern](https://jobright.ai/jobs/info/69295fc24c474121999c93eb?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Nov 28 |
+| **[American Electric Power](http://aep.com)** | **[Fire Protection Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/692568a1f0beb0723261d5fc?utm_campaign=1048&utm_source=git)** | Columbus, OH | On Site | Nov 28 |
+| **[RayzeBio](http://rayzebio.com)** | **[Summer 2025 - Computational Biology Internship](https://jobright.ai/jobs/info/69295a05fa28370be269421a?utm_campaign=1048&utm_source=git)** | Seattle, WA | Hybrid | Nov 28 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Electrical Engineering Internship - Spring 2026](https://jobright.ai/jobs/info/69293b4f91ceeb2e8a547204?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | Nov 27 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Energy/Security Technician](https://jobright.ai/jobs/info/69293264d47de4798ece46a6?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Nov 27 |
 | **[Audubon Companies](http://www.auduboncompanies.com)** | **[Instrument Engineering Intern](https://jobright.ai/jobs/info/692931d091ceeb2e8a54718c?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Nov 27 |
@@ -135,6 +141,7 @@ For a complete list, click the following sortable link below:
 | **[Kiewit](http://www.kiewit.com)** | **[Equipment/Mechanical Engineer Intern - Kiewit Mining Group 2026](https://jobright.ai/jobs/info/68b78713f4e41a61efd99b20?utm_campaign=1048&utm_source=git)** | Tok, AK | On Site | Nov 27 |
 | ↳ | **[Equipment/Mechanical Engineer Intern - Kiewit Mining Group 2026](https://jobright.ai/jobs/info/68b788e32124650c1402386e?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Nov 27 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Mechanical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68d48466ffc1276de3fdb8e7?utm_campaign=1048&utm_source=git)** | Tempe, AZ | Hybrid | Nov 27 |
+| **[Kiewit](http://www.kiewit.com)** | **[Field/Office Engineer Intern - Eastern District - Summer 2026](https://jobright.ai/jobs/info/68f0fd34e6870116b1f52837?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Nov 27 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Electrical Engineer Intern - Substation](https://jobright.ai/jobs/info/691acc3315b415636718a993?utm_campaign=1048&utm_source=git)** | Atlanta, GA | Hybrid | Nov 27 |
 | **[Siemens](https://www.siemens.com)** | **[Building Automation Systems Specialist Internship](https://jobright.ai/jobs/info/690c3092221b890c277fc351?utm_campaign=1048&utm_source=git)** | Tempe, AZ | On Site | Nov 27 |
 | **[American Seating Company](https://www.americanseating.com)** | **[Manufacturing Engineer Intern](https://jobright.ai/jobs/info/690e86e5221b890c2780f09f?utm_campaign=1048&utm_source=git)** | Grand Rapids, MI | On Site | Nov 27 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[Nuclear and Chemical Sciences Division Undergraduate Intern - Summer 2026](https://jobright.ai/jobs/info/68f03417de50091dbfa533b5?utm_campaign=1048&utm_source=git)** | Livermore, CA | On Site | Nov 27 |
 | **[Arconic](https://www.arconic.com)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/691419fce344172248f76f4b?utm_campaign=1048&utm_source=git)** | Davenport, IA | On Site | Nov 27 |
 | **[CN](http://www.cn.ca)** | **[Intern, Engineering - Operation - Indigenous- EN](https://jobright.ai/jobs/info/69288678f0beb07232630ad3?utm_campaign=1048&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Nov 27 |
-| ↳ | **[Intern, Network Operations - Indigenous- EN](https://jobright.ai/jobs/info/69288631d47de4798ece317f?utm_campaign=1048&utm_source=git)** | Brampton, Ontario, Canada | Hybrid | Nov 27 |
-| **[Starlight Homes](https://www.starlighthomes.com)** | **[Construction Internship Program](https://jobright.ai/jobs/info/68d4a3dffcd3367e8df166c1?utm_campaign=1048&utm_source=git)** | Raleigh, NC | On Site | Nov 27 |
-| **[McCain Foods](http://www.mccain.com)** | **[R&D Internship](https://jobright.ai/jobs/info/691dcd30748c4e1301ec8e6e?utm_campaign=1048&utm_source=git)** | Florenceville-Bristol, New Brunswick, Canada | On Site | Nov 27 |
-| **[Starlight Homes](https://www.starlighthomes.com)** | **[Construction Internship Program](https://jobright.ai/jobs/info/68d4487bffc1276de3fd9441?utm_campaign=1048&utm_source=git)** | Lake Mary, FL | On Site | Nov 27 |
-| **[Carrier](https://www.corporate.carrier.com)** | **[Digital Technology Intern - Summer](https://jobright.ai/jobs/info/6928858bd47de4798ece314e?utm_campaign=1048&utm_source=git)** | Palm Beach Gardens, FL | On Site | Nov 27 |
-| **[CN](http://www.cn.ca)** | **[Intern, Engineering - Operation - Indigenous- EN](https://jobright.ai/jobs/info/6928857491ceeb2e8a545bf2?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 27 |
-| **[Kiewit](http://www.kiewit.com)** | **[Field Coordinator/Engineer Intern - Eastern Canada Region - Summer 2026](https://jobright.ai/jobs/info/691de51dad5a517034797b90?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
