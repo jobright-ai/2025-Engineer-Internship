@@ -57,7 +57,25 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TE Connectivity](http://www.te.com)** | **[Product Engineering Intern](https://jobright.ai/jobs/info/69291b0ef0beb07232631e2f?utm_campaign=1048&utm_source=git)** | Winston-Salem, NC | On Site | Nov 27 |
+| **[GenPark](https://genpark.ai)** | **[Data Science Engineer Intern](https://jobright.ai/jobs/info/692934a3f0beb0723263206b?utm_campaign=1048&utm_source=git)** | New York, NY | Hybrid | Nov 27 |
+| **[Lexcar](https://lexcar.us/)** | **[Software Engineer Intern (AI/ML)](https://jobright.ai/jobs/info/6929329ed47de4798ece46b1?utm_campaign=1048&utm_source=git)** | LA Metro Area | Remote | Nov 27 |
+| **[Davis School District](https://www.davis.k12.ut.us/)** | **[Energy/Security Technician](https://jobright.ai/jobs/info/69293264d47de4798ece46a6?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Nov 27 |
+| **[Audubon Companies](http://www.auduboncompanies.com)** | **[Instrument Engineering Intern](https://jobright.ai/jobs/info/692931d091ceeb2e8a54718c?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Nov 27 |
+| **[Varda Space Industries](http://varda.com)** | **[Environmental Health & Safety (EHS) Internship – Summer 2026](https://jobright.ai/jobs/info/69162e499c388539cbdf86b8?utm_campaign=1048&utm_source=git)** | El Segundo, California, United States | On Site | Nov 27 |
+| **[Lumafield](https://www.lumafield.com)** | **[Engineering Intern, R&D](https://jobright.ai/jobs/info/6929233bd47de4798ece45c9?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | Nov 27 |
+| ↳ | **[Engineering Intern, Electrical](https://jobright.ai/jobs/info/692921f991ceeb2e8a5470a5?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | Nov 27 |
+| **[TE Connectivity](http://www.te.com)** | **[R&D Product DVL Engineering Intern](https://jobright.ai/jobs/info/69291f94d47de4798ece458a?utm_campaign=1048&utm_source=git)** | Fuquay-Varina, NC | On Site | Nov 27 |
+| ↳ | **[R&D PRODUCT DEVELOPMENT ENGINEERING INTERN](https://jobright.ai/jobs/info/69291f79d47de4798ece4583?utm_campaign=1048&utm_source=git)** | Winston-Salem, NC | On Site | Nov 27 |
+| ↳ | **[Mold Engineering Intern](https://jobright.ai/jobs/info/69291f2791ceeb2e8a547075?utm_campaign=1048&utm_source=git)** | Winston-Salem, NC | Hybrid | Nov 27 |
+| ↳ | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/69291ddf91ceeb2e8a547031?utm_campaign=1048&utm_source=git)** | Winston-Salem, NC | On Site | Nov 27 |
+| ↳ | **[Reseach and Development Engineer Intern](https://jobright.ai/jobs/info/69291dbfd47de4798ece4520?utm_campaign=1048&utm_source=git)** | Winston-Salem, NC | On Site | Nov 27 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[GMP Intern](https://jobright.ai/jobs/info/69291d7d91ceeb2e8a547011?utm_campaign=1048&utm_source=git)** | Middleton, WI | On Site | Nov 27 |
+| ↳ | **[GMP Intern](https://jobright.ai/jobs/info/69291d4ef0beb07232631eb7?utm_campaign=1048&utm_source=git)** | Middleton, WI | On Site | Nov 27 |
+| **[TE Connectivity](http://www.te.com)** | **[Resident Engineering Intern](https://jobright.ai/jobs/info/69291d24d47de4798ece4501?utm_campaign=1048&utm_source=git)** | Troy, MI | Hybrid | Nov 27 |
+| ↳ | **[Quality Engineering Intern](https://jobright.ai/jobs/info/69291ca991ceeb2e8a546fdb?utm_campaign=1048&utm_source=git)** | Mt. Joy, PA | On Site | Nov 27 |
+| ↳ | **[Product Development Engineering Intern](https://jobright.ai/jobs/info/69291c5bf0beb07232631e85?utm_campaign=1048&utm_source=git)** | Middletown, PA | On Site | Nov 27 |
+| ↳ | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/69291bff91ceeb2e8a546fa6?utm_campaign=1048&utm_source=git)** | Mt. Joy, PA | On Site | Nov 27 |
+| ↳ | **[Product Engineering Intern](https://jobright.ai/jobs/info/69291b0ef0beb07232631e2f?utm_campaign=1048&utm_source=git)** | Winston-Salem, NC | On Site | Nov 27 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[VDC Intern](https://jobright.ai/jobs/info/69291ad5f0beb07232631e1e?utm_campaign=1048&utm_source=git)** | El Paso, TX | On Site | Nov 27 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - EFBAA Site Ops & Maintenance](https://jobright.ai/jobs/info/692918b0d47de4798ece446a?utm_campaign=1048&utm_source=git)** | Pleasanton, CA | On Site | Nov 27 |
 | **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Intern - Project Engineering](https://jobright.ai/jobs/info/69290f6dd47de4798ece430a?utm_campaign=1048&utm_source=git)** | Oakville, Ontario, Canada | Hybrid | Nov 27 |
@@ -122,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[Black & Veatch](http://bv.com/Home)** | **[Electrical Engineer Intern - Substation](https://jobright.ai/jobs/info/691acc3315b415636718a993?utm_campaign=1048&utm_source=git)** | Atlanta, GA | Hybrid | Nov 27 |
 | **[Siemens](https://www.siemens.com)** | **[Building Automation Systems Specialist Internship](https://jobright.ai/jobs/info/690c3092221b890c277fc351?utm_campaign=1048&utm_source=git)** | Tempe, AZ | On Site | Nov 27 |
 | **[American Seating Company](https://www.americanseating.com)** | **[Manufacturing Engineer Intern](https://jobright.ai/jobs/info/690e86e5221b890c2780f09f?utm_campaign=1048&utm_source=git)** | Grand Rapids, MI | On Site | Nov 27 |
-| **[Structonix](structonix.us)** | **[Process Engineering Intern](https://jobright.ai/jobs/info/69288bea91ceeb2e8a545d23?utm_campaign=1048&utm_source=git)** | Ada, MI | Remote | Nov 27 |
 | **[Terracon](https://www.terracon.com/about/foundation/)** | **[Intern - Environmental Dept.](https://jobright.ai/jobs/info/6920a8bda49a885af9a3dd01?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Nov 27 |
 | **[Wells](http://wellsconcrete.com)** | **[Engineer Internship](https://jobright.ai/jobs/info/69288b4cf0beb07232630b94?utm_campaign=1048&utm_source=git)** | Waukesha, WI | On Site | Nov 27 |
 | **[Dassault Falcon Jet](http://www.dassaultfalcon.com)** | **[SkillBridge Intern - Airframe Structure Mechanic](https://jobright.ai/jobs/info/682b7e5e3d1db86ce87051d1?utm_campaign=1048&utm_source=git)** | Arkansas, United States | On Site | Nov 27 |
@@ -131,7 +148,6 @@ For a complete list, click the following sortable link below:
 | **[Whippany Actuation Systems](https://www.whipactsys.com/)** | **[Summer 2026 Intern - Test Engineer](https://jobright.ai/jobs/info/69288ae291ceeb2e8a545ce4?utm_campaign=1048&utm_source=git)** | Whippany, NJ | On Site | Nov 27 |
 | ↳ | **[Summer 2026 Intern - Electrical Engineer](https://jobright.ai/jobs/info/69288a8ef0beb07232630b67?utm_campaign=1048&utm_source=git)** | Whippany, NJ | On Site | Nov 27 |
 | **[AMPI](http://www.ampi.be)** | **[DoD Skillbridge - Quality Assurance Technician - Active Military ONLY](https://jobright.ai/jobs/info/69288a8291ceeb2e8a545cca?utm_campaign=1048&utm_source=git)** | Paynesville, MN | On Site | Nov 27 |
-| **[MechAxis Dynamics](mechaxisdynamics.us)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/69288a3d91ceeb2e8a545cb0?utm_campaign=1048&utm_source=git)** | Dalton, GA | Remote | Nov 27 |
 | **[Hill's Pet Nutrition](https://www.hillspet.com)** | **[2026 Analytical Sciences Lab Intern](https://jobright.ai/jobs/info/68d4390d8c62e63bc7fe6f9a?utm_campaign=1048&utm_source=git)** | Topeka, KS | On Site | Nov 27 |
 | **[CSS Farms, LLC](https://cssfarms.com/)** | **[Intern - Safety](https://jobright.ai/jobs/info/690ccc114a1b456627b1ac0b?utm_campaign=1048&utm_source=git)** | Dalhart, TX | On Site | Nov 27 |
 | **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[Nuclear and Chemical Sciences Division Undergraduate Intern - Summer 2026](https://jobright.ai/jobs/info/68f03417de50091dbfa533b5?utm_campaign=1048&utm_source=git)** | Livermore, CA | On Site | Nov 27 |
@@ -141,20 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Starlight Homes](https://www.starlighthomes.com)** | **[Construction Internship Program](https://jobright.ai/jobs/info/68d4a3dffcd3367e8df166c1?utm_campaign=1048&utm_source=git)** | Raleigh, NC | On Site | Nov 27 |
 | **[McCain Foods](http://www.mccain.com)** | **[R&D Internship](https://jobright.ai/jobs/info/691dcd30748c4e1301ec8e6e?utm_campaign=1048&utm_source=git)** | Florenceville-Bristol, New Brunswick, Canada | On Site | Nov 27 |
 | **[Starlight Homes](https://www.starlighthomes.com)** | **[Construction Internship Program](https://jobright.ai/jobs/info/68d4487bffc1276de3fd9441?utm_campaign=1048&utm_source=git)** | Lake Mary, FL | On Site | Nov 27 |
-| **[Carrier](https://www.corporate.carrier.com)** | **[Digital Technology Intern - Summer](https://jobright.ai/jobs/info/6928858bd47de4798ece314e?utm_campaign=1048&utm_source=git)** | Palm Beach Gardens, FL | On Site | Nov 27 |
-| **[CN](http://www.cn.ca)** | **[Intern, Engineering - Operation - Indigenous- EN](https://jobright.ai/jobs/info/6928857491ceeb2e8a545bf2?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 27 |
-| **[Kiewit](http://www.kiewit.com)** | **[Field Coordinator/Engineer Intern - Eastern Canada Region - Summer 2026](https://jobright.ai/jobs/info/691de51dad5a517034797b90?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 27 |
-| **[Carrier](https://www.corporate.carrier.com)** | **[Digital Technology Intern - Summer](https://jobright.ai/jobs/info/69288530d47de4798ece3131?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Nov 27 |
-| **[CN](http://www.cn.ca)** | **[Intern, Engineering - Operation - Indigenous- EN](https://jobright.ai/jobs/info/692884c991ceeb2e8a545bc0?utm_campaign=1048&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 27 |
-| **[Henkel](http://www.henkel.com)** | **[Safety, Health, Environment Specialist Intern – Summer 2026](https://jobright.ai/jobs/info/6928842bf0beb07232630a08?utm_campaign=1048&utm_source=git)** | Mentor, OH | On Site | Nov 27 |
-| **[STV](http://www.stvinc.com/)** | **[Summer 2026 - Rail/Transit Intern](https://jobright.ai/jobs/info/69157bed286ccf0a1512ea86?utm_campaign=1048&utm_source=git)** | New York, NY | Hybrid | Nov 27 |
-| **[Equinix](http://www.equinix.com)** | **[GenAI Solutions Scientist Intern](https://jobright.ai/jobs/info/69288167d47de4798ece3098?utm_campaign=1048&utm_source=git)** | Remote Location - United States of America | Remote | Nov 27 |
-| **[SWIVEL](https://www.getswivel.io)** | **[Quality Engineer Intern](https://jobright.ai/jobs/info/68f0292a78ba1621431e26d2?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Nov 27 |
-| **[RS&H](http://www.rsandh.com/)** | **[Civil Field Engineering Inspection Intern (Summer 26)](https://jobright.ai/jobs/info/68b785891ade4306aa64baea?utm_campaign=1048&utm_source=git)** | Leesburg, FL | On Site | Nov 27 |
-| **[Black & Veatch](http://bv.com/Home)** | **[Electrical Engineer Intern - Substation](https://jobright.ai/jobs/info/690bcaab4a1b456627b12e76?utm_campaign=1048&utm_source=git)** | Houston, TX | Hybrid | Nov 27 |
-| **[Barr Engineering Co.](http://www.barr.com)** | **[Internship – Process Engineer (Hybrid)](https://jobright.ai/jobs/info/68b785e91ade4306aa64bb3f?utm_campaign=1048&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 27 |
-| **[Gerdau North America](http://www.gerdau.com)** | **[2026 Engineering Internship](https://jobright.ai/jobs/info/68d48815ffc1276de3fdb9be?utm_campaign=1048&utm_source=git)** | Midlothian, TX | On Site | Nov 27 |
-| **[PC Construction Company](https://www.tcbremodelingandconstruction.com/)** | **[Internship](https://jobright.ai/jobs/info/689baaf5faa4e875e826240c?utm_campaign=1048&utm_source=git)** | Newton, NC | On Site | Nov 27 |
-| **[UL Solutions](https://www.ul.com/solutions)** | **[2026 Summer Intern: Electrical Engineering Intern](https://jobright.ai/jobs/info/68bf7c315c5d5f14f46d74ec?utm_campaign=1048&utm_source=git)** | Raleigh, NC | On Site | Nov 27 |
-| **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Process Engineer Intern](https://jobright.ai/jobs/info/68f02a25de50091dbfa52485?utm_campaign=1048&utm_source=git)** | Lithia Springs, GA | On Site | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
