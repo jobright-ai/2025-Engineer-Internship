@@ -57,8 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[GenPark](https://genpark.ai)** | **[Data Science Engineer Intern](https://jobright.ai/jobs/info/692934a3f0beb0723263206b?utm_campaign=1048&utm_source=git)** | New York, NY | Hybrid | Nov 27 |
-| **[Lexcar](https://lexcar.us/)** | **[Software Engineer Intern (AI/ML)](https://jobright.ai/jobs/info/6929329ed47de4798ece46b1?utm_campaign=1048&utm_source=git)** | LA Metro Area | Remote | Nov 27 |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Electrical Engineering Internship - Spring 2026](https://jobright.ai/jobs/info/69293b4f91ceeb2e8a547204?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | Nov 27 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Energy/Security Technician](https://jobright.ai/jobs/info/69293264d47de4798ece46a6?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Nov 27 |
 | **[Audubon Companies](http://www.auduboncompanies.com)** | **[Instrument Engineering Intern](https://jobright.ai/jobs/info/692931d091ceeb2e8a54718c?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Nov 27 |
 | **[Varda Space Industries](http://varda.com)** | **[Environmental Health & Safety (EHS) Internship – Summer 2026](https://jobright.ai/jobs/info/69162e499c388539cbdf86b8?utm_campaign=1048&utm_source=git)** | El Segundo, California, United States | On Site | Nov 27 |
@@ -129,7 +128,6 @@ For a complete list, click the following sortable link below:
 | **[State Street](http://www.statestreet.com)** | **[Software Engineering - ML/Data Engineer, Internship (Full-Time, Jan - June 2026)](https://jobright.ai/jobs/info/691b4c1922a2cb4b9bd113f1?utm_campaign=1048&utm_source=git)** | Quincy, MA | On Site | Nov 27 |
 | **[RHI Magnesita](https://www.rhimagnesita.com)** | **[Research and Development Internship](https://jobright.ai/jobs/info/69186f0d15b41563671823e6?utm_campaign=1048&utm_source=git)** | York, PA | On Site | Nov 27 |
 | **[Kiewit](http://www.kiewit.com)** | **[Field/Office Engineer Intern - Eastern District - Summer 2026](https://jobright.ai/jobs/info/68f108e3f462172a5a7d2556?utm_campaign=1048&utm_source=git)** | Itasca, IL | On Site | Nov 27 |
-| **[StructaLink Group](structalinkgroup.us)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/692894fe91ceeb2e8a545e4c?utm_campaign=1048&utm_source=git)** | Dalton, GA | Remote | Nov 27 |
 | **[SWBC](https://www.swbc.com)** | **[DevOps Intern](https://jobright.ai/jobs/info/68f01d8a9821486c423c8d2c?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Nov 27 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Electrical Engineering Intern - Nuclear (Summer 2026)](https://jobright.ai/jobs/info/68cd247a1ad6b16f02895bc1?utm_campaign=1048&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 27 |
 | ↳ | **[Electrical Engineer Intern - Grid (Summer 2026)](https://jobright.ai/jobs/info/68f724099a63986de758540a?utm_campaign=1048&utm_source=git)** | Santa Ana, CA | Hybrid | Nov 27 |
@@ -143,7 +141,6 @@ For a complete list, click the following sortable link below:
 | **[Terracon](https://www.terracon.com/about/foundation/)** | **[Intern - Environmental Dept.](https://jobright.ai/jobs/info/6920a8bda49a885af9a3dd01?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Nov 27 |
 | **[Wells](http://wellsconcrete.com)** | **[Engineer Internship](https://jobright.ai/jobs/info/69288b4cf0beb07232630b94?utm_campaign=1048&utm_source=git)** | Waukesha, WI | On Site | Nov 27 |
 | **[Dassault Falcon Jet](http://www.dassaultfalcon.com)** | **[SkillBridge Intern - Airframe Structure Mechanic](https://jobright.ai/jobs/info/682b7e5e3d1db86ce87051d1?utm_campaign=1048&utm_source=git)** | Arkansas, United States | On Site | Nov 27 |
-| **[Mechronix](mechronix.us)** | **[Associate Mapping Specialist - West](https://jobright.ai/jobs/info/69288b3ed47de4798ece3240?utm_campaign=1048&utm_source=git)** | San Diego, CA | Remote | Nov 27 |
 | **[IDEAL INDUSTRIES, INC](http://www.idealindustries.com)** | **[Cybersecurity Intern - Summer 2026](https://jobright.ai/jobs/info/690bb3564a1b456627b11c72?utm_campaign=1048&utm_source=git)** | Sycamore, IL | On Site | Nov 27 |
 | **[Whippany Actuation Systems](https://www.whipactsys.com/)** | **[Summer 2026 Intern - Test Engineer](https://jobright.ai/jobs/info/69288ae291ceeb2e8a545ce4?utm_campaign=1048&utm_source=git)** | Whippany, NJ | On Site | Nov 27 |
 | ↳ | **[Summer 2026 Intern - Electrical Engineer](https://jobright.ai/jobs/info/69288a8ef0beb07232630b67?utm_campaign=1048&utm_source=git)** | Whippany, NJ | On Site | Nov 27 |
@@ -157,4 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Starlight Homes](https://www.starlighthomes.com)** | **[Construction Internship Program](https://jobright.ai/jobs/info/68d4a3dffcd3367e8df166c1?utm_campaign=1048&utm_source=git)** | Raleigh, NC | On Site | Nov 27 |
 | **[McCain Foods](http://www.mccain.com)** | **[R&D Internship](https://jobright.ai/jobs/info/691dcd30748c4e1301ec8e6e?utm_campaign=1048&utm_source=git)** | Florenceville-Bristol, New Brunswick, Canada | On Site | Nov 27 |
 | **[Starlight Homes](https://www.starlighthomes.com)** | **[Construction Internship Program](https://jobright.ai/jobs/info/68d4487bffc1276de3fd9441?utm_campaign=1048&utm_source=git)** | Lake Mary, FL | On Site | Nov 27 |
+| **[Carrier](https://www.corporate.carrier.com)** | **[Digital Technology Intern - Summer](https://jobright.ai/jobs/info/6928858bd47de4798ece314e?utm_campaign=1048&utm_source=git)** | Palm Beach Gardens, FL | On Site | Nov 27 |
+| **[CN](http://www.cn.ca)** | **[Intern, Engineering - Operation - Indigenous- EN](https://jobright.ai/jobs/info/6928857491ceeb2e8a545bf2?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 27 |
+| **[Kiewit](http://www.kiewit.com)** | **[Field Coordinator/Engineer Intern - Eastern Canada Region - Summer 2026](https://jobright.ai/jobs/info/691de51dad5a517034797b90?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
