@@ -57,6 +57,35 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CN](http://www.cn.ca)** | **[Intern, Solution Delivery - Indigenous- EN](https://jobright.ai/jobs/info/692a78864c474121999cc330?utm_campaign=1048&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 28 |
+| ↳ | **[Intern, Safety - Indigenous- EN](https://jobright.ai/jobs/info/692a78614c474121999cc323?utm_campaign=1048&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 28 |
+| ↳ | **[Intern, Solution Delivery - Indigenous- EN](https://jobright.ai/jobs/info/692a78414c474121999cc319?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 28 |
+| ↳ | **[Intern, Sustainability - Indigenous- EN](https://jobright.ai/jobs/info/692a78374c474121999cc313?utm_campaign=1048&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 28 |
+| ↳ | **[Intern, Sustainability - Indigenous- EN](https://jobright.ai/jobs/info/692a77b966796e3028f8f11d?utm_campaign=1048&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Nov 28 |
+| ↳ | **[Intern, Sustainability - Indigenous- EN](https://jobright.ai/jobs/info/692a77b8fa28370be26972a6?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 28 |
+| ↳ | **[Intern, P&SM Locomotive & Railcar Support- EN](https://jobright.ai/jobs/info/692a77b8fa28370be26972a5?utm_campaign=1048&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 28 |
+| ↳ | **[Intern, Public Works Officer- EN](https://jobright.ai/jobs/info/692a77b566796e3028f8f11b?utm_campaign=1048&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 28 |
+| ↳ | **[Intern, I&T Asset Management (Telecommunications)- EN](https://jobright.ai/jobs/info/692a779d66796e3028f8f10e?utm_campaign=1048&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 28 |
+| ↳ | **[Intern, IT Operations & Technology Enablement-Indigenous- EN](https://jobright.ai/jobs/info/692a779cfa28370be269729e?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 28 |
+| ↳ | **[Intern, Operational Technology - Indigenous- EN](https://jobright.ai/jobs/info/692a778efa28370be2697297?utm_campaign=1048&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Nov 28 |
+| ↳ | **[Intern, IT Operations & Technology Enablement-Indigenous- EN](https://jobright.ai/jobs/info/692a778cfa28370be2697294?utm_campaign=1048&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 28 |
+| ↳ | **[Intern, Operational Technology - Indigenous- EN](https://jobright.ai/jobs/info/692a778cfa28370be2697293?utm_campaign=1048&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 28 |
+| ↳ | **[Intern, Safety - Indigenous- EN](https://jobright.ai/jobs/info/692a7786fa28370be2697290?utm_campaign=1048&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Nov 28 |
+| ↳ | **[Intern, Utilities Coordinator- EN](https://jobright.ai/jobs/info/692a7785fa28370be269728d?utm_campaign=1048&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 28 |
+| ↳ | **[Intern, Solution Delivery - Indigenous- EN](https://jobright.ai/jobs/info/692a7781fa28370be269728c?utm_campaign=1048&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Nov 28 |
+| **[NJM Insurance Group](https://www.njm.com)** | **[I.T. Workday Technical Intern](https://jobright.ai/jobs/info/692a778066796e3028f8f102?utm_campaign=1048&utm_source=git)** | Trenton, NJ | On Site | Nov 28 |
+| **[CN](http://www.cn.ca)** | **[Intern, IT Operations & Technology Enablement-Indigenous- EN](https://jobright.ai/jobs/info/692a777dfa28370be2697286?utm_campaign=1048&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Nov 28 |
+| ↳ | **[Intern, Operational Technology - Indigenous- EN](https://jobright.ai/jobs/info/692a7775fa28370be2697281?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 28 |
+| ↳ | **[Intern, Safety - Indigenous- EN](https://jobright.ai/jobs/info/692a7773fa28370be269727e?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 28 |
+| ↳ | **[Intern, Public Works Officer- EN](https://jobright.ai/jobs/info/692a7772fa28370be269727c?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 28 |
+| ↳ | **[Intern, Public Works Officer- EN](https://jobright.ai/jobs/info/692a776dfa28370be2697277?utm_campaign=1048&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Nov 28 |
+| ↳ | **[Intern, Public Works Officer- EN](https://jobright.ai/jobs/info/692a776966796e3028f8f0f9?utm_campaign=1048&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Nov 28 |
+| ↳ | **[Intern, Engineering Technology- EN](https://jobright.ai/jobs/info/692a724e4c474121999cc2c1?utm_campaign=1048&utm_source=git)** | Homewood, IL | On Site | Nov 28 |
+| ↳ | **[Intern, Mechanical (Locomotive Reliability)- EN](https://jobright.ai/jobs/info/692a72104c474121999cc2a9?utm_campaign=1048&utm_source=git)** | Homewood, IL | On Site | Nov 28 |
+| **[TTX Company](http://www.ttx.com)** | **[Telematics Intern](https://jobright.ai/jobs/info/690c0535d046ab6061cea16c?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Nov 28 |
+| **[CN](http://www.cn.ca)** | **[Intern, Engineering (Track US)- EN](https://jobright.ai/jobs/info/692a718566796e3028f8f0ad?utm_campaign=1048&utm_source=git)** | Gary, IN | On Site | Nov 28 |
+| ↳ | **[Intern, Mechanical (Car Reliability)- EN](https://jobright.ai/jobs/info/692a717cfa28370be269721f?utm_campaign=1048&utm_source=git)** | Homewood, IL | On Site | Nov 28 |
+| ↳ | **[Intern, Mechanical- EN](https://jobright.ai/jobs/info/692a716366796e3028f8f0a3?utm_campaign=1048&utm_source=git)** | Homewood, IL | On Site | Nov 28 |
 | **[The Miller Group](https://www.millergroup.ca)** | **[Laboratory Technician, Student (4 months)](https://jobright.ai/jobs/info/692a6706fa28370be2697122?utm_campaign=1048&utm_source=git)** | Whitchurch-Stouffville, Ontario, Canada | On Site | Nov 28 |
 | **[MagLev Aero](https://maglevaero.com/)** | **[Engineering Intern – Mechanical, Aerospace](https://jobright.ai/jobs/info/692a66a366796e3028f8ef9a?utm_campaign=1048&utm_source=git)** | Boston, MA | Hybrid | Nov 28 |
 | **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[DevSecOps Intern](https://jobright.ai/jobs/info/692a656666796e3028f8ef4c?utm_campaign=1048&utm_source=git)** | United States | Remote | Nov 28 |
@@ -65,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[The Mosaic Company](http://www.mosaicco.com/)** | **[Lab Technician Student Co-Op/Intern - Summer 2026](https://jobright.ai/jobs/info/691f9597a49a885af9a32278?utm_campaign=1048&utm_source=git)** | Belle Plaine, Saskatchewan, Canada | On Site | Nov 28 |
 | ↳ | **[Lab Technician Student Co-Op/Intern - Summer 2026](https://jobright.ai/jobs/info/692a599ffa28370be2696f15?utm_campaign=1048&utm_source=git)** | Esterhazy, Saskatchewan, Canada | On Site | Nov 28 |
 | **[Netradyne](http://www.netradyne.com)** | **[AI Research Intern](https://jobright.ai/jobs/info/692a57014c474121999cbf7e?utm_campaign=1048&utm_source=git)** | SD Metro Area | On Site | Nov 28 |
-| **[RTS Consulting Automation](http://www.rtsperfectplant.com/)** | **[Electrical Assembly Intern (Unpaid)](https://jobright.ai/jobs/info/692a4b67fa28370be2696d45?utm_campaign=1048&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | Nov 28 |
 | **[County of Los Angeles](https://lacounty.gov)** | **[Career Development Intern – Wildland Fire Firefighting Support](https://jobright.ai/jobs/info/692a481d66796e3028f8eb55?utm_campaign=1048&utm_source=git)** | Los Angeles County, CA | On Site | Nov 28 |
 | **[NJM Insurance Group](https://www.njm.com)** | **[I.T. Workday Technical Intern](https://jobright.ai/jobs/info/692a458666796e3028f8eaf8?utm_campaign=1048&utm_source=git)** | NJM - Trenton | On Site | Nov 28 |
 | **[CN](http://www.cn.ca)** | **[Intern, Utilities Coordinator](https://jobright.ai/jobs/info/692a445d66796e3028f8ea5d?utm_campaign=1048&utm_source=git)** | Montreal, Quebec, CA | On Site | Nov 28 |
@@ -80,7 +108,8 @@ For a complete list, click the following sortable link below:
 | **[Interstates](http://interstates.com)** | **[Apprentice Electrician Tech College Intern - Central MN](https://jobright.ai/jobs/info/6900643ce04ac838fb5c1a94?utm_campaign=1048&utm_source=git)** | Brainerd, MN | On Site | Nov 28 |
 | **[CN](http://www.cn.ca)** | **[Intern, Engineering (Track US)- FR](https://jobright.ai/jobs/info/692a39f266796e3028f8e926?utm_campaign=1048&utm_source=git)** | Gary, IN | On Site | Nov 28 |
 | ↳ | **[Intern, Bridge Design- FR](https://jobright.ai/jobs/info/692a398c4c474121999cbb38?utm_campaign=1048&utm_source=git)** | Homewood, IL | On Site | Nov 28 |
-| ↳ | **[Intern, Geotechnical- EN](https://jobright.ai/jobs/info/692a25e766796e3028f8e70e?utm_campaign=1048&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Nov 28 |
+| **[NOV](https://www.nov.com/)** | **[Engineering Intern (Oil & Gas Industry)](https://jobright.ai/jobs/info/6917c10615b415636717b381?utm_campaign=1048&utm_source=git)** | Odessa, TX | On Site | Nov 28 |
+| **[CN](http://www.cn.ca)** | **[Intern, Geotechnical- EN](https://jobright.ai/jobs/info/692a25e766796e3028f8e70e?utm_campaign=1048&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Nov 28 |
 | ↳ | **[Intern, Industrial Hygiene (Safety)- EN](https://jobright.ai/jobs/info/692a25bf66796e3028f8e705?utm_campaign=1048&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Nov 28 |
 | ↳ | **[Intern, Engineering (Track CA) Great Lakes- EN](https://jobright.ai/jobs/info/692a25b966796e3028f8e704?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 28 |
 | **[Keesler Federal Credit Union](https://www.kfcu.org)** | **[Systems Analyst Internship - 5040](https://jobright.ai/jobs/info/692a254a66796e3028f8e6e4?utm_campaign=1048&utm_source=git)** | Biloxi, MS | On Site | Nov 28 |
@@ -128,33 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Conexant](http://www.conexant.com/)** | **[Electrification and Battery Engineering Summer Intern 2026a](https://jobright.ai/jobs/info/6929f1324c474121999cad19?utm_campaign=1048&utm_source=git)** | Moline, IL | Hybrid | Nov 28 |
 | ↳ | **[Data & Analytics Internship 2026a](https://jobright.ai/jobs/info/6929f0e24c474121999cad07?utm_campaign=1048&utm_source=git)** | Moline, IL | Hybrid | Nov 28 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Early Career Mechanical Engineer - Buildings](https://jobright.ai/jobs/info/6904d34463502c0aded75843?utm_campaign=1048&utm_source=git)** | York, PA | Hybrid | Nov 28 |
-| **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Structural Engineer Intern - Grid (Summer 2026)](https://jobright.ai/jobs/info/68f738f7aed0577b7e04cf03?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Nov 28 |
-| **[RTX](http://www.raytheon.com)** | **[Internship-Summer- Combustion Aero/Thermal Analyst](https://jobright.ai/jobs/info/6929f0554c474121999cace3?utm_campaign=1048&utm_source=git)** | LOC13055 1801Courtney Park Drive,Mississauga,Ontario,L5T 1J3,Canada | On Site | Nov 28 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Electrical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/690d101fd046ab6061cf233e?utm_campaign=1048&utm_source=git)** | Virginia Beach, VA | Hybrid | Nov 28 |
-| **[TRUMPF North America](https://www.us.trumpf.com)** | **[Application Engineering Intern/Co-op](https://jobright.ai/jobs/info/68d77b6b295f8e37655db3d6?utm_campaign=1048&utm_source=git)** | Plymouth, MI | On Site | Nov 28 |
-| **[Bloom Energy](http://www.bloomenergy.com)** | **[Manufacturing Industrial Engineering Intern](https://jobright.ai/jobs/info/690d6dbdd046ab6061cf62b1?utm_campaign=1048&utm_source=git)** | Newark, DE | On Site | Nov 28 |
-| **[Buro Happold](http://www.burohappold.com)** | **[Advisory Building Performance Intern- New York, Boston or DC (Summer 2026)](https://jobright.ai/jobs/info/68f17adfe6870116b1f5988b?utm_campaign=1048&utm_source=git)** | New York, United States | Hybrid | Nov 28 |
-| **[Swinerton](http://www.swinerton.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/68badfd86105227d118a1001?utm_campaign=1048&utm_source=git)** | Oakland, CA | On Site | Nov 28 |
-| **[Northmere Solutions](https://www.linkedin.com/company/104898627)** | **[Hardware Development Engineer Co-Op](https://jobright.ai/jobs/info/6929ea3866796e3028f8d9b9?utm_campaign=1048&utm_source=git)** | Mayfield Heights, OH | Remote | Nov 28 |
-| **[Thermovate Systems](thermovatesystems.us)** | **[Test Engineering Intern](https://jobright.ai/jobs/info/6929e9fb66796e3028f8d9a5?utm_campaign=1048&utm_source=git)** | Chelmsford, MA | Remote | Nov 28 |
-| **[Swinerton](http://www.swinerton.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/68bae7975f3832749186a670?utm_campaign=1048&utm_source=git)** | Concord, CA | On Site | Nov 28 |
-| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Aircraft Performance (Summer 2026)](https://jobright.ai/jobs/info/6929e8454c474121999cab59?utm_campaign=1048&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Nov 28 |
-| **[National Renewable Energy Laboratory](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern - Chemical Engineering](https://jobright.ai/jobs/info/68d607d963d77d6f6f3f3e6e?utm_campaign=1048&utm_source=git)** | Golden, CO | On Site | Nov 28 |
-| **[Scout & Co.](https://scoutandco.com/)** | **[Civil Engineering Land Development Intern or Co-op (Summer 2026)](https://jobright.ai/jobs/info/689d1edd83d13d1f5b6ad3a6?utm_campaign=1048&utm_source=git)** | Columbus, OH | On Site | Nov 28 |
-| **[Skanska](http://skanska.com)** | **[EHS Intern](https://jobright.ai/jobs/info/68d59dab63d77d6f6f3f0fae?utm_campaign=1048&utm_source=git)** | Franklin, TN | On Site | Nov 28 |
-| **[Swinerton](http://www.swinerton.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/68bafa6a6105227d118a1ef7?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Nov 28 |
-| ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/68c8f11b95f5211cd2cebd19?utm_campaign=1048&utm_source=git)** | Santa Ana, CA | On Site | Nov 28 |
-| **[Scout & Co.](https://scoutandco.com/)** | **[Civil Engineering Land Development Intern or Co-op (Summer 2026)](https://jobright.ai/jobs/info/689d1bff83d13d1f5b6ad2aa?utm_campaign=1048&utm_source=git)** | Charlotte, NC | On Site | Nov 28 |
-| **[Kiewit](http://www.kiewit.com)** | **[Civil Design Intern - Kiewit Power Engineering (Summer 2026)](https://jobright.ai/jobs/info/68b8891c07090163b6ba2775?utm_campaign=1048&utm_source=git)** | Lenexa, KS | On Site | Nov 28 |
-| **[Uline](http://www.uline.com)** | **[Network Engineer Internship - Summer 2026](https://jobright.ai/jobs/info/68f138afe6870116b1f54fd3?utm_campaign=1048&utm_source=git)** | Glenview, IL | On Site | Nov 28 |
-| **[Swinerton](http://www.swinerton.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/68bae1198043103d4f223b3c?utm_campaign=1048&utm_source=git)** | Portland, OR | On Site | Nov 28 |
-| **[Timberlab](https://timberlab.com)** | **[Project Engineer Intern- University Recruitment](https://jobright.ai/jobs/info/68c2521e33864f172f9bf268?utm_campaign=1048&utm_source=git)** | Portland, OR | On Site | Nov 28 |
-| **[Kiewit](http://www.kiewit.com)** | **[Field/Office Engineer Internship - Southern California District (Summer 2026)](https://jobright.ai/jobs/info/68e80dd409580a2fe57f2d91?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Nov 28 |
-| **[TRUMPF North America](https://www.us.trumpf.com)** | **[Equipment Development and Automation Intern](https://jobright.ai/jobs/info/690d40e7d046ab6061cf4a52?utm_campaign=1048&utm_source=git)** | Cranbury, NJ | On Site | Nov 28 |
-| ↳ | **[Assembly Intern](https://jobright.ai/jobs/info/68d5a5a714935e31e231aa0d?utm_campaign=1048&utm_source=git)** | Farmington, CT | On Site | Nov 28 |
-| **[Kiewit](http://www.kiewit.com)** | **[Mechanical Design Intern - Kiewit Power Engineering (Summer 2026)](https://jobright.ai/jobs/info/68b88548ea901c0d269f6de7?utm_campaign=1048&utm_source=git)** | Lenexa, KS | On Site | Nov 28 |
-| **[Uline](http://www.uline.com)** | **[Database Administrator Internship - Summer 2026](https://jobright.ai/jobs/info/68f13965e6870116b1f550c6?utm_campaign=1048&utm_source=git)** | Pleasant Prairie, WI | On Site | Nov 28 |
-| **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Environmental, Health and Safety (EHS) Intern (Summer 2026)](https://jobright.ai/jobs/info/690d3032d046ab6061cf3fcd?utm_campaign=1048&utm_source=git)** | Richland Center, WI | On Site | Nov 28 |
-| **[Swinerton](http://www.swinerton.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/68cd1afcb2a74e1837ed282e?utm_campaign=1048&utm_source=git)** | Arvada, CO | On Site | Nov 28 |
-| **[The Clorox Company](https://www.thecloroxcompany.com/)** | **[R&D Intern (Summer 2026)](https://jobright.ai/jobs/info/68cee990846f0b04af67dc8c?utm_campaign=1048&utm_source=git)** | Willowbrook, IL | Hybrid | Nov 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
