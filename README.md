@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Quantum Computing Algorithms Intern](https://jobright.ai/jobs/info/692aa5de66796e3028f8f5b4?utm_campaign=1048&utm_source=git)** | Frederick, MD | On Site | Nov 28 |
+| **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Rural Water Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/692aa4dafa28370be269772e?utm_campaign=1048&utm_source=git)** | Williston, ND | On Site | Nov 28 |
+| **[ReplyQuickAI](https://www.replyquick.ai)** | **[DentalScan Machine Learning Developer](https://jobright.ai/jobs/info/692aa3654c474121999cc7d2?utm_campaign=1048&utm_source=git)** | Sarasota, FL | Remote | Nov 28 |
+| **[Assay Biotech Inc.](http://www.assaybiotechnology.com)** | **[Laboratory Assistant (Intern)](https://jobright.ai/jobs/info/692a920b66796e3028f8f26e?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Nov 28 |
 | **[CN](http://www.cn.ca)** | **[Intern, Solution Delivery - Indigenous- EN](https://jobright.ai/jobs/info/692a78864c474121999cc330?utm_campaign=1048&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 28 |
 | ↳ | **[Intern, Safety - Indigenous- EN](https://jobright.ai/jobs/info/692a78614c474121999cc323?utm_campaign=1048&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 28 |
 | ↳ | **[Intern, Solution Delivery - Indigenous- EN](https://jobright.ai/jobs/info/692a78414c474121999cc319?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 28 |
@@ -68,8 +72,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, I&T Asset Management (Telecommunications)- EN](https://jobright.ai/jobs/info/692a779d66796e3028f8f10e?utm_campaign=1048&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 28 |
 | ↳ | **[Intern, IT Operations & Technology Enablement-Indigenous- EN](https://jobright.ai/jobs/info/692a779cfa28370be269729e?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 28 |
 | ↳ | **[Intern, Operational Technology - Indigenous- EN](https://jobright.ai/jobs/info/692a778efa28370be2697297?utm_campaign=1048&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Nov 28 |
-| ↳ | **[Intern, IT Operations & Technology Enablement-Indigenous- EN](https://jobright.ai/jobs/info/692a778cfa28370be2697294?utm_campaign=1048&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 28 |
 | ↳ | **[Intern, Operational Technology - Indigenous- EN](https://jobright.ai/jobs/info/692a778cfa28370be2697293?utm_campaign=1048&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 28 |
+| ↳ | **[Intern, IT Operations & Technology Enablement-Indigenous- EN](https://jobright.ai/jobs/info/692a778cfa28370be2697294?utm_campaign=1048&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 28 |
 | ↳ | **[Intern, Safety - Indigenous- EN](https://jobright.ai/jobs/info/692a7786fa28370be2697290?utm_campaign=1048&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Nov 28 |
 | ↳ | **[Intern, Utilities Coordinator- EN](https://jobright.ai/jobs/info/692a7785fa28370be269728d?utm_campaign=1048&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 28 |
 | ↳ | **[Intern, Solution Delivery - Indigenous- EN](https://jobright.ai/jobs/info/692a7781fa28370be269728c?utm_campaign=1048&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Nov 28 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Conexant](http://www.conexant.com/)** | **[Cyber Security Internship 2026a](https://jobright.ai/jobs/info/6929f3a466796e3028f8dbb3?utm_campaign=1048&utm_source=git)** | Moline, IL | Hybrid | Nov 28 |
 | **[Green Energy Consumers Alliance](https://www.greenenergyconsumers.org/)** | **[Clean Transportation Intern](https://jobright.ai/jobs/info/6929f3784c474121999cadca?utm_campaign=1048&utm_source=git)** | Boston, Massachusetts, United States | Hybrid | Nov 28 |
 | **[Ferrovias](ferrovias.us)** | **[Co-op, Mechanical Engineering (January - August 2026) - Chelmsford](https://jobright.ai/jobs/info/6929f31866796e3028f8db6f?utm_campaign=1048&utm_source=git)** | Chelmsford, MA | Remote | Nov 28 |
-| **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Electrical Engineer Intern - Grid (Summer 2026)](https://jobright.ai/jobs/info/68b8dc8b5b42bc4562828493?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | Hybrid | Nov 28 |
-| **[Conexant](http://www.conexant.com/)** | **[Electrification and Battery Engineering Summer Intern 2026a](https://jobright.ai/jobs/info/6929f1324c474121999cad19?utm_campaign=1048&utm_source=git)** | Moline, IL | Hybrid | Nov 28 |
-| ↳ | **[Data & Analytics Internship 2026a](https://jobright.ai/jobs/info/6929f0e24c474121999cad07?utm_campaign=1048&utm_source=git)** | Moline, IL | Hybrid | Nov 28 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Early Career Mechanical Engineer - Buildings](https://jobright.ai/jobs/info/6904d34463502c0aded75843?utm_campaign=1048&utm_source=git)** | York, PA | Hybrid | Nov 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
