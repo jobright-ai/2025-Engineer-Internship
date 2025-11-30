@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship](https://jobright.ai/jobs/info/692bbf3b4c474121999ce694?utm_campaign=1048&utm_source=git)** | Hicksville, NY | On Site | Nov 29 |
+| ↳ | **[Arborist Trainee Internship](https://jobright.ai/jobs/info/692bbe28fa28370be2699520?utm_campaign=1048&utm_source=git)** | Concord, MA | On Site | Nov 29 |
+| ↳ | **[Arborist Trainee Internship](https://jobright.ai/jobs/info/692bbda066796e3028f9127a?utm_campaign=1048&utm_source=git)** | King of Prussia, PA | On Site | Nov 29 |
+| ↳ | **[Arborist Trainee Internship](https://jobright.ai/jobs/info/692bbd6efa28370be26994b7?utm_campaign=1048&utm_source=git)** | Cordova, MD | On Site | Nov 29 |
+| **[City of Rochester, MN](https://www.rochestermn.gov)** | **[Internship - Engineering](https://jobright.ai/jobs/info/692bae134c474121999ce06e?utm_campaign=1048&utm_source=git)** | Rochester, MN | On Site | Nov 29 |
+| **[Inspire](https://inspirebrands.com)** | **[Engineering & Design Intern - Summer 2026](https://jobright.ai/jobs/info/692ba4effa28370be2698f4e?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Nov 29 |
 | **[Parametrix](https://www.parametrix.com/)** | **[Internship Opportunities - Summer 2026](https://jobright.ai/jobs/info/692b9dcf4c474121999cdf40?utm_campaign=1048&utm_source=git)** | Silverdale, WA | Hybrid | Nov 29 |
 | **[InnoMountain](https://www.innomountain-inc.com/)** | **[Hardware System Engineer Internship (5G 6G R&D)](https://jobright.ai/jobs/info/692b86e966796e3028f90b27?utm_campaign=1048&utm_source=git)** | United States | Remote | Nov 29 |
 | **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[2026 DFA Animal Nutrition Calf Specialist Intern](https://jobright.ai/jobs/info/692b86cc66796e3028f90b21?utm_campaign=1048&utm_source=git)** | Michigan, United States | On Site | Nov 29 |
@@ -112,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[RS&H](http://www.rsandh.com/)** | **[Civil Engineering Intern (Aviation) - Summer 2026](https://jobright.ai/jobs/info/68f28aa776a51a4307bc4974?utm_campaign=1048&utm_source=git)** | Plymouth, MI | On Site | Nov 29 |
 | **[Structonix](structonix.us)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/692b349b66796e3028f90499?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | Remote | Nov 29 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/68f3082576a51a4307bca4d4?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Nov 29 |
-| **[CHEManager International](https://www.chemanager-online.com/en)** | **[2026 Summer Internship, Research Scientist - PhD (New York City)](https://jobright.ai/jobs/info/692b3416fa28370be26986ce?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Nov 29 |
 | **[Swinerton](http://www.swinerton.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/68bafd1b8043103d4f224be5?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Nov 29 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Diagnostics Intern](https://jobright.ai/jobs/info/68f7020a76a51a4307be020b?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Nov 29 |
 | ↳ | **[Diagnostics Intern](https://jobright.ai/jobs/info/68eb743f8369791ef7827135?utm_campaign=1048&utm_source=git)** | Charlotte, NC | On Site | Nov 29 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship: R&D Supply Chain Intern/Lab Demand Planning and Inventory Operations](https://jobright.ai/jobs/info/690ec3f0221b890c27811848?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | Nov 29 |
 | **[ASML](https://www.asml.com)** | **[Internship Environmental, Health & Safety](https://jobright.ai/jobs/info/68f292f29a63986de7568f41?utm_campaign=1048&utm_source=git)** | Wilton Center, CT | On Site | Nov 29 |
 | **[Jacobs](http://www.jacobs.com)** | **[Water Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68f2b6ae9a63986de756b384?utm_campaign=1048&utm_source=git)** | Bellevue, WA | On Site | Nov 29 |
-| **[FlatironDragados](https://www.fdcorp.com)** | **[Field Engineer Intern](https://jobright.ai/jobs/info/68ba6a438043103d4f220637?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Nov 29 |
-| **[Mechronix](mechronix.us)** | **[Intern, Test Engineering](https://jobright.ai/jobs/info/692b222d66796e3028f9026c?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | Hybrid | Nov 29 |
-| **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Construction Intern](https://jobright.ai/jobs/info/68f2d4339a65fd34585815be?utm_campaign=1048&utm_source=git)** | Conroe, TX | On Site | Nov 29 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Fire and Life Safety Engineering Intern (Mission Critical) - Summer 2026](https://jobright.ai/jobs/info/68bd302d68300c452ca18b24?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | Hybrid | Nov 29 |
-| ↳ | **[Civil Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/690e68e8d046ab6061cfd342?utm_campaign=1048&utm_source=git)** | Worcester, MA | Hybrid | Nov 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
