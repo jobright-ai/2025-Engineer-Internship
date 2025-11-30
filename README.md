@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MechNova](mechnova.us)** | **[Process Engineer Intern](https://jobright.ai/jobs/info/692c9b2666796e3028f9320c?utm_campaign=1048&utm_source=git)** | Ada, MI | Remote | Nov 30 |
+| ↳ | **[Systems Engineer Internship, Summer 2026 (42276)](https://jobright.ai/jobs/info/692c9ae666796e3028f931ec?utm_campaign=1048&utm_source=git)** | Ada, MI | Remote | Nov 30 |
+| **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Analog Design](https://jobright.ai/jobs/info/692c97c94c474121999d0463?utm_campaign=1048&utm_source=git)** | Rhode Island, United States | On Site | Nov 30 |
+| **[Kiewit](http://www.kiewit.com)** | **[Structural Engineer Intern - Kiewit Nuclear Solutions](https://jobright.ai/jobs/info/68d87d397796a83635f117fe?utm_campaign=1048&utm_source=git)** | Oak Ridge, TN | On Site | Nov 30 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Network Strategy & Solutions)](https://jobright.ai/jobs/info/691ccd54ff7024498416a77e?utm_campaign=1048&utm_source=git)** | Winchester, VA | Hybrid | Nov 30 |
+| **[Black & Veatch](http://bv.com/Home)** | **[Civil Engineer Intern - Water](https://jobright.ai/jobs/info/68d7666f295f8e37655d7e45?utm_campaign=1048&utm_source=git)** | Coral Springs, FL | Hybrid | Nov 30 |
+| **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Transmission & Distribution Engineer Intern - Grid (Summer 2026)](https://jobright.ai/jobs/info/68ca3611f16e3266d2824d26?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Nov 30 |
 | **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship - Research & Development (PhD)](https://jobright.ai/jobs/info/68cd9d10e23def7af55bcb97?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Nov 30 |
 | **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - RPI](https://jobright.ai/jobs/info/68bc802c68300c452ca15b3b?utm_campaign=1048&utm_source=git)** | Wallingford, CT | On Site | Nov 30 |
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Battery Mathematical Modeling Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/692c81fa4c474121999d0290?utm_campaign=1048&utm_source=git)** | Ann Arbor, MI | Hybrid | Nov 30 |
@@ -66,14 +73,12 @@ For a complete list, click the following sortable link below:
 | **[Kiewit](http://www.kiewit.com)** | **[Structural Design Intern - Kiewit Nuclear Solutions](https://jobright.ai/jobs/info/68d87d46c9952514e1e95850?utm_campaign=1048&utm_source=git)** | Oak Ridge, TN | On Site | Nov 30 |
 | ↳ | **[Electrical Design Intern - Kiewit Nuclear Solutions](https://jobright.ai/jobs/info/68d87d527796a83635f11837?utm_campaign=1048&utm_source=git)** | Oak Ridge, TN | On Site | Nov 30 |
 | **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/692c7abefa28370be269b1f6?utm_campaign=1048&utm_source=git)** | Ada, MI | Remote | Nov 30 |
-| ↳ | **[Engineering Internship Program - Summer 2026](https://jobright.ai/jobs/info/692c78364c474121999d01e8?utm_campaign=1048&utm_source=git)** | Charleston, SC | Remote | Nov 30 |
 | **[Structonix](structonix.us)** | **[Process Engineer Intern](https://jobright.ai/jobs/info/692c780afa28370be269b1e4?utm_campaign=1048&utm_source=git)** | Ada, MI | Remote | Nov 30 |
 | **[Kiewit](http://www.kiewit.com)** | **[Instrumentation & Controls Engineer Intern - Kiewit Nuclear Solutions](https://jobright.ai/jobs/info/68f8b00fa628d10664e85378?utm_campaign=1048&utm_source=git)** | Oak Ridge, TN | On Site | Nov 30 |
 | **[Pepper Construction Group](http://www.pepperconstruction.com)** | **[Construction Quality Intern - Summer 2026 (Chicagoland)](https://jobright.ai/jobs/info/68bb93a65f3832749187067c?utm_campaign=1048&utm_source=git)** | Des Plaines, IL | On Site | Nov 30 |
 | **[Kiewit](http://www.kiewit.com)** | **[Instrumentation & Controls Engineer Intern - Kiewit Nuclear Solutions](https://jobright.ai/jobs/info/68f8a2ca4bafad6d2d764976?utm_campaign=1048&utm_source=git)** | Lenexa, KS | On Site | Nov 30 |
 | **[Ferrovias](ferrovias.us)** | **[Design Engineer 1 - New College Grad 2025 - 2026](https://jobright.ai/jobs/info/692c744d66796e3028f92edc?utm_campaign=1048&utm_source=git)** | Monroe, LA | Remote | Nov 30 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Structural Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/68ce1a6d1ad6b16f028a1d99?utm_campaign=1048&utm_source=git)** | Valhalla, NY | Hybrid | Nov 30 |
-| **[Northmere Solutions](https://www.linkedin.com/company/104898627)** | **[Engineering Internship Program - Summer 2026](https://jobright.ai/jobs/info/692c71124c474121999d013d?utm_campaign=1048&utm_source=git)** | San Jose, CA | Remote | Nov 30 |
 | **[RWJBarnabas Health](https://www.rwjbarnabashealthcareers.org/)** | **[Intern](https://jobright.ai/jobs/info/68cc36187342c7623ae60f4f?utm_campaign=1048&utm_source=git)** | Jersey City, NJ | On Site | Nov 30 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Civil Engineering Intern- MME](https://jobright.ai/jobs/info/68eaeab58369791ef78233ef?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Nov 30 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Civil Engineer Intern - Water](https://jobright.ai/jobs/info/68d76cc0295f8e37655d8db0?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Nov 30 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dexter](https://www.dexteraxle.com/)** | **[Quality Intern - Summer 2026](https://jobright.ai/jobs/info/68cfadb6846f0b04af6844a5?utm_campaign=1048&utm_source=git)** | Elkhart, IN | On Site | Nov 30 |
 | **[Buro Happold](http://www.burohappold.com)** | **[Plumbing & Fire Protection Intern - Boston (Summer 2026)](https://jobright.ai/jobs/info/68f2ce2d9a65fd3458581319?utm_campaign=1048&utm_source=git)** | Boston, MA | Hybrid | Nov 30 |
 | **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Survey/Geospatial Intern](https://jobright.ai/jobs/info/68d7123bd3fe025a3015eafe?utm_campaign=1048&utm_source=git)** | Englewood, CO | On Site | Nov 30 |
-| **[Buro Happold](http://www.burohappold.com)** | **[Mechanical Intern - Boston (Summer 2026)](https://jobright.ai/jobs/info/68f2cea39a65fd3458581351?utm_campaign=1048&utm_source=git)** | Boston, MA | Hybrid | Nov 30 |
-| **[Skanska](http://skanska.com)** | **[Heavy Civil Infrastructure Summer 2026 Intern](https://jobright.ai/jobs/info/68bb82db8043103d4f22931a?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | Nov 30 |
-| ↳ | **[Steel Bridge Summer 2026 Intern](https://jobright.ai/jobs/info/68bb81e88043103d4f229228?utm_campaign=1048&utm_source=git)** | Carteret, NJ | On Site | Nov 30 |
-| ↳ | **[Heavy Civil Infrastructure Summer 2026 Internship](https://jobright.ai/jobs/info/68d7f27e295f8e37655e4349?utm_campaign=1048&utm_source=git)** | District of Columbia, United States | On Site | Nov 30 |
-| **[Swinerton](http://www.swinerton.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/68ce911bdbd9fb154ede0d4d?utm_campaign=1048&utm_source=git)** | Raleigh, NC | On Site | Nov 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
