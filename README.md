@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenPark](https://genpark.ai)** | **[Data Science Engineer](https://jobright.ai/jobs/info/692c08944c474121999cf95b?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area | Hybrid | Nov 30 |
+| **[Outagamie County](https://www.outagamie.org/home)** | **[Engineering Intern (Highway) - Winter](https://jobright.ai/jobs/info/692bff0166796e3028f925a4?utm_campaign=1048&utm_source=git)** | Appleton, WI | On Site | Nov 30 |
+| **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Structural Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/692bfacf66796e3028f92530?utm_campaign=1048&utm_source=git)** | Fargo, ND | On Site | Nov 30 |
+| **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Analog Design](https://jobright.ai/jobs/info/692bf8544c474121999cf718?utm_campaign=1048&utm_source=git)** | Rhode Island, United States | On Site | Nov 29 |
 | **[City of Bloomington, MN](http://bloomingtonmn.gov)** | **[Intern (Utilities)](https://jobright.ai/jobs/info/692be54b4c474121999cf389?utm_campaign=1048&utm_source=git)** | Bloomington, MN | On Site | Nov 29 |
-| **[TRIMEDX](https://trimedx.com/)** | **[Biomedical Engineering Intern](https://jobright.ai/jobs/info/692be2644c474121999cf320?utm_campaign=1048&utm_source=git)** | Stamford, CT | On Site | Nov 29 |
+| **[TRIMEDX](https://trimedx.com/)** | **[Biomedical Engineering Intern](https://jobright.ai/jobs/info/692bd800fa28370be2699ec8?utm_campaign=1048&utm_source=git)** | Stamford, CT | On Site | Nov 29 |
 | **[Data Visualization Society](https://www.datavisualizationsociety.com/)** | **[Data Visualization Engineer Intern](https://jobright.ai/jobs/info/692bc78e66796e3028f916c5?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Nov 29 |
 | **[Toyota Research Institute](http://www.tri.global)** | **[Robotics Intern - Large Behavior Models, Learning From Videos (LFV)](https://jobright.ai/jobs/info/692bc78566796e3028f916c1?utm_campaign=1048&utm_source=git)** | Los Altos, CA | Hybrid | Nov 29 |
 | ↳ | **[Human Interactive Driving Intern – Localization and Mapping](https://jobright.ai/jobs/info/690300bdff462851fefe81b8?utm_campaign=1048&utm_source=git)** | Los Altos, CA | Hybrid | Nov 29 |
@@ -70,7 +74,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Arborist Trainee Internship](https://jobright.ai/jobs/info/692bbd6efa28370be26994b7?utm_campaign=1048&utm_source=git)** | Cordova, MD | On Site | Nov 29 |
 | **[City of Rochester, MN](https://www.rochestermn.gov)** | **[Internship - Engineering](https://jobright.ai/jobs/info/692bae134c474121999ce06e?utm_campaign=1048&utm_source=git)** | Rochester, MN | On Site | Nov 29 |
 | **[Inspire](https://inspirebrands.com)** | **[Engineering & Design Intern - Summer 2026](https://jobright.ai/jobs/info/692ba4effa28370be2698f4e?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Nov 29 |
-| **[Parametrix](https://www.parametrix.com/)** | **[Internship Opportunities - Summer 2026](https://jobright.ai/jobs/info/692b9dcf4c474121999cdf40?utm_campaign=1048&utm_source=git)** | Silverdale, WA | Hybrid | Nov 29 |
 | **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[2026 DFA Animal Nutrition Calf Specialist Intern](https://jobright.ai/jobs/info/692b86cc66796e3028f90b21?utm_campaign=1048&utm_source=git)** | Michigan, United States | On Site | Nov 29 |
 | **[Ciena](http://www.ciena.com)** | **[AI Agent Development Intern](https://jobright.ai/jobs/info/6926e2f9f0beb07232626a1f?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Nov 29 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Futures Lab (Fall 2025)](https://jobright.ai/jobs/info/692b72ccfa28370be2698c48?utm_campaign=1048&utm_source=git)** | Washington, DC | Hybrid | Nov 29 |
@@ -85,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Banner Engineering Careers](https://www.bannerengineering.com/us/en/company/careers.html)** | **[Manufacturing Engineering Intern - Summer](https://jobright.ai/jobs/info/692b5a6f4c474121999cdb43?utm_campaign=1048&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 29 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[GMP Intern](https://jobright.ai/jobs/info/692b59a24c474121999cdb12?utm_campaign=1048&utm_source=git)** | Middleton, WI | On Site | Nov 29 |
 | **[Lightmatter](https://lightmatter.co)** | **[Photonics Design, Intern](https://jobright.ai/jobs/info/6915294c9c388539cbdf1202?utm_campaign=1048&utm_source=git)** | Boston, MA | Hybrid | Nov 29 |
-| **[Cliffton Verge](https://www.linkedin.com/company/108618613)** | **[Mechanical Engineering Internship Opportunities](https://jobright.ai/jobs/info/692b534166796e3028f90793?utm_campaign=1048&utm_source=git)** | Chelmsford, MA | Remote | Nov 29 |
 | **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Water Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/692b529766796e3028f9076a?utm_campaign=1048&utm_source=git)** | Billings, MT | On Site | Nov 29 |
 | **[ABB](https://global.abb/group/en)** | **[Electrical Engineering Intern - Winter 2026](https://jobright.ai/jobs/info/691fe9bd09cc522e87746952?utm_campaign=1048&utm_source=git)** | Location, WV | On Site | Nov 29 |
 | ↳ | **[Automation Service Engineer - Internship](https://jobright.ai/jobs/info/692b51b94c474121999cda2b?utm_campaign=1048&utm_source=git)** | Location, WV | On Site | Nov 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Internship Program: Manufacturing Sciences – Downstream Intern](https://jobright.ai/jobs/info/690ec3cd221b890c27811839?utm_campaign=1048&utm_source=git)** | Brooklyn Park, MN | On Site | Nov 29 |
 | **[Georgia-Pacific LLC](http://www.gp.com/)** | **[Georgia-Pacific Summer 2026 Process Engineering Internship - Brewton, AL](https://jobright.ai/jobs/info/689e35fefaa4e875e8277f5f?utm_campaign=1048&utm_source=git)** | Brewton, AL | On Site | Nov 29 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Process Engineering Intern](https://jobright.ai/jobs/info/690ec8e0d046ab6061d012e3?utm_campaign=1048&utm_source=git)** | Social Circle, GA | On Site | Nov 29 |
-| **[Dexter](https://www.dexteraxle.com/)** | **[Industrial Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68e368d3f758fe1f97e5d8bc?utm_campaign=1048&utm_source=git)** | Fremont, IN | On Site | Nov 29 |
-| **[Shure Incorporated](http://www.shure.com)** | **[Applied Research Science Intern (AI/Machine Learning)](https://jobright.ai/jobs/info/68ccf6dd5954791a1d701d95?utm_campaign=1048&utm_source=git)** | Niles, IL | Hybrid | Nov 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
