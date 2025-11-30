@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[InnoMountain](https://www.innomountain-inc.com/)** | **[Hardware System Engineer Internship (5G 6G R&D)](https://jobright.ai/jobs/info/692b86e966796e3028f90b27?utm_campaign=1048&utm_source=git)** | United States | Remote | Nov 29 |
+| **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[2026 DFA Animal Nutrition Calf Specialist Intern](https://jobright.ai/jobs/info/692b86cc66796e3028f90b21?utm_campaign=1048&utm_source=git)** | Michigan, United States | On Site | Nov 29 |
+| **[Ciena](http://www.ciena.com)** | **[AI Agent Development Intern](https://jobright.ai/jobs/info/6926e2f9f0beb07232626a1f?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Nov 29 |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Futures Lab (Fall 2025)](https://jobright.ai/jobs/info/692b72ccfa28370be2698c48?utm_campaign=1048&utm_source=git)** | Washington, DC | Hybrid | Nov 29 |
+| **[BouMatic](http://www.boumatic.com)** | **[Intern - Mechanical](https://jobright.ai/jobs/info/692b72ccfa28370be2698c47?utm_campaign=1048&utm_source=git)** | Madison, WI | On Site | Nov 29 |
 | **[ABB](https://global.abb/group/en)** | **[Engineering Intern - Winter 2026](https://jobright.ai/jobs/info/691bb14f15b4156367191b1f?utm_campaign=1048&utm_source=git)** | Longueuil, Quebec, Canada | On Site | Nov 29 |
 | ↳ | **[Mechanical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/691fe8473f782d2f1afc15b0?utm_campaign=1048&utm_source=git)** | Saint-Laurent, Quebec, Canada | On Site | Nov 29 |
 | ↳ | **[Industrial Engineering Intern (Winter 2026)](https://jobright.ai/jobs/info/691db1cf61dc50590a6492ff?utm_campaign=1048&utm_source=git)** | Québec, Quebec, Canada | On Site | Nov 29 |
@@ -129,7 +134,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Internship Program: Parenteral Drug Product Development Intern](https://jobright.ai/jobs/info/690f6c6ebc852e6dc187d543?utm_campaign=1048&utm_source=git)** | Lexington, MA | On Site | Nov 29 |
 | **[Copeland](https://www.copeland.com)** | **[2026 – Modeling & Simulation Engineering Internship](https://jobright.ai/jobs/info/68bb38ce8043103d4f226c1f?utm_campaign=1048&utm_source=git)** | Sidney, OH | On Site | Nov 29 |
 | **[MechSpire](https://www.linkedin.com/company/92823876)** | **[Process Engineering Intern](https://jobright.ai/jobs/info/692b2ba9fa28370be26985da?utm_campaign=1048&utm_source=git)** | Ada, MI | Remote | Nov 29 |
-| **[InnoMountain](https://www.innomountain-inc.com/)** | **[Hardware System Engineer Intern (5G 6G R&D)](https://jobright.ai/jobs/info/692b2b98fa28370be26985d6?utm_campaign=1048&utm_source=git)** | United States | Remote | Nov 29 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Cloud DevOps Engineer Intern](https://jobright.ai/jobs/info/6922039da49a885af9a48197?utm_campaign=1048&utm_source=git)** | Niles, IL | Hybrid | Nov 29 |
 | **[Skanska](http://skanska.com)** | **[Heavy Civil Infrastructure Summer 2026 Internship](https://jobright.ai/jobs/info/68bb873c5f3832749186fe22?utm_campaign=1048&utm_source=git)** | Alexandria, VA | On Site | Nov 29 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Packaging Engineer Intern](https://jobright.ai/jobs/info/68bb80076105227d118a66dc?utm_campaign=1048&utm_source=git)** | Niles, IL | Hybrid | Nov 29 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Construction Intern](https://jobright.ai/jobs/info/68f2d4339a65fd34585815be?utm_campaign=1048&utm_source=git)** | Conroe, TX | On Site | Nov 29 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Fire and Life Safety Engineering Intern (Mission Critical) - Summer 2026](https://jobright.ai/jobs/info/68bd302d68300c452ca18b24?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | Hybrid | Nov 29 |
 | ↳ | **[Civil Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/690e68e8d046ab6061cfd342?utm_campaign=1048&utm_source=git)** | Worcester, MA | Hybrid | Nov 29 |
-| **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Product Development](https://jobright.ai/jobs/info/6912b3bac98948514c47d5dc?utm_campaign=1048&utm_source=git)** | Franklin, TN | On Site | Nov 29 |
-| **[Keystone Cooperative](https://www.keystonecoop.com/)** | **[Crop Technician Intern](https://jobright.ai/jobs/info/690ec16644146d3b6ec576ea?utm_campaign=1048&utm_source=git)** | Hamilton, MI | Hybrid | Nov 29 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Civil Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/690e6433221b890c2780d71e?utm_campaign=1048&utm_source=git)** | Boston, MA | Hybrid | Nov 29 |
-| **[Black & Veatch](http://bv.com/Home)** | **[Civil Engineer Intern - Water](https://jobright.ai/jobs/info/68d767c47a37c712687cc0bf?utm_campaign=1048&utm_source=git)** | Houston, TX | Hybrid | Nov 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
