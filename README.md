@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TRIMEDX](https://trimedx.com/)** | **[Biomedical Engineering Intern](https://jobright.ai/jobs/info/692bd800fa28370be2699ec8?utm_campaign=1048&utm_source=git)** | Stamford, CT | On Site | Nov 29 |
+| **[City of Bloomington, MN](http://bloomingtonmn.gov)** | **[Intern (Utilities)](https://jobright.ai/jobs/info/692be54b4c474121999cf389?utm_campaign=1048&utm_source=git)** | Bloomington, MN | On Site | Nov 29 |
+| **[TRIMEDX](https://trimedx.com/)** | **[Biomedical Engineering Intern](https://jobright.ai/jobs/info/692be2644c474121999cf320?utm_campaign=1048&utm_source=git)** | Stamford, CT | On Site | Nov 29 |
 | **[Data Visualization Society](https://www.datavisualizationsociety.com/)** | **[Data Visualization Engineer Intern](https://jobright.ai/jobs/info/692bc78e66796e3028f916c5?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Nov 29 |
 | **[Toyota Research Institute](http://www.tri.global)** | **[Robotics Intern - Large Behavior Models, Learning From Videos (LFV)](https://jobright.ai/jobs/info/692bc78566796e3028f916c1?utm_campaign=1048&utm_source=git)** | Los Altos, CA | Hybrid | Nov 29 |
 | ↳ | **[Human Interactive Driving Intern – Localization and Mapping](https://jobright.ai/jobs/info/690300bdff462851fefe81b8?utm_campaign=1048&utm_source=git)** | Los Altos, CA | Hybrid | Nov 29 |
@@ -88,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Water Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/692b529766796e3028f9076a?utm_campaign=1048&utm_source=git)** | Billings, MT | On Site | Nov 29 |
 | **[ABB](https://global.abb/group/en)** | **[Electrical Engineering Intern - Winter 2026](https://jobright.ai/jobs/info/691fe9bd09cc522e87746952?utm_campaign=1048&utm_source=git)** | Location, WV | On Site | Nov 29 |
 | ↳ | **[Automation Service Engineer - Internship](https://jobright.ai/jobs/info/692b51b94c474121999cda2b?utm_campaign=1048&utm_source=git)** | Location, WV | On Site | Nov 29 |
-| **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[Proposal Engineer Intern - Spring 2026](https://jobright.ai/jobs/info/692b4f44fa28370be2698965?utm_campaign=1048&utm_source=git)** | Cleveland, OH | Remote | Nov 29 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Assistant Construction Manager Intern](https://jobright.ai/jobs/info/690e5ea844146d3b6ec53702?utm_campaign=1048&utm_source=git)** | Westborough, MA | On Site | Nov 29 |
 | ↳ | **[2026 Internship Program: Assistant Construction Manager Intern](https://jobright.ai/jobs/info/690e5121d046ab6061cfc3f3?utm_campaign=1048&utm_source=git)** | Alpharetta, GA | On Site | Nov 29 |
 | **[Nasdaq](https://www.nasdaq.com)** | **[Platform Engineering Intern - 2026 Summer Internship](https://jobright.ai/jobs/info/690e6962d046ab6061cfd3a0?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Nov 29 |
