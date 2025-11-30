@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Parametrix](https://www.parametrix.com/)** | **[Internship Opportunities - Summer 2026](https://jobright.ai/jobs/info/692b9dcf4c474121999cdf40?utm_campaign=1048&utm_source=git)** | Silverdale, WA | Hybrid | Nov 29 |
 | **[InnoMountain](https://www.innomountain-inc.com/)** | **[Hardware System Engineer Internship (5G 6G R&D)](https://jobright.ai/jobs/info/692b86e966796e3028f90b27?utm_campaign=1048&utm_source=git)** | United States | Remote | Nov 29 |
 | **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[2026 DFA Animal Nutrition Calf Specialist Intern](https://jobright.ai/jobs/info/692b86cc66796e3028f90b21?utm_campaign=1048&utm_source=git)** | Michigan, United States | On Site | Nov 29 |
 | **[Ciena](http://www.ciena.com)** | **[AI Agent Development Intern](https://jobright.ai/jobs/info/6926e2f9f0beb07232626a1f?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Nov 29 |
@@ -141,7 +142,6 @@ For a complete list, click the following sortable link below:
 | **[Syska Hennessy Group](http://www.syska.com)** | **[Electrical Engineering I](https://jobright.ai/jobs/info/68f2d6189a65fd3458581689?utm_campaign=1048&utm_source=git)** | San Diego, CA | Hybrid | Nov 29 |
 | **[Salas O'Brien](http://www.salasobrien.com/about/)** | **[Forensic Graduate Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68bb81d78043103d4f22921a?utm_campaign=1048&utm_source=git)** | Flower Mound, TX | On Site | Nov 29 |
 | **[RaceTrac](http://www.racetrac.com/)** | **[Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68f2920276a51a4307bc4d71?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Nov 29 |
-| **[Ferrovias](ferrovias.us)** | **[Process Engineer Intern](https://jobright.ai/jobs/info/692b278e66796e3028f90333?utm_campaign=1048&utm_source=git)** | Ada, MI | Remote | Nov 29 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Global Supply Chain Analyst Intern](https://jobright.ai/jobs/info/690ec328221b890c278117e9?utm_campaign=1048&utm_source=git)** | Lexington, MA | On Site | Nov 29 |
 | ↳ | **[2026 Summer Internship Program: Automation Engineer Intern](https://jobright.ai/jobs/info/690ec2ad44146d3b6ec57987?utm_campaign=1048&utm_source=git)** | Social Circle, GA | On Site | Nov 29 |
 | ↳ | **[2026 Summer Internship Program: Manufacturing Sciences – Downstream Intern](https://jobright.ai/jobs/info/690ec3cd221b890c27811839?utm_campaign=1048&utm_source=git)** | Brooklyn Park, MN | On Site | Nov 29 |
