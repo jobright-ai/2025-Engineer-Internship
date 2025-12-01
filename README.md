@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cliffton Verge](https://www.linkedin.com/company/108618613)** | **[Advanced Manufacturing Engineering Internship Opportunities](https://jobright.ai/jobs/info/692cf603fa28370be269bc6e?utm_campaign=1048&utm_source=git)** | Chelmsford, MA | Remote | Nov 30 |
 | **[Mechronix](mechronix.us)** | **[Intern, Mechanical Engineering](https://jobright.ai/jobs/info/692cd2a366796e3028f93684?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | Remote | Nov 30 |
 | **[FieldAI](https://www.fieldai.com)** | **[1.78 Robotics Graduate Research Internship – Robot Learning](https://jobright.ai/jobs/info/692ccbb266796e3028f93605?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | On Site | Nov 30 |
 | ↳ | **[1.78 Robotics Graduate Research Internship – Robot Learning](https://jobright.ai/jobs/info/692ccbae66796e3028f93603?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | Nov 30 |
@@ -67,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[The AES Corporation](http://www.aes.com)** | **[Intern/Co-Op Engineer - Summer 2026](https://jobright.ai/jobs/info/6928b7ad91ceeb2e8a5463d0?utm_campaign=1048&utm_source=git)** | Dayton, OH | On Site | Nov 30 |
 | **[MechNova](mechnova.us)** | **[Process Engineer Intern](https://jobright.ai/jobs/info/692c9b2666796e3028f9320c?utm_campaign=1048&utm_source=git)** | Ada, MI | Remote | Nov 30 |
 | ↳ | **[Systems Engineer Internship, Summer 2026 (42276)](https://jobright.ai/jobs/info/692c9ae666796e3028f931ec?utm_campaign=1048&utm_source=git)** | Ada, MI | Remote | Nov 30 |
-| **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Analog Design](https://jobright.ai/jobs/info/692c97c94c474121999d0463?utm_campaign=1048&utm_source=git)** | Rhode Island, United States | On Site | Nov 30 |
 | **[Kiewit](http://www.kiewit.com)** | **[Structural Engineer Intern - Kiewit Nuclear Solutions](https://jobright.ai/jobs/info/68d87d397796a83635f117fe?utm_campaign=1048&utm_source=git)** | Oak Ridge, TN | On Site | Nov 30 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Network Strategy & Solutions)](https://jobright.ai/jobs/info/691ccd54ff7024498416a77e?utm_campaign=1048&utm_source=git)** | Winchester, VA | Hybrid | Nov 30 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Civil Engineer Intern - Water](https://jobright.ai/jobs/info/68d7666f295f8e37655d7e45?utm_campaign=1048&utm_source=git)** | Coral Springs, FL | Hybrid | Nov 30 |
@@ -141,7 +141,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Engineer Intern](https://jobright.ai/jobs/info/68fc475593c49825ab10b5d7?utm_campaign=1048&utm_source=git)** | Niles, IL | Hybrid | Nov 30 |
 | ↳ | **[Product Security Analyst Intern](https://jobright.ai/jobs/info/68cea9a3dbd9fb154ede1e89?utm_campaign=1048&utm_source=git)** | Skokie, IL | Hybrid | Nov 30 |
 | **[Charter Steel](http://www.chartersteel.com/)** | **[Materials Engineer Intern - Year Round](https://jobright.ai/jobs/info/6912cff2d1047e3565cfef16?utm_campaign=1048&utm_source=git)** | Cleveland, OH | On Site | Nov 30 |
-| **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Customer Care](https://jobright.ai/jobs/info/692c5ed9fa28370be269afe7?utm_campaign=1048&utm_source=git)** | Alpharetta, GA | On Site | Nov 30 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Manufacturing Sciences Intern](https://jobright.ai/jobs/info/690f7350bb519377733e8a4f?utm_campaign=1048&utm_source=git)** | Social Circle, GA | On Site | Nov 30 |
 | **[Northmere Solutions](https://www.linkedin.com/company/104898627)** | **[Hardware Development Engineer Co-Op](https://jobright.ai/jobs/info/692c5dca66796e3028f92dc4?utm_campaign=1048&utm_source=git)** | Mayfield Heights, OH | Remote | Nov 30 |
 | **[Henkel](http://www.henkel.com)** | **[Product Development Intern, Packaging and Labeling Adhesives – Summer 2026](https://jobright.ai/jobs/info/68bb1b716105227d118a2fcf?utm_campaign=1048&utm_source=git)** | Bridgewater, NJ | On Site | Nov 30 |
@@ -151,10 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Buro Happold](http://www.burohappold.com)** | **[Plumbing & Fire Protection Intern - Los Angeles (Summer 2026)](https://jobright.ai/jobs/info/68f2cafe76a51a4307bc8635?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 30 |
 | **[Charter Steel](http://www.chartersteel.com/)** | **[Materials Engineer Intern - Year-Round](https://jobright.ai/jobs/info/68f9b264cadb2e5a06a67058?utm_campaign=1048&utm_source=git)** | Cleveland, OH | On Site | Nov 30 |
 | **[Swinerton](http://www.swinerton.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/68badf385f3832749186a12a?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Nov 30 |
-| **[Nutrien](https://www.nutrien.com/)** | **[Intern - Retail Field, Agronomy - Northern High Plains Division](https://jobright.ai/jobs/info/692c5ce666796e3028f92d9c?utm_campaign=1048&utm_source=git)** | Fort Morgan, CO | On Site | Nov 30 |
 | **[Buro Happold](http://www.burohappold.com)** | **[Mechanical Intern - Los Angeles (Summer 2026)](https://jobright.ai/jobs/info/68f2d29976a51a4307bc896d?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 30 |
 | **[Dexter](https://www.dexteraxle.com/)** | **[HSE Intern - Summer 2026](https://jobright.ai/jobs/info/68c663477d0db4114273959a?utm_campaign=1048&utm_source=git)** | Fremont, IN | On Site | Nov 30 |
 | **[Shure Incorporated](http://www.shure.com)** | **[FPGA Design Intern](https://jobright.ai/jobs/info/68ce713f846f0b04af679ec4?utm_campaign=1048&utm_source=git)** | Niles, IL | Hybrid | Nov 30 |
 | **[Dexter](https://www.dexteraxle.com/)** | **[Mechanical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/692c5c8266796e3028f92d8a?utm_campaign=1048&utm_source=git)** | Fremont, IN | On Site | Nov 30 |
 | **[Charter Manufacturing](http://chartermfg.com)** | **[Process Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/68cb7fbd9e3a822f5d2470d5?utm_campaign=1048&utm_source=git)** | Shawano, WI | On Site | Nov 30 |
+| **[Wayve](https://wayve.ai)** | **[Research Scientist Intern, Embodied Foundation Models (Evaluation)](https://jobright.ai/jobs/info/690f5fe2d046ab6061d04f62?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA | On Site | Nov 30 |
+| **[Copeland](https://www.copeland.com)** | **[2026 Advanced Manufacturing Engineering Internship Opportunities](https://jobright.ai/jobs/info/6906d695ff462851fe005986?utm_campaign=1048&utm_source=git)** | Sidney, OH | On Site | Nov 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
