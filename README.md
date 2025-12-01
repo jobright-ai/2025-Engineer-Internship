@@ -57,17 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[Application-Specific Integrated Circuit (ASIC) Engineer Internship – 2026 (US)](https://jobright.ai/jobs/info/692d0e0266796e3028f93c40?utm_campaign=1048&utm_source=git)** | Seattle, Washington, USA | On Site | Nov 30 |
+| ↳ | **[Network Development Engineer Intern](https://jobright.ai/jobs/info/692d0495fa28370be269bdc9?utm_campaign=1048&utm_source=git)** | Seattle, Washington, USA | On Site | Nov 30 |
+| ↳ | **[Network Development Engineer Intern](https://jobright.ai/jobs/info/692d020d4c474121999d0d36?utm_campaign=1048&utm_source=git)** | Arlington, Virginia, USA | On Site | Nov 30 |
+| **[Nutrien](https://www.nutrien.com/)** | **[Retail Field Intern - Southern Illinois Division](https://jobright.ai/jobs/info/692d0085fa28370be269bd5f?utm_campaign=1048&utm_source=git)** | Browns, IL | On Site | Nov 30 |
+| **[ABB](https://global.abb/group/en)** | **[Quality Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/692cfe3f66796e3028f93a7f?utm_campaign=1048&utm_source=git)** | New Berlin, WI | On Site | Nov 30 |
+| **[Waymo](https://waymo.com)** | **[2026 Summer Intern, MS/PhD, Systems Engineer, Rider Comfort](https://jobright.ai/jobs/info/69014f55d5259a1b3cff414a?utm_campaign=1048&utm_source=git)** | Mountain View, CA, USA | On Site | Nov 30 |
+| **[Meridian Forge](https://www.linkedin.com/company/108612717)** | **[Mechanical Engineering Internship Opportunities](https://jobright.ai/jobs/info/692cfa6866796e3028f93a1c?utm_campaign=1048&utm_source=git)** | Sidney, OH | Remote | Nov 30 |
 | **[Cliffton Verge](https://www.linkedin.com/company/108618613)** | **[Advanced Manufacturing Engineering Internship Opportunities](https://jobright.ai/jobs/info/692cf603fa28370be269bc6e?utm_campaign=1048&utm_source=git)** | Chelmsford, MA | Remote | Nov 30 |
 | **[Mechronix](mechronix.us)** | **[Intern, Mechanical Engineering](https://jobright.ai/jobs/info/692cd2a366796e3028f93684?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | Remote | Nov 30 |
 | **[FieldAI](https://www.fieldai.com)** | **[1.78 Robotics Graduate Research Internship – Robot Learning](https://jobright.ai/jobs/info/692ccbb266796e3028f93605?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | On Site | Nov 30 |
 | ↳ | **[1.78 Robotics Graduate Research Internship – Robot Learning](https://jobright.ai/jobs/info/692ccbae66796e3028f93603?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | Nov 30 |
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Validation Engineering Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/692cb989fa28370be269b775?utm_campaign=1048&utm_source=git)** | Superior, MI | On Site | Nov 30 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Climbing Arborist Internship / Monroe, MI](https://jobright.ai/jobs/info/692cb4ae66796e3028f93482?utm_campaign=1048&utm_source=git)** | Monroe, MI | On Site | Nov 30 |
-| **[Sierra Pacific Industries](http://www.spi-ind.com)** | **[Machinist Intern](https://jobright.ai/jobs/info/692cb4664c474121999d0710?utm_campaign=1048&utm_source=git)** | Shelton, WA | On Site | Nov 30 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, R&D Graduate Summer - MARTIANS, Onsite](https://jobright.ai/jobs/info/691663d59c388539cbdfaa11?utm_campaign=1048&utm_source=git)** | Albuquerque, NM | Hybrid | Nov 30 |
 | **[The AES Corporation](http://www.aes.com)** | **[Intern/Co-Op Engineer - Summer 2026](https://jobright.ai/jobs/info/6928b7ad91ceeb2e8a5463d0?utm_campaign=1048&utm_source=git)** | Dayton, OH | On Site | Nov 30 |
 | **[MechNova](mechnova.us)** | **[Process Engineer Intern](https://jobright.ai/jobs/info/692c9b2666796e3028f9320c?utm_campaign=1048&utm_source=git)** | Ada, MI | Remote | Nov 30 |
-| ↳ | **[Systems Engineer Internship, Summer 2026 (42276)](https://jobright.ai/jobs/info/692c9ae666796e3028f931ec?utm_campaign=1048&utm_source=git)** | Ada, MI | Remote | Nov 30 |
 | **[Kiewit](http://www.kiewit.com)** | **[Structural Engineer Intern - Kiewit Nuclear Solutions](https://jobright.ai/jobs/info/68d87d397796a83635f117fe?utm_campaign=1048&utm_source=git)** | Oak Ridge, TN | On Site | Nov 30 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Network Strategy & Solutions)](https://jobright.ai/jobs/info/691ccd54ff7024498416a77e?utm_campaign=1048&utm_source=git)** | Winchester, VA | Hybrid | Nov 30 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Civil Engineer Intern - Water](https://jobright.ai/jobs/info/68d7666f295f8e37655d7e45?utm_campaign=1048&utm_source=git)** | Coral Springs, FL | Hybrid | Nov 30 |
@@ -80,8 +85,7 @@ For a complete list, click the following sortable link below:
 | **[MKS Inc.](https://www.mks.com)** | **[2026 Spring Manufacturing Engineer Undergraduate Intern/Co-op](https://jobright.ai/jobs/info/691dbd9361dc50590a649a9f?utm_campaign=1048&utm_source=git)** | Richmond, British Columbia, Canada | On Site | Nov 30 |
 | **[Kiewit](http://www.kiewit.com)** | **[Structural Design Intern - Kiewit Nuclear Solutions](https://jobright.ai/jobs/info/68d87d46c9952514e1e95850?utm_campaign=1048&utm_source=git)** | Oak Ridge, TN | On Site | Nov 30 |
 | ↳ | **[Electrical Design Intern - Kiewit Nuclear Solutions](https://jobright.ai/jobs/info/68d87d527796a83635f11837?utm_campaign=1048&utm_source=git)** | Oak Ridge, TN | On Site | Nov 30 |
-| **[Structonix](structonix.us)** | **[Process Engineer Intern](https://jobright.ai/jobs/info/692c780afa28370be269b1e4?utm_campaign=1048&utm_source=git)** | Ada, MI | Remote | Nov 30 |
-| **[Kiewit](http://www.kiewit.com)** | **[Instrumentation & Controls Engineer Intern - Kiewit Nuclear Solutions](https://jobright.ai/jobs/info/68f8b00fa628d10664e85378?utm_campaign=1048&utm_source=git)** | Oak Ridge, TN | On Site | Nov 30 |
+| ↳ | **[Instrumentation & Controls Engineer Intern - Kiewit Nuclear Solutions](https://jobright.ai/jobs/info/68f8b00fa628d10664e85378?utm_campaign=1048&utm_source=git)** | Oak Ridge, TN | On Site | Nov 30 |
 | **[Pepper Construction Group](http://www.pepperconstruction.com)** | **[Construction Quality Intern - Summer 2026 (Chicagoland)](https://jobright.ai/jobs/info/68bb93a65f3832749187067c?utm_campaign=1048&utm_source=git)** | Des Plaines, IL | On Site | Nov 30 |
 | **[Kiewit](http://www.kiewit.com)** | **[Instrumentation & Controls Engineer Intern - Kiewit Nuclear Solutions](https://jobright.ai/jobs/info/68f8a2ca4bafad6d2d764976?utm_campaign=1048&utm_source=git)** | Lenexa, KS | On Site | Nov 30 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Structural Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/68ce1a6d1ad6b16f028a1d99?utm_campaign=1048&utm_source=git)** | Valhalla, NY | Hybrid | Nov 30 |
@@ -111,8 +115,7 @@ For a complete list, click the following sortable link below:
 | **[Patel, Greene & Associates, LLC (PGA)](https://www.patelgreene.com/)** | **[STEP Intern](https://jobright.ai/jobs/info/68d702e9894705799a2efcf1?utm_campaign=1048&utm_source=git)** | Greater Tampa Bay Area | On Site | Nov 30 |
 | **[Dexter](https://www.dexteraxle.com/)** | **[Industrial Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69107f76183be660d2679364?utm_campaign=1048&utm_source=git)** | El Reno, OK | On Site | Nov 30 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Product Engineer Intern](https://jobright.ai/jobs/info/68f2d75a76a51a4307bc8b36?utm_campaign=1048&utm_source=git)** | Londonderry, NH | On Site | Nov 30 |
-| **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Purchasing](https://jobright.ai/jobs/info/69140f051465e02904e99e06?utm_campaign=1048&utm_source=git)** | Indianapolis, IN | On Site | Nov 30 |
-| ↳ | **[Future Builders Internship Program - Homebuilding - Land](https://jobright.ai/jobs/info/6922d47b38cd5478a8d55563?utm_campaign=1048&utm_source=git)** | Wayne, PA | On Site | Nov 30 |
+| **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Land](https://jobright.ai/jobs/info/6922d47b38cd5478a8d55563?utm_campaign=1048&utm_source=git)** | Wayne, PA | On Site | Nov 30 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Civil Engineering Intern- MME](https://jobright.ai/jobs/info/68f747d2aed0577b7e0503c0?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Nov 30 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Quality Assurance Intern (Summer 2026)](https://jobright.ai/jobs/info/68f2c28976a51a4307bc80b8?utm_campaign=1048&utm_source=git)** | Smithfield, UT | On Site | Nov 30 |
 | **[RS&H](http://www.rsandh.com/)** | **[Civil Engineering Intern (Highway) - Summer 2026](https://jobright.ai/jobs/info/689f79c0b3e889632cf076ee?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | Nov 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dexter](https://www.dexteraxle.com/)** | **[HSE Intern - Summer 2026](https://jobright.ai/jobs/info/68c663477d0db4114273959a?utm_campaign=1048&utm_source=git)** | Fremont, IN | On Site | Nov 30 |
 | **[Shure Incorporated](http://www.shure.com)** | **[FPGA Design Intern](https://jobright.ai/jobs/info/68ce713f846f0b04af679ec4?utm_campaign=1048&utm_source=git)** | Niles, IL | Hybrid | Nov 30 |
 | **[Dexter](https://www.dexteraxle.com/)** | **[Mechanical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/692c5c8266796e3028f92d8a?utm_campaign=1048&utm_source=git)** | Fremont, IN | On Site | Nov 30 |
-| **[Charter Manufacturing](http://chartermfg.com)** | **[Process Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/68cb7fbd9e3a822f5d2470d5?utm_campaign=1048&utm_source=git)** | Shawano, WI | On Site | Nov 30 |
-| **[Wayve](https://wayve.ai)** | **[Research Scientist Intern, Embodied Foundation Models (Evaluation)](https://jobright.ai/jobs/info/690f5fe2d046ab6061d04f62?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA | On Site | Nov 30 |
-| **[Copeland](https://www.copeland.com)** | **[2026 Advanced Manufacturing Engineering Internship Opportunities](https://jobright.ai/jobs/info/6906d695ff462851fe005986?utm_campaign=1048&utm_source=git)** | Sidney, OH | On Site | Nov 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
