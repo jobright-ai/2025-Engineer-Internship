@@ -57,7 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Conservation Research Intern](https://jobright.ai/jobs/info/692d2e1f4c474121999d119b?utm_campaign=1048&utm_source=git)** | Wake County, NC | On Site | Nov 30 |
+| **[Boardwalk Investments Group](https://www.boardwalkinvest.com)** | **[Intern, REO/Development](https://jobright.ai/jobs/info/692d47094c474121999d1422?utm_campaign=1048&utm_source=git)** | Costa Mesa, CA | On Site | Nov 30 |
+| **[AET](http://amengtest.com)** | **[Chemistry Intern - 2026 (St. Paul, MN)](https://jobright.ai/jobs/info/692d45c8fa28370be269c407?utm_campaign=1048&utm_source=git)** | St Paul, MN | On Site | Nov 30 |
+| **[Newport News Shipbuilding, A Division of HII](https://hii.com/)** | **[2026 ENGINEERING SUMMER INTERNSHIP - ENGRG INTERN](https://jobright.ai/jobs/info/692d42f766796e3028f940d3?utm_campaign=1048&utm_source=git)** | Goose Creek, SC | On Site | Nov 30 |
+| ↳ | **[2026 SUPPLY CHAIN SUMMER INTERNSHIP - SUPPLY CHAIN MGMT INTERN](https://jobright.ai/jobs/info/692d41fdfa28370be269c37d?utm_campaign=1048&utm_source=git)** | Goose Creek, SC | On Site | Nov 30 |
+| **[The GSI Group](http://thegsigroup.com/)** | **[Intern, Environmental](https://jobright.ai/jobs/info/692d3fb766796e3028f94072?utm_campaign=1048&utm_source=git)** | Assumption, IL | On Site | Nov 30 |
+| **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Analog Design](https://jobright.ai/jobs/info/692d3fa566796e3028f94066?utm_campaign=1048&utm_source=git)** | Rhode Island, United States | On Site | Nov 30 |
+| **[City of Bloomington, MN](http://bloomingtonmn.gov)** | **[Engineering Interns](https://jobright.ai/jobs/info/692d3c9e4c474121999d12d5?utm_campaign=1048&utm_source=git)** | Bloomington, MN | On Site | Nov 30 |
+| **[Simons Foundation](https://www.simonsfoundation.org)** | **[Summer Research Interns, Center for Computational Neuroscience](https://jobright.ai/jobs/info/692d39194c474121999d124e?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Nov 30 |
+| ↳ | **[Summer Research Interns, Initiative for Computational Catalysis](https://jobright.ai/jobs/info/692d37fbfa28370be269c241?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Nov 30 |
+| ↳ | **[Summer Research Interns, Center for Computational Biology](https://jobright.ai/jobs/info/692d37c9fa28370be269c236?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Nov 30 |
+| ↳ | **[Summer Research Interns, Center for Computational Mathematics](https://jobright.ai/jobs/info/692d361366796e3028f93f83?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Nov 30 |
+| ↳ | **[Summer Research Interns, Center for Computational Quantum Physics](https://jobright.ai/jobs/info/692d356566796e3028f93f63?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Nov 30 |
+| **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Lab Assistant Intern](https://jobright.ai/jobs/info/692d34e966796e3028f93f56?utm_campaign=1048&utm_source=git)** | Wake County, NC | On Site | Nov 30 |
+| ↳ | **[Field Biologist and GIS Mapping Intern](https://jobright.ai/jobs/info/692d31ac4c474121999d11ea?utm_campaign=1048&utm_source=git)** | Wake County, NC | On Site | Nov 30 |
+| ↳ | **[Coastal Reserve Research and Education Intern](https://jobright.ai/jobs/info/692d314ffa28370be269c1d3?utm_campaign=1048&utm_source=git)** | Beaufort Co Bridge Beaufort | On Site | Nov 30 |
+| ↳ | **[OSHA Safety and Health Compliance Officer Intern](https://jobright.ai/jobs/info/692d2f0166796e3028f93ef8?utm_campaign=1048&utm_source=git)** | Mecklenburg County, NC | On Site | Nov 30 |
+| ↳ | **[Conservation Research Intern](https://jobright.ai/jobs/info/692d2e1f4c474121999d119b?utm_campaign=1048&utm_source=git)** | Wake County, NC | On Site | Nov 30 |
 | **[Horizon Blue Cross Blue Shield of New Jersey](http://www.horizonblue.com)** | **[Cyber Security Intern](https://jobright.ai/jobs/info/692d2c0f66796e3028f93ec5?utm_campaign=1048&utm_source=git)** | Newark, NJ - Hybrid | Hybrid | Nov 30 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Mountain Area Field Biologist Intern](https://jobright.ai/jobs/info/692d2b52fa28370be269c15b?utm_campaign=1048&utm_source=git)** | Buncombe County, NC | On Site | Nov 30 |
 | ↳ | **[Sustainability Intern](https://jobright.ai/jobs/info/692d2b094c474121999d1148?utm_campaign=1048&utm_source=git)** | Wake County, NC | Hybrid | Nov 30 |
@@ -141,20 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kiewit](http://www.kiewit.com)** | **[Geotechnical Engineering Intern - Kiewit Infrastructure Engineers - Summer 2026 - Canada](https://jobright.ai/jobs/info/6916e8e99c388539cbdffbc2?utm_campaign=1048&utm_source=git)** | Oakville, Ontario, Canada | On Site | Nov 30 |
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Construction](https://jobright.ai/jobs/info/69199d2bbcdbf3560c9d6bd8?utm_campaign=1048&utm_source=git)** | Franklin, TN | On Site | Nov 30 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Process Engineering Intern](https://jobright.ai/jobs/info/68cb8871ba798c1a501d13c4?utm_campaign=1048&utm_source=git)** | Niles, IL | Hybrid | Nov 30 |
-| **[Meta](https://www.metacareers.com/)** | **[Research Scientist Intern, Audio, Machine Learning and Computer Vision (PhD)](https://jobright.ai/jobs/info/68d614f42116ff37ee092b14?utm_campaign=1048&utm_source=git)** | Redmond, WA | On Site | Nov 30 |
-| **[Marvell Technology](https://www.marvell.com/)** | **[Hardware Engineer Intern - Master's Degree](https://jobright.ai/jobs/info/692c606066796e3028f92dd6?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Nov 30 |
-| **[Skanska](http://skanska.com)** | **[Heavy Civil Infrastructure Summer 2026 Internship](https://jobright.ai/jobs/info/68bb818b8043103d4f2291c7?utm_campaign=1048&utm_source=git)** | Hyattsville, MD | On Site | Nov 30 |
-| **[Bloom Energy](http://www.bloomenergy.com)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/68d6177b1f7fb2169ab16958?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Nov 30 |
-| **[Copeland](https://www.copeland.com)** | **[2026 Design Engineer Intern](https://jobright.ai/jobs/info/68bb98928043103d4f229f31?utm_campaign=1048&utm_source=git)** | Sidney, OH | On Site | Nov 30 |
-| **[Skanska](http://skanska.com)** | **[Heavy Civil Infrastructure Summer 2026 Internship](https://jobright.ai/jobs/info/68bb828b8043103d4f2292c9?utm_campaign=1048&utm_source=git)** | Banks, NC | On Site | Nov 30 |
-| **[Buro Happold](http://www.burohappold.com)** | **[Mechanical Intern - New York (Summer 2026)](https://jobright.ai/jobs/info/68f2cd969a65fd34585812ac?utm_campaign=1048&utm_source=git)** | New York, United States | Hybrid | Nov 30 |
-| **[Shure Incorporated](http://www.shure.com)** | **[Electrical Engineering Intern (RF Development)](https://jobright.ai/jobs/info/68bd126e68300c452ca1809b?utm_campaign=1048&utm_source=git)** | Niles, IL | Hybrid | Nov 30 |
-| ↳ | **[Data Engineer Intern](https://jobright.ai/jobs/info/68fc475593c49825ab10b5d7?utm_campaign=1048&utm_source=git)** | Niles, IL | Hybrid | Nov 30 |
-| ↳ | **[Product Security Analyst Intern](https://jobright.ai/jobs/info/68cea9a3dbd9fb154ede1e89?utm_campaign=1048&utm_source=git)** | Skokie, IL | Hybrid | Nov 30 |
-| **[Charter Steel](http://www.chartersteel.com/)** | **[Materials Engineer Intern - Year Round](https://jobright.ai/jobs/info/6912cff2d1047e3565cfef16?utm_campaign=1048&utm_source=git)** | Cleveland, OH | On Site | Nov 30 |
-| **[Henkel](http://www.henkel.com)** | **[Product Development Intern, Packaging and Labeling Adhesives – Summer 2026](https://jobright.ai/jobs/info/68bb1b716105227d118a2fcf?utm_campaign=1048&utm_source=git)** | Bridgewater, NJ | On Site | Nov 30 |
-| **[Copeland](https://www.copeland.com)** | **[2026 Supplier Quality & Development Intern Opportunities](https://jobright.ai/jobs/info/68bb8b6e5f3832749187012c?utm_campaign=1048&utm_source=git)** | Sidney, OH | On Site | Nov 30 |
-| **[Henkel](http://www.henkel.com)** | **[Quality Assurance Intern – Summer 2026](https://jobright.ai/jobs/info/68bb72666105227d118a60a9?utm_campaign=1048&utm_source=git)** | Warren, MI | On Site | Nov 30 |
-| **[Skanska](http://skanska.com)** | **[Heavy Civil Infrastructure Summer 2026 Internship](https://jobright.ai/jobs/info/68bb867b5f3832749186fcf8?utm_campaign=1048&utm_source=git)** | Virginia Beach, VA | On Site | Nov 30 |
-| **[Buro Happold](http://www.burohappold.com)** | **[Plumbing & Fire Protection Intern - Los Angeles (Summer 2026)](https://jobright.ai/jobs/info/68f2cafe76a51a4307bc8635?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
