@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AstraZeneca](https://www.astrazeneca.com)** | **[Validation Intern (Undergraduate)](https://jobright.ai/jobs/info/69348b62a0dde7020e2f5c11?utm_campaign=1048&utm_source=git)** | Gaithersburg, MD | On Site | Dec 06 |
+| **[Nudura Insulated Concrete Forms](http://www.nudura.com/)** | **[Construction Internship Program](https://jobright.ai/jobs/info/6934a223a0dde7020e2f6023?utm_campaign=1048&utm_source=git)** | Rochester, NY | On Site | Dec 06 |
+| **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[Intern-Cyber Security](https://jobright.ai/jobs/info/693497c0764507023d1bd82d?utm_campaign=1048&utm_source=git)** | Chelmsford, MA | Remote | Dec 06 |
+| **[Northmere Solutions](https://www.linkedin.com/company/104898627)** | **[Intern, Power Electronics Engineer, Summer 2026](https://jobright.ai/jobs/info/69349539a0dde7020e2f5dc7?utm_campaign=1048&utm_source=git)** | Newark, CA | Remote | Dec 06 |
+| **[Washtenaw County Road Commission](https://www.wcroads.org)** | **[Engineering Internship - Construction & Design](https://jobright.ai/jobs/info/69348cdef131d96e4846b13f?utm_campaign=1048&utm_source=git)** | Ann Arbor, MI | On Site | Dec 06 |
+| **[AstraZeneca](https://www.astrazeneca.com)** | **[Small Molecule Bioscience Intern (Undergraduate)](https://jobright.ai/jobs/info/69348c74f131d96e4846b0cc?utm_campaign=1048&utm_source=git)** | Waltham, MA | On Site | Dec 06 |
+| **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Structural Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/69348bc2764507023d1bd653?utm_campaign=1048&utm_source=git)** | Fargo, ND | On Site | Dec 06 |
+| **[Mitsubishi Electric Research Laboratories](http://www.merl.com/)** | **[Internship - Physical Reasoning with Digital Twins](https://jobright.ai/jobs/info/69348a79a0dde7020e2f5bba?utm_campaign=1048&utm_source=git)** | Cambridge, MA | On Site | Dec 06 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Electrical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68c4559e14bb275ce01927a2?utm_campaign=1048&utm_source=git)** | Minneapolis, MN | Hybrid | Dec 06 |
 | **[JIO ROBOTICS Academy](www.jiorobotics.com)** | **[Sr DevOps Developer with AI-ML-DL skills Intern to Fulltime REMOTE/ONSITE](https://jobright.ai/jobs/info/693486fe764507023d1bd563?utm_campaign=1048&utm_source=git)** | Germantown, MD | Remote | Dec 06 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Plumbing Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68c45f0ee396b25cb5c6766e?utm_campaign=1048&utm_source=git)** | St Louis, MO | Hybrid | Dec 06 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Constellation](https://www.constellationenergy.com/)** | **[2026  Design Engineering Intern - Ontario, NY](https://jobright.ai/jobs/info/68c47e4214bb275ce0194054?utm_campaign=1048&utm_source=git)** | Ontario, NY | On Site | Dec 06 |
 | **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship - Research & Development (BS/MS)](https://jobright.ai/jobs/info/687ed5882097a271a8998327?utm_campaign=1048&utm_source=git)** | Midland, MI | On Site | Dec 06 |
 | **[Salas O'Brien](http://www.salasobrien.com/about/)** | **[Mechanical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68decc0ca125e75c422b6acc?utm_campaign=1048&utm_source=git)** | Eau Claire, WI | On Site | Dec 06 |
-| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Live Ops Summer Internship](https://jobright.ai/jobs/info/688ae140aab47a17f670c048?utm_campaign=1048&utm_source=git)** | Cold Spring, MN | On Site | Dec 06 |
-| **[Lakeside Foods, Inc.](https://www.lakesidefoods.com)** | **[Quality Assurance Food Safety Intern](https://jobright.ai/jobs/info/69348745a0dde7020e2f5b66?utm_campaign=1048&utm_source=git)** | Manitowoc, WI | On Site | Dec 06 |
-| ↳ | **[Corporate Fp&a Intern](https://jobright.ai/jobs/info/69348708764507023d1bd569?utm_campaign=1048&utm_source=git)** | Manitowoc, WI | On Site | Dec 06 |
-| **[National Renewable Energy Laboratory](http://www.nrel.gov)** | **[Graduate Intern - Data Center Load Modeling for Transmission Planning Studies](https://jobright.ai/jobs/info/6917a9ab15b415636717a368?utm_campaign=1048&utm_source=git)** | Golden, CO | On Site | Dec 06 |
-| **[Fred Hutch](http://www.fredhutch.org)** | **[Intern, Graduate Student - Temporary Part Time](https://jobright.ai/jobs/info/6917e4a0bcdbf3560c9cc641?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Dec 06 |
-| **[Siemens](https://www.siemens.com)** | **[Building Automation Systems Specialist Internship](https://jobright.ai/jobs/info/6918026b45fb6f5ead8a0d94?utm_campaign=1048&utm_source=git)** | Beltsville, MD | On Site | Dec 06 |
-| **[Marvell Technology](https://www.marvell.com/)** | **[Signal Integrity Engineer Intern (Cloud Platform Optics) - Master's Degree](https://jobright.ai/jobs/info/6917f3aebcdbf3560c9ccf23?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Dec 06 |
-| **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Traffic Planning - Civil Engineering Intern](https://jobright.ai/jobs/info/6918798445fb6f5ead8a5824?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | Hybrid | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
