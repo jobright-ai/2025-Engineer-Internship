@@ -57,12 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Applications Engineer](https://jobright.ai/jobs/info/6935d1be764507023d1c11fc?utm_campaign=1048&utm_source=git)** | Rhode Island, United States | On Site | Dec 07 |
+| **[Mechronix](mechronix.us)** | **[Mechanical Engineering Internship Opportunities](https://jobright.ai/jobs/info/6935cf22f131d96e4846f10f?utm_campaign=1048&utm_source=git)** | Sidney, OH | Remote | Dec 07 |
+| **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Transmission & Distribution Engineer Intern - Grid (Summer 2026)](https://jobright.ai/jobs/info/68c4c21231e5763f188e343c?utm_campaign=1048&utm_source=git)** | Columbus, OH | Hybrid | Dec 07 |
+| **[Black & Veatch](http://bv.com/Home)** | **[Electrical Engineer Intern - Water & Wastewater](https://jobright.ai/jobs/info/68e148f9b99ec3563b0d6ff8?utm_campaign=1048&utm_source=git)** | Overland Park, KS | Hybrid | Dec 07 |
+| **[WSP in the U.S.](http://www.ccrd.com)** | **[Mechanical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68c59b30c96a22563ece97b1?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Dec 07 |
+| **[Walter P Moore](http://www.walterpmoore.com)** | **[Structural Intern](https://jobright.ai/jobs/info/6800cb20364c6b79ecc0bce1?utm_campaign=1048&utm_source=git)** | Kansas City, MO | On Site | Dec 07 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Energy/Security Technician](https://jobright.ai/jobs/info/6935bfe5a0dde7020e2f94d7?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Dec 07 |
 | **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship - Research & Development (BS/MS)](https://jobright.ai/jobs/info/68c74d847d0db4114273bdff?utm_campaign=1048&utm_source=git)** | Carrollton, KY | On Site | Dec 07 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Diagnostics Intern](https://jobright.ai/jobs/info/68eb871276a1db7c59860a87?utm_campaign=1048&utm_source=git)** | Kansas City, MO | On Site | Dec 07 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[INTERN/CO-OP - Spring 2026 - Environmental](https://jobright.ai/jobs/info/691d7e5f0b7dff7341503f8f?utm_campaign=1048&utm_source=git)** | Filer City, MI | On Site | Dec 07 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Electrical Engineer Intern - Substation](https://jobright.ai/jobs/info/6919f36545fb6f5ead8aac06?utm_campaign=1048&utm_source=git)** | Bloomington, MN | Hybrid | Dec 07 |
-| **[Pinnova](https://www.linkedin.com/company/87987033)** | **[Intern, Cyber Security](https://jobright.ai/jobs/info/6935b99ff131d96e4846eeb8?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | Remote | Dec 07 |
 | **[StructaLink Group](structalinkgroup.us)** | **[Sustainability Intern - Summer 2026](https://jobright.ai/jobs/info/6935b90ff131d96e4846ee9d?utm_campaign=1048&utm_source=git)** | Calhoun, GA | Remote | Dec 07 |
 | **[Analog Devices](http://www.analog.com)** | **[Robot Learning Intern (PhD)](https://jobright.ai/jobs/info/6901d203d5259a1b3cff8090?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | Dec 07 |
 | **[Hexagon's Autonomy & Positioning division](https://www.hexagonpositioning.com)** | **[Systems Engineering Intern](https://jobright.ai/jobs/info/6918ada6bcdbf3560c9d330e?utm_campaign=1048&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 07 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ayres Associates](http://ayresassociates.com)** | **[Intern - Electrical Designer](https://jobright.ai/jobs/info/68fbbe534129dd33cd134514?utm_campaign=1048&utm_source=git)** | Burbank, CA | On Site | Dec 07 |
 | **[MechNova](mechnova.us)** | **[Intern, Test Engineering](https://jobright.ai/jobs/info/693593aaa0dde7020e2f907c?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | Remote | Dec 07 |
 | **[Constellation](https://www.constellationenergy.com/)** | **[Power Technical Intern - Granbury, TX](https://jobright.ai/jobs/info/68c334745adaee6c9bda8446?utm_campaign=1048&utm_source=git)** | Granbury, TX | On Site | Dec 07 |
-| ↳ | **[Power Engineering Intern - MD](https://jobright.ai/jobs/info/68c4d79231e5763f188e40e0?utm_campaign=1048&utm_source=git)** | Darlington, MD | On Site | Dec 07 |
-| ↳ | **[Power Engineering Intern - Eddystone, PA](https://jobright.ai/jobs/info/68c8ef98f9c6ff7aedf14dc5?utm_campaign=1048&utm_source=git)** | Eddystone, PA | On Site | Dec 07 |
-| **[Fugro](http://www.fugro.com)** | **[Summer internship 2026](https://jobright.ai/jobs/info/68cca860128dc347fd927c27?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Dec 07 |
-| **[Matter + Energy](www.matternenergy.com)** | **[Data & Automation Trainee](https://jobright.ai/jobs/info/69359102f131d96e4846e962?utm_campaign=1048&utm_source=git)** | Virginia, United States | Remote | Dec 07 |
-| **[RaganSmith](http://www.ragansmith.com/)** | **[Survey Intern](https://jobright.ai/jobs/info/68c472c814bb275ce019396b?utm_campaign=1048&utm_source=git)** | Nashville, TN | On Site | Dec 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
