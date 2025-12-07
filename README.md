@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - IT – Service Center Engineer – I.A.M.](https://jobright.ai/jobs/info/6934de2ba0dde7020e2f67a1?utm_campaign=1048&utm_source=git)** | St Charles, MO | On Site | Dec 06 |
+| **[OTTO Engineering, Inc.](http://www.ottoexcellence.com)** | **[Mechanical Engineer Internship – Controls](https://jobright.ai/jobs/info/6934d21d764507023d1be016?utm_campaign=1048&utm_source=git)** | Carpentersville, IL | On Site | Dec 06 |
+| **[Pinterest Engineering](https://www.pinterestcareers.com/)** | **[IT Systems Engineer Intern](https://jobright.ai/jobs/info/6934cc6fa0dde7020e2f6489?utm_campaign=1048&utm_source=git)** | Remote, US | Remote | Dec 06 |
 | **[Eurofins BioPharma Product Testing North America](https://www.eurofinsus.com/bpt)** | **[Sample Handling Intern](https://jobright.ai/jobs/info/6934a9eea0dde7020e2f6171?utm_campaign=1048&utm_source=git)** | Lancaster, PA | On Site | Dec 06 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Validation Intern (Undergraduate)](https://jobright.ai/jobs/info/69348b62a0dde7020e2f5c11?utm_campaign=1048&utm_source=git)** | Gaithersburg, MD | On Site | Dec 06 |
 | **[Nudura Insulated Concrete Forms](http://www.nudura.com/)** | **[Construction Internship Program](https://jobright.ai/jobs/info/6934a223a0dde7020e2f6023?utm_campaign=1048&utm_source=git)** | Rochester, NY | On Site | Dec 06 |
@@ -84,8 +87,8 @@ For a complete list, click the following sortable link below:
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Mechanical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68cfffdf846f0b04af686e85?utm_campaign=1048&utm_source=git)** | Minneapolis, MN | Hybrid | Dec 06 |
 | **[Fortis Construction, Inc.](http://fortisconstruction.com)** | **[Safety Engineer Internship](https://jobright.ai/jobs/info/6917d11145fb6f5ead89edf7?utm_campaign=1048&utm_source=git)** | Reno, NV | On Site | Dec 06 |
 | **[Honeywell](http://www.honeywell.com)** | **[Engineering Intern - Test](https://jobright.ai/jobs/info/6918000b15b415636717db27?utm_campaign=1048&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Dec 06 |
-| **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Enterprise Data & Architecture (Hybrid)](https://jobright.ai/jobs/info/68fce5d1e04ac838fb5ad8f9?utm_campaign=1048&utm_source=git)** | Raleigh, NC | Hybrid | Dec 06 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Electrical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68d0d8fc17bd5d3415aa7006?utm_campaign=1048&utm_source=git)** | St Louis, MO | Hybrid | Dec 06 |
+| **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Enterprise Data & Architecture (Hybrid)](https://jobright.ai/jobs/info/68fce874e04ac838fb5ada51?utm_campaign=1048&utm_source=git)** | Raleigh, NC | Hybrid | Dec 06 |
 | **[Lakeside Foods, Inc.](https://www.lakesidefoods.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/693474fca0dde7020e2f579e?utm_campaign=1048&utm_source=git)** | Manitowoc, WI | On Site | Dec 06 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2026 AI Science Intern](https://jobright.ai/jobs/info/68fc0c1793c49825ab10937d?utm_campaign=1048&utm_source=git)** | Mountain View, CA | On Site | Dec 06 |
 | **[Carrier](https://www.corporate.carrier.com)** | **[Chemical Materials Engineering Intern -  Summer](https://jobright.ai/jobs/info/6931fc5cd0010831497bdd20?utm_campaign=1048&utm_source=git)** | Indianapolis, IN | On Site | Dec 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Egan Company](https://www.eganco.com/)** | **[Assistant Estimator Intern - Summer 2026](https://jobright.ai/jobs/info/68fbd790f55bb021a889d0e5?utm_campaign=1048&utm_source=git)** | Champlin, MN | Hybrid | Dec 06 |
 | **[American Modern Insurance Group](https://www.amig.com/)** | **[AI Innovation Intern](https://jobright.ai/jobs/info/691767b6370fde633d07fb08?utm_campaign=1048&utm_source=git)** | Cincinnati Metro | Hybrid | Dec 06 |
 | **[Constellation](https://www.constellationenergy.com/)** | **[2026  Design Engineering Intern - Ontario, NY](https://jobright.ai/jobs/info/68c47e4214bb275ce0194054?utm_campaign=1048&utm_source=git)** | Ontario, NY | On Site | Dec 06 |
-| **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship - Research & Development (BS/MS)](https://jobright.ai/jobs/info/687ed5882097a271a8998327?utm_campaign=1048&utm_source=git)** | Midland, MI | On Site | Dec 06 |
-| **[Salas O'Brien](http://www.salasobrien.com/about/)** | **[Mechanical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68decc0ca125e75c422b6acc?utm_campaign=1048&utm_source=git)** | Eau Claire, WI | On Site | Dec 06 |
-| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Live Ops Summer Internship](https://jobright.ai/jobs/info/688ae140aab47a17f670c048?utm_campaign=1048&utm_source=git)** | Cold Spring, MN | On Site | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
