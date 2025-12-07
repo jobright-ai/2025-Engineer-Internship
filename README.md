@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Eurofins BioPharma Product Testing North America](https://www.eurofinsus.com/bpt)** | **[Sample Handling Intern](https://jobright.ai/jobs/info/6934a9eea0dde7020e2f6171?utm_campaign=1048&utm_source=git)** | Lancaster, PA | On Site | Dec 06 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Validation Intern (Undergraduate)](https://jobright.ai/jobs/info/69348b62a0dde7020e2f5c11?utm_campaign=1048&utm_source=git)** | Gaithersburg, MD | On Site | Dec 06 |
 | **[Nudura Insulated Concrete Forms](http://www.nudura.com/)** | **[Construction Internship Program](https://jobright.ai/jobs/info/6934a223a0dde7020e2f6023?utm_campaign=1048&utm_source=git)** | Rochester, NY | On Site | Dec 06 |
-| **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[Intern-Cyber Security](https://jobright.ai/jobs/info/693497c0764507023d1bd82d?utm_campaign=1048&utm_source=git)** | Chelmsford, MA | Remote | Dec 06 |
 | **[Northmere Solutions](https://www.linkedin.com/company/104898627)** | **[Intern, Power Electronics Engineer, Summer 2026](https://jobright.ai/jobs/info/69349539a0dde7020e2f5dc7?utm_campaign=1048&utm_source=git)** | Newark, CA | Remote | Dec 06 |
 | **[Washtenaw County Road Commission](https://www.wcroads.org)** | **[Engineering Internship - Construction & Design](https://jobright.ai/jobs/info/69348cdef131d96e4846b13f?utm_campaign=1048&utm_source=git)** | Ann Arbor, MI | On Site | Dec 06 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Small Molecule Bioscience Intern (Undergraduate)](https://jobright.ai/jobs/info/69348c74f131d96e4846b0cc?utm_campaign=1048&utm_source=git)** | Waltham, MA | On Site | Dec 06 |
@@ -117,7 +117,6 @@ For a complete list, click the following sortable link below:
 | **[Regal Rexnord](https://www.regalrexnord.com)** | **[Information Technology Summer Internship](https://jobright.ai/jobs/info/69142f2fd1047e3565d0993e?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | On Site | Dec 06 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Hull - Master Tradesperson (SkillBridge Intern) - 18124](https://jobright.ai/jobs/info/691ad53615b415636718af69?utm_campaign=1048&utm_source=git)** | Norfolk, VA | On Site | Dec 06 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Live Ops Summer Internship](https://jobright.ai/jobs/info/68cddaaf1ad6b16f0289f789?utm_campaign=1048&utm_source=git)** | Live Oak, FL | On Site | Dec 06 |
-| **[Teachers Federal Credit Union](http://www.teachersfcu.org)** | **[2026 Internship Program IT roles](https://jobright.ai/jobs/info/6917f731bcdbf3560c9cd166?utm_campaign=1048&utm_source=git)** | Hauppauge, NY | On Site | Dec 06 |
 | **[Carrier](https://www.corporate.carrier.com)** | **[Quality Engineering Intern - Summer](https://jobright.ai/jobs/info/69346888a0dde7020e2f55c8?utm_campaign=1048&utm_source=git)** | Athens, GA | On Site | Dec 06 |
 | **[Powell](http://www.powellind.com)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/693467fb764507023d1bcfb6?utm_campaign=1048&utm_source=git)** | Greater Chicago Area | On Site | Dec 06 |
 | **[Carrier](https://www.corporate.carrier.com)** | **[Manufacturing Engineering Intern - Summer](https://jobright.ai/jobs/info/69346798764507023d1bcfa1?utm_campaign=1048&utm_source=git)** | Charlotte, NC | On Site | Dec 06 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Constellation](https://www.constellationenergy.com/)** | **[2026  Design Engineering Intern - Ontario, NY](https://jobright.ai/jobs/info/68c47e4214bb275ce0194054?utm_campaign=1048&utm_source=git)** | Ontario, NY | On Site | Dec 06 |
 | **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship - Research & Development (BS/MS)](https://jobright.ai/jobs/info/687ed5882097a271a8998327?utm_campaign=1048&utm_source=git)** | Midland, MI | On Site | Dec 06 |
 | **[Salas O'Brien](http://www.salasobrien.com/about/)** | **[Mechanical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68decc0ca125e75c422b6acc?utm_campaign=1048&utm_source=git)** | Eau Claire, WI | On Site | Dec 06 |
+| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Live Ops Summer Internship](https://jobright.ai/jobs/info/688ae140aab47a17f670c048?utm_campaign=1048&utm_source=git)** | Cold Spring, MN | On Site | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
