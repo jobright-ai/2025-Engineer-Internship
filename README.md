@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Cadence](https://www.cadence.com)** | **[Design Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/6934f972764507023d1be97e?utm_campaign=1048&utm_source=git)** | SAN JOSE | On Site | Dec 06 |
-| **[Interlinked](https://interlynked.wixstudio.com/interlinked)** | **[Artificial Intelligence Intern](https://jobright.ai/jobs/info/6934f970a0dde7020e2f6e54?utm_campaign=1048&utm_source=git)** | United States | Remote | Dec 06 |
+| **[Electric Power Engineers](https://www.epeconsulting.com)** | **[Power System Engineer Intern - Summer](https://jobright.ai/jobs/info/69350eeba0dde7020e2f74bd?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Dec 06 |
+| **[Lumafield](https://www.lumafield.com)** | **[Engineering Intern, Electrical](https://jobright.ai/jobs/info/692921f991ceeb2e8a5470a5?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | Dec 06 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Research and Development Intern](https://jobright.ai/jobs/info/6935036cf131d96e4846c7e7?utm_campaign=1048&utm_source=git)** | South San Francisco, CA | On Site | Dec 06 |
+| **[Toyota Research Institute](http://www.tri.global)** | **[Robotics Intern - Dynamics and Simulation](https://jobright.ai/jobs/info/6935035ef131d96e4846c7e2?utm_campaign=1048&utm_source=git)** | Cambridge, MA | Hybrid | Dec 06 |
+| **[Lightmatter](https://lightmatter.co)** | **[Photonics Layout and Design, Intern](https://jobright.ai/jobs/info/690d7ee8d046ab6061cf6b10?utm_campaign=1048&utm_source=git)** | Mountain View, CA | Hybrid | Dec 06 |
+| **[Cadence](https://www.cadence.com)** | **[Design Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/6934fc83764507023d1beabd?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Dec 06 |
+| ↳ | **[Design Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/6934f8f8764507023d1be956?utm_campaign=1048&utm_source=git)** | SAN JOSE | On Site | Dec 06 |
 | **[Landscape Forms](https://www.landscapeforms.com)** | **[Product Engineering CAD Intern - Starting in January](https://jobright.ai/jobs/info/6926211af0beb0723262255f?utm_campaign=1048&utm_source=git)** | Kalamazoo, MI | On Site | Dec 06 |
 | **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Intern - Supply Chain and Manufacturing](https://jobright.ai/jobs/info/6934ed45a0dde7020e2f6a44?utm_campaign=1048&utm_source=git)** | Boulder, CO | Hybrid | Dec 06 |
 | **[BGE, Inc.](https://www.bgeinc.com)** | **[FRISCO - Environmental, Internship](https://jobright.ai/jobs/info/68cd18e31ad6b16f02894ca0?utm_campaign=1048&utm_source=git)** | 2595 Dallas Pkwy., Suite 101, Frisco, Texas 75034 | On Site | Dec 06 |
@@ -118,7 +123,6 @@ For a complete list, click the following sortable link below:
 | **[Marvell Technology](https://www.marvell.com/)** | **[AI Platform Engineer Intern (Agentic) - Master's Degree](https://jobright.ai/jobs/info/692d2bea4c474121999d116f?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Dec 06 |
 | **[RDO Truck Centers](https://www.rdotruckcenter.com)** | **[Intern](https://jobright.ai/jobs/info/68240a58baafd6a8ba106af5?utm_campaign=1048&utm_source=git)** | Davenport, IA | On Site | Dec 06 |
 | **[Henkel](http://www.henkel.com)** | **[Application Engineering Intern, Colors – Summer 2026](https://jobright.ai/jobs/info/68cc15ab16d00d2beeb19744?utm_campaign=1048&utm_source=git)** | Rocky Hill, CT | On Site | Dec 06 |
-| **[Ferrovias](ferrovias.us)** | **[Intern, Mechanical Engineering](https://jobright.ai/jobs/info/69346abef131d96e4846aa11?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | Remote | Dec 06 |
 | **[Electronic Arts (EA)](https://www.ea.com)** | **[AI Engineer Intern](https://jobright.ai/jobs/info/6933e1c4f131d96e48467f52?utm_campaign=1048&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Dec 06 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Interior Communications - Master Tradesperson (SkillBridge Intern) - 18125](https://jobright.ai/jobs/info/691ac41515b415636718a75b?utm_campaign=1048&utm_source=git)** | Norfolk, VA | On Site | Dec 06 |
 | **[Regal Rexnord](https://www.regalrexnord.com)** | **[Information Technology Summer Internship](https://jobright.ai/jobs/info/69142f2fd1047e3565d0993e?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | On Site | Dec 06 |
@@ -136,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[Constellation](https://www.constellationenergy.com/)** | **[2026 Strategic/Systems Engineering Intern - Cordova, IL](https://jobright.ai/jobs/info/68cf95c8dbd9fb154ede8ed6?utm_campaign=1048&utm_source=git)** | Cordova, IL | On Site | Dec 06 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2026 AI Research Intern](https://jobright.ai/jobs/info/68fc122693c49825ab109765?utm_campaign=1048&utm_source=git)** | Mountain View, CA | On Site | Dec 06 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Live Ops Summer Internship](https://jobright.ai/jobs/info/688ae0459f961617fe21ec98?utm_campaign=1048&utm_source=git)** | Douglas, GA | On Site | Dec 06 |
-| **[Pinnova](https://www.linkedin.com/company/87987033)** | **[Manufacturing Engineering Internship Opportunities](https://jobright.ai/jobs/info/69345e8f764507023d1bcd9d?utm_campaign=1048&utm_source=git)** | Mayfield Heights, OH | Remote | Dec 06 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Intern - Network Engineer (Enterprise Mobility IT), Summer 2026](https://jobright.ai/jobs/info/6933a490f131d96e48465339?utm_campaign=1048&utm_source=git)** | St Louis, MO | Hybrid | Dec 06 |
 | **[BinkleyBarfield | DCCM](http://www.binkleybarfield.DCCM.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/68fbf31df55bb021a889e6e6?utm_campaign=1048&utm_source=git)** | Texas, United States | On Site | Dec 06 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Structural Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68fa94bfb2c86843bf20fa2d?utm_campaign=1048&utm_source=git)** | Portland, OR | Hybrid | Dec 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[National Renewable Energy Laboratory](http://www.nrel.gov)** | **[Graduate (3-12 month) Intern - Artificial Intelligence for Power System Operations](https://jobright.ai/jobs/info/6917ee58bcdbf3560c9ccbba?utm_campaign=1048&utm_source=git)** | United States | Remote | Dec 06 |
 | **[STV](http://www.stvinc.com/)** | **[Summer 2026 - Transportation Intern](https://jobright.ai/jobs/info/68c22ffc4d652f044775dac0?utm_campaign=1048&utm_source=git)** | Charlotte, NC | Hybrid | Dec 06 |
 | **[Howmet Aerospace](https://www.howmet.com/)** | **[Intern - Manufacturing Engineering (Summer 2026)](https://jobright.ai/jobs/info/69179cc0bcdbf3560c9c95fd?utm_campaign=1048&utm_source=git)** | Cleveland, OH | On Site | Dec 06 |
-| **[Terracon](https://www.terracon.com/about/foundation/)** | **[Facilities MEP Intern](https://jobright.ai/jobs/info/6934591e764507023d1bccd9?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Dec 06 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Structural Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68fa8fca67272b29af730eb2?utm_campaign=1048&utm_source=git)** | Tacoma, WA | Hybrid | Dec 06 |
-| **[Egan Company](https://www.eganco.com/)** | **[Assistant Estimator Intern - Summer 2026](https://jobright.ai/jobs/info/68fbd790f55bb021a889d0e5?utm_campaign=1048&utm_source=git)** | Champlin, MN | Hybrid | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
