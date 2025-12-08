@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sierra Pacific Industries](http://www.spi-ind.com)** | **[Engineer Intern - Design](https://jobright.ai/jobs/info/69364463a0dde7020e2fa7e6?utm_campaign=1048&utm_source=git)** | Medford, WI | On Site | Dec 07 |
+| **[Analog Devices](http://www.analog.com)** | **[Emerging Technology Analyst Intern](https://jobright.ai/jobs/info/69363eb3f131d96e48470289?utm_campaign=1048&utm_source=git)** | Wilmington, MA | On Site | Dec 07 |
+| **[UPMC](https://www.upmc.com/)** | **[Student - Pharmacy Intern](https://jobright.ai/jobs/info/693634e6f131d96e4846fddd?utm_campaign=1048&utm_source=git)** | Altoona, PA | On Site | Dec 07 |
 | **[Reshy.io](https://reshy.io/)** | **[Beta Tester (Internship Consideration)](https://jobright.ai/jobs/info/69362a21a0dde7020e2fa010?utm_campaign=1048&utm_source=git)** | United States | Remote | Dec 07 |
 | **[Assay Biotech Inc.](http://www.assaybiotechnology.com)** | **[Biology Intern](https://jobright.ai/jobs/info/69362745764507023d1c1b3d?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Dec 07 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Analog Design](https://jobright.ai/jobs/info/693623c1764507023d1c1a46?utm_campaign=1048&utm_source=git)** | Rhode Island, United States | On Site | Dec 07 |
@@ -82,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Diagnostics Intern](https://jobright.ai/jobs/info/68eb871276a1db7c59860a87?utm_campaign=1048&utm_source=git)** | Kansas City, MO | On Site | Dec 07 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[INTERN/CO-OP - Spring 2026 - Environmental](https://jobright.ai/jobs/info/691d7e5f0b7dff7341503f8f?utm_campaign=1048&utm_source=git)** | Filer City, MI | On Site | Dec 07 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Electrical Engineer Intern - Substation](https://jobright.ai/jobs/info/6919f36545fb6f5ead8aac06?utm_campaign=1048&utm_source=git)** | Bloomington, MN | Hybrid | Dec 07 |
-| **[StructaLink Group](structalinkgroup.us)** | **[Sustainability Intern - Summer 2026](https://jobright.ai/jobs/info/6935b90ff131d96e4846ee9d?utm_campaign=1048&utm_source=git)** | Calhoun, GA | Remote | Dec 07 |
 | **[Analog Devices](http://www.analog.com)** | **[Robot Learning Intern (PhD)](https://jobright.ai/jobs/info/6901d203d5259a1b3cff8090?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | Dec 07 |
 | **[Hexagon's Autonomy & Positioning division](https://www.hexagonpositioning.com)** | **[Systems Engineering Intern](https://jobright.ai/jobs/info/6918ada6bcdbf3560c9d330e?utm_campaign=1048&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 07 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Plumbing Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68c8e63b983e6768bc553762?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Dec 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[OHM Advisors](http://ohm-advisors.com)** | **[Civil Engineering Intern (Hiring for May 2026) - Ohio](https://jobright.ai/jobs/info/68ccdb7b77add66568abae7d?utm_campaign=1048&utm_source=git)** | Akron metropolitan area, OH | On Site | Dec 07 |
 | ↳ | **[Civil Engineering Intern (Hiring for May 2026) - Michigan](https://jobright.ai/jobs/info/68a8bfe5d627244576e353b6?utm_campaign=1048&utm_source=git)** | Fenton, MI | On Site | Dec 07 |
 | **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Construction Development Internship](https://jobright.ai/jobs/info/68ad91b5daf1431824c9d321?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | Dec 07 |
-| **[Dassault Falcon Jet](http://www.dassaultfalcon.com)** | **[Summer Intern - Electrical Engineering](https://jobright.ai/jobs/info/68e0163ab99ec3563b0cb955?utm_campaign=1048&utm_source=git)** | Arkansas, United States | On Site | Dec 07 |
-| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[Validation Engineering Intern](https://jobright.ai/jobs/info/6935ef90f131d96e4846f57e?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Dec 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
