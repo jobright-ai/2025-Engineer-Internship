@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Electrical Engineer Intern - Bachelor's (Austin, TX)](https://jobright.ai/jobs/info/6936843fa0dde7020e2fc0a6?utm_campaign=1048&utm_source=git)** | Austin,TX | On Site | Dec 07 |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship / Arnold, MO](https://jobright.ai/jobs/info/6936a0d744eb324fb785ccb6?utm_campaign=1048&utm_source=git)** | St Louis, MO | On Site | Dec 08 |
+| **[Otter Tail Power Company](https://www.otpco.com/)** | **[Civil/Mechanical Engineering Intern](https://jobright.ai/jobs/info/6936a025a0dde7020e2fca05?utm_campaign=1048&utm_source=git)** | Fergus Falls, MN | On Site | Dec 08 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Quality Intern](https://jobright.ai/jobs/info/6936963944eb324fb785ca12?utm_campaign=1048&utm_source=git)** | Logan, UT | On Site | Dec 08 |
+| **[Carroll County Government, MD](https://www.carrollcountymd.gov/)** | **[Water Treatment Apprentice Operator, I or II](https://jobright.ai/jobs/info/6936954f1c1c2161c13edd0d?utm_campaign=1048&utm_source=git)** | Westminster, MD | On Site | Dec 08 |
+| **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Electrical Engineer Intern - BS or MS (Austin, TX)](https://jobright.ai/jobs/info/6936843fa0dde7020e2fc0a6?utm_campaign=1048&utm_source=git)** | Austin,TX | On Site | Dec 08 |
+| **[Minnesota Limited](http://www.mnlimited.com)** | **[Engineering Intern - Shakopee](https://jobright.ai/jobs/info/6936903044eb324fb785c76a?utm_campaign=1048&utm_source=git)** | Shakopee, MN | On Site | Dec 08 |
+| **[Ingersoll Rand](https://www.irco.com/en-us/)** | **[AI Engineer 2026 Internship](https://jobright.ai/jobs/info/69368e2f44eb324fb785c6f1?utm_campaign=1048&utm_source=git)** | Davidson, NC | On Site | Dec 08 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Student Intern - Aeronautics](https://jobright.ai/jobs/info/69367d48a0dde7020e2fbfb8?utm_campaign=1048&utm_source=git)** | Lincoln, NE | On Site | Dec 07 |
 | **[CDM Smith](https://www.cdmsmith.com)** | **[Construction Representative Intern (Summer 2026!)](https://jobright.ai/jobs/info/69333cef764507023d1b34d4?utm_campaign=1048&utm_source=git)** | St Paul, MN | On Site | Dec 07 |
 | **[MechSpire](https://www.linkedin.com/company/92823876)** | **[2026 Summer Facilities Engineering Intern (R14513)](https://jobright.ai/jobs/info/69367439764507023d1c36e4?utm_campaign=1048&utm_source=git)** | Haverhill, MA | Remote | Dec 07 |
@@ -77,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Sierra Pacific Industries](http://www.spi-ind.com)** | **[Engineer Intern - Design](https://jobright.ai/jobs/info/69364463a0dde7020e2fa7e6?utm_campaign=1048&utm_source=git)** | Medford, WI | On Site | Dec 07 |
 | **[Analog Devices](http://www.analog.com)** | **[Emerging Technology Analyst Intern](https://jobright.ai/jobs/info/69363eb3f131d96e48470289?utm_campaign=1048&utm_source=git)** | Wilmington, MA | On Site | Dec 07 |
 | **[UPMC](https://www.upmc.com/)** | **[Student - Pharmacy Intern](https://jobright.ai/jobs/info/693634e6f131d96e4846fddd?utm_campaign=1048&utm_source=git)** | Altoona, PA | On Site | Dec 07 |
-| **[Assay Biotech Inc.](http://www.assaybiotechnology.com)** | **[Biology Intern](https://jobright.ai/jobs/info/69362745764507023d1c1b3d?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Dec 07 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Analog Design](https://jobright.ai/jobs/info/693623c1764507023d1c1a46?utm_campaign=1048&utm_source=git)** | Rhode Island, United States | On Site | Dec 07 |
 | **[Analog Devices](http://www.analog.com)** | **[Emerging Technology Analyst Intern](https://jobright.ai/jobs/info/6936239af131d96e4846fb46?utm_campaign=1048&utm_source=git)** | US, MA, Wilmington | On Site | Dec 07 |
 | **[Aperture LLC](https://www.aperturellc.com/)** | **[Intern- Premise Liability](https://jobright.ai/jobs/info/693620e2a0dde7020e2f9e6f?utm_campaign=1048&utm_source=git)** | Berkeley, CA | On Site | Dec 07 |
@@ -119,7 +124,6 @@ For a complete list, click the following sortable link below:
 | **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Community Planner Intern](https://jobright.ai/jobs/info/68fbf8ec4129dd33cd136fc3?utm_campaign=1048&utm_source=git)** | Rochester, NY | On Site | Dec 07 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Electrical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68c45f6de471ef3ce16d5945?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Dec 07 |
 | **[Cook Medical](http://www.cookmedical.com)** | **[COOK Medical Summer 2026 R&D Engineering Co-op](https://jobright.ai/jobs/info/68e093c81852e62f007ec3f9?utm_campaign=1048&utm_source=git)** | Bloomington, IN | Hybrid | Dec 07 |
-| **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[Advanced Manufacturing Engineering Internship Opportunities](https://jobright.ai/jobs/info/69359ed8f131d96e4846eb9c?utm_campaign=1048&utm_source=git)** | Sidney, OH | Remote | Dec 07 |
 | **[Henkel](http://www.henkel.com)** | **[Application Engineering Intern, Printed Electronics – Summer 2026](https://jobright.ai/jobs/info/68c305425001f8077bf60400?utm_campaign=1048&utm_source=git)** | Bridgewater, NJ | On Site | Dec 07 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2026 Cyber Security Intern](https://jobright.ai/jobs/info/68fc03e14129dd33cd137ba0?utm_campaign=1048&utm_source=git)** | Mountain View, CA | On Site | Dec 07 |
 | ↳ | **[Summer 2026 Cyber Security Intern](https://jobright.ai/jobs/info/68fc0a944129dd33cd1380b2?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Dec 07 |
@@ -136,12 +140,12 @@ For a complete list, click the following sortable link below:
 | **[Centennial Contractors Enterprises, Inc.](http://cce-inc.com)** | **[Intern - Seattle, WA](https://jobright.ai/jobs/info/69194d22bcdbf3560c9d4c14?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Dec 07 |
 | **[Ferrovias](ferrovias.us)** | **[2026 Summer Facilities Engineering Intern - (R14513)](https://jobright.ai/jobs/info/69359c45764507023d1c0cb6?utm_campaign=1048&utm_source=git)** | Lawrence, MA | Remote | Dec 07 |
 | **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship - Research & Development (AS/BS)](https://jobright.ai/jobs/info/687edce6764c3d7411c46c6c?utm_campaign=1048&utm_source=git)** | Freeport, TX | On Site | Dec 07 |
-| **[Nutrien](https://www.nutrien.com/)** | **[Retail Field Intern - Central Iowa Division](https://jobright.ai/jobs/info/69359bb6764507023d1c0ca3?utm_campaign=1048&utm_source=git)** | Hancock, IA | On Site | Dec 07 |
 | **[McCain Foods](https://www.mccain.com/)** | **[Engineering Internship](https://jobright.ai/jobs/info/68fbe225f55bb021a889d8cb?utm_campaign=1048&utm_source=git)** | Appleton, WI | Hybrid | Dec 07 |
 | **[Arconic](https://www.arconic.com)** | **[Intern - Environmental Health and Safety](https://jobright.ai/jobs/info/68c4b29531e5763f188e2d2f?utm_campaign=1048&utm_source=git)** | Springdale, AR | On Site | Dec 07 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Structural Intern](https://jobright.ai/jobs/info/6795e6b9524ef30deb0b82fa?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Dec 07 |
 | **[RS&H](http://www.rsandh.com/)** | **[Civil Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/691d5fd10b7dff7341502f6a?utm_campaign=1048&utm_source=git)** | Verona, VA | On Site | Dec 07 |
 | **[SSOE Group](https://www.ssoe.com/)** | **[Controls Engineering Co-Op - Spring 2026](https://jobright.ai/jobs/info/691ff13609cc522e87746c9f?utm_campaign=1048&utm_source=git)** | Toledo, OH | Hybrid | Dec 07 |
+| **[Henkel](http://www.henkel.com)** | **[Safety, Health, and Environmental Specialist Intern – Summer 2026](https://jobright.ai/jobs/info/693699081c1c2161c13ede88?utm_campaign=1048&utm_source=git)** | Rocky Hill, CT | Hybrid | Dec 07 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2026 AI Science Intern](https://jobright.ai/jobs/info/68fc0f5893c49825ab1094d8?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Dec 07 |
 | **[Honeywell](http://www.honeywell.com)** | **[Intern Bachelors Cyber Security (SATCOM)](https://jobright.ai/jobs/info/6918a42915b415636718336b?utm_campaign=1048&utm_source=git)** | Kanata, Ontario, Canada | On Site | Dec 07 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2026 AI Science Intern](https://jobright.ai/jobs/info/68fc0bf64129dd33cd138238?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Dec 07 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Interfor](http://www.interfor.com)** | **[Maintenance Intern](https://jobright.ai/jobs/info/69188246bcdbf3560c9d2725?utm_campaign=1048&utm_source=git)** | Grand Forks, British Columbia, Canada | On Site | Dec 07 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2026 AI Science Intern](https://jobright.ai/jobs/info/68fc026ff55bb021a889f65d?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Dec 07 |
 | **[RS&H](http://www.rsandh.com/)** | **[Civil Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68fbc76e4129dd33cd13498a?utm_campaign=1048&utm_source=git)** | Glen Allen, VA | On Site | Dec 07 |
-| **[Henkel](http://www.henkel.com)** | **[Safety, Health, and Enviroment Specialist Intern - Fall 2026](https://jobright.ai/jobs/info/68c35a5c6031587f8458a209?utm_campaign=1048&utm_source=git)** | Rocky Hill, CT | Hybrid | Dec 07 |
-| **[Intuit](https://www.intuit.com)** | **[Summer 2026 Cyber Security Intern](https://jobright.ai/jobs/info/68fc0356f55bb021a889f757?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Dec 07 |
-| **[Henkel](http://www.henkel.com)** | **[Analytical Chemist Intern - Summer 2026](https://jobright.ai/jobs/info/68c7ae267d0db4114273f687?utm_campaign=1048&utm_source=git)** | Bridgewater, NJ | Hybrid | Dec 07 |
-| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Cybersecurity](https://jobright.ai/jobs/info/6923e00038cd5478a8d57bc1?utm_campaign=1048&utm_source=git)** | Irving, TX | Hybrid | Dec 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
