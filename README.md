@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Intern, Test Engineering](https://jobright.ai/jobs/info/693d35a649a7695fbd03e87c?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Dec 13 |
+| **[Outlier AI](http://outlier.ai/)** | **[Legal Intern (Remote)](https://jobright.ai/jobs/info/693d2f1750bbaf7650505a42?utm_campaign=1048&utm_source=git)** | Fort Worth, TX | Remote | Dec 13 |
+| ↳ | **[Prompt Engineering Intern (Entry Level) (Remote)](https://jobright.ai/jobs/info/693d2e30aa598a08c3edf97d?utm_campaign=1048&utm_source=git)** | Chicago, IL | Remote | Dec 13 |
+| ↳ | **[Agriculture Intern New Zealand (Remote)](https://jobright.ai/jobs/info/693d2dea49a7695fbd03e2d4?utm_campaign=1048&utm_source=git)** | Austin, TX | Remote | Dec 13 |
+| **[Exploration Technology Group](explorationtechnologygroup.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/693d2d1faa598a08c3edf6b8?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Dec 13 |
+| **[Outlier AI](http://outlier.ai/)** | **[Agriculture Intern New Zealand (Remote)](https://jobright.ai/jobs/info/693d2ac049a7695fbd03d952?utm_campaign=1048&utm_source=git)** | Miami, FL | Remote | Dec 13 |
+| ↳ | **[Civil Engineering Intern (Remote)](https://jobright.ai/jobs/info/693d29b949a7695fbd03d4d7?utm_campaign=1048&utm_source=git)** | Baltimore, MD | Remote | Dec 13 |
+| **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/693d224349a7695fbd03c739?utm_campaign=1048&utm_source=git)** | Dalton, GA | On Site | Dec 13 |
+| **[UES](https://www.teamues.com)** | **[Intern/Co-Op](https://jobright.ai/jobs/info/693d1dd649a7695fbd03c65a?utm_campaign=1048&utm_source=git)** | Kennesaw, GA | On Site | Dec 13 |
+| **[Chatsworth Products](http://www.chatsworth.com)** | **[Mechanical Engineer Internship/CO-OP](https://jobright.ai/jobs/info/69335c54f131d96e484627d1?utm_campaign=1048&utm_source=git)** | Georgetown, TX | On Site | Dec 13 |
 | **[CommScope](http://www.commscope.com)** | **[Process Automation Intern](https://jobright.ai/jobs/info/693d197f50bbaf7650503b3c?utm_campaign=1048&utm_source=git)** | Shakopee, MN | On Site | Dec 12 |
 | **[Trilon Group](https://www.trilongroup.com/)** | **[Engineer Intern (Utilities - Orlando)](https://jobright.ai/jobs/info/693d15e850bbaf7650503a86?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | Dec 12 |
 | ↳ | **[Engineer Intern (Civil/Facilities - Orlando)](https://jobright.ai/jobs/info/693d1281aa598a08c3edd693?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | Dec 12 |
@@ -69,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[yondu](https://www.yonduai.com)** | **[Robotics Software Intern](https://jobright.ai/jobs/info/693d0d16aa598a08c3edd58a?utm_campaign=1048&utm_source=git)** | Gardena, CA, US | On Site | Dec 12 |
 | ↳ | **[Robotics Software Intern](https://jobright.ai/jobs/info/693d0bc549a7695fbd03bcfc?utm_campaign=1048&utm_source=git)** | Los Angeles, CA, US | On Site | Dec 12 |
 | ↳ | **[Summer 2026 Robotics Hardware Intern](https://jobright.ai/jobs/info/693d0b3850bbaf765050341b?utm_campaign=1048&utm_source=git)** | Gardena, CA, US | On Site | Dec 12 |
+| **[DLZ Corporation](https://dlz.com)** | **[Intern](https://jobright.ai/jobs/info/69317b3f4c474121999f0b51?utm_campaign=1048&utm_source=git)** | Saint Joseph Charter Township, MI | On Site | Dec 12 |
 | **[Leadbay](https://leadbay.ai/)** | **[Engineering Intern](https://jobright.ai/jobs/info/693d09c949a7695fbd03bbd7?utm_campaign=1048&utm_source=git)** | San Francisco, CA, US | On Site | Dec 12 |
 | **[TerraPower](http://www.terrapower.com)** | **[Intern – Digital Twin](https://jobright.ai/jobs/info/693d0976aa598a08c3edd2a5?utm_campaign=1048&utm_source=git)** | Bellevue, Washington, United States | On Site | Dec 12 |
 | **[Northmere Solutions](https://www.linkedin.com/company/104898627)** | **[Systems Engineer Internship](https://jobright.ai/jobs/info/693d08edaa598a08c3edd278?utm_campaign=1048&utm_source=git)** | Ada Township, MI | On Site | Dec 12 |
@@ -76,6 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Snap Inc.](https://careers.snap.com/)** | **[Machine Learning Engineer Intern, Summer 2026](https://jobright.ai/jobs/info/693d08a449a7695fbd03bbab?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Dec 12 |
 | ↳ | **[Machine Learning Engineer Intern, Summer 2026](https://jobright.ai/jobs/info/693d082f49a7695fbd03bb9c?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Dec 12 |
 | **[Samsung Research America (SRA)](http://www.sra.samsung.com/)** | **[2026 Intern, Computer Vision/AI (Spring/Summer)](https://jobright.ai/jobs/info/693d076e50bbaf7650503342?utm_campaign=1048&utm_source=git)** | Mountain View, CA | On Site | Dec 12 |
+| **[RailWorks Corporation](http://www.railworks.com/)** | **[Construction Field Engineer Intern](https://jobright.ai/jobs/info/693b8270d4054a2bc0256350?utm_campaign=1048&utm_source=git)** | Green Bay, WI | On Site | Dec 12 |
 | **[Snap Inc.](https://careers.snap.com/)** | **[Machine Learning Engineer Intern, Summer 2026](https://jobright.ai/jobs/info/693d04f850bbaf76505032ca?utm_campaign=1048&utm_source=git)** | Bellevue, WA | On Site | Dec 12 |
 | **[Toyota Research Institute](http://www.tri.global)** | **[Human Interactive Driving Intern – World Models](https://jobright.ai/jobs/info/69177f0945fb6f5ead89b58c?utm_campaign=1048&utm_source=git)** | Los Altos, CA | Hybrid | Dec 12 |
 | ↳ | **[Robotics Intern - Large Behavior Models](https://jobright.ai/jobs/info/69151eeb286ccf0a1512b7ac?utm_campaign=1048&utm_source=git)** | Cambridge, MA | Hybrid | Dec 12 |
@@ -136,6 +148,7 @@ For a complete list, click the following sortable link below:
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – AI/ML Software Engineer (Master's)](https://jobright.ai/jobs/info/693cdfa549a7695fbd039025?utm_campaign=1048&utm_source=git)** | Mountain View, CA | Hybrid | Dec 12 |
 | **[Rolls-Royce Power Systems AG](http://www.rrpowersystems.com)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/693cdf6baa598a08c3eda740?utm_campaign=1048&utm_source=git)** | Aiken, SC | On Site | Dec 12 |
 | **[Outlier AI](http://outlier.ai/)** | **[Supply Chain Intern (Remote)](https://jobright.ai/jobs/info/693cdf5149a7695fbd038ffc?utm_campaign=1048&utm_source=git)** | Denver, CO | Remote | Dec 12 |
+| **[Lincoln Electric](http://www.lincolnelectric.com)** | **[Engineering Assistant Intern- Electrical](https://jobright.ai/jobs/info/6918e81d15b4156367183ff7?utm_campaign=1048&utm_source=git)** | Fort Loramie, OH | On Site | Dec 12 |
 | **[AECOM](http://www.aecom.com/)** | **[Environmental Engineer Intern](https://jobright.ai/jobs/info/693cddf450bbaf7650500549?utm_campaign=1048&utm_source=git)** | Greenville, SC | On Site | Dec 12 |
 | **[Nokia](http://www.nokia.com)** | **[DSP Firmware Engineering Co-op/Intern](https://jobright.ai/jobs/info/693cdb3f50bbaf7650500431?utm_campaign=1048&utm_source=git)** | Kanata, Ontario, Canada | On Site | Dec 12 |
 | **[yondu](https://www.yonduai.com)** | **[Robotics Intern](https://jobright.ai/jobs/info/693cdb2c50bbaf765050042a?utm_campaign=1048&utm_source=git)** | Gardena, CA | On Site | Dec 12 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Parsons Corporation](http://www.parsons.com)** | **[Civil Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/693cd8f249a7695fbd038ac5?utm_campaign=1048&utm_source=git)** | Washington, DC | On Site | Dec 12 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Hardware Validation Intern - Master's Degree](https://jobright.ai/jobs/info/693cd8d450bbaf7650500334?utm_campaign=1048&utm_source=git)** | Hudson, NY | On Site | Dec 12 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Discovery Chemistry](https://jobright.ai/jobs/info/693cd8cf49a7695fbd038ab0?utm_campaign=1048&utm_source=git)** | South San Francisco, CA | On Site | Dec 12 |
-| **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Intern Engineer (Secret Clearance Required)](https://jobright.ai/jobs/info/693cf84450bbaf7650502bf3?utm_campaign=1048&utm_source=git)** | Silverdale, WA | Hybrid | Dec 12 |
-| **[OTTO Engineering, Inc.](http://www.ottoexcellence.com)** | **[Electrical Engineer Internship - Communications](https://jobright.ai/jobs/info/693cd74850bbaf76505002a4?utm_campaign=1048&utm_source=git)** | Carpentersville, IL | On Site | Dec 12 |
-| **[GCI Communication Corp.](http://www.gci.com)** | **[Telecommunications Intern- Data Analytics](https://jobright.ai/jobs/info/693cd73caa598a08c3eda156?utm_campaign=1048&utm_source=git)** | 1001 Northway Drive, Anchorage, AK, 99508, US | On Site | Dec 12 |
-| **[AECOM Hunt](https://aecom.com/services/construction-management/aecom-hunt/)** | **[Construction Intern - AECOM Hunt](https://jobright.ai/jobs/info/693cd73850bbaf765050029f?utm_campaign=1048&utm_source=git)** | Jamaica, NY | On Site | Dec 12 |
-| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, R&D Graduate Summer - Science of Extreme Environments Research & Innovation (SEERI) Program, Onsite](https://jobright.ai/jobs/info/691694349c388539cbdfce87?utm_campaign=1048&utm_source=git)** | Albuquerque, NM | On Site | Dec 12 |
-| **[Wolverine Building Group](http://wolvgroup.com)** | **[Safety Intern](https://jobright.ai/jobs/info/693cf41caa598a08c3edc9af?utm_campaign=1048&utm_source=git)** | Grand Rapids, MI | On Site | Dec 12 |
-| **[yondu](https://www.yonduai.com)** | **[Robotics Intern](https://jobright.ai/jobs/info/693cd6bd49a7695fbd0389fe?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Dec 12 |
-| **[Rite-Hite](https://www.ritehite.com)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/693cd6af49a7695fbd0389f7?utm_campaign=1048&utm_source=git)** | Dubuque, IA | On Site | Dec 12 |
-| **[Nokia](http://www.nokia.com)** | **[Photonic Circuits Test Intern](https://jobright.ai/jobs/info/693cd6a150bbaf7650500269?utm_campaign=1048&utm_source=git)** | 1322 Bordeaux Drive, Sunnyvale, California, 94089-1005, US | On Site | Dec 12 |
-| **[Outlier AI](http://outlier.ai/)** | **[Literary Intern (Remote)](https://jobright.ai/jobs/info/693cf82649a7695fbd03b5b8?utm_campaign=1048&utm_source=git)** | Fort Worth, TX | Remote | Dec 12 |
-| ↳ | **[Community Engagement Intern (Remote)](https://jobright.ai/jobs/info/693cf86d49a7695fbd03b5c5?utm_campaign=1048&utm_source=git)** | Kansas City, MO | Remote | Dec 12 |
-| **[Genentech](http://gene.com)** | **[2026 Summer Intern - Structural Biology / Physiological Chemistry](https://jobright.ai/jobs/info/693cd63b49a7695fbd0389c1?utm_campaign=1048&utm_source=git)** | South San Francisco, CA | On Site | Dec 12 |
-| ↳ | **[2026 Summer Intern - Metabolism Drug Discovery Unit](https://jobright.ai/jobs/info/693cd5b5aa598a08c3eda0b2?utm_campaign=1048&utm_source=git)** | South San Francisco, CA | On Site | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
