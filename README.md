@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Implicit](http://www.agolo.com)** | **[Junior Cloud / DevOps Engineer (Part-Time / Remote Intern Level)](https://jobright.ai/jobs/info/693e43aeaa598a08c3eea874?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT | Remote | Dec 13 |
+| **[Toyota Research Institute](http://www.tri.global)** | **[Human Interactive Driving Intern, Human-Machine Interaction Research](https://jobright.ai/jobs/info/693e3cea50bbaf765050f056?utm_campaign=1048&utm_source=git)** | Los Altos, CA | Hybrid | Dec 13 |
 | **[IMEG](http://www.imegcorp.com/)** | **[Structural Engineering Intern / Ontario, CA](https://jobright.ai/jobs/info/693e335d50bbaf765050ed0e?utm_campaign=1048&utm_source=git)** | Ontario, California | On Site | Dec 13 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Retail Field Intern - Southern Illinois Division](https://jobright.ai/jobs/info/693e27a850bbaf765050e824?utm_campaign=1048&utm_source=git)** | Browns, IL | On Site | Dec 13 |
 | **[Implicit](http://www.agolo.com)** | **[Junior Cloud / DevOps Engineer (Part-Time / Remote Intern Level)](https://jobright.ai/jobs/info/693e23a1aa598a08c3ee851b?utm_campaign=1048&utm_source=git)** | United States (only) | Remote | Dec 13 |
@@ -65,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[STR](https://www.str.us/)** | **[Cyber Summer Internship](https://jobright.ai/jobs/info/68d4762677769e778f5091e9?utm_campaign=1048&utm_source=git)** | Woburn, MA | On Site | Dec 13 |
 | **[Ayar Labs](https://ayarlabs.com)** | **[Intern, Product Reliability Engineer](https://jobright.ai/jobs/info/693de34b49a7695fbd044d40?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Dec 13 |
 | **[Varda Space Industries](http://varda.com)** | **[Environmental Health & Safety (EHS) Internship – Summer 2026](https://jobright.ai/jobs/info/69162e499c388539cbdf86b8?utm_campaign=1048&utm_source=git)** | El Segundo, California, United States | On Site | Dec 13 |
-| **[RoboStruct Technologies](robostructtechnologies.us)** | **[Telecom Engineer Summer Intern](https://jobright.ai/jobs/info/693de19baa598a08c3ee6482?utm_campaign=1048&utm_source=git)** | Richmond, VA | Remote | Dec 13 |
 | **[The Brewer-Garrett Company](https://www.brewer-garrett.com/)** | **[Building Automation Engineering Internship](https://jobright.ai/jobs/info/693ddd95aa598a08c3ee63da?utm_campaign=1048&utm_source=git)** | Cleveland, OH | On Site | Dec 13 |
 | **[Nudura Insulated Concrete Forms](http://www.nudura.com/)** | **[Construction Internship Program](https://jobright.ai/jobs/info/693ddccfaa598a08c3ee63ba?utm_campaign=1048&utm_source=git)** | Riverside, CA | On Site | Dec 13 |
 | **[Rowe Professional Services Company](http://rowepsc.com)** | **[Engineering Interns - Summer 2026](https://jobright.ai/jobs/info/693ddbdc49a7695fbd044ca6?utm_campaign=1048&utm_source=git)** | Flint, MI | On Site | Dec 13 |
@@ -77,8 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Sanofi](https://www.sanofi.com)** | **[Manufacturing and Supply, Smart Process Summer 2026 Intern](https://jobright.ai/jobs/info/693dc8cb50bbaf765050aa5d?utm_campaign=1048&utm_source=git)** | Swiftwater, PA | On Site | Dec 13 |
 | **[Tech Verses](techverses.us)** | **[Assurance Intern – Technology Risk](https://jobright.ai/jobs/info/693dc88249a7695fbd043166?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | Remote | Dec 13 |
 | **[Rowe Professional Services Company](http://rowepsc.com)** | **[Engineering Interns - Summer 2026](https://jobright.ai/jobs/info/693dc84a49a7695fbd04315a?utm_campaign=1048&utm_source=git)** | Lapeer, MI | On Site | Dec 13 |
-| **[RoboStruct Technologies](robostructtechnologies.us)** | **[Design Engineering Intern](https://jobright.ai/jobs/info/693dc81faa598a08c3ee485a?utm_campaign=1048&utm_source=git)** | Charleston, SC | On Site | Dec 13 |
-| **[Rowe Professional Services Company](http://rowepsc.com)** | **[Engineering Interns - Summer 2026](https://jobright.ai/jobs/info/693dc37d49a7695fbd0430ae?utm_campaign=1048&utm_source=git)** | Grand Rapids, MI | On Site | Dec 13 |
+| ↳ | **[Engineering Interns - Summer 2026](https://jobright.ai/jobs/info/693dc37d49a7695fbd0430ae?utm_campaign=1048&utm_source=git)** | Grand Rapids, MI | On Site | Dec 13 |
 | ↳ | **[Engineering Interns - Summer 2026](https://jobright.ai/jobs/info/693defdf50bbaf765050c7a5?utm_campaign=1048&utm_source=git)** | Mount Pleasant, MI | On Site | Dec 13 |
 | ↳ | **[Engineering Interns - Summer 2026](https://jobright.ai/jobs/info/693df02150bbaf765050c7b7?utm_campaign=1048&utm_source=git)** | Myrtle Beach, SC | On Site | Dec 13 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Analog Design](https://jobright.ai/jobs/info/693dba8749a7695fbd042f7b?utm_campaign=1048&utm_source=git)** | Rhode Island, United States | On Site | Dec 13 |
@@ -89,17 +89,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Silicon Photonics R&D - Design of Automated CWDM multiplexer](https://jobright.ai/jobs/info/693d93a750bbaf76505089d2?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Dec 13 |
 | **[StructaLink Group](structalinkgroup.us)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/693da6b449a7695fbd042d21?utm_campaign=1048&utm_source=git)** | Dalton, GA | Remote | Dec 13 |
 | **[Kiewit](http://www.kiewit.com)** | **[Field Engineer Internship - Bridge and Marine District - Summer 2026](https://jobright.ai/jobs/info/68ae7399d627244576e54007?utm_campaign=1048&utm_source=git)** | Clackamas, OR | On Site | Dec 13 |
-| ↳ | **[Field/Office Engineer Intern - Southeast - Summer 2026](https://jobright.ai/jobs/info/69317dc64c474121999f1107?utm_campaign=1048&utm_source=git)** | Mobile, AL | On Site | Dec 13 |
+| **[RoboStruct Technologies](robostructtechnologies.us)** | **[Telecom Engineer Summer Intern](https://jobright.ai/jobs/info/693da63c49a7695fbd042d0b?utm_campaign=1048&utm_source=git)** | Richmond, VA | Remote | Dec 13 |
+| **[Kiewit](http://www.kiewit.com)** | **[Field/Office Engineer Intern - Southeast - Summer 2026](https://jobright.ai/jobs/info/69317dc64c474121999f1107?utm_campaign=1048&utm_source=git)** | Mobile, AL | On Site | Dec 13 |
 | **[Carrier](https://www.corporate.carrier.com)** | **[Manufacturing Supervisor Intern - Summer](https://jobright.ai/jobs/info/6939cb14ac80bb5492bc4de3?utm_campaign=1048&utm_source=git)** | Collierville, TN | On Site | Dec 13 |
-| **[StructaLink Group](structalinkgroup.us)** | **[Mechanical Engineer Intern - Talent Pool](https://jobright.ai/jobs/info/693da1baaa598a08c3ee436b?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Remote | Dec 13 |
-| **[Carrier](https://www.corporate.carrier.com)** | **[Quality Engineering Intern - Summer](https://jobright.ai/jobs/info/6939cfebac80bb5492bc5101?utm_campaign=1048&utm_source=git)** | Indianapolis, IN | On Site | Dec 13 |
+| ↳ | **[Quality Engineering Intern - Summer](https://jobright.ai/jobs/info/6939cfebac80bb5492bc5101?utm_campaign=1048&utm_source=git)** | Indianapolis, IN | On Site | Dec 13 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - HR, Data Scientist Intern (4 Months)](https://jobright.ai/jobs/info/693d9c86aa598a08c3ee2d18?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 13 |
 | **[Kiewit](http://www.kiewit.com)** | **[Field Coordinator/Engineer Intern - Eastern Canada Region - Winter 2026](https://jobright.ai/jobs/info/693aa663b309e3780086785d?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 13 |
 | ↳ | **[Civil/Structural Intern - Eastern Canada - Summer 2026](https://jobright.ai/jobs/info/693d9c0b49a7695fbd041e2d?utm_campaign=1048&utm_source=git)** | Oakville, Ontario, Canada | On Site | Dec 13 |
 | ↳ | **[Field Coordinator/Engineer Intern - Eastern Canada Region - Winter 2026](https://jobright.ai/jobs/info/693ab66eb309e37800867d25?utm_campaign=1048&utm_source=git)** | Oakville, Ontario, Canada | On Site | Dec 13 |
 | **[TYLin](http://www.tylin.com)** | **[Intern Engineering Designer, Bridge](https://jobright.ai/jobs/info/691e0c8fa49a885af9a2420f?utm_campaign=1048&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Dec 13 |
 | **[Mechronix](mechronix.us)** | **[Intern, Power Electronics Engineer, Summer 2026](https://jobright.ai/jobs/info/693d9b9d50bbaf76505091f2?utm_campaign=1048&utm_source=git)** | Newark, CA | Remote | Dec 13 |
-| **[Ferrovias](ferrovias.us)** | **[Intern, Power Electronics Engineer, Summer 2026](https://jobright.ai/jobs/info/693d988949a7695fbd041381?utm_campaign=1048&utm_source=git)** | Newark, NJ | On Site | Dec 13 |
 | **[Kiewit](http://www.kiewit.com)** | **[Safety Internship - Infrastructure East (Summer 2026)](https://jobright.ai/jobs/info/68ae7518758f2e4ac3013b9e?utm_campaign=1048&utm_source=git)** | Baltimore, MD | On Site | Dec 13 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2026 Intern / Mechanical Design Engineer](https://jobright.ai/jobs/info/69041cdad64a22104aa970bd?utm_campaign=1048&utm_source=git)** | Kirkland, WA | On Site | Dec 13 |
 | **[Kiewit](http://www.kiewit.com)** | **[Field Engineer Internship - Bridge and Marine District - Summer 2026](https://jobright.ai/jobs/info/68ae4e8fd627244576e530d5?utm_campaign=1048&utm_source=git)** | Kent, WA | On Site | Dec 13 |
@@ -109,6 +108,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Field Engineer Internship - Bridge and Marine District - Summer 2026](https://jobright.ai/jobs/info/68ae68add627244576e53afe?utm_campaign=1048&utm_source=git)** | Savannah, GA | On Site | Dec 13 |
 | ↳ | **[Safety Internship - Infrastructure Central (Summer 2026)](https://jobright.ai/jobs/info/68ae6756daf1431824ca2c48?utm_campaign=1048&utm_source=git)** | Omaha, NE | On Site | Dec 13 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2026 Intern / Vehicle Integration](https://jobright.ai/jobs/info/690418dbd64a22104aa96dcf?utm_campaign=1048&utm_source=git)** | Kirkland, WA | On Site | Dec 13 |
+| **[StructaLink Group](structalinkgroup.us)** | **[Mechanical Engineer Intern - Talent Pool](https://jobright.ai/jobs/info/693d9546aa598a08c3ee283b?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Remote | Dec 13 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Civil Drafting Intern](https://jobright.ai/jobs/info/6921934ed1ec2c3565c45191?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Dec 13 |
 | **[Kiewit](http://www.kiewit.com)** | **[Field Engineer Internship - Bridge and Marine District - Summer 2026](https://jobright.ai/jobs/info/68ae5e41d627244576e53736?utm_campaign=1048&utm_source=git)** | Redmond, WA | On Site | Dec 13 |
 | ↳ | **[Safety Internship - Power (Summer 2026)](https://jobright.ai/jobs/info/68ae4df8d627244576e5303f?utm_campaign=1048&utm_source=git)** | Idaho Falls, ID | On Site | Dec 13 |
