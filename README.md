@@ -57,8 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Cliffton Verge](https://www.linkedin.com/company/108618613)** | **[Advanced Manufacturing Engineering Internship Opportunities](https://jobright.ai/jobs/info/693ef7fd50bbaf76505174d9?utm_campaign=1048&utm_source=git)** | Sidney, OH | Remote | Dec 14 |
+| **[Mitsubishi Electric Research Laboratories](http://www.merl.com/)** | **[Internship - Process Modeling for Factory Automation](https://jobright.ai/jobs/info/693f1452aa598a08c3ef138d?utm_campaign=1048&utm_source=git)** | Cambridge, MA | Hybrid | Dec 14 |
+| **[RoboStruct Technologies](robostructtechnologies.us)** | **[Design Engineer Internship](https://jobright.ai/jobs/info/693f0952aa598a08c3ef129c?utm_campaign=1048&utm_source=git)** | Charleston, SC | Remote | Dec 14 |
 | **[Vaupell](http://www.vaupell.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/693ef7c0aa598a08c3ef10ff?utm_campaign=1048&utm_source=git)** | Constantine, MI | On Site | Dec 14 |
+| **[RoboStruct Technologies](robostructtechnologies.us)** | **[Facilities Engineering Intern](https://jobright.ai/jobs/info/693f026b49a7695fbd04f7e9?utm_campaign=1048&utm_source=git)** | Andover, MA | Remote | Dec 14 |
+| **[Frontline](https://thefrontline.org.uk)** | **[Concrete Construction Intern](https://jobright.ai/jobs/info/693f0235aa598a08c3ef11ae?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT | On Site | Dec 14 |
+| **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[Advanced Manufacturing Engineering Internship Opportunities](https://jobright.ai/jobs/info/693f022950bbaf76505175a8?utm_campaign=1048&utm_source=git)** | Sidney, OH | Remote | Dec 14 |
+| ↳ | **[2026 Summer Facilities Engineering Intern (R14513)](https://jobright.ai/jobs/info/693f01fd50bbaf76505175a2?utm_campaign=1048&utm_source=git)** | Haverhill, MA | Remote | Dec 14 |
+| **[Cliffton Verge](https://www.linkedin.com/company/108618613)** | **[Advanced Manufacturing Engineering Internship Opportunities](https://jobright.ai/jobs/info/693ef7fd50bbaf76505174d9?utm_campaign=1048&utm_source=git)** | Sidney, OH | Remote | Dec 14 |
 | **[Inotiv](https://www.inotiv.com/)** | **[Internship - Laboratory Sciences](https://jobright.ai/jobs/info/693ef6faaa598a08c3ef10e0?utm_campaign=1048&utm_source=git)** | St. Louis, MO | On Site | Dec 14 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Energy/Security Technician](https://jobright.ai/jobs/info/693ef4fe50bbaf76505174a7?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Dec 14 |
 | **[JIO ROBOTICS Academy](www.jiorobotics.com)** | **[Robotics Engineers with Mechanical & AI Developer Internship TO Full Time ONSITE](https://jobright.ai/jobs/info/693eee6c50bbaf76505173c4?utm_campaign=1048&utm_source=git)** | Germantown, MD | On Site | Dec 14 |
@@ -73,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Skanska](http://skanska.com)** | **[2026 Project Engineer Intern](https://jobright.ai/jobs/info/68e96681f195760c354a8abf?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Dec 14 |
 | **[BeamSphere](beamsphere.us)** | **[Proposal Engineer Intern - Spring 2026](https://jobright.ai/jobs/info/693ee3b749a7695fbd04dd44?utm_campaign=1048&utm_source=git)** | Cleveland, OH | Remote | Dec 14 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Mechanical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68cba156efdec76df36bff48?utm_campaign=1048&utm_source=git)** | Troy, NY | Hybrid | Dec 14 |
-| **[Pinnova](https://www.linkedin.com/company/87987033)** | **[Engineering Intern](https://jobright.ai/jobs/info/693ee02849a7695fbd04dd18?utm_campaign=1048&utm_source=git)** | Dalton, GA | Remote | Dec 14 |
 | **[Charter Steel](http://www.chartersteel.com/)** | **[Materials & Metallurgical Engineer Intern - Year Round](https://jobright.ai/jobs/info/68cc4f94128dc347fd922519?utm_campaign=1048&utm_source=git)** | Cleveland, OH | On Site | Dec 14 |
 | **[Harris Computer](http://www.harriscomputer.com)** | **[Remote CRM Data Cleanup Intern](https://jobright.ai/jobs/info/693edd93aa598a08c3eef65a?utm_campaign=1048&utm_source=git)** | Kentucky, United States | Remote | Dec 14 |
 | **[Dynamic Aviation](http://www.dynamicaviation.com/)** | **[SkillBridge Aviation Maintenance Internship](https://jobright.ai/jobs/info/693edbd849a7695fbd04dc90?utm_campaign=1048&utm_source=git)** | Bridgewater, VA | On Site | Dec 14 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Application Scientist Intern](https://jobright.ai/jobs/info/6904f04163502c0aded76802?utm_campaign=1048&utm_source=git)** | Bannockburn, IL | On Site | Dec 14 |
 | **[Barr Engineering Co.](http://www.barr.com)** | **[Internship – Electrical Engineer (Hybrid)](https://jobright.ai/jobs/info/68b0fd016fab621da7b09421?utm_campaign=1048&utm_source=git)** | Ann Arbor, MI | Hybrid | Dec 14 |
 | **[Nestlé Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[Quality Assurance Management Development Associate](https://jobright.ai/jobs/info/6894eba073b3a600fe883559?utm_campaign=1048&utm_source=git)** | Clinton, IA | On Site | Dec 14 |
-| **[Bloom Energy](http://www.bloomenergy.com)** | **[Process Engineering Intern](https://jobright.ai/jobs/info/690528de122e8474c78d6c45?utm_campaign=1048&utm_source=git)** | Fremont, CA | On Site | Dec 14 |
-| **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Continuous Improvement Engineering Intern](https://jobright.ai/jobs/info/68e98e4e0930fe0bc46272d8?utm_campaign=1048&utm_source=git)** | Spokane Valley, WA | On Site | Dec 14 |
-| **[Sundt Construction](https://www.sundt.com/foundation)** | **[Transportation Group Intern - Engineer](https://jobright.ai/jobs/info/68cdba75b2a74e1837edbb58?utm_campaign=1048&utm_source=git)** | Utah, United States | On Site | Dec 14 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op – Safety & Industrial Hygiene (Summer 2026)](https://jobright.ai/jobs/info/68cd19661ad6b16f02894d8a?utm_campaign=1048&utm_source=git)** | Detroit, MI | On Site | Dec 14 |
-| ↳ | **[Intern/Co-op – Safety & Industrial Hygiene (Spring 2026)](https://jobright.ai/jobs/info/68cd2c161ad6b16f028960f8?utm_campaign=1048&utm_source=git)** | Detroit, MI | On Site | Dec 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
