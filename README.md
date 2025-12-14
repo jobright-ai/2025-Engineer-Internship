@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Applications Engineer](https://jobright.ai/jobs/info/693e631949a7695fbd0497cc?utm_campaign=1048&utm_source=git)** | Rhode Island, United States | On Site | Dec 13 |
+| **[14.ai](https://14.ai)** | **[AI Internship (now and Summer 2026)](https://jobright.ai/jobs/info/693e5f8e49a7695fbd049715?utm_campaign=1048&utm_source=git)** | San Francisco, CA, US | On Site | Dec 13 |
+| **[Tenstorrent](http://tenstorrent.com)** | **[Chiplet Security Research Intern](https://jobright.ai/jobs/info/6910fc09bb519377733edddc?utm_campaign=1048&utm_source=git)** | Santa Clara, California, United States | On Site | Dec 13 |
 | **[Implicit](http://www.agolo.com)** | **[Junior Cloud / DevOps Engineer (Part-Time / Remote Intern Level)](https://jobright.ai/jobs/info/693e43aeaa598a08c3eea874?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT | Remote | Dec 13 |
 | **[Toyota Research Institute](http://www.tri.global)** | **[Human Interactive Driving Intern, Human-Machine Interaction Research](https://jobright.ai/jobs/info/693e3cea50bbaf765050f056?utm_campaign=1048&utm_source=git)** | Los Altos, CA | Hybrid | Dec 13 |
 | **[IMEG](http://www.imegcorp.com/)** | **[Structural Engineering Intern / Ontario, CA](https://jobright.ai/jobs/info/693e335d50bbaf765050ed0e?utm_campaign=1048&utm_source=git)** | Ontario, California | On Site | Dec 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[RF Filter Design Summer Intern](https://jobright.ai/jobs/info/68cfdaabfb49c96ca6eac063?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Dec 13 |
 | **[TRUMPF North America](https://www.us.trumpf.com)** | **[CNC Programming Intern](https://jobright.ai/jobs/info/693d89bdaa598a08c3ee2643?utm_campaign=1048&utm_source=git)** | Farmington, CT | On Site | Dec 13 |
 | **[Syska Hennessy Group](http://www.syska.com)** | **[Mechanical Engineer I](https://jobright.ai/jobs/info/6903d3a063502c0aded6cf1a?utm_campaign=1048&utm_source=git)** | New York, United States | Hybrid | Dec 13 |
-| ↳ | **[Electrical Engineer Summer Intern](https://jobright.ai/jobs/info/6903f86563502c0aded6ee51?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Hybrid | Dec 13 |
-| ↳ | **[Mechanical Engineer Summer Intern](https://jobright.ai/jobs/info/6903fb69ff462851feff16f3?utm_campaign=1048&utm_source=git)** | Dallas, TX | Hybrid | Dec 13 |
-| ↳ | **[Mechanical Engineer I](https://jobright.ai/jobs/info/6903fc8563502c0aded6f1ae?utm_campaign=1048&utm_source=git)** | Tampa, FL | Hybrid | Dec 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
