@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Water Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/693f6ab449a7695fbd053277?utm_campaign=1048&utm_source=git)** | Billings, MT | On Site | Dec 14 |
 | **[StructaLink Group](structalinkgroup.us)** | **[Engineering Internship Program  (2026 Summer)](https://jobright.ai/jobs/info/693f65e650bbaf765051b0d2?utm_campaign=1048&utm_source=git)** | Atlanta, GA | Remote | Dec 14 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Applications Engineer](https://jobright.ai/jobs/info/693f5dc0aa598a08c3ef3330?utm_campaign=1048&utm_source=git)** | Rhode Island, United States | On Site | Dec 14 |
 | **[InnoMountain](https://www.innomountain-inc.com/)** | **[System/Hardware Engineer Intern (5G and 6G R&D)](https://jobright.ai/jobs/info/693f4174aa598a08c3ef3105?utm_campaign=1048&utm_source=git)** | United States | Remote | Dec 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Project Controls Intern - Construction (Kansas City)](https://jobright.ai/jobs/info/68b9102c07090163b6ba7532?utm_campaign=1048&utm_source=git)** | Kansas City, MO | On Site | Dec 14 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Field Services Intern](https://jobright.ai/jobs/info/69202d4709cc522e877488e4?utm_campaign=1048&utm_source=git)** | Cambridge, MA | On Site | Dec 14 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op – Safety & Industrial Hygiene (Summer 2026)](https://jobright.ai/jobs/info/68cd44341ad6b16f0289751c?utm_campaign=1048&utm_source=git)** | Dickinson, ND | On Site | Dec 14 |
-| ↳ | **[Intern/Co-op – Safety & Industrial Hygiene (Summer 2026)](https://jobright.ai/jobs/info/68cd19661ad6b16f02894d8b?utm_campaign=1048&utm_source=git)** | Anacortes, WA | On Site | Dec 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
