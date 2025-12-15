@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[StructaLink Group](structalinkgroup.us)** | **[Engineering Internship Program -- 2026 Summer](https://jobright.ai/jobs/info/693f44ceaa598a08c3ef3167?utm_campaign=1048&utm_source=git)** | Atlanta, GA | Remote | Dec 14 |
+| **[StructaLink Group](structalinkgroup.us)** | **[Engineering Internship Program  (2026 Summer)](https://jobright.ai/jobs/info/693f65e650bbaf765051b0d2?utm_campaign=1048&utm_source=git)** | Atlanta, GA | Remote | Dec 14 |
+| **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Applications Engineer](https://jobright.ai/jobs/info/693f5dc0aa598a08c3ef3330?utm_campaign=1048&utm_source=git)** | Rhode Island, United States | On Site | Dec 14 |
 | **[InnoMountain](https://www.innomountain-inc.com/)** | **[System/Hardware Engineer Intern (5G and 6G R&D)](https://jobright.ai/jobs/info/693f4174aa598a08c3ef3105?utm_campaign=1048&utm_source=git)** | United States | Remote | Dec 14 |
 | **[Interstates](http://interstates.com)** | **[Manufacturing Intern](https://jobright.ai/jobs/info/68e053b7b99ec3563b0cea8a?utm_campaign=1048&utm_source=git)** | Fort Collins, CO | On Site | Dec 14 |
 | **[Align Technology](http://www.aligntech.com)** | **[Prompt Engineering for SAP Intern](https://jobright.ai/jobs/info/6917b35615b415636717a962?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Dec 14 |
@@ -83,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Cliffton Verge](https://www.linkedin.com/company/108618613)** | **[Advanced Manufacturing Engineering Internship Opportunities](https://jobright.ai/jobs/info/693ef7fd50bbaf76505174d9?utm_campaign=1048&utm_source=git)** | Sidney, OH | Remote | Dec 14 |
 | **[Inotiv](https://www.inotiv.com/)** | **[Internship - Laboratory Sciences](https://jobright.ai/jobs/info/693ef6faaa598a08c3ef10e0?utm_campaign=1048&utm_source=git)** | St. Louis, MO | On Site | Dec 14 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Energy/Security Technician](https://jobright.ai/jobs/info/693ef4fe50bbaf76505174a7?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Dec 14 |
-| **[JIO ROBOTICS Academy](www.jiorobotics.com)** | **[Robotics Engineers with Mechanical & AI Developer Internship TO Full Time ONSITE](https://jobright.ai/jobs/info/693eee6c50bbaf76505173c4?utm_campaign=1048&utm_source=git)** | Germantown, MD | On Site | Dec 14 |
 | **[Ferrovias](ferrovias.us)** | **[Power Electronics Intern - Spring 2026](https://jobright.ai/jobs/info/693ee9c449a7695fbd04f60d?utm_campaign=1048&utm_source=git)** | Raleigh, NC | Remote | Dec 14 |
 | **[Hawkins, Inc.](http://www.hawkinsinc.com/)** | **[Safety Intern](https://jobright.ai/jobs/info/693ee9b449a7695fbd04f608?utm_campaign=1048&utm_source=git)** | Roseville, MN | On Site | Dec 14 |
 | **[Harmony Castings, LLC](https://www.harmonycastings.com)** | **[Continuous Improvement Intern   3771380](https://jobright.ai/jobs/info/693ee94eaa598a08c3ef0fc4?utm_campaign=1048&utm_source=git)** | Harmony, PA | On Site | Dec 14 |
@@ -100,7 +100,6 @@ For a complete list, click the following sortable link below:
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Civil Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/68d4ea91e678d65ec7d8901c?utm_campaign=1048&utm_source=git)** | Lisle, IL | Hybrid | Dec 14 |
 | **[Skanska](http://skanska.com)** | **[Intern - Project Engineer](https://jobright.ai/jobs/info/68e9730a0930fe0bc4625e64?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | Dec 14 |
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Process Engineer Intern](https://jobright.ai/jobs/info/68e9ab7d65768b6412b1e6b5?utm_campaign=1048&utm_source=git)** | South Sioux City, NE | Hybrid | Dec 14 |
-| **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[Proposal Engineer Intern - Spring 2026](https://jobright.ai/jobs/info/693ed9f250bbaf76505159ab?utm_campaign=1048&utm_source=git)** | Cleveland, OH | Remote | Dec 14 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Structural Intern](https://jobright.ai/jobs/info/6904e5a8122e8474c78d4060?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Dec 14 |
 | **[Kiewit](http://www.kiewit.com)** | **[Field/Office Engineer Intern - Southeast - Summer 2026](https://jobright.ai/jobs/info/69316a05fa28370be26b9353?utm_campaign=1048&utm_source=git)** | Charleston, SC | On Site | Dec 14 |
 | **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Manufacturing Internship](https://jobright.ai/jobs/info/68e949379020b95add6a56de?utm_campaign=1048&utm_source=git)** | Oxnard, CA | On Site | Dec 14 |
@@ -117,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[Cargill](https://www.cargill.com/home)** | **[Crop Inputs Summer Intern -Manitoba](https://jobright.ai/jobs/info/692200a03f782d2f1afd44e9?utm_campaign=1048&utm_source=git)** | Dauphin, Manitoba, Canada | On Site | Dec 14 |
 | **[Honeywell](http://www.honeywell.com)** | **[Manufacturing & Industrial Engineering - Summer 2026 Intern (US Person Required)](https://jobright.ai/jobs/info/69100d73988c2b7b4ec4fdbb?utm_campaign=1048&utm_source=git)** | United States | Remote | Dec 14 |
 | **[RS&H](http://www.rsandh.com/)** | **[Civil Field Engineering Inspection Intern (Summer 26)](https://jobright.ai/jobs/info/691d48147481340785ed5e71?utm_campaign=1048&utm_source=git)** | Jacksonville, FL | On Site | Dec 14 |
-| **[Ferrovias](ferrovias.us)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/693ed38349a7695fbd04dba3?utm_campaign=1048&utm_source=git)** | Ada, OK | Remote | Dec 14 |
 | **[M/I Homes, Inc.](http://www.mihomes.com/)** | **[Construction Intern - Indianapolis Summer 2026](https://jobright.ai/jobs/info/68cd82e1e23def7af55bafcc?utm_campaign=1048&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 14 |
 | **[BGE, Inc.](https://www.bgeinc.com)** | **[FRISCO - Environmental, Internship](https://jobright.ai/jobs/info/689a20325574fd6bc0c7fe73?utm_campaign=1048&utm_source=git)** | 2595 Dallas Pkwy., Suite 101, Frisco, Texas 75034 | On Site | Dec 14 |
 | **[Cargill](https://www.cargill.com/home)** | **[Crop Inputs Summer Intern -Alberta](https://jobright.ai/jobs/info/692200fc3f782d2f1afd4502?utm_campaign=1048&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 14 |
@@ -156,5 +154,7 @@ For a complete list, click the following sortable link below:
 | **[BorgWarner](http://www.borgwarner.com)** | **[Manufacturing Process Engineer Intern](https://jobright.ai/jobs/info/6904c4d2ff462851feff7640?utm_campaign=1048&utm_source=git)** | Kokomo, IN | On Site | Dec 14 |
 | **[Covia](https://www.coviacorp.com/)** | **[Engineering Internship](https://jobright.ai/jobs/info/6917062d370fde633d07c584?utm_campaign=1048&utm_source=git)** | Havelock, Ontario, Canada | On Site | Dec 14 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Project Controls Intern - Construction (Kansas City)](https://jobright.ai/jobs/info/68b9102c07090163b6ba7532?utm_campaign=1048&utm_source=git)** | Kansas City, MO | On Site | Dec 14 |
-| **[BorgWarner](http://www.borgwarner.com)** | **[Manufacturing Process Engineer Intern](https://jobright.ai/jobs/info/68cce81ed11b445e0bee4285?utm_campaign=1048&utm_source=git)** | Kokomo, IN | On Site | Dec 14 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Field Services Intern](https://jobright.ai/jobs/info/69202d4709cc522e877488e4?utm_campaign=1048&utm_source=git)** | Cambridge, MA | On Site | Dec 14 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op – Safety & Industrial Hygiene (Summer 2026)](https://jobright.ai/jobs/info/68cd44341ad6b16f0289751c?utm_campaign=1048&utm_source=git)** | Dickinson, ND | On Site | Dec 14 |
+| ↳ | **[Intern/Co-op – Safety & Industrial Hygiene (Summer 2026)](https://jobright.ai/jobs/info/68cd19661ad6b16f02894d8b?utm_campaign=1048&utm_source=git)** | Anacortes, WA | On Site | Dec 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
