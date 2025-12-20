@@ -57,12 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MechNova](mechnova.us)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/6946f362d1953b5d11c0142d?utm_campaign=1048&utm_source=git)** | Ada, MI | Remote | Dec 20 |
+| **[Capital One](http://www.capitalone.com)** | **[Intern, Data Analytics Engineering - Summer 2026](https://jobright.ai/jobs/info/6946ef4dd1953b5d11c0114a?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 20 |
+| **[Tighe & Bond](https://www.tighebond.com)** | **[Water Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/6946ee66d1953b5d11c010cd?utm_campaign=1048&utm_source=git)** | Manchester, NH | Hybrid | Dec 20 |
+| **[Samsung Research America (SRA)](http://www.sra.samsung.com/)** | **[2026 Intern, Computer Vision (Spring/Summer)](https://jobright.ai/jobs/info/693d0f0a50bbaf76505036fd?utm_campaign=1048&utm_source=git)** | 665 Clyde Avenue, Mountain View,  CA, USA | On Site | Dec 20 |
+| **[InnoMountain](https://www.innomountain-inc.com/)** | **[System/Hardware Engineer Internship (5G, 6G)](https://jobright.ai/jobs/info/6946eb0b7d506e3808f24628?utm_campaign=1048&utm_source=git)** | United States | Remote | Dec 20 |
+| **[Riot Games](http://www.riotgames.com)** | **[Research Scientist Intern, Game AI - Summer 2026 (Remote)](https://jobright.ai/jobs/info/6908f756d046ab6061ccfabb?utm_campaign=1048&utm_source=git)** | Los Angeles, USA | Remote | Dec 20 |
+| **[Vortexion Labs](vortexionlabs.us)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/6946e2b263141d1884569f8b?utm_campaign=1048&utm_source=git)** | Dalton, GA | On Site | Dec 20 |
 | **[Solidigm](https://www.solidigmtechnology.com)** | **[AI Business Analyst Intern](https://jobright.ai/jobs/info/6946df5ad1953b5d11c00bc9?utm_campaign=1048&utm_source=git)** | Rancho Cordova, CA | On Site | Dec 20 |
 | ↳ | **[System Modeling Engineering Intern](https://jobright.ai/jobs/info/6946df547d506e3808f24104?utm_campaign=1048&utm_source=git)** | Rancho Cordova, CA | On Site | Dec 20 |
 | ↳ | **[NAND Design Automation Engineering Intern](https://jobright.ai/jobs/info/6946df3363141d1884569e7d?utm_campaign=1048&utm_source=git)** | Rancho Cordova, CA | On Site | Dec 20 |
 | ↳ | **[NAND Sort Product Development Engineering Intern](https://jobright.ai/jobs/info/6946df1f63141d1884569e79?utm_campaign=1048&utm_source=git)** | Rancho Cordova, CA | On Site | Dec 20 |
-| **[Ferrovias](ferrovias.us)** | **[Cyber Security - Intern](https://jobright.ai/jobs/info/6946dee1d1953b5d11c00ba1?utm_campaign=1048&utm_source=git)** | Chelmsford, MA | Remote | Dec 20 |
-| **[Solidigm](https://www.solidigmtechnology.com)** | **[NAND Product Development Engineering Intern](https://jobright.ai/jobs/info/6946debe63141d1884569e64?utm_campaign=1048&utm_source=git)** | Rancho Cordova, CA | On Site | Dec 20 |
+| ↳ | **[NAND Product Development Engineering Intern](https://jobright.ai/jobs/info/6946debe63141d1884569e64?utm_campaign=1048&utm_source=git)** | Rancho Cordova, CA | On Site | Dec 20 |
 | **[RoboStruct Technologies](robostructtechnologies.us)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/6946d89663141d1884569ad3?utm_campaign=1048&utm_source=git)** | Calhoun, GA | Remote | Dec 20 |
 | **[Rehlko](https://www.rehlko.com/)** | **[Engineering Internship Summer 2026](https://jobright.ai/jobs/info/6946d876d1953b5d11c0086c?utm_campaign=1048&utm_source=git)** | Waukesha, WI | On Site | Dec 20 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Energy/Security Technician](https://jobright.ai/jobs/info/6946d83b7d506e3808f23d41?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Dec 20 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Solution Delivery - Indigenous- EN](https://jobright.ai/jobs/info/692a78414c474121999cc319?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 20 |
 | **[Los Alamos National Laboratory](http://www.lanl.gov)** | **[Intelligence and Space Research Division Graduate Internship Program](https://jobright.ai/jobs/info/690d4b6c221b890c278059fa?utm_campaign=1048&utm_source=git)** | Los Alamos, NM | On Site | Dec 20 |
 | **[CN](http://www.cn.ca)** | **[Intern, Design & Construction Officer- EN](https://jobright.ai/jobs/info/692a1d6966796e3028f8e5d6?utm_campaign=1048&utm_source=git)** | Jackson, MS | On Site | Dec 20 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Traffic Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/690d22c0d046ab6061cf3453?utm_campaign=1048&utm_source=git)** | St Louis, MO | Hybrid | Dec 20 |
-| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern - Chemical Engineering](https://jobright.ai/jobs/info/68d6259cebcef82ef5cf6bf0?utm_campaign=1048&utm_source=git)** | United States | Remote | Dec 20 |
-| **[Koch Ag & Energy Solutions, LLC](https://kochagenergy.com)** | **[Summer 2026 Operations Internship](https://jobright.ai/jobs/info/68efd2b1de50091dbfa50746?utm_campaign=1048&utm_source=git)** | Hahnville, LA | Hybrid | Dec 20 |
-| **[CN](http://www.cn.ca)** | **[Intern, Industrial Hygiene (Safety)- EN](https://jobright.ai/jobs/info/692a25bf66796e3028f8e705?utm_campaign=1048&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Dec 20 |
-| **[TRUMPF North America](https://www.us.trumpf.com)** | **[Application Engineering Intern/Co-op](https://jobright.ai/jobs/info/68d77b6b295f8e37655db3d6?utm_campaign=1048&utm_source=git)** | Plymouth, MI | On Site | Dec 20 |
-| **[FM](https://www.fmglobal.com)** | **[Client Service Intern](https://jobright.ai/jobs/info/690d2456221b890c27803d77?utm_campaign=1048&utm_source=git)** | Creve Coeur, MO | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
