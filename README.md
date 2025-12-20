@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wind Energy Transmission Texas, LLC](http://www.windenergyoftexas.com)** | **[Summer 2026 Transmission Planning Intern](https://jobright.ai/jobs/info/694702bed1953b5d11c01ee8?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Dec 20 |
 | **[MechNova](mechnova.us)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/6946f362d1953b5d11c0142d?utm_campaign=1048&utm_source=git)** | Ada, MI | Remote | Dec 20 |
 | **[Capital One](http://www.capitalone.com)** | **[Intern, Data Analytics Engineering - Summer 2026](https://jobright.ai/jobs/info/6946ef4dd1953b5d11c0114a?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 20 |
 | **[Tighe & Bond](https://www.tighebond.com)** | **[Water Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/6946ee66d1953b5d11c010cd?utm_campaign=1048&utm_source=git)** | Manchester, NH | Hybrid | Dec 20 |
@@ -91,11 +92,9 @@ For a complete list, click the following sortable link below:
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Internship - Technology and New Product Introduction Engineering](https://jobright.ai/jobs/info/693f7d8650bbaf765051b7c7?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Dec 20 |
 | ↳ | **[2026 Gas Compressor Internship](https://jobright.ai/jobs/info/68e81d75cc49a84b7e102318?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Dec 20 |
 | ↳ | **[2026 Internship - Supply Chain - Supplier Technical Engineer](https://jobright.ai/jobs/info/693f983b49a7695fbd055af4?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Dec 20 |
-| **[RoboStruct Technologies](robostructtechnologies.us)** | **[Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/6946c565d1953b5d11bfe9dc?utm_campaign=1048&utm_source=git)** | Dalton, GA | Remote | Dec 20 |
-| ↳ | **[Summer Intern Facilities Engineering](https://jobright.ai/jobs/info/6946c19f63141d18845678aa?utm_campaign=1048&utm_source=git)** | Wilmington, DE | Remote | Dec 20 |
+| **[RoboStruct Technologies](robostructtechnologies.us)** | **[Summer Intern Facilities Engineering](https://jobright.ai/jobs/info/6946c19f63141d18845678aa?utm_campaign=1048&utm_source=git)** | Wilmington, DE | Remote | Dec 20 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Retail Field Intern - Southern Illinois Division](https://jobright.ai/jobs/info/6946bb5663141d188456774f?utm_campaign=1048&utm_source=git)** | Browns, IL | On Site | Dec 20 |
 | **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[2026 Summer Facilities Engineering Intern](https://jobright.ai/jobs/info/6946bab57d506e3808f21bc9?utm_campaign=1048&utm_source=git)** | Lawrence, MA | Remote | Dec 20 |
-| **[Vortexion Labs](vortexionlabs.us)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/6946ba8dd1953b5d11bfe500?utm_campaign=1048&utm_source=git)** | Dalton, GA | Remote | Dec 20 |
 | **[Ferrovias](ferrovias.us)** | **[Hardware Development Engineer Co-Op](https://jobright.ai/jobs/info/6946ba0263141d18845676f9?utm_campaign=1048&utm_source=git)** | Mayfield Heights, OH | Remote | Dec 20 |
 | **[Timberlab](https://timberlab.com)** | **[Project Engineer Intern- University Recruitment](https://jobright.ai/jobs/info/68c2521e33864f172f9bf268?utm_campaign=1048&utm_source=git)** | Portland, OR | On Site | Dec 20 |
 | **[Bel Brands USA Foodservice](http://belbrandsfoodservice.com/)** | **[Packaging Engineer Intern - Traverse City - January 2026](https://jobright.ai/jobs/info/6946b6367d506e3808f2184a?utm_campaign=1048&utm_source=git)** | Traverse City, MI | On Site | Dec 20 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Solution Delivery - Indigenous- EN](https://jobright.ai/jobs/info/692a78414c474121999cc319?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 20 |
 | **[Los Alamos National Laboratory](http://www.lanl.gov)** | **[Intelligence and Space Research Division Graduate Internship Program](https://jobright.ai/jobs/info/690d4b6c221b890c278059fa?utm_campaign=1048&utm_source=git)** | Los Alamos, NM | On Site | Dec 20 |
 | **[CN](http://www.cn.ca)** | **[Intern, Design & Construction Officer- EN](https://jobright.ai/jobs/info/692a1d6966796e3028f8e5d6?utm_campaign=1048&utm_source=git)** | Jackson, MS | On Site | Dec 20 |
+| **[WSP in the U.S.](http://www.ccrd.com)** | **[Traffic Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/690d22c0d046ab6061cf3453?utm_campaign=1048&utm_source=git)** | St Louis, MO | Hybrid | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
