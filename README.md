@@ -57,6 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Mechanical Engineer Intern - Talent Pool](https://jobright.ai/jobs/info/69465384d1953b5d11bf7c56?utm_campaign=1048&utm_source=git)** | New York, United States | Remote | Dec 19 |
+| **[Joby Aviation](http://www.jobyaviation.com)** | **[Powertrain Modeling and Algorithms Intern (Summer 2026)](https://jobright.ai/jobs/info/6946508a63141d1884560737?utm_campaign=1048&utm_source=git)** | US-CA-San Carlos | On Site | Dec 19 |
+| **[Rosendin](https://www.rosendin.com)** | **[Intern (2026)](https://jobright.ai/jobs/info/69464e787d506e3808f1ac50?utm_campaign=1048&utm_source=git)** | Anaheim, CA | On Site | Dec 19 |
+| **[Egotechworld](https://egotechworld.com/)** | **[Internship Trainee](https://jobright.ai/jobs/info/69464de9d1953b5d11bf7669?utm_campaign=1048&utm_source=git)** | Mobile, AL | Remote | Dec 19 |
+| **[Blanchard Machinery](http://blanchardmachinery.com)** | **[2026 Energy Intern](https://jobright.ai/jobs/info/69464d9e63141d18845604e3?utm_campaign=1048&utm_source=git)** | West Columbia, SC | On Site | Dec 19 |
+| **[ASML](https://www.asml.com)** | **[Applications Engineer Internship](https://jobright.ai/jobs/info/69464a4963141d1884560114?utm_campaign=1048&utm_source=git)** | Richardson, TX | On Site | Dec 19 |
+| ↳ | **[Internship - Robust Design](https://jobright.ai/jobs/info/694643b6d1953b5d11bf6c35?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Dec 19 |
+| **[Joby Aviation](http://www.jobyaviation.com)** | **[Powertrain Modeling and Algorithms Intern (Summer 2026)](https://jobright.ai/jobs/info/69464312d1953b5d11bf6c1e?utm_campaign=1048&utm_source=git)** | San Carlos, CA | On Site | Dec 19 |
+| **[Flex](https://flex.com)** | **[Test Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/694642607d506e3808f1a155?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Dec 19 |
+| **[ASML](https://www.asml.com)** | **[Internship - Field Service Engineering](https://jobright.ai/jobs/info/694641f17d506e3808f1a14c?utm_campaign=1048&utm_source=git)** | Malta, NY | On Site | Dec 19 |
+| ↳ | **[Internship - Test and Measurement](https://jobright.ai/jobs/info/694641dfd1953b5d11bf6bcf?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Dec 19 |
+| **[Oceaneering](http://www.oceaneering.com/)** | **[IMR System Design Engineering Intern](https://jobright.ai/jobs/info/69463cb27d506e3808f19ff7?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Dec 19 |
+| **[Rosendin](https://www.rosendin.com)** | **[Intern (2026)](https://jobright.ai/jobs/info/69463c9d7d506e3808f19feb?utm_campaign=1048&utm_source=git)** | California, United States | On Site | Dec 19 |
+| **[Parsons Corporation](http://www.parsons.com)** | **[Civil Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69424cd150bbaf7650544961?utm_campaign=1048&utm_source=git)** | Pasadena, CA | On Site | Dec 19 |
+| **[ArchKey Solutions](https://www.archkey.com)** | **[Intern](https://jobright.ai/jobs/info/69463be07d506e3808f19fac?utm_campaign=1048&utm_source=git)** | Clinton, MD | On Site | Dec 19 |
 | **[Toyota Research Institute](http://www.tri.global)** | **[Energy & Materials Intern - Probabilistic Programming](https://jobright.ai/jobs/info/6920047109cc522e87747566?utm_campaign=1048&utm_source=git)** | Los Altos, CA | Hybrid | Dec 19 |
 | **[City of Eagan](http://www.cityofeagan.com)** | **[Planning Intern](https://jobright.ai/jobs/info/69462babd1953b5d11bf587b?utm_campaign=1048&utm_source=git)** | Eagan, MN | On Site | Dec 19 |
 | **[Samuel, Son & Co.](https://nelsonsteel.com)** | **[Intern, Maintenance](https://jobright.ai/jobs/info/69462b417d506e3808f194d1?utm_campaign=1048&utm_source=git)** | Marinette, WI | On Site | Dec 19 |
@@ -74,8 +89,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Proofreading Intern (Remote)](https://jobright.ai/jobs/info/694623f4d1953b5d11bf3efe?utm_campaign=1048&utm_source=git)** | Washington, DC | Remote | Dec 19 |
 | **[Panasonic Avionics Corporation](http://www.panasonic.aero)** | **[Intern- Devops Engineer](https://jobright.ai/jobs/info/694623aad1953b5d11bf3ec9?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Dec 19 |
 | **[Outlier AI](http://outlier.ai/)** | **[Literary Intern (Remote)](https://jobright.ai/jobs/info/69462358d1953b5d11bf3e89?utm_campaign=1048&utm_source=git)** | Chicago, IL | Remote | Dec 19 |
-| ↳ | **[Proofreading Intern (Remote)](https://jobright.ai/jobs/info/694623407d506e3808f17476?utm_campaign=1048&utm_source=git)** | Cleveland, OH | Remote | Dec 19 |
 | ↳ | **[Literary Intern (Remote)](https://jobright.ai/jobs/info/694623407d506e3808f17477?utm_campaign=1048&utm_source=git)** | Dallas, TX | Remote | Dec 19 |
+| ↳ | **[Proofreading Intern (Remote)](https://jobright.ai/jobs/info/694623407d506e3808f17476?utm_campaign=1048&utm_source=git)** | Cleveland, OH | Remote | Dec 19 |
 | ↳ | **[Community Engagement Intern (Remote)](https://jobright.ai/jobs/info/6946232e7d506e3808f1746b?utm_campaign=1048&utm_source=git)** | Raleigh, NC | Remote | Dec 19 |
 | ↳ | **[Proofreading Intern (Remote)](https://jobright.ai/jobs/info/6946232463141d188455cf49?utm_campaign=1048&utm_source=git)** | Colorado Springs, CO | Remote | Dec 19 |
 | ↳ | **[Literary Intern (Remote)](https://jobright.ai/jobs/info/694622f763141d188455cf2d?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | Remote | Dec 19 |
@@ -120,6 +135,7 @@ For a complete list, click the following sortable link below:
 | **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[PhD Intern - Quantum Chemistry Methods Development](https://jobright.ai/jobs/info/694612177d506e3808f1693e?utm_campaign=1048&utm_source=git)** | Richland, WA | Hybrid | Dec 19 |
 | **[Tenstorrent](http://tenstorrent.com)** | **[Machine Learning for Physical Design Intern - CPU/AI Hardware](https://jobright.ai/jobs/info/693c8a77aa598a08c3ed5e37?utm_campaign=1048&utm_source=git)** | Austin, Texas, United States | On Site | Dec 19 |
 | **[StructaLink Group](structalinkgroup.us)** | **[Aviation Scheduling Summer Intern](https://jobright.ai/jobs/info/6946117e63141d188455c0e8?utm_campaign=1048&utm_source=git)** | Ada, MI | Remote | Dec 19 |
+| **[Honeywell](http://www.honeywell.com)** | **[Controls Integration and Modeling Engineering Intern](https://jobright.ai/jobs/info/69464409d1953b5d11bf6c3f?utm_campaign=1048&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Dec 19 |
 | **[University of Utah](http://utah.edu)** | **[Student Intern-Architectural](https://jobright.ai/jobs/info/6946107463141d188455bfa3?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT | On Site | Dec 19 |
 | **[Nokia Bell Labs](https://www.bell-labs.com/prize)** | **[Bell Labs Robotics Intern](https://jobright.ai/jobs/info/6946100363141d188455befb?utm_campaign=1048&utm_source=git)** | New Providence, NJ | On Site | Dec 19 |
 | **[Lanteris Space Systems](https://www.lanterisspace.com)** | **[Intern, Mechanical/Thermal Engineering](https://jobright.ai/jobs/info/69460ff1d1953b5d11bf300f?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Dec 19 |
@@ -141,20 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Intern - Foundation Models, Prescient Design](https://jobright.ai/jobs/info/69460be07d506e3808f16202?utm_campaign=1048&utm_source=git)** | Washington, DC | On Site | Dec 19 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Foundation Models, Prescient Design](https://jobright.ai/jobs/info/69460bdb63141d188455b9ad?utm_campaign=1048&utm_source=git)** | United States of America | Hybrid | Dec 19 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Translational Medicine](https://jobright.ai/jobs/info/69460bb0d1953b5d11bf2bf3?utm_campaign=1048&utm_source=git)** | Washington, DC | On Site | Dec 19 |
-| **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Foundation Models, Prescient Design](https://jobright.ai/jobs/info/69460badd1953b5d11bf2bf1?utm_campaign=1048&utm_source=git)** | New York City | Hybrid | Dec 19 |
-| **[Rush University Medical Center](https://www.rush.edu/)** | **[Student Intern-23947](https://jobright.ai/jobs/info/6946097063141d188455b8ff?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Dec 19 |
-| **[Futurewei Technologies, Inc.](https://www.futurewei.com/)** | **[Data Engineer Intern](https://jobright.ai/jobs/info/6946095363141d188455b8f3?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Dec 19 |
-| **[Albany International Corp.](http://www.albint.com/)** | **[Process Engineering Intern](https://jobright.ai/jobs/info/69460952d1953b5d11bf2a9f?utm_campaign=1048&utm_source=git)** | Homer, NY | On Site | Dec 19 |
-| **[Lanteris Space Systems](https://www.lanterisspace.com)** | **[Intern, Mechanical/Thermal Engineering](https://jobright.ai/jobs/info/6946090b63141d188455b8d4?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Dec 19 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Structural Intern](https://jobright.ai/jobs/info/6946083263141d188455b814?utm_campaign=1048&utm_source=git)** | Pleasanton, CA | On Site | Dec 19 |
-| **[Genentech](http://gene.com)** | **[2026 Summer Internship - External Quality](https://jobright.ai/jobs/info/6946082a63141d188455b7f5?utm_campaign=1048&utm_source=git)** | South San Francisco, CA | On Site | Dec 19 |
-| ↳ | **[2026 Summer Intern - Cell and Tissue Genomics](https://jobright.ai/jobs/info/6946078763141d188455b661?utm_campaign=1048&utm_source=git)** | South San Francisco, CA | On Site | Dec 19 |
-| **[GE HealthCare](http://www.gehealthcare.com)** | **[Biomedical Technician Intern - Summer 2026](https://jobright.ai/jobs/info/6946076963141d188455b613?utm_campaign=1048&utm_source=git)** | New Hampshire, United States | On Site | Dec 19 |
-| **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - Engineering & Construction](https://jobright.ai/jobs/info/6946049b7d506e3808f155fb?utm_campaign=1048&utm_source=git)** | Winston-Salem, NC | On Site | Dec 19 |
-| **[Airstream](https://www.airstream.com/)** | **[Electrical Design Intern](https://jobright.ai/jobs/info/694604547d506e3808f15537?utm_campaign=1048&utm_source=git)** | Jackson Center, OH, US | On Site | Dec 19 |
-| **[Helena Agri-Enterprises, LLC](https://helenaagri.com/)** | **[Intern - Engineering](https://jobright.ai/jobs/info/694603957d506e3808f15371?utm_campaign=1048&utm_source=git)** | Des Moines, IA | On Site | Dec 19 |
-| **[Ranger Power](https://www.rangerpower.com)** | **[Development Intern](https://jobright.ai/jobs/info/6945e79563141d1884558402?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Dec 19 |
-| **[Sealaska](http://www.sealaska.com/)** | **[Fisheries Technician Intern (USFS) - Summer 2026](https://jobright.ai/jobs/info/6946033ad1953b5d11bf1cb2?utm_campaign=1048&utm_source=git)** | Juneau, AK | Hybrid | Dec 19 |
-| **[RAM Aviation, Space & Defense](https://ramasd.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69460328d1953b5d11bf1c81?utm_campaign=1048&utm_source=git)** | St. George,UT,US | On Site | Dec 19 |
-| **[SetPoint Medical](http://www.setpointmedical.com)** | **[Quality and Operations Internship/Co-Op Opportunities](https://jobright.ai/jobs/info/694602d163141d188455ab50?utm_campaign=1048&utm_source=git)** | Valencia,CA,US | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
