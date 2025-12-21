@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nudura Insulated Concrete Forms](http://www.nudura.com/)** | **[Construction Internship Program](https://jobright.ai/jobs/info/69472c55d1953b5d11c046c8?utm_campaign=1048&utm_source=git)** | Riverside, CA | On Site | Dec 20 |
+| **[FenyxDen](https://www.linkedin.com/company/110265129)** | **[AI/ML Engineer Unpaid Internship](https://jobright.ai/jobs/info/69472a5d63141d188456d95b?utm_campaign=1048&utm_source=git)** | United States | Remote | Dec 20 |
+| **[Nudura Insulated Concrete Forms](http://www.nudura.com/)** | **[Construction Internship Program](https://jobright.ai/jobs/info/69472a5363141d188456d959?utm_campaign=1048&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Dec 20 |
+| ↳ | **[Construction Internship Program](https://jobright.ai/jobs/info/69472a3063141d188456d94e?utm_campaign=1048&utm_source=git)** | Kelowna, British Columbia, Canada | On Site | Dec 20 |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Futures Lab (Fall 2025)](https://jobright.ai/jobs/info/6947242663141d188456d629?utm_campaign=1048&utm_source=git)** | Washington, DC | Hybrid | Dec 20 |
+| **[Agropur](http://www.agropur.com/en/)** | **[Environmental Engineering Intern](https://jobright.ai/jobs/info/693274bda0dde7020e2e7151?utm_campaign=1048&utm_source=git)** | Wisconsin, United States | On Site | Dec 20 |
+| **[City of Ankeny](https://www.ankenyiowa.gov/)** | **[Sports Turf Management Internship - 2026 Summer](https://jobright.ai/jobs/info/69471a5e63141d188456d3aa?utm_campaign=1048&utm_source=git)** | Ankeny, IA | On Site | Dec 20 |
 | **[Wind Energy Transmission Texas, LLC](http://www.windenergyoftexas.com)** | **[Summer 2026 Transmission Planning Intern](https://jobright.ai/jobs/info/694702bed1953b5d11c01ee8?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Dec 20 |
 | **[MechNova](mechnova.us)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/6946f362d1953b5d11c0142d?utm_campaign=1048&utm_source=git)** | Ada, MI | Remote | Dec 20 |
 | **[Capital One](http://www.capitalone.com)** | **[Intern, Data Analytics Engineering - Summer 2026](https://jobright.ai/jobs/info/6946ef4dd1953b5d11c0114a?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 20 |
@@ -145,16 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Stripe](https://stripe.com)** | **[PhD Machine Learning Engineer, Intern](https://jobright.ai/jobs/info/68b7e7aca10b650604b61f40?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Dec 20 |
 | **[OWN, Inc.](https://www.weareown.com)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/689d828dfaa4e875e8270d95?utm_campaign=1048&utm_source=git)** | Springfield, MO | On Site | Dec 20 |
 | **[Buro Happold](http://www.burohappold.com)** | **[Facade Intern - Los Angeles (Summer 2026)](https://jobright.ai/jobs/info/68f17b84ef766b3f0fd0ea55?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 20 |
-| **[CN](http://www.cn.ca)** | **[Intern, Safety - Indigenous- EN](https://jobright.ai/jobs/info/692a7773fa28370be269727e?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 20 |
-| ↳ | **[Intern, IT Operations & Technology Enablement-Indigenous- EN](https://jobright.ai/jobs/info/692a777dfa28370be2697286?utm_campaign=1048&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Dec 20 |
+| **[CN](http://www.cn.ca)** | **[Intern, IT Operations & Technology Enablement-Indigenous- EN](https://jobright.ai/jobs/info/692a777dfa28370be2697286?utm_campaign=1048&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Dec 20 |
+| ↳ | **[Intern, Safety - Indigenous- EN](https://jobright.ai/jobs/info/692a7773fa28370be269727e?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 20 |
 | **[Uline](http://www.uline.com)** | **[Database Administrator Internship - Summer 2026](https://jobright.ai/jobs/info/68f13965e6870116b1f550c6?utm_campaign=1048&utm_source=git)** | Pleasant Prairie, WI | On Site | Dec 20 |
 | **[CN](http://www.cn.ca)** | **[Intern, Engineering (Track CA) Great Lakes- EN](https://jobright.ai/jobs/info/692a25b966796e3028f8e704?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 20 |
 | **[Kiewit](http://www.kiewit.com)** | **[Civil Design Intern - Kiewit Power Engineering (Summer 2026)](https://jobright.ai/jobs/info/68b8891c07090163b6ba2775?utm_campaign=1048&utm_source=git)** | Lenexa, KS | On Site | Dec 20 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Structural Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/690d5f41d046ab6061cf5aa5?utm_campaign=1048&utm_source=git)** | Houston, TX | Hybrid | Dec 20 |
-| **[TYLin](http://www.tylin.com)** | **[Construction Management Intern](https://jobright.ai/jobs/info/68f16433f462172a5a7d7b14?utm_campaign=1048&utm_source=git)** | Washington, DC | On Site | Dec 20 |
-| **[CN](http://www.cn.ca)** | **[Intern, Mechanical (Car Reliability)- FR](https://jobright.ai/jobs/info/692a3a33fa28370be2696a80?utm_campaign=1048&utm_source=git)** | Homewood, IL | On Site | Dec 20 |
-| ↳ | **[Intern, Solution Delivery - Indigenous- EN](https://jobright.ai/jobs/info/692a78414c474121999cc319?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 20 |
-| **[Los Alamos National Laboratory](http://www.lanl.gov)** | **[Intelligence and Space Research Division Graduate Internship Program](https://jobright.ai/jobs/info/690d4b6c221b890c278059fa?utm_campaign=1048&utm_source=git)** | Los Alamos, NM | On Site | Dec 20 |
-| **[CN](http://www.cn.ca)** | **[Intern, Design & Construction Officer- EN](https://jobright.ai/jobs/info/692a1d6966796e3028f8e5d6?utm_campaign=1048&utm_source=git)** | Jackson, MS | On Site | Dec 20 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Traffic Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/690d22c0d046ab6061cf3453?utm_campaign=1048&utm_source=git)** | St Louis, MO | Hybrid | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
