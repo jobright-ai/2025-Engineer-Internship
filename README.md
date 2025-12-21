@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[La-Z-Boy Incorporated](http://www.la-z-boy.com)** | **[Internship - Supply Chain (Summer 2026)](https://jobright.ai/jobs/info/694780b3d1953b5d11c090d8?utm_campaign=1048&utm_source=git)** | Monroe, MI | Hybrid | Dec 20 |
+| **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Internship/Co-op, BT (NYC) Summer 2026](https://jobright.ai/jobs/info/6944728550bbaf7650567674?utm_campaign=1048&utm_source=git)** | New York, New York, United States | On Site | Dec 20 |
+| **[Toyota Research Institute](http://www.tri.global)** | **[Robotics Intern - Large Behavior Models, Trustworthy Learning under Uncertainty (TLU)](https://jobright.ai/jobs/info/6927d969d47de4798ece0fcc?utm_campaign=1048&utm_source=git)** | Los Altos, CA | Hybrid | Dec 20 |
+| **[Oxmaint AI : EAM/CMMS](https://www.oxmaint.com/)** | **[AI/ML Intern](https://jobright.ai/jobs/info/694771d8d1953b5d11c083e9?utm_campaign=1048&utm_source=git)** | United States | Remote | Dec 20 |
 | **[Re:Build Manufacturing](https://www.rebuildmanufacturing.com)** | **[Mechanical Engineer - Post Grad Intern](https://jobright.ai/jobs/info/69442865dd382f5f566a3b1b?utm_campaign=1048&utm_source=git)** | Wilmington, MA | On Site | Dec 20 |
 | **[Meta](https://www.metacareers.com/)** | **[Hardware Systems Engineer Intern](https://jobright.ai/jobs/info/69475cd963141d1884570b18?utm_campaign=1048&utm_source=git)** | Menlo Park, CA | On Site | Dec 20 |
 | **[United Imaging Intelligence](https://www.uii-ai.com/)** | **[Research Intern, Medical Imaging AI](https://jobright.ai/jobs/info/6947556363141d18845708f8?utm_campaign=1048&utm_source=git)** | Burlington, MA | On Site | Dec 20 |
@@ -81,7 +85,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NAND Design Automation Engineering Intern](https://jobright.ai/jobs/info/6946df3363141d1884569e7d?utm_campaign=1048&utm_source=git)** | Rancho Cordova, CA | On Site | Dec 20 |
 | ↳ | **[NAND Sort Product Development Engineering Intern](https://jobright.ai/jobs/info/6946df1f63141d1884569e79?utm_campaign=1048&utm_source=git)** | Rancho Cordova, CA | On Site | Dec 20 |
 | ↳ | **[NAND Product Development Engineering Intern](https://jobright.ai/jobs/info/6946debe63141d1884569e64?utm_campaign=1048&utm_source=git)** | Rancho Cordova, CA | On Site | Dec 20 |
-| **[RoboStruct Technologies](robostructtechnologies.us)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/6946d89663141d1884569ad3?utm_campaign=1048&utm_source=git)** | Calhoun, GA | Remote | Dec 20 |
 | **[Rehlko](https://www.rehlko.com/)** | **[Engineering Internship Summer 2026](https://jobright.ai/jobs/info/6946d876d1953b5d11c0086c?utm_campaign=1048&utm_source=git)** | Waukesha, WI | On Site | Dec 20 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Energy/Security Technician](https://jobright.ai/jobs/info/6946d83b7d506e3808f23d41?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Dec 20 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Oral Peptide Delivery Intern (PhD)](https://jobright.ai/jobs/info/6946ce3a7d506e3808f2237e?utm_campaign=1048&utm_source=git)** | Worcester, MA | On Site | Dec 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Buro Happold](http://www.burohappold.com)** | **[Facade Intern - Los Angeles (Summer 2026)](https://jobright.ai/jobs/info/68f17b84ef766b3f0fd0ea55?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 20 |
 | **[CN](http://www.cn.ca)** | **[Intern, IT Operations & Technology Enablement-Indigenous- EN](https://jobright.ai/jobs/info/692a777dfa28370be2697286?utm_campaign=1048&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Dec 20 |
 | ↳ | **[Intern, Safety - Indigenous- EN](https://jobright.ai/jobs/info/692a7773fa28370be269727e?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 20 |
-| **[Uline](http://www.uline.com)** | **[Database Administrator Internship - Summer 2026](https://jobright.ai/jobs/info/68f13965e6870116b1f550c6?utm_campaign=1048&utm_source=git)** | Pleasant Prairie, WI | On Site | Dec 20 |
-| **[CN](http://www.cn.ca)** | **[Intern, Engineering (Track CA) Great Lakes- EN](https://jobright.ai/jobs/info/692a25b966796e3028f8e704?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 20 |
-| **[Kiewit](http://www.kiewit.com)** | **[Civil Design Intern - Kiewit Power Engineering (Summer 2026)](https://jobright.ai/jobs/info/68b8891c07090163b6ba2775?utm_campaign=1048&utm_source=git)** | Lenexa, KS | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
