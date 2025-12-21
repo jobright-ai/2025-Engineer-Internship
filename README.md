@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Off-road Engineering Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/6947a1f7d1953b5d11c0c1a6?utm_campaign=1048&utm_source=git)** | California City, CA | On Site | Dec 20 |
+| **[RoboStruct Technologies](robostructtechnologies.us)** | **[Test Engineering Intern](https://jobright.ai/jobs/info/69479b747d506e3808f2ec02?utm_campaign=1048&utm_source=git)** | Chelmsford, MA | Remote | Dec 20 |
+| **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Ride and Handling Engineering Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/69479ab7d1953b5d11c0bade?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Dec 20 |
 | **[La-Z-Boy Incorporated](http://www.la-z-boy.com)** | **[Internship - Supply Chain (Summer 2026)](https://jobright.ai/jobs/info/694780b3d1953b5d11c090d8?utm_campaign=1048&utm_source=git)** | Monroe, MI | Hybrid | Dec 20 |
 | **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Internship/Co-op, BT (NYC) Summer 2026](https://jobright.ai/jobs/info/6944728550bbaf7650567674?utm_campaign=1048&utm_source=git)** | New York, New York, United States | On Site | Dec 20 |
 | **[Toyota Research Institute](http://www.tri.global)** | **[Robotics Intern - Large Behavior Models, Trustworthy Learning under Uncertainty (TLU)](https://jobright.ai/jobs/info/6927d969d47de4798ece0fcc?utm_campaign=1048&utm_source=git)** | Los Altos, CA | Hybrid | Dec 20 |
@@ -73,7 +76,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Construction Internship Program](https://jobright.ai/jobs/info/69472a5363141d188456d959?utm_campaign=1048&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Dec 20 |
 | ↳ | **[Construction Internship Program](https://jobright.ai/jobs/info/69472a3063141d188456d94e?utm_campaign=1048&utm_source=git)** | Kelowna, British Columbia, Canada | On Site | Dec 20 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Futures Lab (Fall 2025)](https://jobright.ai/jobs/info/6947242663141d188456d629?utm_campaign=1048&utm_source=git)** | Washington, DC | Hybrid | Dec 20 |
-| **[Agropur](http://www.agropur.com/en/)** | **[Environmental Engineering Intern](https://jobright.ai/jobs/info/693274bda0dde7020e2e7151?utm_campaign=1048&utm_source=git)** | Wisconsin, United States | On Site | Dec 20 |
 | **[City of Ankeny](https://www.ankenyiowa.gov/)** | **[Sports Turf Management Internship - 2026 Summer](https://jobright.ai/jobs/info/69471a5e63141d188456d3aa?utm_campaign=1048&utm_source=git)** | Ankeny, IA | On Site | Dec 20 |
 | **[Wind Energy Transmission Texas, LLC](http://www.windenergyoftexas.com)** | **[Summer 2026 Transmission Planning Intern](https://jobright.ai/jobs/info/694702bed1953b5d11c01ee8?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Dec 20 |
 | **[Capital One](http://www.capitalone.com)** | **[Intern, Data Analytics Engineering - Summer 2026](https://jobright.ai/jobs/info/6946ef4dd1953b5d11c0114a?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 20 |
@@ -136,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Environmental, Health and Safety (EHS) Intern (Summer 2026)](https://jobright.ai/jobs/info/690d3032d046ab6061cf3fcd?utm_campaign=1048&utm_source=git)** | Richland Center, WI | On Site | Dec 20 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Design Verification Intern - Master's Degree](https://jobright.ai/jobs/info/692b123cfa28370be2698319?utm_campaign=1048&utm_source=git)** | Westborough, MA | On Site | Dec 20 |
 | **[CN](http://www.cn.ca)** | **[Intern, Drone Technology (Engineering)- FR](https://jobright.ai/jobs/info/692a3a0d66796e3028f8e936?utm_campaign=1048&utm_source=git)** | Gary, IN | On Site | Dec 20 |
-| ↳ | **[Intern, Drone Technology (Engineering)- EN](https://jobright.ai/jobs/info/692a1e2566796e3028f8e60a?utm_campaign=1048&utm_source=git)** | Gary, IN | On Site | Dec 20 |
 | **[TIC - The Industrial Company](https://www.ticus.com)** | **[Field/Office Engineer Intern - TIC Industrial (Summer 2026)](https://jobright.ai/jobs/info/68b738b21ade4306aa648a05?utm_campaign=1048&utm_source=git)** | Lenexa, KS | On Site | Dec 20 |
 | **[CN](http://www.cn.ca)** | **[Intern, Bridge Assessment Engineer- EN](https://jobright.ai/jobs/info/6929d5b14c474121999ca6e3?utm_campaign=1048&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Dec 20 |
 | ↳ | **[Intern, Operational Technology (Safety System Design)- EN](https://jobright.ai/jobs/info/692a249e66796e3028f8e6b8?utm_campaign=1048&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 20 |
@@ -151,10 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Advisory Building Performance Intern- New York, Boston or DC (Summer 2026)](https://jobright.ai/jobs/info/68f17adfe6870116b1f5988b?utm_campaign=1048&utm_source=git)** | New York, United States | Hybrid | Dec 20 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Mechanical Engineer Intern - Energy & Industrial Group (Summer 2026)](https://jobright.ai/jobs/info/68b8df2a5b42bc456282874e?utm_campaign=1048&utm_source=git)** | Tampa, FL | Hybrid | Dec 20 |
 | **[CN](http://www.cn.ca)** | **[Intern, Mechanical (Car Reliability)- EN](https://jobright.ai/jobs/info/692a717cfa28370be269721f?utm_campaign=1048&utm_source=git)** | Homewood, IL | On Site | Dec 20 |
-| ↳ | **[Intern, Operational Technology - Indigenous- EN](https://jobright.ai/jobs/info/692a778cfa28370be2697293?utm_campaign=1048&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 20 |
 | **[Stripe](https://stripe.com)** | **[PhD Machine Learning Engineer, Intern](https://jobright.ai/jobs/info/68b7e7aca10b650604b61f40?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Dec 20 |
 | **[OWN, Inc.](https://www.weareown.com)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/689d828dfaa4e875e8270d95?utm_campaign=1048&utm_source=git)** | Springfield, MO | On Site | Dec 20 |
 | **[Buro Happold](http://www.burohappold.com)** | **[Facade Intern - Los Angeles (Summer 2026)](https://jobright.ai/jobs/info/68f17b84ef766b3f0fd0ea55?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 20 |
-| **[CN](http://www.cn.ca)** | **[Intern, IT Operations & Technology Enablement-Indigenous- EN](https://jobright.ai/jobs/info/692a777dfa28370be2697286?utm_campaign=1048&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Dec 20 |
-| ↳ | **[Intern, Safety - Indigenous- EN](https://jobright.ai/jobs/info/692a7773fa28370be269727e?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 20 |
+| **[CN](http://www.cn.ca)** | **[Intern, Safety - Indigenous- EN](https://jobright.ai/jobs/info/692a7773fa28370be269727e?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 20 |
+| ↳ | **[Intern, IT Operations & Technology Enablement-Indigenous- EN](https://jobright.ai/jobs/info/692a777dfa28370be2697286?utm_campaign=1048&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
