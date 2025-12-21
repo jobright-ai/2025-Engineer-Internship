@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Davis School District](https://www.davis.k12.ut.us/)** | **[Energy/Security Technician](https://jobright.ai/jobs/info/69482d1b63141d188457e802?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Dec 21 |
+| **[MechNova](mechnova.us)** | **[2026 Summer Facilities Engineering Intern (R14513)](https://jobright.ai/jobs/info/6948270463141d188457e768?utm_campaign=1048&utm_source=git)** | Haverhill, MA | Remote | Dec 21 |
+| **[MetalTek International](https://www.metaltek.com/)** | **[Industrial Electrical Intern - Summer](https://jobright.ai/jobs/info/6948235363141d188457ce09?utm_campaign=1048&utm_source=git)** | Waukesha, WI | On Site | Dec 21 |
+| **[Mechronix](mechronix.us)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/694821ac7d506e3808f36406?utm_campaign=1048&utm_source=git)** | Ada, MI | Remote | Dec 21 |
+| **[BioSpace](http://www.biospace.com/)** | **[2026 Global Facilities Engineering Intern](https://jobright.ai/jobs/info/69481c2463141d188457c937?utm_campaign=1048&utm_source=git)** | North Chicago, IL | On Site | Dec 21 |
+| ↳ | **[2026 Biologics Analytical Research & Development Intern (PhD)](https://jobright.ai/jobs/info/69481c1363141d188457c932?utm_campaign=1048&utm_source=git)** | South San Francisco, CA | On Site | Dec 21 |
+| ↳ | **[2026 Synthetic Chemistry Intern (PDS&T) (PhD)](https://jobright.ai/jobs/info/694819f67d506e3808f35f8d?utm_campaign=1048&utm_source=git)** | North Chicago, IL | On Site | Dec 21 |
 | **[Vortexion Labs](vortexionlabs.us)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/6948158ed1953b5d11c1305f?utm_campaign=1048&utm_source=git)** | Dalton, GA | Remote | Dec 21 |
 | **[Sierra Pacific Industries](http://www.spi-ind.com)** | **[Engineer Intern - Cogeneration](https://jobright.ai/jobs/info/69481255d1953b5d11c13024?utm_campaign=1048&utm_source=git)** | Anderson, CA | On Site | Dec 21 |
 | ↳ | **[Engineer / Scientist Intern](https://jobright.ai/jobs/info/69480f86d1953b5d11c12fee?utm_campaign=1048&utm_source=git)** | Eugene, OR | On Site | Dec 21 |
@@ -76,7 +83,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Engineer Intern - Design](https://jobright.ai/jobs/info/69480d2863141d188457c369?utm_campaign=1048&utm_source=git)** | Red Bluff, CA | On Site | Dec 21 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Retail Field Intern - Southeast Iowa Division](https://jobright.ai/jobs/info/694809c063141d188457c2fa?utm_campaign=1048&utm_source=git)** | Fairfield, IA | On Site | Dec 21 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Diagnostics Intern](https://jobright.ai/jobs/info/68eb743f8369791ef7827135?utm_campaign=1048&utm_source=git)** | Charlotte, NC | On Site | Dec 21 |
-| **[The Exploration Company](https://exploration.space)** | **[Crew Systems Engineering Intern-Avionics/Software](https://jobright.ai/jobs/info/6948082cd1953b5d11c12b65?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Dec 21 |
 | **[Cliffton Verge](https://www.linkedin.com/company/108618613)** | **[Advanced Manufacturing Engineering Internship Opportunities](https://jobright.ai/jobs/info/694807fed1953b5d11c12b5c?utm_campaign=1048&utm_source=git)** | Sidney, OH | Remote | Dec 21 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Retail Field Intern - Central Iowa Division](https://jobright.ai/jobs/info/694806d4d1953b5d11c12b28?utm_campaign=1048&utm_source=git)** | Hancock, IA | On Site | Dec 21 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Civil Engineer Intern - Water](https://jobright.ai/jobs/info/691adad345fb6f5ead8ae404?utm_campaign=1048&utm_source=git)** | Tampa, FL | Hybrid | Dec 21 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Black & Veatch](http://bv.com/Home)** | **[Civil Engineer Intern - Water](https://jobright.ai/jobs/info/68d76c26295f8e37655d8a8c?utm_campaign=1048&utm_source=git)** | Coral Gables, FL | Hybrid | Dec 21 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Global Inspection Readiness Project Intern](https://jobright.ai/jobs/info/690ecba744146d3b6ec57e42?utm_campaign=1048&utm_source=git)** | Lexington, MA | On Site | Dec 21 |
 | **[Swinerton](http://www.swinerton.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/68bae2af5f3832749186a5aa?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Dec 21 |
-| **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Process Engineer Intern](https://jobright.ai/jobs/info/690ec462d046ab6061d01081?utm_campaign=1048&utm_source=git)** | Brooklyn Park, MN | On Site | Dec 21 |
-| ↳ | **[2026 Summer Internship: Global Product Production Forensic Laboratory Intern](https://jobright.ai/jobs/info/690ecf0c221b890c27811db2?utm_campaign=1048&utm_source=git)** | Lexington, MA | On Site | Dec 21 |
-| **[RS&H](http://www.rsandh.com/)** | **[Civil Engineering Intern (Aviation) - Summer 2026](https://jobright.ai/jobs/info/68f28aa776a51a4307bc4974?utm_campaign=1048&utm_source=git)** | Plymouth, MI | On Site | Dec 21 |
-| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Post-Undergraduate (Year-Round) Intern - Analytical Chemistry - Biomass Analysis](https://jobright.ai/jobs/info/691ba676bcdbf3560c9e1138?utm_campaign=1048&utm_source=git)** | Golden, CO | On Site | Dec 21 |
-| **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Assistant Construction Manager Intern](https://jobright.ai/jobs/info/691ff1893f782d2f1afc1c15?utm_campaign=1048&utm_source=git)** | Scottsdale, AZ | On Site | Dec 21 |
-| **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Process Documentation Intern](https://jobright.ai/jobs/info/690ecf04221b890c27811daf?utm_campaign=1048&utm_source=git)** | Lexington, MA | On Site | Dec 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
