@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lanteris Space Systems](https://www.lanterisspace.com)** | **[Intern, Systems Engineering](https://jobright.ai/jobs/info/6948f4edd1953b5d11c20553?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Dec 21 |
+| **[TIFEC](https://osv-tifec.wd5.myworkdayjobs.com/TIFEC)** | **[Turf & Field Operations Intern - Spring 2026](https://jobright.ai/jobs/info/6948f3527d506e3808f42bd6?utm_campaign=1048&utm_source=git)** | Children's Mercy Park Kansas City, KS 66111 | On Site | Dec 21 |
+| **[Deriva Energy](https://derivaenergy.com/)** | **[2026 Summer Intern Program](https://jobright.ai/jobs/info/694468fddd382f5f566a87d9?utm_campaign=1048&utm_source=git)** | Charlotte, NC | On Site | Dec 21 |
+| **[Dakota County](http://www.dakotacounty.us)** | **[Engineering Intern - Water Resources](https://jobright.ai/jobs/info/6948ebfc7d506e3808f424ba?utm_campaign=1048&utm_source=git)** | Hastings, MN | Remote | Dec 21 |
+| **[City of Ashland Kentucky](http://www.ashlandky.gov)** | **[Chemical Process Engineer Co-op/Intern](https://jobright.ai/jobs/info/6948e245d1953b5d11c1f506?utm_campaign=1048&utm_source=git)** | Calvert City, KY | On Site | Dec 21 |
+| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Transportation - Department of Highways](https://jobright.ai/jobs/info/69026c1198707b2b0fe6f2d4?utm_campaign=1048&utm_source=git)** | Shepherdsville, KY | On Site | Dec 21 |
 | **[Mechronix](mechronix.us)** | **[Test Engineering Intern](https://jobright.ai/jobs/info/6948db97d1953b5d11c1f2b7?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | On Site | Dec 21 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Transportation - Department of Highways](https://jobright.ai/jobs/info/6944f00394730b73987835a6?utm_campaign=1048&utm_source=git)** | Louisville, KY | On Site | Dec 21 |
 | ↳ | **[Team Kentucky Internship Program - Transportation - Department of Highways](https://jobright.ai/jobs/info/69317024fa28370be26ba285?utm_campaign=1048&utm_source=git)** | Frankfort, KY | On Site | Dec 21 |
@@ -81,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Futures Lab (Fall 2025)](https://jobright.ai/jobs/info/694877f67d506e3808f3b47b?utm_campaign=1048&utm_source=git)** | Washington, DC | Hybrid | Dec 21 |
 | **[Nudura Insulated Concrete Forms](http://www.nudura.com/)** | **[Construction Internship Program](https://jobright.ai/jobs/info/694869127d506e3808f3b03a?utm_campaign=1048&utm_source=git)** | Riverside, CA | On Site | Dec 21 |
 | **[Vortexion Labs](vortexionlabs.us)** | **[Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/6948612ad1953b5d11c17f23?utm_campaign=1048&utm_source=git)** | Dalton, GA | On Site | Dec 21 |
-| **[Solakair](www.solakair.com)** | **[Unmanned Combat Aircraft Intern, Solakair](https://jobright.ai/jobs/info/6948a25463141d18845849fa?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Dec 21 |
 | **[Sierra Pacific Industries](http://www.spi-ind.com)** | **[Engineer / Scientist - Intern](https://jobright.ai/jobs/info/6948a403d1953b5d11c1afd2?utm_campaign=1048&utm_source=git)** | Shasta Lake, CA | On Site | Dec 21 |
 | **[Chesapeake Bay Foundation](http://www.cbf.org)** | **[Maryland Restoration Intern](https://jobright.ai/jobs/info/6948a1f07d506e3808f3da18?utm_campaign=1048&utm_source=git)** | Marlboro Village, MD | On Site | Dec 21 |
 | **[Griffon Aerospace](http://www.griffonaerospace.com)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/69484e8863141d188457f7c3?utm_campaign=1048&utm_source=git)** | Madison, AL | On Site | Dec 21 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Network Engineer Internship - Summer 2026](https://jobright.ai/jobs/info/68f12f9fe6870116b1f5463d?utm_campaign=1048&utm_source=git)** | Waukegan, IL | On Site | Dec 21 |
 | **[Buro Happold](http://www.burohappold.com)** | **[Facade Intern - Chicago (Summer 2026)](https://jobright.ai/jobs/info/68f28b769a63986de7568ad7?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Dec 21 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Port Arthur Field Engineer Intern-Summer 2026](https://jobright.ai/jobs/info/690eb067221b890c27810b0e?utm_campaign=1048&utm_source=git)** | Port Arthur, TX | On Site | Dec 21 |
-| **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Environmental, Health, and Safety (EHS) Intern](https://jobright.ai/jobs/info/690ec3a944146d3b6ec579dc?utm_campaign=1048&utm_source=git)** | Lexington, MA | On Site | Dec 21 |
-| **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Assistant Construction Manager Intern](https://jobright.ai/jobs/info/690e5255d046ab6061cfc472?utm_campaign=1048&utm_source=git)** | Raleigh, NC | On Site | Dec 21 |
-| **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[Co-op, Mechanical Engineering (January - August 2026) - Chelmsford](https://jobright.ai/jobs/info/6947fd00d1953b5d11c125a8?utm_campaign=1048&utm_source=git)** | Chelmsford, MA | Remote | Dec 21 |
-| **[FlatironDragados](https://www.fdcorp.com)** | **[Field Engineer Intern-Raleigh Projects](https://jobright.ai/jobs/info/68bb1b5e6105227d118a2fb8?utm_campaign=1048&utm_source=git)** | Raleigh, NC | On Site | Dec 21 |
-| **[Bloom Energy](http://www.bloomenergy.com)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/68f3082576a51a4307bca4d4?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Dec 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
