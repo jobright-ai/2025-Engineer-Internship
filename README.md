@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, R&D Graduate Summer - Nonlinear Mechanics and Dynamics (NOMAD), Onsite](https://jobright.ai/jobs/info/692e034f4c474121999d53f0?utm_campaign=1048&utm_source=git)** | Albuquerque, NM | On Site | Dec 22 |
+| ↳ | **[Intern, R&D Graduate Summer - MSIPP PARTNERS, Onsite](https://jobright.ai/jobs/info/6930dc60fa28370be26b4a26?utm_campaign=1048&utm_source=git)** | Livermore, CA | On Site | Dec 22 |
+| **[Southwest Florida Water Management District](http://www.watermatters.org)** | **[Environmental Resource Permit Student Intern (9046)](https://jobright.ai/jobs/info/693c36b249a7695fbd0305a7?utm_campaign=1048&utm_source=git)** | Tampa, FL | Hybrid | Dec 22 |
+| **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/68af19e31f0a2a568a05f08c?utm_campaign=1048&utm_source=git)** | Louisville, Kentucky, United States | On Site | Dec 22 |
+| **[Rehrig Pacific Company](http://www.rehrigpacific.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6949764463141d1884590406?utm_campaign=1048&utm_source=git)** | Erie, PA | On Site | Dec 22 |
+| **[PACK Power, LLC](packpower.com)** | **[Field Engineer Intern](https://jobright.ai/jobs/info/69460d1963141d188455bbcc?utm_campaign=1048&utm_source=git)** | Fargo, ND | On Site | Dec 22 |
+| **[Gridvanta PowerTech](gridvantapowertech.us)** | **[Mechanical Engineer Intern - Talent Pool](https://jobright.ai/jobs/info/6949720e7d506e3808f48f6f?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Dec 22 |
+| **[MAHLE](https://www.mahle.com)** | **[Engineering Intern - Manufacturing](https://jobright.ai/jobs/info/6930c4bcef4b48533d14ee4a?utm_campaign=1048&utm_source=git)** | Russellville, AR | On Site | Dec 22 |
+| **[Holland & Hart LLP](http://www.hollandhart.com)** | **[EE Patent Engineer/Internship: Colorado, Utah, or Idaho](https://jobright.ai/jobs/info/68cec597dbd9fb154ede2973?utm_campaign=1048&utm_source=git)** | Boulder, CO | Hybrid | Dec 22 |
+| **[WIDIA](https://www.widia.com)** | **[Apprentice Intern - Production-US](https://jobright.ai/jobs/info/69496b8863141d1884590168?utm_campaign=1048&utm_source=git)** | Solon, OH | Hybrid | Dec 22 |
 | **[HDR](http://www.hdrinc.com)** | **[Rail Bridge Intern](https://jobright.ai/jobs/info/694961d5d1953b5d11c26527?utm_campaign=1048&utm_source=git)** | Cincinnati, OH | On Site | Dec 22 |
 | **[Dairyland Power Cooperative](https://dairylandpower.com)** | **[Intern, Transmission Planning Engineer (La Crosse, WI)](https://jobright.ai/jobs/info/69433721dd382f5f56692b9b?utm_campaign=1048&utm_source=git)** | La Crosse, WI | On Site | Dec 22 |
 | **[Wing](https://www.wing.com/)** | **[Quality Engineering Intern, Summer 2026](https://jobright.ai/jobs/info/69495f307d506e3808f48be6?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Dec 22 |
@@ -65,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Aptiv](http://www.aptiv.com)** | **[Automation Intern](https://jobright.ai/jobs/info/6933f384a0dde7020e2f3370?utm_campaign=1048&utm_source=git)** | Troy, MI | On Site | Dec 22 |
 | **[Enervexa PowerLabs](enervexapowerlabs.us)** | **[Sustainability Intern - Summer 2026](https://jobright.ai/jobs/info/6949522563141d188458fcbf?utm_campaign=1048&utm_source=git)** | Calhoun, GA | Remote | Dec 22 |
 | **[Bel Brands USA Foodservice](http://belbrandsfoodservice.com/)** | **[Packaging Engineer Intern - Traverse City - January 2026](https://jobright.ai/jobs/info/6949511363141d188458fc7f?utm_campaign=1048&utm_source=git)** | Traverse City, MI | On Site | Dec 22 |
-| **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Test Engineering Intern](https://jobright.ai/jobs/info/69494eb7d1953b5d11c25f0f?utm_campaign=1048&utm_source=git)** | Chelmsford, MA | Remote | Dec 22 |
 | **[Kimball Electronics](http://www.kimballelectronics.com)** | **[IT Power Tools Internship](https://jobright.ai/jobs/info/6948be95d1953b5d11c1c2dc?utm_campaign=1048&utm_source=git)** | Jasper, IN | On Site | Dec 22 |
 | **[Buro Happold](http://www.burohappold.com)** | **[Mechanical Intern - New York (Summer 2026)](https://jobright.ai/jobs/info/68f2cd969a65fd34585812ac?utm_campaign=1048&utm_source=git)** | New York, United States | Hybrid | Dec 22 |
 | ↳ | **[Mechanical Intern - Boston (Summer 2026)](https://jobright.ai/jobs/info/68f2cea39a65fd3458581351?utm_campaign=1048&utm_source=git)** | Boston, MA | Hybrid | Dec 22 |
@@ -96,7 +105,6 @@ For a complete list, click the following sortable link below:
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Maritime Business Services](https://jobright.ai/jobs/info/690fb442183be660d26765ed?utm_campaign=1048&utm_source=git)** | Seattle, WA | Remote | Dec 22 |
 | **[Patel, Greene & Associates, LLC (PGA)](https://www.patelgreene.com/)** | **[STEP Intern](https://jobright.ai/jobs/info/68d6f8ea45853d0e39ccb5b8?utm_campaign=1048&utm_source=git)** | Greater Orlando | On Site | Dec 22 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Network Development Engineer Intern](https://jobright.ai/jobs/info/692d658dfa28370be269cb07?utm_campaign=1048&utm_source=git)** | Cupertino, CA | On Site | Dec 22 |
-| **[Dexter](https://www.dexteraxle.com/)** | **[Industrial Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69107f76183be660d2679364?utm_campaign=1048&utm_source=git)** | El Reno, OK | On Site | Dec 22 |
 | **[Skanska](http://skanska.com)** | **[Heavy Civil Infrastructure Summer 2026 Intern](https://jobright.ai/jobs/info/68bb82db8043103d4f22931a?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | Dec 22 |
 | ↳ | **[Heavy Civil Infrastructure Summer 2026 Internship](https://jobright.ai/jobs/info/68bb867b5f3832749186fcf8?utm_campaign=1048&utm_source=git)** | Virginia Beach, VA | On Site | Dec 22 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Network Strategy & Solutions)](https://jobright.ai/jobs/info/691d59660b7dff7341502bc9?utm_campaign=1048&utm_source=git)** | Pensacola, FL | Hybrid | Dec 22 |
@@ -119,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Civil Engineering Intern- MME](https://jobright.ai/jobs/info/68eaeab58369791ef78233ef?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Dec 22 |
 | **[StandardAero](http://www.standardaero.com/)** | **[Server Administrator- Summer Intern](https://jobright.ai/jobs/info/6947b54a63141d188457690d?utm_campaign=1048&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Dec 22 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Controls Assurance - Asset Based Testing)](https://jobright.ai/jobs/info/6922c1a838cd5478a8d54f89?utm_campaign=1048&utm_source=git)** | Vienna, VA | Hybrid | Dec 22 |
-| **[Dexter](https://www.dexteraxle.com/)** | **[Quality Intern - Summer 2026](https://jobright.ai/jobs/info/693f8d1049a7695fbd053e06?utm_campaign=1048&utm_source=git)** | Elkhart, IN | On Site | Dec 22 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Civil Engineer Intern - Water](https://jobright.ai/jobs/info/68d76cc0295f8e37655d8db0?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Dec 22 |
 | ↳ | **[Civil Engineer Intern - Water](https://jobright.ai/jobs/info/68d76656295f8e37655d7deb?utm_campaign=1048&utm_source=git)** | San Antonio, TX | Hybrid | Dec 22 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Civil/Structural Engineering Intern - Transmission & Distribution, Substation (Raleigh)](https://jobright.ai/jobs/info/68bb220c8043103d4f225c4d?utm_campaign=1048&utm_source=git)** | Raleigh, NC | On Site | Dec 22 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op – Midstream Natural Gas and NGL Services Mechanical/Chemical/Petroleum/Civil/Electrical Engineering (Summer 2026)](https://jobright.ai/jobs/info/68bb462d5f3832749186de47?utm_campaign=1048&utm_source=git)** | Bulger, PA | On Site | Dec 22 |
 | **[Jacobs](http://www.jacobs.com)** | **[Water Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68f2c00376a51a4307bc7e30?utm_campaign=1048&utm_source=git)** | Portland, OR | On Site | Dec 22 |
 | **[Arcadis](http://www.arcadis.com)** | **[Transportation Intern](https://jobright.ai/jobs/info/689e2d9979a9f966625478a3?utm_campaign=1048&utm_source=git)** | Nashville, TN | On Site | Dec 22 |
-| **[Patel, Greene & Associates, LLC (PGA)](https://www.patelgreene.com/)** | **[STEP Intern](https://jobright.ai/jobs/info/68d702e9894705799a2efcf1?utm_campaign=1048&utm_source=git)** | Greater Tampa Bay Area | On Site | Dec 22 |
-| **[Buro Happold](http://www.burohappold.com)** | **[BIM & Computational Intern - Los Angeles (Summer 2026)](https://jobright.ai/jobs/info/68f2d3509a63986de756c978?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 22 |
-| **[Webb Wheel Products - A Marmon/Berkshire Hathaway Company](http://www.webbwheel.com)** | **[Engineering Intern – Summer 2025](https://jobright.ai/jobs/info/684ad964976b9c338a8af40f?utm_campaign=1048&utm_source=git)** | Tell City, IN | On Site | Dec 22 |
-| **[Sundt Construction](https://www.sundt.com/foundation)** | **[Water/Wastewater Group Intern - Engineer](https://jobright.ai/jobs/info/68f288659a65fd345857d65c?utm_campaign=1048&utm_source=git)** | Cave Creek, AZ | On Site | Dec 22 |
-| **[AbbVie](https://www.abbvie.com)** | **[2026 Biologics Analytical R&D & CMC Intern (PhD)](https://jobright.ai/jobs/info/68d8a7bac52ed61722c9496a?utm_campaign=1048&utm_source=git)** | North Chicago, IL | On Site | Dec 22 |
-| **[Jacobs](http://www.jacobs.com)** | **[Water Treatment Engineering Intern](https://jobright.ai/jobs/info/68f2bf4776a51a4307bc7d67?utm_campaign=1048&utm_source=git)** | Anchorage, AK | On Site | Dec 22 |
-| **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Network Development Engineer Intern](https://jobright.ai/jobs/info/692d568d4c474121999d1804?utm_campaign=1048&utm_source=git)** | Arlington, VA | On Site | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
