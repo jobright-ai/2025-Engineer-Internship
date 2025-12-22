@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Coach USA](http://www.coachusa.com)** | **[Occupational Safety & Health Intern](https://jobright.ai/jobs/info/69487d11d1953b5d11c1881a?utm_campaign=1048&utm_source=git)** | Paramus, NJ | On Site | Dec 21 |
+| **[Benesch](https://www.benesch.com)** | **[Municipal Engineering Internship](https://jobright.ai/jobs/info/68dd57be44d32141e0bf5cdf?utm_campaign=1048&utm_source=git)** | Detroit, MI | Hybrid | Dec 21 |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Futures Lab (Fall 2025)](https://jobright.ai/jobs/info/694877f67d506e3808f3b47b?utm_campaign=1048&utm_source=git)** | Washington, DC | Hybrid | Dec 21 |
+| **[Triple-S Steel](Www.sss-steel.no)** | **[Quality Intern](https://jobright.ai/jobs/info/69486c0c7d506e3808f3b04a?utm_campaign=1048&utm_source=git)** | Macon, GA | On Site | Dec 21 |
 | **[Nudura Insulated Concrete Forms](http://www.nudura.com/)** | **[Construction Internship Program](https://jobright.ai/jobs/info/694869127d506e3808f3b03a?utm_campaign=1048&utm_source=git)** | Riverside, CA | On Site | Dec 21 |
 | **[Vortexion Labs](vortexionlabs.us)** | **[Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/6948612ad1953b5d11c17f23?utm_campaign=1048&utm_source=git)** | Dalton, GA | On Site | Dec 21 |
 | **[Griffon Aerospace](http://www.griffonaerospace.com)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/69484e8863141d188457f7c3?utm_campaign=1048&utm_source=git)** | Madison, AL | On Site | Dec 21 |
@@ -89,7 +93,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Engineer Intern - Design](https://jobright.ai/jobs/info/69480d2863141d188457c369?utm_campaign=1048&utm_source=git)** | Red Bluff, CA | On Site | Dec 21 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Diagnostics Intern](https://jobright.ai/jobs/info/68eb743f8369791ef7827135?utm_campaign=1048&utm_source=git)** | Charlotte, NC | On Site | Dec 21 |
 | **[Cliffton Verge](https://www.linkedin.com/company/108618613)** | **[Advanced Manufacturing Engineering Internship Opportunities](https://jobright.ai/jobs/info/694807fed1953b5d11c12b5c?utm_campaign=1048&utm_source=git)** | Sidney, OH | Remote | Dec 21 |
-| **[Nutrien](https://www.nutrien.com/)** | **[Retail Field Intern - Central Iowa Division](https://jobright.ai/jobs/info/694806d4d1953b5d11c12b28?utm_campaign=1048&utm_source=git)** | Hancock, IA | On Site | Dec 21 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Civil Engineer Intern - Water](https://jobright.ai/jobs/info/691adad345fb6f5ead8ae404?utm_campaign=1048&utm_source=git)** | Tampa, FL | Hybrid | Dec 21 |
 | **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[2026 Internship/Co-op, Civil Engineering (WAL)](https://jobright.ai/jobs/info/68f15a2cf462172a5a7d6ed3?utm_campaign=1048&utm_source=git)** | Waltham, Massachusetts, United States | On Site | Dec 21 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Civil Engineer Intern - Water](https://jobright.ai/jobs/info/68d7671661a175619f8cbb22?utm_campaign=1048&utm_source=git)** | Kansas City, MO | Hybrid | Dec 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Assistant Construction Manager Intern](https://jobright.ai/jobs/info/690ea392221b890c2781028a?utm_campaign=1048&utm_source=git)** | Reno, NV | On Site | Dec 21 |
 | **[Buro Happold](http://www.burohappold.com)** | **[BIM & Computational Intern - New York (Summer 2026)](https://jobright.ai/jobs/info/68f2d21276a51a4307bc891b?utm_campaign=1048&utm_source=git)** | New York, United States | Hybrid | Dec 21 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Assistant Construction Manager Intern](https://jobright.ai/jobs/info/690e787744146d3b6ec549d2?utm_campaign=1048&utm_source=git)** | Grapevine, TX | On Site | Dec 21 |
-| **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[ES&H Undergraduate Intern - Summer 2026](https://jobright.ai/jobs/info/690e7032d046ab6061cfda1a?utm_campaign=1048&utm_source=git)** | Livermore, CA | Hybrid | Dec 21 |
-| **[Black & Veatch](http://bv.com/Home)** | **[Civil Engineer Intern - Water](https://jobright.ai/jobs/info/68d76c26295f8e37655d8a8c?utm_campaign=1048&utm_source=git)** | Coral Gables, FL | Hybrid | Dec 21 |
-| **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Global Inspection Readiness Project Intern](https://jobright.ai/jobs/info/690ecba744146d3b6ec57e42?utm_campaign=1048&utm_source=git)** | Lexington, MA | On Site | Dec 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
